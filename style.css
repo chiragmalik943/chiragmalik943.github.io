@@ -22,6 +22,7 @@ body:before {
 nav {
     width: 1166px;
     display: flex;
+  justify-content: space-between;
     flex-direction: row;
     height: auto;
     padding: 16px 0px;
@@ -240,6 +241,8 @@ a {
     font-family: 'Lexend', sans-serif;
     text-decoration: none;
     display: inline;
+    justify-self: center;
+    align-self: center;
     -webkit-user-select: none;
     /* Safari */
     -moz-user-select: none;
