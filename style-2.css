@@ -72,27 +72,27 @@ h1 {
     word-wrap: break-word
 }
 
-.contact {
+/* .contact {
     grid-column: 1/13;
     grid-row: 5;
     color: #141618;
     font-size: 20px;
     font-weight: 700;
-}
+} */
 
 a {
     text-decoration: none;
-    color: var(--color-primary-blue);
+    color: #141618;
 }
 
 .col-1 {
     grid-column: 1 / 4;
-    grid-row: 8;
+    grid-row: 5;
 }
 
 .col-2 {
     grid-column: 4 / 7;
-    grid-row: 8;
+    grid-row: 5;
 }
 
 .col-heading {
@@ -103,7 +103,7 @@ a {
 
 .description {
     grid-column: 7 / 13;
-    grid-row: 8;
+    grid-row: 5;
 }
 
 .col-content {
@@ -121,7 +121,7 @@ a {
 
 .heading {
     grid-column: 1 / 13;
-    grid-row: 9;
+    grid-row: 6;
     font-size: 32px;
 }
 
@@ -145,7 +145,7 @@ a {
     line-height: 28px;
 }
 
-.work-link{
+/* .work-link{
     padding: 16px 24px;
     height: 48px;
     border: 2px #141618 solid;
@@ -163,41 +163,41 @@ a {
 
 #work-link:hover > #arrow-icon {
     fill:white;
-}
+} */
 
 .work-card-1 {
     margin: 24px;
     margin-left: 0px;
     grid-column: 1 / 7;
-    grid-row: 10 / 12;
+    grid-row: 7 / 9;
 }
 
 .work-card-2 {
     margin: 24px;
     margin-right: 0px;
     grid-column: 7 / 13;
-    grid-row: 11 / 13;
+    grid-row: 8 / 10;
 }
 
 .work-card-3 {
     margin: 24px;
     margin-left: 0px;
     grid-column: 1 / 7;
-    grid-row: 12 / 14;
+    grid-row: 9 / 11;
 }
 
 .work-card-4 {
     margin: 24px;
     margin-right: 0px;
     grid-column: 7 / 13;
-    grid-row: 13 / 15;
+    grid-row: 10 / 12;
 }
 
 .work-card-5 {
     margin: 24px;
     margin-left: 0px;
     grid-column: 1 / 7;
-    grid-row: 14 / 16;
+    grid-row: 11 / 13;
 }
 
 figure{
@@ -223,14 +223,61 @@ figure{
     filter: brightness(100%); 
 }
 
-.arrow-icon{
-    height: 24px;
-    width: 24px;
+.contact-bit-1 {
+    display: block;
+    grid-column: 1 / 7;
+    grid-row: 14;
+    margin-bottom: 96px;
 }
 
+.contact-bit-2 {
+    display: block;
+    grid-column: 7 / 13;
+    grid-row: 14;
+    margin-bottom: 96px;
+}
+
+.contact-desc {
+    margin: 16px 0px 16px 0px;
+    font-size: medium;
+    font-weight: 200;
+    line-height: 140%;
+}
+
+.contact-links {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.connect-a {
+    padding: 10px;
+    background-color: #141618;
+    color: #fff;
+    margin-right: 10px;
+    height: auto;
+    width: auto;
+    line-height: 85%;
+    text-decoration: none;
+    display: inline;
+    justify-self: center;
+    align-self: center;
+    -webkit-user-select: none;
+    /* Safari */
+    -moz-user-select: none;
+    /* Firefox */
+    -ms-user-select: none;
+    /* IE10+/Edge */
+    user-select: none;
+    /* Standard */
+}
+
+/* .arrow-icon{
+    height: 24px;
+    width: 24px;
+} */
+
 footer{
-    grid-column: 1/13;
-    grid-row: 17;
     background-color: #141618;
     color: #8D8D8D;
     padding: 16px 0px;
@@ -277,24 +324,23 @@ footer{
         grid-column: 1 / 9;
     }
 
-    .heading {
-        grid-column: 1 / 9;
-        grid-row: 10;
-        margin-top: 64px;
-    }
-
-
-    .description{
-        grid-row: 9;
-        grid-column: 1 / 9;
-    }
-
     .col-1 {
         grid-column: 1 / 6;
     }
 
     .col-2 {
         grid-column: 6 / 9;
+    }
+
+    .description{
+        grid-row: 6;
+        grid-column: 1 / 9;
+    }
+
+    .heading {
+        grid-column: 1 / 9;
+        grid-row: 7;
+        margin-top: 64px;
     }
 
     /* Adjust work cards */
@@ -308,52 +354,37 @@ footer{
     }
 
     .work-card-1{
-        grid-row: 11;
+        grid-row: 8;
     }
 
     .work-card-2{
-        grid-row: 12;
+        grid-row: 9;
     }
 
     .work-card-3{
-        grid-row: 13;
+        grid-row: 10;
     }
 
     .work-card-4{
-        grid-row: 14;
+        grid-row: 11;
     }
 
     .work-card-5{
-        grid-row: 15;
+        grid-row: 12;
     }
 
-    footer{
-        grid-row: 16;
+    .contact-bit-1 {
+        display: block;
         grid-column: 1 / 9;
+        grid-row: 14;
+        margin-bottom: 56px;
     }
-
-
-}
-
-@media only screen and (max-width: 480px) {
-    /* Further adjustments for smaller screens */
-    .hero {
-        font-size: 18px;
-    }
-
-    h1 {
-        font-size: 32px;
-    }
-
-    .contact {
-        font-size: 16px;
-    }
-
-    /* Stack col-1, col-2, and description */
-    .col-1,
-    .col-2,
-    .description {
-        grid-column: 1 / 13;
+    
+    .contact-bit-2 {
+        display: block;
+        grid-column: 1 / 9;
+        grid-row: 15;
+        margin-bottom: 96px;
     }
 
 }
