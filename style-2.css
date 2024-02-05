@@ -56,7 +56,7 @@ nav{
     flex-direction: column;
     align-items: flex-end;
     text-align: end;
-    height: 90vh;
+    height: 94vh;
     justify-content: center;
 
     color: #8D8D8D;
@@ -83,6 +83,7 @@ h1 {
 a {
     text-decoration: none;
     color: #141618;
+    cursor: pointer;
 }
 
 .col-1 {
@@ -122,7 +123,6 @@ a {
 .heading {
     grid-column: 1 / 13;
     grid-row: 6;
-    font-size: 32px;
 }
 
 .work-details{
@@ -388,4 +388,43 @@ footer{
     }
 
 }
+
+@media only screen and (max-width: 480px) {
+    /* Further adjustments for smaller screens */
+    .hero {
+        font-size: 18px;
+    }
+
+    h1 {
+        font-size: 32px;
+    }
+
+    .contact {
+        font-size: 16px;
+    }
+
+    .work-title {
+        font-size: 14px;
+    }
+
+    .work-desc {
+        font-size: 10px;
+    }
+
+    h2{
+        font-size: 24px;
+    }
+
+    p{
+        font-size: 14px;
+    }
+
+    footer {
+        font-size: 12px;
+    }
+}
+
+
+
+
 
