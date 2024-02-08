@@ -9,6 +9,8 @@
 </head>
 <body>
 
+  
+
     <div class="grid-container">
 
       <nav>
@@ -140,5 +142,71 @@
     <footer>
           <p class="footer-content">© 2024 Chirag Malik. All rights reserved</p>
     </footer>
+
+    <div class="cursor"></div>
+
+    <!-- <script>
+
+      (function() {
+  console.clear();
+  
+  const follower = document.querySelector('#follower');
+  
+  let posX = 0;
+  let posY = 0;
+  let mouseX = 0;
+  let mouseY = 0;
+  
+  const ease = 0.1;
+  
+  function easeTo() {    
+    const followerBounds = follower.getBoundingClientRect();
+    
+    const dX = mouseX - (followerBounds.left + 16);
+    const dY = mouseY - (followerBounds.top + 16);
+    
+    posX += dX * ease;
+    posY += dY * ease;
+  }
+  
+  function update() {
+    easeTo();
+    follower.style.transform = `translate3d(${posX}px, ${posY}px, 0)`;  
+    requestAnimationFrame(update);
+  }
+  
+  function setCoords(e) {
+    mouseX = e.clientX;
+    mouseY = e.clientY;
+  }
+  
+	document.onmousemove = setCoords;
+  update();
+})();
+    </script> -->
+
+
+    <script>
+      let cursor = document.querySelector(".cursor")
+const x_center = cursor.offsetWidth / 2
+const y_center = cursor.offsetHeight / 2
+
+document.body.addEventListener("mousemove", function (e) {
+	cursor.style.left = `${ e.x - x_center }px`
+	cursor.style.top = `${ e.y - y_center }px`
+})
+
+const links = document.querySelectorAll('a');
+links.forEach(link => {
+	link.addEventListener('mouseenter', function (e) {
+		cursor.classList.remove("unactive")
+		cursor.classList.add("active")
+	})
+	link.addEventListener('mouseleave', function (e) {
+		cursor.classList.remove("active")
+		cursor.classList.add("unactive")
+	})
+})
+    </script>
 </body>
 </html>
