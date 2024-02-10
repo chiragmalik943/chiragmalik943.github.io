@@ -53,6 +53,10 @@ nav{
     font-weight: 700;
 }
 
+.resume {
+    z-index: 1;
+}
+
 .hero {
     grid-column: 2/13;
     grid-row: 1/4;
@@ -87,7 +91,6 @@ h1 {
 a {
     text-decoration: none;
     color: #141618;
-    cursor: pointer;
 }
 
 .col-1 {
@@ -121,7 +124,7 @@ a {
 }
 
 .desc-secondary {
-    opacity: 0.5;
+    color: #8D8D8D;
 }
 
 .heading {
@@ -295,26 +298,6 @@ footer{
     margin: auto;
 }
 
-/* footer:after {
-    content: "";
-    background-color: #0a0a0a;
-    width: 100%;
-} */
-
-/* .cursor{
-    width: 32px;
-    height: 32px;
-    border-radius: 50%;
-    background: #000;
-    position: fixed;
-    margin: -16px 0 0 -16px;
-    z-index: 9999;
-}
-
-.connect-a:hover ~ .cursor :hover ~ .cursor {
-    transform: translate(-50%, -50%) scale(8);
-} */
-
 .cursor{
     display: block;
     position: fixed;
@@ -324,6 +307,7 @@ footer{
     border-radius: 50%;
     mix-blend-mode: difference;
     pointer-events: none;
+    z-index: 2;
 }
 
 .cursor.active{
@@ -336,7 +320,7 @@ footer{
     }
 
     100%{
-        transform: scale(5);
+        transform: scale(3);
     }
 }
 
@@ -346,7 +330,7 @@ footer{
 
 @keyframes unactive_cursor{
     0%{
-        transform: scale(5);
+        transform: scale(3);
     }
 
     100%{
