@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>ISRO Space Station - Chirag Malik</title>
+        <meta name="description" content="3D Modeling - Blender" />
+        <meta name="keywords" content="chirag, malik, ISRO Space Station" />
+        <meta name="author" content="Chirag Malik" />
+        <meta name="theme-color" content="#000000" />
+        <link rel="stylesheet" href="/style.css">
+        <link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
+        <style>
+            .project-container {
+                display: grid;
+                grid-template-columns: repeat(12, 1fr);
+                gap: 2rem;
+                max-width: 1200px;
+                margin: 0 auto;
+                padding: 2rem;
+                flex-shrink: 0;
+            }
+
+            .project-details {
+                grid-column: 1 / 5;
+                position: sticky;
+                top: 2rem;
+                height: fit-content;
+            }
+
+            .project-title {
+                font-size: 2.5rem;
+                margin-bottom: 1rem;
+                font-weight: 500;
+            }
+
+            .project-category {
+                color: #666;
+                margin-bottom: 2rem;
+                font-size: 1rem;
+            }
+
+            .project-description {
+                color: #333;
+                line-height: 1.6;
+                margin-bottom: 2rem;
+            }
+
+            .project-images {
+                grid-column: 5 / 13;
+                display: flex;
+                flex-direction: column;
+                gap: 2rem;
+            }
+
+            .project-image {
+                width: 100%;
+                height: auto;
+                display: block;
+            }
+
+            @media (max-width: 768px) {
+                .project-container {
+                    grid-template-columns: 1fr;
+                }
+
+                .project-details {
+                    grid-column: 1 / -1;
+                    position: static;
+                }
+
+                .project-images {
+                    grid-column: 1 / -1;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="grid-container" style="
+                flex-shrink: 0;">
+            <nav>
+                <a href="/" class="logo">cm.</a>
+                <a class="resume" href="/files/Chirag-Resume.pdf">Resume</a>
+            </nav>
+        </div>
+
+        <div class="project-container">
+            <div class="project-details">
+                <h1 class="project-title reveal">ISRO Space Station</h1>
+                <div class="project-category reveal">3D Modeling</div>
+                <div class="project-description reveal">The ISRO Space Station is a 3D model of the Indian Space Research Organisation&#x27;s (ISRO) space station. The model was created using Blender, a free and open-source 3D modeling software. The model includes various components of the space station, such as the main module, the service module, and the solar arrays. The model was created to provide a visual representation of the space station and to help visualize the design and layout of the station.</div>
+                <a href="/" class="resume reveal">← Back to Projects</a>
+            </div>
+
+            <div class="project-images">
+                <img src="https://cdn.dribbble.com/users/2232115/screenshots/18668096/media/c14c434a42a3410574a127daf090425b.png" alt="ISRO Space Station" class="project-image reveal">
+            </div>
+        </div>
+
+        <footer>
+            <p class="footer-content">© 2025 Chirag Malik. All rights reserved</p>
+        </footer>
+        
+        <div class="cursor"></div>
+
+        
+    </body>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            document.dispatchEvent(new Event('dynamicContentLoaded')); //announce that the dynamic content is loaded, so the reveal animation can be triggered
+        });
+    </script>
+    <script src="/cursor.js"></script>
+    <script src="/reveal.js"></script>
+</html>

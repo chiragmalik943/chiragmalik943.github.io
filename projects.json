@@ -1,0 +1,74 @@
+[
+
+  {
+    "title": "Ambā pregnancy tracker",
+    "description": "UI/UX - Figma",
+    "category": "UI/UX",
+    "fullDescription": "Pregnancy can be very confusing and tough on mental health, with scattered unstructured articles all over the internet, information overload and misinformation are real threats. Ambā was designed as a weekend exercise to solve the aforementioned problem. With all the relevant information handy on the homepage, and reliable and verified articles on the feed section, pregnancy can be a little bit easier.",
+    "image": "https://cdn.dribbble.com/users/2232115/screenshots/18096268/media/1f65c64a2cfb5ef1fb793288fb30661d.png",
+    "url": "/projects/amba-pregnancy-tracker.html",
+    "images": [
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/d6cdee156249745.6363ab4ae068e.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/97f821156249745.6363aa49c7274.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/962373156249745.6363aa49c52f5.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/641d1c156249745.6363aa49c078a.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/8b06dc156249745.6363aa49c2831.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/40ac4b156249745.6363aa49c3d5e.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/d0cf3f156249745.6363aa49bf5c6.png"
+    ]
+  },
+
+  {
+    "title": "Grocipe",
+    "description": "UI/UX - Figma",
+    "category": "UI/UX",
+    "fullDescription": "Grocipe is a mobile application that helps users save money by providing a list of groceries that are on sale. The app allows users to search for groceries by name, category, or location, and provides a list of the best deals available. The app also includes a feature to track the user's spending and provide tips on how to save money. The app is designed to be user-friendly and easy to use, with a clean and modern interface. The app is available for both iOS and Android devices.",
+    "image": "img/grocpie/3.png",
+    "url": "/projects/grocpie.html",
+    "images": [
+      "/img/grocpie/1.png",
+      "/img/grocpie/2.png",
+      "/img/grocpie/3.png",
+      "/img/grocpie/4.png",
+      "/img/grocpie/5.png",
+      "/img/grocpie/6.png",
+      "/img/grocpie/7.png"
+    ]
+  },
+
+  {
+    "title": "ISRO Space Station",
+    "description": "3D Modeling - Blender",
+    "category": "3D Modeling",
+    "fullDescription": "The ISRO Space Station is a 3D model of the Indian Space Research Organisation's (ISRO) space station. The model was created using Blender, a free and open-source 3D modeling software. The model includes various components of the space station, such as the main module, the service module, and the solar arrays. The model was created to provide a visual representation of the space station and to help visualize the design and layout of the station.",
+    "image": "https://cdn.dribbble.com/users/2232115/screenshots/18668096/media/c14c434a42a3410574a127daf090425b.png",
+    "url": "https://unsplash.com/@chiragmalik943",
+    "images": [
+      "https://cdn.dribbble.com/users/2232115/screenshots/18668096/media/c14c434a42a3410574a127daf090425b.png"
+    ]
+  },
+
+  {
+    "title": "Progressive Blur Studio",
+    "description": "Plugin - Figma",
+    "category": "Development",
+    "fullDescription": "Add radial or linear progressive blur to your designs in figma. Fine-tune the intensity to achieve the perfect balance between subtlety and impact. With an intuitive interface and user friendly controls, Progressive blur studio is perfect tool for adding depth and sophistication to your visuals.",
+    "image": "img/progressive-blur.png",  
+    "url": "https://www.figma.com/community/plugin/1408906592121913348/progressive-blur-studio",
+    "images": [
+      "img/progressive-blur.png"
+    ]
+  },
+  {
+    "title": "Typewise Studio",
+    "description": "Plugin - Figma",
+    "category": "Development",
+    "fullDescription": "TypeWise Studio is here to make typography management in Figma easy and efficient. If you’re tired of digging through layers to find fonts, weights, and sizes, this tool will help you quickly identify and organize all your text styles. Whether you're working solo or in a large team, TypeWise Studio helps you maintain consistency across your designs with minimal effort.",
+    "image": "img/typewise.png",
+    "url": "https://www.figma.com/community/plugin/1416863920469139016",
+    "images": [
+      "https://cdn.dribbble.com/users/2232115/screenshots/7318781/media/96c5b1af0948c1954caa78f4335da5e6.png"
+    ]
+  }
+  ]
+  

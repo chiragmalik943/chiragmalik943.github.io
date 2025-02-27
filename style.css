@@ -21,7 +21,22 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
 }
+
+.reveal {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: all 0.8s ease;
+}
+  
+.reveal.active {
+    opacity: 1;
+    transform: translateY(0);
+}
+  
 
 /*CONTAINER */
 
@@ -34,6 +49,7 @@ body {
     width: 100%;
     padding: 32px;
     z-index: 1;
+    flex-shrink: 0;
 }
 
 nav{
@@ -54,9 +70,11 @@ nav{
     color: #fff;
     background-color: #141618;
     padding: 4px 16px;
-    display: inline;
-    justify-self: center;
-    align-self: center;
+    display: block;
+    /* justify-self: center;
+    align-self: center; */
+    height: 32px;
+    width: fit-content;
     -webkit-user-select: none;
     /* Safari */
     -moz-user-select: none;
@@ -161,26 +179,6 @@ a {
     font-weight: 400;
     line-height: 28px;
 }
-
-/* .work-link{
-    padding: 16px 24px;
-    height: 48px;
-    border: 2px #141618 solid;
-    border-radius: 36px;
-    background-color: #ffffff00;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.work-link:hover{
-    background-color: #141618;
-    fill: white;
-}
-
-#work-link:hover > #arrow-icon {
-    fill:white;
-} */
 
 .work-card-1 {
     margin-right: 24px;
@@ -302,6 +300,8 @@ footer{
     display: flex;
     justify-content: center;
     padding: 24px;
+    flex-shrink: 0;
+    width: 100%;
 }
 
 .footer-content{
@@ -360,11 +360,11 @@ footer{
     }
 
     nav {
-        grid-column:1 / 9;
+        grid-column:1 / 13;
     }
 
     .hero {
-        grid-column: 1 / 9;
+        grid-column: 1 / 13;
 
         grid-row: auto;
         height: auto;
@@ -372,7 +372,7 @@ footer{
     }
 
     .contact {
-        grid-column: 1 / 9;
+        grid-column: 1 / 13;
     }
 
     .col-1 {
@@ -380,18 +380,23 @@ footer{
     }
 
     .col-2 {
-        grid-column: 6 / 9;
+        grid-column: 6 / 13;
     }
 
     .description{
         grid-row: 6;
-        grid-column: 1 / 9;
+        grid-column: 1 / 13;
     }
 
     .heading {
         grid-column: 1 / 9;
         grid-row: 7;
         margin-top: 64px;
+    }
+    
+    #projects-container {
+        grid-column: 1 / 7;
+        grid-row: 8/12;
     }
 
     /* Adjust work cards */
@@ -400,7 +405,7 @@ footer{
     .work-card-3,
     .work-card-4,
     .work-card-5 {
-        grid-column: 1 / 9;
+        grid-column: 1 / 13;
         margin: auto;
     }
 

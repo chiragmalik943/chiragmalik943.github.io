@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Ambā pregnancy tracker - Chirag Malik</title>
+        <meta name="description" content="UI/UX - Figma" />
+        <meta name="keywords" content="chirag, malik, Ambā pregnancy tracker" />
+        <meta name="author" content="Chirag Malik" />
+        <meta name="theme-color" content="#000000" />
+        <link rel="stylesheet" href="/style.css">
+        <link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
+        <style>
+            .project-container {
+                display: grid;
+                grid-template-columns: repeat(12, 1fr);
+                gap: 2rem;
+                max-width: 1200px;
+                margin: 0 auto;
+                padding: 2rem;
+                flex-shrink: 0;
+            }
+
+            .project-details {
+                grid-column: 1 / 5;
+                position: sticky;
+                top: 2rem;
+                height: fit-content;
+            }
+
+            .project-title {
+                font-size: 2.5rem;
+                margin-bottom: 1rem;
+                font-weight: 500;
+            }
+
+            .project-category {
+                color: #666;
+                margin-bottom: 2rem;
+                font-size: 1rem;
+            }
+
+            .project-description {
+                color: #333;
+                line-height: 1.6;
+                margin-bottom: 2rem;
+            }
+
+            .project-images {
+                grid-column: 5 / 13;
+                display: flex;
+                flex-direction: column;
+                gap: 2rem;
+            }
+
+            .project-image {
+                width: 100%;
+                height: auto;
+                display: block;
+            }
+
+            @media (max-width: 768px) {
+                .project-container {
+                    grid-template-columns: 1fr;
+                }
+
+                .project-details {
+                    grid-column: 1 / -1;
+                    position: static;
+                }
+
+                .project-images {
+                    grid-column: 1 / -1;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="grid-container" style="
+                flex-shrink: 0;">
+            <nav>
+                <a href="/" class="logo">cm.</a>
+                <a class="resume" href="/files/Chirag-Resume.pdf">Resume</a>
+            </nav>
+        </div>
+
+        <div class="project-container">
+            <div class="project-details">
+                <h1 class="project-title reveal">Ambā pregnancy tracker</h1>
+                <div class="project-category reveal">UI/UX</div>
+                <div class="project-description reveal">Pregnancy can be very confusing and tough on mental health, with scattered unstructured articles all over the internet, information overload and misinformation are real threats. Ambā was designed as a weekend exercise to solve the aforementioned problem. With all the relevant information handy on the homepage, and reliable and verified articles on the feed section, pregnancy can be a little bit easier.</div>
+                <a href="/" class="resume reveal">← Back to Projects</a>
+            </div>
+
+            <div class="project-images">
+                <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/d6cdee156249745.6363ab4ae068e.png" alt="Ambā pregnancy tracker" class="project-image reveal">
+                <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/97f821156249745.6363aa49c7274.png" alt="Ambā pregnancy tracker" class="project-image reveal">
+                <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/962373156249745.6363aa49c52f5.png" alt="Ambā pregnancy tracker" class="project-image reveal">
+                <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/641d1c156249745.6363aa49c078a.png" alt="Ambā pregnancy tracker" class="project-image reveal">
+                <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/8b06dc156249745.6363aa49c2831.png" alt="Ambā pregnancy tracker" class="project-image reveal">
+                <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/40ac4b156249745.6363aa49c3d5e.png" alt="Ambā pregnancy tracker" class="project-image reveal">
+                <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/d0cf3f156249745.6363aa49bf5c6.png" alt="Ambā pregnancy tracker" class="project-image reveal">
+            </div>
+        </div>
+
+        <footer>
+            <p class="footer-content">© 2025 Chirag Malik. All rights reserved</p>
+        </footer>
+        
+        <div class="cursor"></div>
+
+        
+    </body>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            document.dispatchEvent(new Event('dynamicContentLoaded')); //announce that the dynamic content is loaded, so the reveal animation can be triggered
+        });
+    </script>
+    <script src="/cursor.js"></script>
+    <script src="/reveal.js"></script>
+</html>
