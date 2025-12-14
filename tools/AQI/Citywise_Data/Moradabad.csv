@@ -1,0 +1,5184 @@
+City,Air Quality,Index Value,Prominent Pollutant,No. of Stations Participated / Total Stations (Based on Number of Monitoring Stations),Date
+Moradabad,Satisfactory,100,"PM
+2.5",1,2017-09-21
+Moradabad,Good,41,"PM
+10",1,2017-09-22
+Moradabad,Satisfactory,67,"PM
+2.5",1,2017-09-23
+Moradabad,Satisfactory,52,"PM
+2.5",1,2017-09-24
+Moradabad,Satisfactory,82,"PM
+10",1,2017-09-25
+Moradabad,Poor,212,"PM
+2.5",1,2017-09-26
+Moradabad,Poor,238,"PM
+2.5",1,2017-09-27
+Moradabad,Poor,296,"PM
+2.5",1,2017-09-29
+Moradabad,Poor,279,"PM
+2.5",1,2017-09-30
+Moradabad,Poor,248,"PM
+2.5",1,2017-10-01
+Moradabad,Poor,210,"PM
+2.5",1,2017-10-02
+Moradabad,Poor,218,"PM
+2.5",1,2017-10-03
+Moradabad,Poor,296,"PM
+2.5",1,2017-10-04
+Moradabad,Very Poor,325,"PM
+2.5",1,2017-10-05
+Moradabad,Poor,262,"PM
+2.5",1,2017-10-06
+Moradabad,Very Poor,323,"O
+3",1#,2017-10-07
+Moradabad,Very Poor,302,"PM
+2.5",1#,2017-10-10
+Moradabad,Poor,293,"PM
+2.5",1,2017-10-11
+Moradabad,Very Poor,328,"PM
+2.5",1,2017-10-13
+Moradabad,Very Poor,340,"PM
+2.5",1,2017-10-15
+Moradabad,Very Poor,348,"PM
+2.5",1,2017-10-16
+Moradabad,Very Poor,322,"PM
+2.5",1,2017-10-17
+Moradabad,Very Poor,355,"PM
+2.5",1,2017-10-18
+Moradabad,Poor,284,"PM
+2.5",1,2017-10-19
+Moradabad,Poor,221,"PM
+2.5",1#,2017-10-20
+Moradabad,Poor,297,"PM
+2.5",1,2017-10-21
+Moradabad,Very Poor,346,"PM
+2.5",1,2017-10-22
+Moradabad,Very Poor,320,"PM
+2.5",1,2017-10-23
+Moradabad,Very Poor,357,"PM
+2.5",1#,2017-10-24
+Moradabad,Very Poor,347,"PM
+2.5",1,2017-10-25
+Moradabad,Very Poor,354,"PM
+2.5",1,2017-10-26
+Moradabad,Very Poor,353,"PM
+2.5",1,2017-10-27
+Moradabad,Severe,403,"PM
+2.5",1,2017-10-28
+Moradabad,Very Poor,392,"PM
+2.5",1,2017-10-29
+Moradabad,Very Poor,354,"PM
+2.5",1,2017-10-30
+Moradabad,Very Poor,346,"PM
+2.5",1,2017-10-31
+Moradabad,Poor,300,"PM
+2.5",1,2017-11-01
+Moradabad,Very Poor,370,"PM
+2.5",1,2017-11-02
+Moradabad,Very Poor,381,"PM
+2.5",1,2017-11-03
+Moradabad,Very Poor,384,"PM
+2.5",1,2017-11-04
+Moradabad,Very Poor,352,"PM
+2.5",1,2017-11-05
+Moradabad,Very Poor,383,"PM
+2.5",1,2017-11-06
+Moradabad,Severe,500,"PM
+2.5",1,2017-11-07
+Moradabad,Severe,439,"PM
+2.5",1,2017-11-08
+Moradabad,Severe,414,"PM
+2.5",1,2017-11-09
+Moradabad,Very Poor,382,"PM
+2.5",1,2017-11-10
+Moradabad,Very Poor,399,"PM
+2.5",1#,2017-11-11
+Moradabad,Severe,440,"PM
+2.5",1#,2017-11-12
+Moradabad,Severe,479,"PM
+2.5",1#,2017-11-13
+Moradabad,Severe,420,"PM
+2.5",1#,2017-11-14
+Moradabad,Very Poor,392,"PM
+2.5",1,2017-11-15
+Moradabad,Severe,421,"PM
+2.5",1,2017-11-16
+Moradabad,Very Poor,324,"PM
+2.5",1,2017-11-17
+Moradabad,Very Poor,333,"PM
+2.5",1,2017-11-18
+Moradabad,Poor,294,"PM
+2.5",1,2017-11-19
+Moradabad,Very Poor,320,"PM
+2.5",1#,2017-11-20
+Moradabad,Very Poor,357,"PM
+2.5",1,2017-11-21
+Moradabad,Severe,417,"PM
+2.5",1,2017-11-22
+Moradabad,Very Poor,393,"PM
+2.5",1,2017-11-23
+Moradabad,Severe,416,"PM
+2.5",1,2017-11-24
+Moradabad,Severe,439,"PM
+2.5",1,2017-11-25
+Moradabad,Very Poor,343,"PM
+2.5",1,2017-11-27
+Moradabad,Severe,428,"PM
+2.5",1#,2017-11-28
+Moradabad,Severe,433,"PM
+2.5",1#,2017-12-01
+Moradabad,Very Poor,389,"PM
+2.5",1,2017-12-02
+Moradabad,Severe,402,"PM
+2.5",1,2017-12-03
+Moradabad,Severe,414,"PM
+2.5",1,2017-12-04
+Moradabad,Severe,444,"PM
+2.5",1,2017-12-05
+Moradabad,Poor,284,"PM
+10",1,2017-12-06
+Moradabad,Poor,224,"PM
+2.5",1,2017-12-07
+Moradabad,Poor,265,"PM
+2.5",1,2017-12-08
+Moradabad,Moderate,165,"PM
+10",1,2017-12-09
+Moradabad,Moderate,184,"PM
+2.5",1,2017-12-10
+Moradabad,Very Poor,331,"PM
+2.5",1,2017-12-11
+Moradabad,Moderate,130,"PM
+2.5",1,2017-12-12
+Moradabad,Poor,230,"PM
+2.5",1,2017-12-13
+Moradabad,Satisfactory,72,"O
+3",1,2017-12-14
+Moradabad,Very Poor,331,"PM
+2.5",1,2017-12-15
+Moradabad,Satisfactory,71,"O
+3",1,2017-12-16
+Moradabad,Very Poor,333,"PM
+2.5",1,2017-12-17
+Moradabad,Moderate,175,"PM
+2.5",1,2017-12-18
+Moradabad,Very Poor,349,"PM
+2.5",1,2017-12-19
+Moradabad,Very Poor,364,"PM
+2.5",1#,2017-12-20
+Moradabad,Poor,283,"PM
+2.5",1,2017-12-21
+Moradabad,Poor,283,"PM
+2.5",1,2017-12-22
+Moradabad,Poor,288,"PM
+2.5",1,2017-12-23
+Moradabad,Moderate,193,"PM
+2.5",1,2017-12-24
+Moradabad,Poor,287,"PM
+2.5",1,2017-12-25
+Moradabad,Moderate,182,"PM
+10",1,2017-12-26
+Moradabad,Very Poor,395,"PM
+2.5",1,2017-12-27
+Moradabad,Poor,207,"PM
+2.5",1,2017-12-28
+Moradabad,Poor,214,"PM
+2.5",1,2017-12-29
+Moradabad,Poor,235,"PM
+2.5",1,2017-12-30
+Moradabad,Satisfactory,88,"O
+3",1,2017-12-31
+Moradabad,Very Poor,395,"PM
+2.5",1,2018-01-01
+Moradabad,Moderate,164,"PM
+2.5",1,2018-01-02
+Moradabad,Very Poor,359,"PM
+2.5",1,2018-01-03
+Moradabad,Satisfactory,76,"PM
+2.5",1,2018-01-04
+Moradabad,Very Poor,340,"PM
+2.5",1,2018-01-05
+Moradabad,Moderate,163,"PM
+2.5",1,2018-01-06
+Moradabad,Severe,402,"PM
+2.5",1,2018-01-07
+Moradabad,Poor,204,"PM
+2.5",1,2018-01-08
+Moradabad,Moderate,105,"PM
+2.5",1,2018-01-09
+Moradabad,Very Poor,387,"PM
+2.5",1,2018-01-10
+Moradabad,Moderate,101,"PM
+2.5",1,2018-01-11
+Moradabad,Very Poor,369,"PM
+2.5",1,2018-01-12
+Moradabad,Poor,204,"PM
+2.5",1,2018-01-13
+Moradabad,Very Poor,303,"PM
+2.5",1,2018-01-14
+Moradabad,Poor,277,"PM
+2.5",1#,2018-01-15
+Moradabad,Poor,208,"PM
+2.5",1,2018-01-17
+Moradabad,Very Poor,399,"PM
+2.5",1,2018-01-18
+Moradabad,Moderate,142,"PM
+10",1,2018-01-19
+Moradabad,Satisfactory,93,"O
+3",1,2018-01-20
+Moradabad,Very Poor,397,"PM
+2.5",1,2018-01-21
+Moradabad,Moderate,162,"PM
+2.5",1,2018-01-22
+Moradabad,Moderate,112,"PM
+10",1,2018-01-23
+Moradabad,Very Poor,321,"PM
+2.5",1#,2018-01-25
+Moradabad,Poor,292,"PM
+2.5",1,2018-01-26
+Moradabad,Very Poor,351,"PM
+2.5",1,2018-01-27
+Moradabad,Moderate,168,"PM
+2.5",1,2018-01-28
+Moradabad,Moderate,199,PM2.5,1,2018-01-29
+Moradabad,Poor,284,PM2.5,1,2018-01-30
+Moradabad,Poor,206,"PM
+2.5",1,2018-01-31
+Moradabad,Poor,281,"PM
+2.5",1,2018-02-01
+Moradabad,Satisfactory,75,"NO
+2",1,2018-02-02
+Moradabad,Poor,270,"PM
+2.5",1,2018-02-03
+Moradabad,Very Poor,301,"PM
+2.5",1,2018-02-04
+Moradabad,Poor,284,"PM
+2.5",1,2018-02-05
+Moradabad,Very Poor,300,"PM
+2.5",1,2018-02-06
+Moradabad,Poor,244,"PM
+2.5",1,2018-02-07
+Moradabad,Poor,249,"PM
+2.5",1,2018-02-08
+Moradabad,Poor,286,"PM
+2.5",1,2018-02-09
+Moradabad,Poor,247,"PM
+2.5",1,2018-02-10
+Moradabad,Poor,287,"PM
+2.5",1,2018-02-11
+Moradabad,Poor,228,"PM
+2.5",1,2018-02-12
+Moradabad,Moderate,199,"PM
+2.5",1,2018-02-13
+Moradabad,Moderate,154,"PM
+2.5",1,2018-02-14
+Moradabad,Moderate,105,"PM
+2.5",1,2018-02-15
+Moradabad,Moderate,193,"PM
+2.5",1,2018-02-16
+Moradabad,Poor,263,"PM
+2.5",1,2018-02-17
+Moradabad,Poor,285,"PM
+2.5",1,2018-02-18
+Moradabad,Poor,288,"PM
+2.5",1,2018-02-19
+Moradabad,Very Poor,320,"PM
+2.5",1,2018-02-20
+Moradabad,Very Poor,385,"PM
+2.5",1,2018-02-21
+Moradabad,Very Poor,354,"PM
+2.5",1,2018-02-22
+Moradabad,Very Poor,397,"PM
+2.5",1,2018-02-23
+Moradabad,Severe,410,"PM
+2.5",1,2018-02-24
+Moradabad,Very Poor,318,"PM
+2.5",1,2018-02-25
+Moradabad,Satisfactory,91,"PM
+10",1,2018-02-26
+Moradabad,Moderate,150,"PM
+2.5",1,2018-02-27
+Moradabad,Poor,292,"PM
+2.5",1,2018-02-28
+Moradabad,Poor,235,"PM
+2.5",1,2018-03-01
+Moradabad,Poor,271,"PM
+2.5",1,2018-03-02
+Moradabad,Moderate,126,"PM
+10",1,2018-03-03
+Moradabad,Moderate,189,"PM
+2.5",1,2018-03-04
+Moradabad,Moderate,186,"PM
+2.5",1,2018-03-05
+Moradabad,Moderate,125,"PM
+10",1,2018-03-06
+Moradabad,Moderate,124,"PM
+10",1,2018-03-07
+Moradabad,Poor,240,"PM
+2.5",1,2018-03-08
+Moradabad,Poor,269,"PM
+2.5",1,2018-03-09
+Moradabad,Moderate,174,"PM
+2.5",1,2018-03-10
+Moradabad,Moderate,138,"PM
+2.5",1,2018-03-11
+Moradabad,Poor,222,"PM
+2.5",1,2018-03-12
+Moradabad,Poor,237,"PM
+2.5",1,2018-03-13
+Moradabad,Very Poor,331,"PM
+2.5",1,2018-03-14
+Moradabad,Poor,287,"PM
+2.5",1,2018-03-15
+Moradabad,Moderate,160,"PM
+2.5",1,2018-03-16
+Moradabad,Poor,207,"PM
+2.5",1,2018-03-17
+Moradabad,Moderate,116,"PM
+2.5",1,2018-03-18
+Moradabad,Moderate,130,"PM
+2.5",1,2018-03-19
+Moradabad,Poor,225,"PM
+2.5",1,2018-03-20
+Moradabad,Poor,294,"PM
+2.5",1,2018-03-21
+Moradabad,Moderate,164,"PM
+2.5",1,2018-03-23
+Moradabad,Poor,218,"PM
+2.5",1,2018-03-24
+Moradabad,Moderate,160,"PM
+2.5",1,2018-03-25
+Moradabad,Moderate,174,"PM
+2.5",1,2018-03-26
+Moradabad,Moderate,190,"PM
+2.5",1,2018-03-27
+Moradabad,Poor,253,"PM
+2.5",1,2018-03-29
+Moradabad,Poor,274,"PM
+10",1,2018-03-30
+Moradabad,Moderate,158,"PM
+10",1,2018-03-31
+Moradabad,Moderate,197,"PM
+2.5",1,2018-04-01
+Moradabad,Poor,205,"PM
+2.5",1,2018-04-02
+Moradabad,Poor,253,"PM
+2.5",1,2018-04-03
+Moradabad,Moderate,174,"PM
+10",1,2018-04-07
+Moradabad,Moderate,172,"PM
+2.5",1,2018-04-08
+Moradabad,Poor,208,"PM
+2.5",1,2018-04-09
+Moradabad,Poor,222,"PM
+2.5",1,2018-04-10
+Moradabad,Moderate,166,"PM
+2.5",1,2018-04-11
+Moradabad,Moderate,158,"PM
+2.5",1,2018-04-12
+Moradabad,Moderate,137,"PM
+2.5",1,2018-04-13
+Moradabad,Moderate,166,"PM
+2.5",1,2018-04-14
+Moradabad,Moderate,173,"PM
+10",1,2018-04-15
+Moradabad,Very Poor,321,"PM
+10",1,2018-04-16
+Moradabad,Poor,292,"PM
+10",1,2018-04-17
+Moradabad,Moderate,192,"PM
+10",1,2018-04-18
+Moradabad,Poor,215,"PM
+10",1,2018-04-19
+Moradabad,Very Poor,313,"PM
+10",1,2018-04-20
+Moradabad,Moderate,186,"PM
+10",1,2018-04-21
+Moradabad,Poor,273,"PM
+10",1,2018-04-22
+Moradabad,Poor,208,"PM
+10",1,2018-04-23
+Moradabad,Poor,267,"PM
+10",1,2018-04-24
+Moradabad,Very Poor,311,"PM
+10",1,2018-04-25
+Moradabad,Very Poor,335,"PM
+10",1,2018-04-26
+Moradabad,Poor,276,"PM
+10",1,2018-04-27
+Moradabad,Poor,215,"PM
+10",1,2018-04-28
+Moradabad,Poor,243,"PM
+2.5",1,2018-04-29
+Moradabad,Moderate,168,"PM
+10",1,2018-04-30
+Moradabad,Moderate,141,"PM
+10",1,2018-05-01
+Moradabad,Moderate,152,"PM
+10",1,2018-05-02
+Moradabad,Moderate,148,"PM
+10",1,2018-05-03
+Moradabad,Satisfactory,94,"PM
+10",1,2018-05-04
+Moradabad,Moderate,164,"PM
+2.5",1,2018-05-05
+Moradabad,Poor,262,"PM
+10",1,2018-05-06
+Moradabad,Moderate,152,"PM
+10",1,2018-05-07
+Moradabad,Poor,204,"PM
+10",1,2018-05-08
+Moradabad,Moderate,116,"PM
+10",1,2018-05-09
+Moradabad,Moderate,178,OZONE,1,2018-05-10
+Moradabad,Poor,277,"PM
+10",1,2018-05-12
+Moradabad,Poor,204,"PM
+10",1,2018-05-13
+Moradabad,Moderate,142,"PM
+10",1,2018-05-14
+Moradabad,Moderate,121,"PM
+10",1,2018-05-15
+Moradabad,Moderate,175,"PM
+2.5",1,2018-05-16
+Moradabad,Poor,203,"PM
+10",1,2018-05-17
+Moradabad,Moderate,196,"PM
+2.5",1,2018-05-18
+Moradabad,Poor,239,"PM
+2.5",1,2018-05-19
+Moradabad,Very Poor,340,"PM
+10",1,2018-05-20
+Moradabad,Poor,214,"PM
+10",1,2018-05-21
+Moradabad,Poor,235,"PM
+10",1,2018-05-22
+Moradabad,Poor,237,"PM
+10",1,2018-05-23
+Moradabad,Moderate,189,"PM
+10",1,2018-05-24
+Moradabad,Moderate,193,"PM
+10",1,2018-05-25
+Moradabad,Poor,236,"PM
+10",1,2018-05-26
+Moradabad,Poor,273,"PM
+10",1,2018-05-27
+Moradabad,Poor,233,"PM
+10",1,2018-05-28
+Moradabad,Poor,239,"PM
+10",1,2018-05-29
+Moradabad,Moderate,186,"PM
+10",1,2018-05-30
+Moradabad,Moderate,145,"PM
+10",1,2018-05-31
+Moradabad,Moderate,146,"PM
+10",1,2018-06-01
+Moradabad,Moderate,111,"PM
+10",1,2018-06-03
+Moradabad,Moderate,174,"PM
+10",1,2018-06-04
+Moradabad,Moderate,140,"PM
+10",1,2018-06-05
+Moradabad,Poor,213,"PM
+2.5",1,2018-06-06
+Moradabad,Poor,210,"PM
+2.5",1,2018-06-07
+Moradabad,Moderate,149,"PM
+2.5",1,2018-06-08
+Moradabad,Moderate,103,"PM
+10",1,2018-06-09
+Moradabad,Moderate,127,"PM
+10",1,2018-06-10
+Moradabad,Moderate,151,"PM
+2.5",1,2018-06-11
+Moradabad,Poor,244,"PM
+10",1,2018-06-12
+Moradabad,Severe,431,"PM
+10",1,2018-06-13
+Moradabad,Severe,412,"PM
+10",1,2018-06-14
+Moradabad,Very Poor,385,"PM
+10",1,2018-06-15
+Moradabad,Severe,402,"PM
+10",1,2018-06-16
+Moradabad,Poor,266,"PM
+10",1,2018-06-17
+Moradabad,Moderate,151,"PM
+10",1,2018-06-19
+Moradabad,Poor,232,"PM
+10",1,2018-06-26
+Moradabad,Moderate,164,"PM
+10",1,2018-06-27
+Moradabad,Satisfactory,90,"PM
+10",1,2018-06-29
+Moradabad,Moderate,102,"PM
+10",1,2018-06-30
+Moradabad,Moderate,118,"PM
+2.5",1,2018-07-01
+Moradabad,Satisfactory,95,"PM
+10",1,2018-07-02
+Moradabad,Satisfactory,89,"PM
+2.5",1,2018-07-03
+Moradabad,Satisfactory,93,"PM
+10",1,2018-07-04
+Moradabad,Satisfactory,96,"PM
+10",1,2018-07-05
+Moradabad,Moderate,136,"PM
+10",1,2018-07-06
+Moradabad,Moderate,138,"PM
+10",1,2018-07-07
+Moradabad,Moderate,159,"PM
+10",1,2018-07-08
+Moradabad,Moderate,146,"PM
+2.5",1,2018-07-09
+Moradabad,Moderate,156,"PM
+2.5",1,2018-07-10
+Moradabad,Satisfactory,55,"PM
+10",1,2018-07-13
+Moradabad,Satisfactory,80,"PM
+2.5",1,2018-07-14
+Moradabad,Satisfactory,81,"PM
+10",1,2018-07-15
+Moradabad,Satisfactory,75,"PM
+10",1,2018-07-16
+Moradabad,Satisfactory,82,"PM
+10",1,2018-07-17
+Moradabad,Satisfactory,80,"PM
+10",1,2018-07-18
+Moradabad,Satisfactory,93,"PM
+10",1,2018-07-19
+Moradabad,Moderate,100,"PM
+10",1,2018-07-20
+Moradabad,Satisfactory,96,"PM
+10",1,2018-07-21
+Moradabad,Satisfactory,60,"PM
+10",1,2018-07-22
+Moradabad,Satisfactory,75,"PM
+10",1,2018-07-23
+Moradabad,Satisfactory,96,"PM
+10",1,2018-07-24
+Moradabad,Satisfactory,56,"PM
+10",1,2018-07-25
+Moradabad,Satisfactory,97,"PM
+2.5",1,2018-07-26
+Moradabad,Satisfactory,67,CO,1,2018-07-27
+Moradabad,Good,45,CO,1,2018-07-28
+Moradabad,Satisfactory,60,CO,1,2018-07-29
+Moradabad,Satisfactory,65,"PM
+2.5",1,2018-07-30
+Moradabad,Moderate,118,"PM
+10",1,2018-07-31
+Moradabad,Moderate,110,"PM
+2.5",1,2018-08-01
+Moradabad,Moderate,116,"PM
+10",1,2018-08-02
+Moradabad,Satisfactory,77,"PM
+10",1,2018-08-03
+Moradabad,Moderate,120,"PM
+10",1,2018-08-04
+Moradabad,Moderate,156,"PM
+10",1,2018-08-05
+Moradabad,Moderate,130,"PM
+2.5",1,2018-08-06
+Moradabad,Moderate,164,"PM
+2.5",1,2018-08-07
+Moradabad,Satisfactory,70,"PM
+10",1,2018-08-08
+Moradabad,Moderate,130,"PM
+10",1,2018-08-10
+Moradabad,Moderate,120,"PM
+2.5",1,2018-08-11
+Moradabad,Satisfactory,58,"PM
+10",1,2018-08-12
+Moradabad,Moderate,122,"PM
+2.5",1,2018-08-13
+Moradabad,Moderate,113,"PM
+2.5",1,2018-08-14
+Moradabad,Moderate,119,"PM
+10",1,2018-08-15
+Moradabad,Moderate,115,"PM
+2.5",1,2018-08-16
+Moradabad,Satisfactory,92,"PM
+10",1,2018-08-17
+Moradabad,Satisfactory,82,"PM
+10",1,2018-08-18
+Moradabad,Satisfactory,90,"PM
+10",1,2018-08-19
+Moradabad,Moderate,148,"PM
+2.5",1,2018-08-20
+Moradabad,Moderate,125,"PM
+2.5",1,2018-08-21
+Moradabad,Satisfactory,89,"PM
+10",1,2018-08-22
+Moradabad,Satisfactory,53,"PM
+10",1,2018-08-23
+Moradabad,Satisfactory,57,"PM
+10",1,2018-08-24
+Moradabad,Good,35,"PM
+10",1,2018-08-26
+Moradabad,Satisfactory,50,CO,1,2018-08-27
+Moradabad,Satisfactory,51,"PM
+10",1,2018-08-28
+Moradabad,Satisfactory,78,"PM
+10",1,2018-08-29
+Moradabad,Satisfactory,53,"PM
+10",1,2018-08-30
+Moradabad,Satisfactory,98,CO,1,2018-08-31
+Moradabad,Moderate,132,"PM
+2.5",1,2018-09-01
+Moradabad,Satisfactory,95,"PM
+10",1,2018-09-02
+Moradabad,Satisfactory,77,CO,1,2018-09-03
+Moradabad,Satisfactory,63,"PM
+2.5",1,2018-09-04
+Moradabad,Moderate,125,"PM
+10",1,2018-09-06
+Moradabad,Satisfactory,94,"PM
+10",1,2018-09-07
+Moradabad,Satisfactory,80,"PM
+10",1,2018-09-08
+Moradabad,Satisfactory,74,"PM
+10",1,2018-09-09
+Moradabad,Satisfactory,80,"PM
+10",1,2018-09-10
+Moradabad,Satisfactory,96,"PM
+10",1,2018-09-11
+Moradabad,Satisfactory,84,"PM
+10",1,2018-09-12
+Moradabad,Satisfactory,87,"PM
+10",1,2018-09-13
+Moradabad,Moderate,127,"PM
+10",1,2018-09-14
+Moradabad,Moderate,130,"PM
+10",1,2018-09-15
+Moradabad,Moderate,118,"PM
+10",1,2018-09-16
+Moradabad,Moderate,136,"PM
+10",1,2018-09-17
+Moradabad,Moderate,132,"PM
+10",1,2018-09-18
+Moradabad,Moderate,152,"PM
+10",1,2018-09-19
+Moradabad,Poor,206,"PM
+2.5",1,2018-09-20
+Moradabad,Moderate,108,"PM
+10",1,2018-09-21
+Moradabad,Satisfactory,68,"PM
+10",1,2018-09-22
+Moradabad,Good,46,"PM
+10",1,2018-09-23
+Moradabad,Very Poor,302,"PM
+2.5",1,2018-09-24
+Moradabad,Poor,218,"PM
+2.5",1,2018-09-27
+Moradabad,Moderate,174,"PM
+2.5",1,2018-09-28
+Moradabad,Moderate,132,"PM
+10",1,2018-09-30
+Moradabad,Moderate,114,"PM
+10",1,2018-10-01
+Moradabad,Moderate,164,"PM
+2.5",1,2018-10-02
+Moradabad,Poor,212,"PM
+2.5",1,2018-10-03
+Moradabad,Poor,239,"PM
+2.5",1,2018-10-04
+Moradabad,Poor,221,"PM
+2.5",1,2018-10-05
+Moradabad,Poor,216,"PM
+2.5",1,2018-10-06
+Moradabad,Very Poor,332,"PM
+2.5",1,2018-10-07
+Moradabad,Severe,464,"PM
+2.5",1,2018-10-08
+Moradabad,Poor,255,"PM
+2.5",1,2018-10-09
+Moradabad,Poor,217,"PM
+2.5",1,2018-10-10
+Moradabad,Poor,228,"PM
+2.5",1,2018-10-11
+Moradabad,Moderate,118,"PM
+2.5",1,2018-10-12
+Moradabad,Poor,205,"PM
+2.5",1,2018-10-13
+Moradabad,Poor,273,"PM
+2.5",1,2018-10-14
+Moradabad,Very Poor,301,"PM
+2.5",1,2018-10-15
+Moradabad,Poor,286,"PM
+2.5",1,2018-10-16
+Moradabad,Very Poor,330,"PM
+2.5",1,2018-10-17
+Moradabad,Poor,233,"PM
+2.5",1,2018-10-21
+Moradabad,Moderate,187,OZONE,1,2018-10-22
+Moradabad,Poor,282,"PM
+2.5",1,2018-10-23
+Moradabad,Very Poor,308,"PM
+2.5",1,2018-10-24
+Moradabad,Moderate,181,"PM
+10",1,2018-10-25
+Moradabad,Poor,290,"PM
+2.5",1,2018-10-26
+Moradabad,Poor,296,"PM
+2.5",1,2018-10-27
+Moradabad,Very Poor,331,"PM
+2.5",1,2018-10-28
+Moradabad,Moderate,197,"PM
+2.5",1,2018-10-29
+Moradabad,Very Poor,301,"PM
+2.5",1,2018-10-30
+Moradabad,Moderate,181,"PM
+2.5",1,2018-10-31
+Moradabad,Very Poor,341,"PM
+2.5",1,2018-11-01
+Moradabad,Very Poor,320,"PM
+2.5",1,2018-11-02
+Moradabad,Poor,281,"PM
+2.5",1,2018-11-03
+Moradabad,Moderate,145,"PM
+2.5",1,2018-11-04
+Moradabad,Very Poor,342,"PM
+2.5",1,2018-11-05
+Moradabad,Moderate,185,"PM
+2.5",1,2018-11-06
+Moradabad,Very Poor,375,"PM
+2.5",1,2018-11-07
+Moradabad,Very Poor,371,"PM
+2.5",1,2018-11-08
+Moradabad,Very Poor,363,"PM
+2.5",1,2018-11-09
+Moradabad,Very Poor,346,"PM
+2.5",1,2018-11-10
+Moradabad,Very Poor,336,"PM
+2.5",1,2018-11-11
+Moradabad,Poor,271,"PM
+10",1,2018-11-12
+Moradabad,Poor,273,"PM
+10",1,2018-11-13
+Moradabad,Severe,438,"PM
+2.5",1,2018-11-14
+Moradabad,Moderate,141,"PM
+10",1,2018-11-15
+Moradabad,Moderate,198,"PM
+2.5",1,2018-11-16
+Moradabad,Poor,296,"PM
+2.5",1,2018-11-17
+Moradabad,Poor,244,"PM
+2.5",1,2018-11-18
+Moradabad,Moderate,188,"PM
+2.5",1,2018-11-19
+Moradabad,Very Poor,320,"PM
+2.5",1,2018-11-20
+Moradabad,Moderate,159,"PM
+10",1,2018-11-21
+Moradabad,Moderate,198,"PM
+2.5",1,2018-11-22
+Moradabad,Poor,208,"PM
+10",1,2018-11-23
+Moradabad,Poor,249,"PM
+2.5",1,2018-11-24
+Moradabad,Moderate,174,"PM
+10",1,2018-11-25
+Moradabad,Moderate,125,"PM
+2.5",1,2018-11-26
+Moradabad,Very Poor,324,"PM
+2.5",1,2018-11-27
+Moradabad,Moderate,191,"PM
+10",1,2018-11-28
+Moradabad,Moderate,197,"PM
+2.5",1,2018-11-29
+Moradabad,Very Poor,360,"PM
+2.5",1,2018-11-30
+Moradabad,Moderate,187,"PM
+2.5",1,2018-12-01
+Moradabad,Poor,298,"PM
+2.5",1,2018-12-02
+Moradabad,Poor,285,"PM
+2.5",1,2018-12-03
+Moradabad,Very Poor,324,"PM
+2.5",1,2018-12-04
+Moradabad,Very Poor,339,"PM
+2.5",1,2018-12-05
+Moradabad,Poor,257,"PM
+2.5",1,2018-12-06
+Moradabad,Poor,213,"PM
+2.5",1,2018-12-07
+Moradabad,Poor,214,"PM
+2.5",1,2018-12-08
+Moradabad,Poor,255,"PM
+2.5",1,2018-12-10
+Moradabad,Very Poor,306,"PM
+2.5",1,2018-12-11
+Moradabad,Very Poor,357,"PM
+2.5",1,2018-12-12
+Moradabad,Very Poor,312,"PM
+2.5",1,2018-12-13
+Moradabad,Poor,282,"PM
+2.5",1,2018-12-14
+Moradabad,Poor,292,"PM
+2.5",1,2018-12-15
+Moradabad,Very Poor,388,"PM
+2.5",1,2018-12-16
+Moradabad,Very Poor,322,"PM
+2.5",1,2018-12-17
+Moradabad,Very Poor,321,"PM
+2.5",1,2018-12-18
+Moradabad,Very Poor,379,"PM
+2.5",1,2018-12-19
+Moradabad,Severe,430,"PM
+2.5",1,2018-12-20
+Moradabad,Very Poor,363,"PM
+2.5",1,2018-12-21
+Moradabad,Severe,407,"PM
+2.5",1,2018-12-22
+Moradabad,Severe,416,"PM
+2.5",1,2018-12-23
+Moradabad,Moderate,138,"NO
+2",1,2018-12-24
+Moradabad,Very Poor,369,"PM
+2.5",1,2018-12-25
+Moradabad,Very Poor,347,"PM
+2.5",1,2018-12-26
+Moradabad,Severe,406,"PM
+2.5",1,2018-12-27
+Moradabad,Very Poor,352,"PM
+2.5",1,2018-12-28
+Moradabad,Very Poor,336,"PM
+2.5",1,2018-12-29
+Moradabad,Severe,437,"PM
+2.5",1,2018-12-30
+Moradabad,Severe,445,"PM
+2.5",1,2018-12-31
+Moradabad,Moderate,185,"PM
+10",1,2019-01-01
+Moradabad,Severe,425,"PM
+2.5",1,2019-01-02
+Moradabad,Very Poor,389,"PM
+2.5",1,2019-01-03
+Moradabad,Very Poor,332,"PM
+2.5",1,2019-01-04
+Moradabad,Very Poor,343,"PM
+2.5",1,2019-01-05
+Moradabad,Very Poor,385,"PM
+2.5",1,2019-01-06
+Moradabad,Very Poor,319,"PM
+2.5",1,2019-01-08
+Moradabad,Very Poor,314,"PM
+2.5",1,2019-01-09
+Moradabad,Very Poor,308,"PM
+2.5",1,2019-01-10
+Moradabad,Very Poor,347,"PM
+2.5",1,2019-01-11
+Moradabad,Very Poor,360,"PM
+2.5",1,2019-01-12
+Moradabad,Severe,414,"PM
+2.5",1,2019-01-13
+Moradabad,Poor,234,"PM
+10",1,2019-01-14
+Moradabad,Poor,217,"PM
+2.5",1,2019-01-15
+Moradabad,Very Poor,351,"PM
+2.5",1,2019-01-16
+Moradabad,Very Poor,387,"PM
+2.5",1,2019-01-17
+Moradabad,Moderate,154,"PM
+10",1,2019-01-18
+Moradabad,Very Poor,340,"PM
+2.5",1,2019-01-19
+Moradabad,Very Poor,383,"PM
+2.5",1,2019-01-20
+Moradabad,Very Poor,370,"PM
+2.5",1,2019-01-21
+Moradabad,Poor,232,"PM
+2.5",1,2019-01-23
+Moradabad,Very Poor,303,"PM
+2.5",1,2019-01-24
+Moradabad,Moderate,151,"PM
+2.5",1,2019-01-25
+Moradabad,Moderate,176,"PM
+2.5",1,2019-01-26
+Moradabad,Poor,202,"PM
+2.5",1,2019-01-27
+Moradabad,Poor,218,"PM
+2.5",1,2019-01-28
+Moradabad,Poor,218,"PM
+2.5",1,2019-01-29
+Moradabad,Poor,291,"PM
+2.5",1,2019-01-30
+Moradabad,Very Poor,392,"PM
+2.5",1,2019-01-31
+Moradabad,Very Poor,321,"PM
+2.5",1,2019-02-01
+Moradabad,Very Poor,316,"PM
+2.5",1,2019-02-02
+Moradabad,Very Poor,316,"PM
+2.5",1,2019-02-03
+Moradabad,Very Poor,348,"PM
+2.5",1,2019-02-04
+Moradabad,Severe,418,"PM
+2.5",1,2019-02-05
+Moradabad,Severe,440,"PM
+2.5",1,2019-02-06
+Moradabad,Satisfactory,94,"PM
+10",1,2019-02-07
+Moradabad,Moderate,127,"PM
+2.5",1,2019-02-08
+Moradabad,Moderate,128,"PM
+10",1,2019-02-09
+Moradabad,Poor,219,"PM
+2.5",1,2019-02-21
+Moradabad,Moderate,200,"PM
+2.5",1,2019-02-22
+Moradabad,Moderate,158,OZONE,1,2019-02-23
+Moradabad,Poor,239,OZONE,1,2019-02-24
+Moradabad,Poor,261,"PM
+2.5",1,2019-02-25
+Moradabad,Moderate,134,"PM
+2.5",1,2019-02-26
+Moradabad,Moderate,112,"PM
+2.5",1,2019-02-27
+Moradabad,Satisfactory,92,"PM
+2.5",1,2019-02-28
+Moradabad,Moderate,150,"PM
+2.5",1,2019-03-01
+Moradabad,Very Poor,305,"PM
+2.5",1,2019-03-02
+Moradabad,Moderate,197,"PM
+2.5",1,2019-03-03
+Moradabad,Moderate,176,"PM
+2.5",1,2019-03-04
+Moradabad,Moderate,140,"PM
+2.5",1,2019-03-05
+Moradabad,Moderate,130,"PM
+2.5",1,2019-03-06
+Moradabad,Moderate,152,"PM
+2.5",1,2019-03-07
+Moradabad,Moderate,192,"PM
+2.5",1,2019-03-08
+Moradabad,Moderate,137,"PM
+10",1,2019-03-09
+Moradabad,Moderate,132,"PM
+10",1,2019-03-10
+Moradabad,Poor,212,"PM
+2.5",1,2019-03-11
+Moradabad,Moderate,144,"PM
+2.5",1,2019-03-12
+Moradabad,Moderate,161,"PM
+10",1,2019-03-13
+Moradabad,Poor,252,"PM
+2.5",1,2019-03-14
+Moradabad,Satisfactory,88,"PM
+10",1,2019-03-15
+Moradabad,Moderate,124,"PM
+10",1,2019-03-16
+Moradabad,Moderate,159,OZONE,1,2019-03-17
+Moradabad,Moderate,198,"PM
+2.5",1,2019-03-18
+Moradabad,Moderate,199,"PM
+2.5",1,2019-03-19
+Moradabad,Very Poor,314,"PM
+10",1,2019-03-20
+Moradabad,Moderate,127,"PM
+10",1,2019-03-22
+Moradabad,Moderate,128,"PM
+10",1,2019-03-23
+Moradabad,Moderate,138,"PM
+10",1,2019-03-24
+Moradabad,Moderate,162,"PM
+10",1,2019-03-25
+Moradabad,Moderate,147,"PM
+2.5",1,2019-03-26
+Moradabad,Moderate,163,"PM
+2.5",1,2019-03-27
+Moradabad,Poor,216,"PM
+2.5",1,2019-03-28
+Moradabad,Poor,288,"PM
+2.5",1,2019-03-29
+Moradabad,Poor,298,"PM
+2.5",1,2019-03-30
+Moradabad,Poor,219,"PM
+10",1,2019-03-31
+Moradabad,Moderate,188,OZONE,1,2019-04-01
+Moradabad,Moderate,187,OZONE,1,2019-04-02
+Moradabad,Moderate,192,OZONE,1,2019-04-03
+Moradabad,Poor,277,"PM
+10",1,2019-04-04
+Moradabad,Poor,283,"PM
+10",1,2019-04-05
+Moradabad,Poor,268,"PM
+2.5",1,2019-04-06
+Moradabad,Moderate,193,"PM
+10",1,2019-04-07
+Moradabad,Moderate,174,"PM
+10",1,2019-04-09
+Moradabad,Poor,229,OZONE,1,2019-04-10
+Moradabad,Poor,261,"PM
+2.5",1,2019-04-11
+Moradabad,Poor,213,"PM
+10",1,2019-04-12
+Moradabad,Moderate,188,"PM
+10",1,2019-04-13
+Moradabad,Moderate,164,"PM
+10",1,2019-04-14
+Moradabad,Moderate,180,"PM
+10",1,2019-04-15
+Moradabad,Poor,265,"PM
+10",1,2019-04-16
+Moradabad,Moderate,123,"PM
+10",1,2019-04-17
+Moradabad,Satisfactory,73,"PM
+10",1,2019-04-18
+Moradabad,Poor,244,"PM
+2.5",1,2019-04-20
+Moradabad,Poor,239,"PM
+2.5",1,2019-04-21
+Moradabad,Moderate,180,OZONE,1,2019-04-22
+Moradabad,Poor,217,OZONE,1,2019-04-23
+Moradabad,Poor,240,"PM
+10",1,2019-04-24
+Moradabad,Poor,232,"PM
+10",1,2019-04-25
+Moradabad,Poor,209,"PM
+10",1,2019-04-26
+Moradabad,Poor,217,"PM
+10",1,2019-04-27
+Moradabad,Poor,229,"PM
+10",1,2019-04-28
+Moradabad,Very Poor,316,"PM
+10",1,2019-04-30
+Moradabad,Very Poor,343,"PM
+10",1,2019-05-01
+Moradabad,Very Poor,305,"PM
+10",1,2019-05-02
+Moradabad,Poor,205,"PM
+10",1,2019-05-03
+Moradabad,Poor,227,"PM
+2.5",1,2019-05-04
+Moradabad,Moderate,178,"PM
+10",1,2019-05-05
+Moradabad,Moderate,193,"PM
+10",1,2019-05-06
+Moradabad,Moderate,195,"PM
+10",1,2019-05-07
+Moradabad,Poor,268,"PM
+10",1,2019-05-08
+Moradabad,Poor,218,"PM
+10",1,2019-05-09
+Moradabad,Very Poor,336,"PM
+10",1,2019-05-10
+Moradabad,Poor,233,"PM
+10",1,2019-05-11
+Moradabad,Poor,226,"PM
+10",1,2019-05-12
+Moradabad,Poor,259,"PM
+10",1,2019-05-13
+Moradabad,Poor,202,"PM
+10",1,2019-05-14
+Moradabad,Moderate,164,OZONE,1,2019-05-27
+Moradabad,Poor,213,"PM
+2.5",1,2019-05-29
+Moradabad,Poor,271,OZONE,1,2019-05-30
+Moradabad,Poor,249,"PM
+2.5",1,2019-05-31
+Moradabad,Moderate,174,"PM
+10",1,2019-06-03
+Moradabad,Moderate,115,"PM
+10",1,2019-06-18
+Moradabad,Moderate,192,OZONE,1,2019-06-20
+Moradabad,Moderate,178,"PM
+2.5",1,2019-06-21
+Moradabad,Poor,203,"PM
+2.5",1,2019-06-22
+Moradabad,Moderate,118,"PM
+10",1,2019-06-23
+Moradabad,Satisfactory,100,"PM
+2.5",1,2019-06-25
+Moradabad,Poor,203,"PM
+2.5",1,2019-06-27
+Moradabad,Moderate,175,"PM
+10",1,2019-06-28
+Moradabad,Poor,229,"PM
+10",1,2019-06-29
+Moradabad,Moderate,128,"PM
+10",1,2019-07-01
+Moradabad,Satisfactory,87,"PM
+10",1,2019-07-05
+Moradabad,Satisfactory,60,"PM
+10",1,2019-07-06
+Moradabad,Satisfactory,84,"PM
+10",1,2019-07-07
+Moradabad,Satisfactory,71,"PM
+10",1,2019-07-09
+Moradabad,Satisfactory,86,"PM
+10",1,2019-07-10
+Moradabad,Moderate,136,"PM
+10",1,2019-07-11
+Moradabad,Satisfactory,97,"PM
+10",1,2019-07-15
+Moradabad,Moderate,102,CO,1,2019-07-16
+Moradabad,Moderate,102,"PM
+10",1,2019-07-18
+Moradabad,Moderate,109,"PM
+10",1,2019-07-19
+Moradabad,Moderate,114,"PM
+10",1,2019-07-22
+Moradabad,Moderate,173,"PM
+2.5",1,2019-07-23
+Moradabad,Satisfactory,58,"PM
+10",1,2019-07-26
+Moradabad,Good,49,"PM
+10",1,2019-07-27
+Moradabad,Satisfactory,51,"PM
+10",1,2019-07-28
+Moradabad,Satisfactory,96,"PM
+10",1,2019-07-30
+Moradabad,Moderate,104,"PM
+10",1,2019-07-31
+Moradabad,Moderate,127,"PM
+10",1,2019-08-01
+Moradabad,Satisfactory,91,CO,1,2019-08-02
+Moradabad,Moderate,105,"PM
+2.5",1,2019-08-04
+Moradabad,Satisfactory,96,"PM
+10",1,2019-08-05
+Moradabad,Moderate,117,"PM
+2.5",1,2019-08-08
+Moradabad,Satisfactory,76,CO,1,2019-08-09
+Moradabad,Satisfactory,56,"PM
+10",1,2019-08-10
+Moradabad,Good,50,"PM
+2.5",1,2019-08-11
+Moradabad,Satisfactory,73,CO,1,2019-08-12
+Moradabad,Moderate,110,"PM
+2.5",1,2019-08-13
+Moradabad,Good,45,"PM
+2.5",1,2019-08-14
+Moradabad,Satisfactory,61,"PM
+10",1,2019-08-15
+Moradabad,Good,22,CO,1,2019-08-18
+Moradabad,Satisfactory,70,"PM
+10",1,2019-08-20
+Moradabad,Satisfactory,97,"PM
+10",1,2019-08-21
+Moradabad,Moderate,106,"PM
+10",1,2019-08-22
+Moradabad,Moderate,106,"PM
+10",1,2019-08-23
+Moradabad,Satisfactory,71,"PM
+10",1,2019-09-04
+Moradabad,Satisfactory,91,"PM
+10",1,2019-09-05
+Moradabad,Satisfactory,86,"PM
+10",1,2019-09-06
+Moradabad,Satisfactory,75,"PM
+10",1,2019-09-07
+Moradabad,Moderate,124,"PM
+2.5",1,2019-09-08
+Moradabad,Satisfactory,91,"PM
+10",1,2019-09-09
+Moradabad,Satisfactory,87,"PM
+10",1,2019-09-10
+Moradabad,Moderate,114,"PM
+10",1,2019-09-11
+Moradabad,Moderate,114,"PM
+10",1,2019-09-12
+Moradabad,Satisfactory,100,"PM
+10",1,2019-09-13
+Moradabad,Satisfactory,73,"PM
+10",1,2019-09-14
+Moradabad,Satisfactory,64,"PM
+10",1,2019-09-15
+Moradabad,Satisfactory,88,"PM
+10",1,2019-09-16
+Moradabad,Satisfactory,100,"PM
+10",1,2019-09-17
+Moradabad,Satisfactory,94,"PM
+2.5",1,2019-09-18
+Moradabad,Satisfactory,61,"PM
+10",1,2019-09-19
+Moradabad,Moderate,106,"PM
+10",1,2019-09-20
+Moradabad,Moderate,132,"PM
+2.5",1,2019-09-21
+Moradabad,Satisfactory,96,"PM
+2.5",1,2019-09-22
+Moradabad,Satisfactory,72,"PM
+2.5",1,2019-09-23
+Moradabad,Moderate,115,"PM
+10",1,2019-09-24
+Moradabad,Moderate,105,"PM
+10",1,2019-09-25
+Moradabad,Satisfactory,77,"PM
+10",1,2019-09-26
+Moradabad,Satisfactory,64,"PM
+10",1,2019-09-27
+Moradabad,Satisfactory,76,"PM
+10",1,2019-09-28
+Moradabad,Satisfactory,54,"PM
+10",1,2019-09-29
+Moradabad,Satisfactory,52,"PM
+10",1,2019-09-30
+Moradabad,Satisfactory,81,"PM
+10",1,2019-10-01
+Moradabad,Moderate,122,"PM
+2.5",1,2019-10-02
+Moradabad,Moderate,165,"PM
+2.5",1,2019-10-04
+Moradabad,Moderate,123,"PM
+10",1,2019-10-06
+Moradabad,Moderate,168,"PM
+2.5",1,2019-10-07
+Moradabad,Moderate,140,"PM
+10",1,2019-10-08
+Moradabad,Moderate,182,"PM
+2.5",1,2019-10-09
+Moradabad,Moderate,189,"PM
+10",1,2019-10-10
+Moradabad,Moderate,183,"PM
+2.5",1,2019-10-11
+Moradabad,Poor,258,"PM
+2.5",1,2019-10-12
+Moradabad,Poor,284,"PM
+2.5",1,2019-10-13
+Moradabad,Poor,280,"PM
+2.5",1,2019-10-14
+Moradabad,Poor,285,"PM
+2.5",1,2019-10-15
+Moradabad,Very Poor,306,"PM
+2.5",1,2019-10-16
+Moradabad,Very Poor,305,"PM
+2.5",1,2019-10-17
+Moradabad,Poor,266,"PM
+2.5",1,2019-10-18
+Moradabad,Very Poor,303,"PM
+2.5",1,2019-10-19
+Moradabad,Very Poor,303,"PM
+2.5",1,2019-10-20
+Moradabad,Poor,272,"PM
+2.5",1,2019-10-21
+Moradabad,Poor,256,"PM
+2.5",1,2019-10-22
+Moradabad,Poor,280,"PM
+2.5",1,2019-10-23
+Moradabad,Poor,275,"PM
+2.5",1,2019-10-24
+Moradabad,Poor,224,"PM
+2.5",1,2019-10-26
+Moradabad,Very Poor,304,"PM
+2.5",1,2019-10-27
+Moradabad,Very Poor,398,"PM
+2.5",1,2019-10-28
+Moradabad,Severe,424,"PM
+2.5",1,2019-10-29
+Moradabad,Moderate,169,"PM
+10",1,2019-10-30
+Moradabad,Very Poor,320,"PM
+2.5",1,2019-10-31
+Moradabad,Poor,280,"PM
+2.5",1,2019-11-01
+Moradabad,Moderate,199,"PM
+10",1,2019-11-02
+Moradabad,Moderate,147,"PM
+10",1,2019-11-03
+Moradabad,Severe,434,"PM
+2.5",1,2019-11-04
+Moradabad,Very Poor,350,"PM
+2.5",1,2019-11-05
+Moradabad,Very Poor,336,"PM
+2.5",1,2019-11-06
+Moradabad,Severe,435,"PM
+2.5",1,2019-11-07
+Moradabad,Poor,262,"PM
+2.5",1,2019-11-08
+Moradabad,Poor,246,"PM
+2.5",1,2019-11-09
+Moradabad,Poor,266,"PM
+2.5",1,2019-11-10
+Moradabad,Poor,267,"PM
+2.5",1,2019-11-11
+Moradabad,Poor,296,"PM
+2.5",1,2019-11-12
+Moradabad,Very Poor,317,"PM
+2.5",1,2019-11-13
+Moradabad,Very Poor,338,"PM
+2.5",1,2019-11-14
+Moradabad,Poor,217,"PM
+2.5",1,2019-11-15
+Moradabad,Poor,264,"PM
+2.5",1,2019-11-16
+Moradabad,Moderate,154,"PM
+10",1,2019-11-17
+Moradabad,Poor,215,"PM
+2.5",1,2019-11-18
+Moradabad,Poor,300,"PM
+2.5",1,2019-11-19
+Moradabad,Very Poor,327,"PM
+2.5",1,2019-11-20
+Moradabad,Very Poor,327,"PM
+2.5",1,2019-11-21
+Moradabad,Poor,280,"PM
+2.5",1,2019-11-22
+Moradabad,Poor,272,"PM
+2.5",1,2019-11-23
+Moradabad,Poor,235,"PM
+2.5",1,2019-11-24
+Moradabad,Moderate,125,"PM
+10",1,2019-11-25
+Moradabad,Poor,248,"PM
+2.5",1,2019-11-26
+Moradabad,Poor,236,"PM
+2.5",1,2019-11-27
+Moradabad,Moderate,197,"PM
+2.5",1,2019-11-28
+Moradabad,Moderate,123,"PM
+2.5",1,2019-11-29
+Moradabad,Moderate,177,"PM
+2.5",1,2019-11-30
+Moradabad,Poor,213,"PM
+2.5",1,2019-12-01
+Moradabad,Poor,271,"PM
+2.5",1,2019-12-02
+Moradabad,Very Poor,310,"PM
+2.5",1,2019-12-03
+Moradabad,Very Poor,380,"PM
+2.5",1,2019-12-04
+Moradabad,Very Poor,381,"PM
+2.5",1,2019-12-05
+Moradabad,Poor,277,"PM
+2.5",1,2019-12-06
+Moradabad,Poor,296,"PM
+2.5",1,2019-12-07
+Moradabad,Very Poor,323,"PM
+2.5",1,2019-12-08
+Moradabad,Very Poor,334,"PM
+2.5",1,2019-12-10
+Moradabad,Very Poor,330,"PM
+2.5",1,2019-12-11
+Moradabad,Severe,410,"PM
+2.5",1,2019-12-12
+Moradabad,Very Poor,319,"PM
+2.5",1,2019-12-24
+Moradabad,Very Poor,335,"PM
+2.5",1,2019-12-26
+Moradabad,Very Poor,391,"PM
+2.5",1,2019-12-28
+Moradabad,Very Poor,363,"PM
+2.5",1,2019-12-29
+Moradabad,Very Poor,317,"PM
+2.5",1,2019-12-31
+Moradabad,Severe,401,"PM
+2.5",1,2020-01-02
+Moradabad,Poor,203,"PM
+2.5",1,2020-01-03
+Moradabad,Poor,254,"PM
+2.5",1,2020-01-04
+Moradabad,Very Poor,350,"PM
+2.5",1,2020-01-05
+Moradabad,Poor,252,"PM
+2.5",1,2020-01-10
+Moradabad,Very Poor,356,"PM
+2.5",1,2020-01-11
+Moradabad,Very Poor,366,"PM
+2.5",1,2020-01-12
+Moradabad,Very Poor,341,"PM
+2.5",1,2020-01-13
+Moradabad,Very Poor,371,"PM
+2.5",1,2020-01-14
+Moradabad,Very Poor,356,"PM
+2.5",1,2020-01-15
+Moradabad,Very Poor,338,"PM
+2.5",1,2020-01-16
+Moradabad,Very Poor,364,"PM
+2.5",1,2020-01-28
+Moradabad,Moderate,114,"PM
+10",1,2020-01-31
+Moradabad,Very Poor,309,"PM
+2.5",1,2020-02-07
+Moradabad,Satisfactory,61,"PM
+10",1,2020-05-29
+Moradabad,Satisfactory,60,"PM
+10",1,2020-05-30
+Moradabad,Satisfactory,70,CO,1,2020-05-31
+Moradabad,Satisfactory,64,CO,1,2020-06-01
+Moradabad,Moderate,104,"PM
+2.5",1,2020-06-02
+Moradabad,Satisfactory,90,CO,1,2020-06-03
+Moradabad,Moderate,114,"PM
+2.5",1,2020-06-04
+Moradabad,Satisfactory,84,"PM
+10",1,2020-06-05
+Moradabad,Satisfactory,58,CO,1,2020-06-06
+Moradabad,Moderate,121,"PM
+2.5",1,2020-06-07
+Moradabad,Moderate,146,"PM
+2.5",1,2020-06-08
+Moradabad,Moderate,139,"PM
+2.5",1,2020-06-09
+Moradabad,Moderate,191,"PM
+2.5",1,2020-06-10
+Moradabad,Moderate,119,"PM
+2.5",1,2020-06-11
+Moradabad,Satisfactory,92,"PM
+2.5",1,2020-06-12
+Moradabad,Moderate,123,"PM
+2.5",1,2020-06-13
+Moradabad,Satisfactory,80,"PM
+2.5",1,2020-06-16
+Moradabad,Satisfactory,67,CO,1,2020-06-17
+Moradabad,Satisfactory,95,"PM
+2.5",1,2020-06-18
+Moradabad,Satisfactory,64,CO,1,2020-06-19
+Moradabad,Satisfactory,70,"PM
+2.5",1,2020-06-20
+Moradabad,Satisfactory,62,CO,1,2020-06-21
+Moradabad,Satisfactory,86,"PM
+2.5",1,2020-06-22
+Moradabad,Satisfactory,68,CO,1,2020-06-23
+Moradabad,Satisfactory,87,"PM
+2.5",1,2020-06-24
+Moradabad,Moderate,161,"PM
+2.5",1,2020-06-25
+Moradabad,Satisfactory,59,CO,1,2020-06-26
+Moradabad,Moderate,142,"PM
+2.5",1,2020-06-27
+Moradabad,Satisfactory,55,CO,1,2020-06-30
+Moradabad,Satisfactory,61,"PM
+10",1,2020-07-01
+Moradabad,Satisfactory,65,"PM
+2.5",1,2020-07-04
+Moradabad,Satisfactory,70,"PM
+2.5",1,2020-07-09
+Moradabad,Satisfactory,75,CO,1,2020-07-10
+Moradabad,Good,50,CO,1,2020-07-11
+Moradabad,Good,41,CO,1,2020-07-12
+Moradabad,Good,50,CO,1,2020-07-13
+Moradabad,Satisfactory,99,"PM
+10",1,2020-07-14
+Moradabad,Satisfactory,70,"PM
+10",1,2020-07-15
+Moradabad,Satisfactory,53,CO,1,2020-07-16
+Moradabad,Satisfactory,71,"PM
+2.5",1,2020-07-17
+Moradabad,Satisfactory,63,"PM
+10",1,2020-07-18
+Moradabad,Satisfactory,56,CO,1,2020-07-21
+Moradabad,Satisfactory,71,CO,1,2020-07-22
+Moradabad,Satisfactory,69,"PM
+2.5",1,2020-07-23
+Moradabad,Satisfactory,60,"PM
+10",1,2020-07-24
+Moradabad,Satisfactory,61,CO,1,2020-07-25
+Moradabad,Satisfactory,53,CO,1,2020-07-26
+Moradabad,Moderate,162,"PM
+2.5",1,2020-07-28
+Moradabad,Satisfactory,74,"PM
+2.5",1,2020-07-31
+Moradabad,Good,40,"PM
+2.5",1,2020-08-01
+Moradabad,Satisfactory,95,CO,1,2020-08-07
+Moradabad,Satisfactory,70,CO,1,2020-08-08
+Moradabad,Satisfactory,80,CO,1,2020-08-27
+Moradabad,Satisfactory,82,CO,1,2020-08-28
+Moradabad,Satisfactory,79,"PM
+2.5",1,2020-08-29
+Moradabad,Good,38,"PM
+10",1,2020-08-30
+Moradabad,Good,28,"PM
+10",1,2020-08-31
+Moradabad,Satisfactory,51,"PM
+10",1,2020-09-01
+Moradabad,Satisfactory,69,"PM
+10",1,2020-09-02
+Moradabad,Satisfactory,65,"PM
+10",1,2020-09-03
+Moradabad,Satisfactory,99,"PM
+2.5",1,2020-09-04
+Moradabad,Satisfactory,97,"PM
+2.5",1,2020-09-05
+Moradabad,Satisfactory,54,"PM
+2.5",1,2020-09-06
+Moradabad,Satisfactory,58,"PM
+10",1,2020-09-07
+Moradabad,Moderate,105,"PM
+2.5",1,2020-09-09
+Moradabad,Satisfactory,91,"PM
+10",1,2020-09-10
+Moradabad,Moderate,179,"PM
+2.5",1,2020-09-11
+Moradabad,Moderate,104,"PM
+2.5",1,2020-09-12
+Moradabad,Moderate,148,"PM
+2.5",1,2020-09-13
+Moradabad,Moderate,182,"PM
+2.5",1,2020-09-14
+Moradabad,Moderate,159,"PM
+2.5",1,2020-09-15
+Moradabad,Poor,212,"PM
+2.5",1,2020-09-16
+Moradabad,Moderate,180,"PM
+2.5",1,2020-09-17
+Moradabad,Moderate,137,"PM
+2.5",1,2020-09-19
+Moradabad,Satisfactory,76,"PM
+2.5",1,2020-09-22
+Moradabad,Satisfactory,53,"PM
+10",1,2020-09-23
+Moradabad,Good,49,"PM
+10",1,2020-09-24
+Moradabad,Good,42,"PM
+10",1,2020-09-25
+Moradabad,Poor,237,"PM
+2.5",1,2020-09-26
+Moradabad,Moderate,147,"PM
+2.5",1,2020-09-27
+Moradabad,Moderate,132,"PM
+10",1,2020-09-28
+Moradabad,Moderate,159,"PM
+2.5",1,2020-09-29
+Moradabad,Moderate,148,"PM
+2.5",1,2020-09-30
+Moradabad,Moderate,168,"PM
+2.5",1,2020-10-01
+Moradabad,Poor,230,"PM
+2.5",1,2020-10-02
+Moradabad,Poor,225,"PM
+2.5",1,2020-10-03
+Moradabad,Poor,209,"PM
+2.5",1,2020-10-04
+Moradabad,Poor,223,"PM
+2.5",1,2020-10-05
+Moradabad,Poor,274,"PM
+2.5",1,2020-10-06
+Moradabad,Poor,286,"PM
+2.5",1,2020-10-07
+Moradabad,Poor,296,"PM
+2.5",1,2020-10-08
+Moradabad,Poor,241,"PM
+2.5",1,2020-10-09
+Moradabad,Poor,218,"PM
+2.5",1,2020-10-10
+Moradabad,Poor,291,"PM
+2.5",1,2020-10-12
+Moradabad,Very Poor,322,"PM
+2.5",1,2020-10-16
+Moradabad,Poor,291,"PM
+2.5",1,2020-10-17
+Moradabad,Very Poor,317,"PM
+2.5",1,2020-10-19
+Moradabad,Poor,250,"PM
+2.5",1,2020-10-21
+Moradabad,Poor,294,"PM
+2.5",1,2020-10-22
+Moradabad,Poor,281,"PM
+2.5",1,2020-10-23
+Moradabad,Poor,237,"PM
+2.5",1,2020-10-24
+Moradabad,Very Poor,363,"PM
+2.5",1,2020-10-25
+Moradabad,Very Poor,387,"PM
+2.5",1,2020-10-26
+Moradabad,Very Poor,326,"PM
+2.5",1,2020-10-27
+Moradabad,Very Poor,313,"PM
+2.5",1,2020-10-28
+Moradabad,Very Poor,370,"PM
+2.5",1,2020-10-29
+Moradabad,Poor,262,"PM
+2.5",1,2020-10-30
+Moradabad,Very Poor,337,"PM
+2.5",1,2020-10-31
+Moradabad,Very Poor,373,"PM
+2.5",1,2020-11-01
+Moradabad,Very Poor,393,"PM
+2.5",1,2020-11-02
+Moradabad,Very Poor,395,"PM
+2.5",1,2020-11-03
+Moradabad,Severe,425,"PM
+2.5",1,2020-11-04
+Moradabad,Severe,489,"PM
+2.5",1,2020-11-05
+Moradabad,Severe,457,"PM
+2.5",1,2020-11-06
+Moradabad,Very Poor,384,"PM
+2.5",1,2020-11-07
+Moradabad,Very Poor,399,"PM
+2.5",1,2020-11-08
+Moradabad,Very Poor,361,"PM
+2.5",1,2020-11-09
+Moradabad,Very Poor,380,"PM
+2.5",1,2020-11-10
+Moradabad,Very Poor,370,"PM
+2.5",1,2020-11-11
+Moradabad,Poor,258,"PM
+2.5",1,2020-11-13
+Moradabad,Very Poor,354,"PM
+2.5",1,2020-11-14
+Moradabad,Very Poor,357,"PM
+2.5",1,2020-11-15
+Moradabad,Moderate,158,"PM
+2.5",1,2020-11-17
+Moradabad,Moderate,197,"PM
+2.5",1,2020-11-18
+Moradabad,Poor,244,"PM
+2.5",1,2020-11-19
+Moradabad,Poor,262,"PM
+2.5",1,2020-11-20
+Moradabad,Moderate,168,"PM
+2.5",1,2020-11-21
+Moradabad,Moderate,191,"PM
+2.5",1,2020-11-22
+Moradabad,Poor,280,"PM
+2.5",1,2020-11-23
+Moradabad,Poor,289,"PM
+2.5",1,2020-11-24
+Moradabad,Poor,255,"PM
+2.5",1,2020-11-25
+Moradabad,Poor,240,"PM
+2.5",1,2020-11-26
+Moradabad,Poor,208,"PM
+2.5",1,2020-11-27
+Moradabad,Poor,294,"PM
+2.5",1,2020-11-28
+Moradabad,Very Poor,324,"PM
+2.5",1,2020-11-29
+Moradabad,Very Poor,319,"PM
+2.5",1,2020-11-30
+Moradabad,Very Poor,373,"PM
+2.5",1,2020-12-01
+Moradabad,Very Poor,342,"PM
+2.5",1,2020-12-02
+Moradabad,Very Poor,363,"PM
+2.5",1,2020-12-03
+Moradabad,Poor,295,"PM
+2.5",1,2020-12-05
+Moradabad,Poor,280,"PM
+2.5",1,2020-12-06
+Moradabad,Very Poor,356,"PM
+2.5",1,2020-12-07
+Moradabad,Poor,300,"PM
+2.5",1,2020-12-08
+Moradabad,Very Poor,385,"PM
+2.5",1,2020-12-09
+Moradabad,Very Poor,349,"PM
+2.5",1,2020-12-10
+Moradabad,Poor,296,"PM
+2.5",1,2020-12-11
+Moradabad,Poor,287,"PM
+2.5",1,2020-12-12
+Moradabad,Poor,235,"PM
+2.5",1,2020-12-13
+Moradabad,Moderate,191,"PM
+2.5",1,2020-12-14
+Moradabad,Poor,231,"PM
+2.5",1,2020-12-15
+Moradabad,Poor,281,"PM
+2.5",1,2020-12-16
+Moradabad,Poor,256,"PM
+2.5",1,2020-12-17
+Moradabad,Very Poor,319,"PM
+2.5",1,2020-12-18
+Moradabad,Very Poor,344,"PM
+2.5",1,2020-12-19
+Moradabad,Very Poor,391,"PM
+2.5",1,2020-12-20
+Moradabad,Severe,476,"PM
+2.5",1,2020-12-21
+Moradabad,Severe,408,"PM
+2.5",1,2020-12-22
+Moradabad,Very Poor,381,"PM
+2.5",1,2020-12-23
+Moradabad,Severe,408,"PM
+2.5",1,2020-12-24
+Moradabad,Poor,294,"PM
+2.5",1,2020-12-25
+Moradabad,Poor,271,"PM
+2.5",1,2020-12-26
+Moradabad,Very Poor,367,"PM
+2.5",1,2020-12-27
+Moradabad,Very Poor,304,"PM
+2.5",1,2020-12-28
+Moradabad,Moderate,194,"PM
+2.5",1,2020-12-29
+Moradabad,Poor,284,"PM
+2.5",1,2020-12-30
+Moradabad,Poor,282,"PM
+2.5",1,2020-12-31
+Moradabad,Very Poor,369,"PM
+2.5",1,2021-01-01
+Moradabad,Very Poor,378,"PM
+2.5",1,2021-01-02
+Moradabad,Very Poor,367,"PM
+2.5",1,2021-01-03
+Moradabad,Moderate,128,"PM
+2.5",1,2021-01-04
+Moradabad,Very Poor,325,"PM
+2.5",1,2021-01-05
+Moradabad,Moderate,131,"PM
+2.5",1,2021-01-07
+Moradabad,Moderate,112,"PM
+2.5",1,2021-01-08
+Moradabad,Poor,258,"PM
+2.5",1,2021-01-09
+Moradabad,Poor,250,"PM
+2.5",1,2021-01-10
+Moradabad,Moderate,185,"PM
+2.5",1,2021-01-11
+Moradabad,Moderate,188,"PM
+2.5",1,2021-01-12
+Moradabad,Poor,239,"PM
+2.5",1,2021-01-13
+Moradabad,Very Poor,338,"PM
+2.5",1,2021-01-14
+Moradabad,Very Poor,383,"PM
+2.5",1,2021-01-15
+Moradabad,Very Poor,379,"PM
+2.5",1,2021-01-16
+Moradabad,Very Poor,332,"PM
+2.5",1,2021-01-17
+Moradabad,Poor,286,"PM
+2.5",1,2021-01-18
+Moradabad,Very Poor,320,"PM
+2.5",1,2021-01-19
+Moradabad,Poor,263,"PM
+2.5",1,2021-01-20
+Moradabad,Poor,286,"PM
+2.5",1,2021-01-21
+Moradabad,Poor,217,"PM
+2.5",1,2021-01-22
+Moradabad,Moderate,170,"PM
+2.5",1,2021-01-23
+Moradabad,Poor,263,"PM
+2.5",1,2021-01-25
+Moradabad,Poor,270,"PM
+2.5",1,2021-01-26
+Moradabad,Very Poor,362,"PM
+2.5",1,2021-01-27
+Moradabad,Very Poor,394,"PM
+2.5",1,2021-01-28
+Moradabad,Very Poor,361,"PM
+2.5",1,2021-01-29
+Moradabad,Very Poor,369,"PM
+2.5",1,2021-01-30
+Moradabad,Very Poor,394,"PM
+2.5",1,2021-01-31
+Moradabad,Severe,421,"PM
+2.5",1,2021-02-01
+Moradabad,Severe,432,"PM
+2.5",1,2021-02-02
+Moradabad,Very Poor,398,"PM
+2.5",1,2021-02-03
+Moradabad,Very Poor,342,"PM
+2.5",1,2021-02-04
+Moradabad,Moderate,151,"PM
+2.5",1,2021-02-06
+Moradabad,Moderate,197,"PM
+2.5",1,2021-02-07
+Moradabad,Very Poor,326,"PM
+2.5",1,2021-02-08
+Moradabad,Very Poor,336,"PM
+2.5",1,2021-02-09
+Moradabad,Severe,413,"PM
+2.5",1,2021-02-11
+Moradabad,Very Poor,360,"PM
+2.5",1,2021-02-12
+Moradabad,Very Poor,385,"PM
+2.5",1,2021-02-13
+Moradabad,Very Poor,367,"PM
+2.5",1,2021-02-14
+Moradabad,Very Poor,376,"PM
+2.5",1,2021-02-15
+Moradabad,Very Poor,376,"PM
+2.5",1,2021-02-16
+Moradabad,Very Poor,382,"PM
+2.5",1,2021-02-17
+Moradabad,Very Poor,361,"PM
+2.5",1,2021-02-18
+Moradabad,Very Poor,352,"PM
+2.5",1,2021-02-19
+Moradabad,Poor,243,"PM
+10",1,2021-02-20
+Moradabad,Very Poor,334,"PM
+2.5",1,2021-02-21
+Moradabad,Very Poor,345,"PM
+2.5",1,2021-02-22
+Moradabad,Very Poor,337,"PM
+2.5",1,2021-02-23
+Moradabad,Very Poor,316,"PM
+2.5",1,2021-02-24
+Moradabad,Moderate,195,"PM
+2.5",1,2021-02-25
+Moradabad,Poor,208,"PM
+2.5",1,2021-02-26
+Moradabad,Moderate,153,"PM
+10",1,2021-02-28
+Moradabad,Moderate,180,"PM
+10",1,2021-03-01
+Moradabad,Moderate,149,"PM
+10",1,2021-03-02
+Moradabad,Moderate,155,"PM
+2.5",1,2021-03-03
+Moradabad,Poor,278,"PM
+2.5",1,2021-03-04
+Moradabad,Poor,213,"PM
+2.5",1,2021-03-05
+Moradabad,Moderate,171,"PM
+10",1,2021-03-06
+Moradabad,Poor,269,"PM
+2.5",1,2021-03-07
+Moradabad,Poor,260,"PM
+2.5",1,2021-03-08
+Moradabad,Poor,282,"PM
+2.5",1,2021-03-10
+Moradabad,Poor,260,"PM
+2.5",1,2021-03-11
+Moradabad,Poor,296,"PM
+2.5",1,2021-03-12
+Moradabad,Poor,283,"PM
+2.5",1,2021-03-13
+Moradabad,Moderate,187,"PM
+2.5",1,2021-03-15
+Moradabad,Very Poor,343,"PM
+10",1,2021-03-18
+Moradabad,Poor,213,"PM
+10",1,2021-03-20
+Moradabad,Poor,232,"PM
+2.5",1,2021-03-21
+Moradabad,Poor,283,"PM
+2.5",1,2021-03-22
+Moradabad,Poor,217,"PM
+10",1,2021-03-23
+Moradabad,Very Poor,320,"PM
+2.5",1,2021-03-28
+Moradabad,Very Poor,311,"PM
+2.5",1,2021-03-29
+Moradabad,Poor,262,"PM
+2.5",1,2021-03-30
+Moradabad,Poor,261,"PM
+10",1,2021-03-31
+Moradabad,Moderate,200,"PM
+10",1,2021-04-01
+Moradabad,Moderate,191,"PM
+10",1,2021-04-02
+Moradabad,Moderate,151,"PM
+2.5",1,2021-04-03
+Moradabad,Moderate,191,"PM
+2.5",1,2021-04-04
+Moradabad,Very Poor,312,"PM
+2.5",1,2021-04-05
+Moradabad,Very Poor,317,"PM
+2.5",1,2021-04-06
+Moradabad,Poor,289,"PM
+2.5",1,2021-04-07
+Moradabad,Poor,202,"PM
+10",1,2021-04-08
+Moradabad,Moderate,171,"PM
+2.5",1,2021-04-09
+Moradabad,Moderate,140,"PM
+10",1,2021-04-10
+Moradabad,Poor,228,"PM
+2.5",1,2021-04-11
+Moradabad,Poor,258,"PM
+2.5",1,2021-04-12
+Moradabad,Moderate,191,"PM
+10",1,2021-04-13
+Moradabad,Moderate,187,"PM
+10",1,2021-04-14
+Moradabad,Poor,255,"PM
+10",1,2021-04-15
+Moradabad,Poor,218,"PM
+2.5",1,2021-04-16
+Moradabad,Moderate,157,"PM
+10",1,2021-04-17
+Moradabad,Moderate,121,"PM
+10",1,2021-04-18
+Moradabad,Moderate,146,"PM
+10",1,2021-04-19
+Moradabad,Moderate,156,"PM
+10",1,2021-04-20
+Moradabad,Moderate,148,"PM
+10",1,2021-04-21
+Moradabad,Poor,289,"PM
+2.5",1,2021-04-27
+Moradabad,Poor,296,"PM
+2.5",1,2021-04-28
+Moradabad,Moderate,168,"PM
+2.5",1,2021-05-11
+Moradabad,Moderate,125,"PM
+2.5",1,2021-05-12
+Moradabad,Moderate,128,"PM
+10",1,2021-05-15
+Moradabad,Moderate,161,"PM
+2.5",1,2021-05-18
+Moradabad,Moderate,111,"PM
+2.5",1,2021-05-19
+Moradabad,Good,34,CO,1,2021-05-20
+Moradabad,Good,39,CO,1,2021-05-21
+Moradabad,Satisfactory,97,"PM
+2.5",1,2021-05-22
+Moradabad,Moderate,190,"PM
+2.5",1,2021-05-23
+Moradabad,Poor,201,"PM
+10",1,2021-05-24
+Moradabad,Moderate,119,"PM
+10",1,2021-05-25
+Moradabad,Moderate,158,"PM
+2.5",1,2021-05-26
+Moradabad,Moderate,146,"PM
+2.5",1,2021-05-27
+Moradabad,Satisfactory,74,"PM
+10",1,2021-05-28
+Moradabad,Satisfactory,57,"PM
+10",1,2021-05-29
+Moradabad,Satisfactory,61,"PM
+10",1,2021-05-30
+Moradabad,Moderate,110,"PM
+10",1,2021-05-31
+Moradabad,Moderate,109,"PM
+10",1,2021-06-01
+Moradabad,Moderate,131,"PM
+2.5",1,2021-06-02
+Moradabad,Moderate,152,"PM
+2.5",1,2021-06-03
+Moradabad,Moderate,157,"PM
+10",1,2021-06-04
+Moradabad,Moderate,149,"PM
+10",1,2021-06-05
+Moradabad,Moderate,183,"PM
+10",1,2021-06-06
+Moradabad,Poor,289,"PM
+10",1,2021-06-09
+Moradabad,Satisfactory,61,"PM
+2.5",1,2021-06-11
+Moradabad,Satisfactory,72,"PM
+2.5",1,2021-06-12
+Moradabad,Good,46,"PM
+10",1,2021-06-15
+Moradabad,Good,50,"PM
+2.5",1,2021-06-16
+Moradabad,Satisfactory,59,"PM
+10",1,2021-06-17
+Moradabad,Good,47,CO,1,2021-06-18
+Moradabad,Satisfactory,73,"PM
+2.5",1,2021-06-20
+Moradabad,Satisfactory,91,"PM
+2.5",1,2021-06-21
+Moradabad,Moderate,131,"PM
+2.5",1,2021-06-22
+Moradabad,Poor,203,"PM
+2.5",1,2021-06-23
+Moradabad,Satisfactory,79,"PM
+2.5",1,2021-06-24
+Moradabad,Satisfactory,100,"PM
+10",1,2021-06-25
+Moradabad,Moderate,144,"PM
+2.5",1,2021-06-28
+Moradabad,Moderate,170,"PM
+2.5",1,2021-06-29
+Moradabad,Poor,215,"PM
+10",1,2021-06-30
+Moradabad,Moderate,149,"PM
+10",1,2021-07-03
+Moradabad,Moderate,144,"PM
+10",1,2021-07-04
+Moradabad,Poor,201,"PM
+2.5",1,2021-07-05
+Moradabad,Poor,211,"PM
+2.5",1,2021-07-06
+Moradabad,Poor,232,"PM
+10",1,2021-07-07
+Moradabad,Satisfactory,68,"PM
+10",1,2021-07-10
+Moradabad,Satisfactory,73,"PM
+10",1,2021-07-11
+Moradabad,Good,50,"PM
+10",1,2021-07-12
+Moradabad,Satisfactory,63,"PM
+10",1,2021-07-13
+Moradabad,Moderate,141,"PM
+2.5",1,2021-07-14
+Moradabad,Satisfactory,73,"PM
+10",1,2021-07-15
+Moradabad,Satisfactory,75,"PM
+10",1,2021-07-16
+Moradabad,Satisfactory,89,"PM
+10",1,2021-07-17
+Moradabad,Satisfactory,80,"PM
+2.5",1,2021-07-18
+Moradabad,Good,21,"PM
+10",1,2021-07-19
+Moradabad,Satisfactory,56,"PM
+2.5",1,2021-07-20
+Moradabad,Good,36,"PM
+10",1,2021-07-21
+Moradabad,Good,33,"PM
+10",1,2021-07-22
+Moradabad,Good,48,CO,1,2021-07-23
+Moradabad,Satisfactory,78,"PM
+10",1,2021-07-24
+Moradabad,Satisfactory,96,"PM
+10",1,2021-07-27
+Moradabad,Good,38,"PM
+2.5",1,2021-07-28
+Moradabad,Satisfactory,57,"PM
+10",1,2021-07-29
+Moradabad,Satisfactory,65,"PM
+2.5",1,2021-07-30
+Moradabad,Good,49,"PM
+10",1,2021-07-31
+Moradabad,Good,40,"PM
+10",1,2021-08-01
+Moradabad,Satisfactory,66,"PM
+2.5",1,2021-08-03
+Moradabad,Satisfactory,65,"PM
+10",1,2021-08-05
+Moradabad,Satisfactory,76,"PM
+10",1,2021-08-06
+Moradabad,Moderate,106,"PM
+2.5",1,2021-08-08
+Moradabad,Satisfactory,92,"PM
+2.5",1,2021-08-10
+Moradabad,Moderate,148,"PM
+10",1,2021-08-11
+Moradabad,Moderate,152,"PM
+10",1,2021-08-12
+Moradabad,Moderate,143,"PM
+10",1,2021-08-13
+Moradabad,Satisfactory,74,"PM
+2.5",1,2021-08-14
+Moradabad,Moderate,135,"PM
+10",1,2021-08-15
+Moradabad,Moderate,189,"PM
+10",1,2021-08-16
+Moradabad,Moderate,198,"PM
+10",1,2021-08-17
+Moradabad,Moderate,120,"PM
+10",1,2021-08-19
+Moradabad,Satisfactory,68,"PM
+10",1,2021-08-20
+Moradabad,Good,49,"PM
+2.5",1,2021-08-21
+Moradabad,Good,42,"PM
+2.5",1,2021-08-22
+Moradabad,Moderate,111,"PM
+2.5",1,2021-08-23
+Moradabad,Moderate,108,"PM
+2.5",1,2021-08-24
+Moradabad,Satisfactory,81,"PM
+2.5",1,2021-08-25
+Moradabad,Moderate,140,"PM
+10",1,2021-08-26
+Moradabad,Moderate,163,"PM
+10",1,2021-08-27
+Moradabad,Satisfactory,81,"PM
+10",1,2021-08-28
+Moradabad,Satisfactory,74,"PM
+10",1,2021-08-29
+Moradabad,Good,45,"PM
+10",1,2021-08-30
+Moradabad,Good,47,"PM
+10",1,2021-08-31
+Moradabad,Satisfactory,89,"PM
+10",1,2021-09-03
+Moradabad,Satisfactory,59,"PM
+10",1,2021-09-09
+Moradabad,Satisfactory,70,"PM
+2.5",1,2021-09-12
+Moradabad,Moderate,113,"PM
+2.5",1,2021-09-13
+Moradabad,Moderate,144,"PM
+2.5",1,2021-09-14
+Moradabad,Moderate,116,"PM
+2.5",1,2021-09-15
+Moradabad,Satisfactory,100,"PM
+10",1,2021-09-16
+Moradabad,Satisfactory,53,"PM
+10",1,2021-09-17
+Moradabad,Satisfactory,68,"PM
+2.5",1,2021-09-18
+Moradabad,Moderate,109,"PM
+2.5",1,2021-09-19
+Moradabad,Satisfactory,92,"PM
+2.5",1,2021-09-20
+Moradabad,Satisfactory,86,"PM
+10",1,2021-09-21
+Moradabad,Satisfactory,89,"PM
+10",1,2021-09-22
+Moradabad,Moderate,102,"PM
+2.5",1,2021-09-23
+Moradabad,Satisfactory,98,"PM
+2.5",1,2021-09-24
+Moradabad,Satisfactory,97,"PM
+2.5",1,2021-09-25
+Moradabad,Satisfactory,76,"PM
+2.5",1,2021-09-26
+Moradabad,Moderate,180,"PM
+2.5",1,2021-09-27
+Moradabad,Satisfactory,98,"PM
+10",1,2021-09-28
+Moradabad,Satisfactory,85,"PM
+10",1,2021-09-29
+Moradabad,Satisfactory,87,"PM
+10",1,2021-09-30
+Moradabad,Satisfactory,88,"PM
+10",1,2021-10-01
+Moradabad,Moderate,142,"PM
+2.5",1,2021-10-02
+Moradabad,Moderate,164,"PM
+2.5",1,2021-10-03
+Moradabad,Moderate,164,"PM
+2.5",1,2021-10-04
+Moradabad,Moderate,123,"PM
+2.5",1,2021-10-05
+Moradabad,Moderate,117,"PM
+10",1,2021-10-06
+Moradabad,Moderate,127,"PM
+10",1,2021-10-07
+Moradabad,Moderate,178,"PM
+2.5",1,2021-10-08
+Moradabad,Poor,209,"PM
+2.5",1,2021-10-09
+Moradabad,Poor,230,"PM
+2.5",1,2021-10-10
+Moradabad,Poor,274,"PM
+2.5",1,2021-10-11
+Moradabad,Moderate,182,"PM
+2.5",1,2021-10-12
+Moradabad,Moderate,192,"PM
+2.5",1,2021-10-13
+Moradabad,Poor,250,"PM
+2.5",1,2021-10-14
+Moradabad,Poor,260,"PM
+2.5",1,2021-10-15
+Moradabad,Poor,257,"PM
+2.5",1,2021-10-16
+Moradabad,Moderate,176,"PM
+2.5",1,2021-10-17
+Moradabad,Satisfactory,83,CO,1,2021-10-18
+Moradabad,Satisfactory,69,CO,1,2021-10-19
+Moradabad,Moderate,158,"PM
+2.5",1,2021-10-20
+Moradabad,Very Poor,318,"PM
+2.5",1,2021-10-21
+Moradabad,Poor,222,"PM
+10",1,2021-10-22
+Moradabad,Poor,202,"PM
+2.5",1,2021-10-23
+Moradabad,Moderate,175,"PM
+2.5",1,2021-10-24
+Moradabad,Moderate,107,"PM
+10",1,2021-10-25
+Moradabad,Moderate,118,"PM
+2.5",1,2021-10-26
+Moradabad,Moderate,182,"PM
+2.5",1,2021-10-27
+Moradabad,Poor,259,"PM
+2.5",1,2021-10-28
+Moradabad,Poor,250,"PM
+2.5",1,2021-10-29
+Moradabad,Poor,224,"PM
+2.5",1,2021-10-30
+Moradabad,Poor,252,"PM
+2.5",1,2021-10-31
+Moradabad,Poor,294,"PM
+2.5",1,2021-11-01
+Moradabad,Poor,226,"PM
+2.5",1,2021-11-02
+Moradabad,Very Poor,311,"PM
+2.5",1,2021-11-03
+Moradabad,Poor,284,"PM
+2.5",1,2021-11-04
+Moradabad,Poor,259,"PM
+2.5",1,2021-11-05
+Moradabad,Severe,414,"PM
+2.5",1,2021-11-06
+Moradabad,Very Poor,323,"PM
+2.5",1,2021-11-07
+Moradabad,Very Poor,325,"PM
+2.5",1,2021-11-08
+Moradabad,Very Poor,391,"PM
+2.5",1,2021-11-09
+Moradabad,Very Poor,309,"PM
+2.5",1,2021-11-10
+Moradabad,Very Poor,359,"PM
+2.5",2,2021-11-11
+Moradabad,Poor,271,"PM
+2.5",2,2021-11-12
+Moradabad,Poor,285,"PM
+2.5",2,2021-11-13
+Moradabad,Poor,284,"PM
+2.5",2,2021-11-14
+Moradabad,Poor,298,"PM
+2.5",2,2021-11-15
+Moradabad,Very Poor,308,"PM
+2.5",2,2021-11-16
+Moradabad,Poor,294,"PM
+2.5",2,2021-11-17
+Moradabad,Poor,296,"PM
+2.5",2,2021-11-18
+Moradabad,Poor,280,"PM
+2.5",2,2021-11-19
+Moradabad,Very Poor,330,"PM
+2.5",2,2021-11-20
+Moradabad,Poor,294,"PM
+2.5",2,2021-11-21
+Moradabad,Poor,228,"PM
+2.5",2,2021-11-22
+Moradabad,Poor,222,"PM , PM
+2.5 10",2,2021-11-23
+Moradabad,Poor,228,"PM , PM
+2.5 10",2,2021-11-24
+Moradabad,Poor,272,"PM , O
+2.5 3",2,2021-11-25
+Moradabad,Poor,238,"PM
+2.5",2,2021-11-26
+Moradabad,Poor,224,"PM
+2.5",2,2021-11-27
+Moradabad,Moderate,200,"PM
+2.5",2,2021-11-28
+Moradabad,Poor,299,"PM
+2.5",2,2021-11-29
+Moradabad,Poor,238,"PM
+2.5",2,2021-11-30
+Moradabad,Very Poor,354,"PM
+2.5",1,2021-12-01
+Moradabad,Poor,220,"PM , PM
+2.5 10",2,2021-12-02
+Moradabad,Poor,299,"PM
+2.5",1,2021-12-03
+Moradabad,Poor,219,"PM
+2.5",2,2021-12-04
+Moradabad,Poor,218,"PM
+2.5",2,2021-12-05
+Moradabad,Moderate,188,"PM
+2.5",2,2021-12-06
+Moradabad,Moderate,138,"PM
+2.5",2,2021-12-07
+Moradabad,Moderate,175,"PM
+2.5",1,2021-12-08
+Moradabad,Poor,238,"PM
+2.5",2,2021-12-09
+Moradabad,Poor,252,"PM
+2.5",2,2021-12-10
+Moradabad,Poor,245,"PM
+2.5",3,2021-12-11
+Moradabad,Poor,274,"PM
+2.5",2,2021-12-12
+Moradabad,Poor,277,"PM
+2.5",2,2021-12-13
+Moradabad,Poor,204,"PM
+2.5",2,2021-12-14
+Moradabad,Moderate,164,"PM
+2.5",2,2021-12-15
+Moradabad,Poor,242,"PM
+2.5",2,2021-12-16
+Moradabad,Poor,214,"PM
+2.5",2,2021-12-17
+Moradabad,Poor,276,"PM
+2.5",3,2021-12-18
+Moradabad,Poor,270,"PM
+2.5",3,2021-12-19
+Moradabad,Poor,242,"PM
+2.5",3,2021-12-20
+Moradabad,Poor,220,"PM
+2.5",3,2021-12-21
+Moradabad,Poor,220,"PM
+2.5",3,2021-12-22
+Moradabad,Moderate,145,"PM , CO
+2.5",3,2021-12-23
+Moradabad,Moderate,136,"PM
+2.5",3,2021-12-24
+Moradabad,Moderate,145,"PM
+2.5",3,2021-12-25
+Moradabad,Poor,267,"PM
+2.5",3,2021-12-26
+Moradabad,Poor,220,"PM
+2.5",3,2021-12-27
+Moradabad,Moderate,126,"PM
+2.5",2,2021-12-28
+Moradabad,Poor,210,"PM
+2.5",2,2021-12-29
+Moradabad,Moderate,186,"PM
+2.5",3,2021-12-30
+Moradabad,Poor,249,"PM
+2.5",3,2021-12-31
+Moradabad,Poor,281,"PM
+2.5",3,2022-01-01
+Moradabad,Very Poor,306,"PM
+2.5",3,2022-01-02
+Moradabad,Very Poor,310,"PM
+2.5",3,2022-01-03
+Moradabad,Poor,297,"PM
+2.5",3,2022-01-04
+Moradabad,Severe,431,"PM
+2.5",3,2022-01-05
+Moradabad,Moderate,161,"PM
+2.5",3,2022-01-06
+Moradabad,Satisfactory,67,"PM , CO
+2.5",3,2022-01-07
+Moradabad,Satisfactory,66,"PM
+2.5",3,2022-01-08
+Moradabad,Good,36,"CO, PM
+2.5",3,2022-01-09
+Moradabad,Good,23,"PM
+2.5",1,2022-01-10
+Moradabad,Satisfactory,71,"PM , PM
+10 2.5",3,2022-01-11
+Moradabad,Satisfactory,74,"PM , PM
+10 2.5",3,2022-01-12
+Moradabad,Moderate,127,"PM , PM
+2.5 10",4,2022-01-13
+Moradabad,Moderate,142,"PM
+2.5",3,2022-01-14
+Moradabad,Moderate,130,"PM
+2.5",3,2022-01-15
+Moradabad,Moderate,137,"PM
+2.5",3,2022-01-16
+Moradabad,Moderate,104,"PM
+2.5",3,2022-01-17
+Moradabad,Poor,211,"PM
+2.5",3,2022-01-18
+Moradabad,Poor,271,"PM
+2.5",4,2022-01-19
+Moradabad,Very Poor,302,"PM
+2.5",4,2022-01-20
+Moradabad,Moderate,200,"PM
+2.5",4,2022-01-21
+Moradabad,Poor,206,"PM
+2.5",4,2022-01-22
+Moradabad,Satisfactory,61,"PM , CO
+2.5",3,2022-01-23
+Moradabad,Satisfactory,76,"PM
+2.5",3,2022-01-24
+Moradabad,Satisfactory,86,"PM , PM
+2.5 10",4,2022-01-25
+Moradabad,Satisfactory,84,"PM
+2.5",3,2022-01-26
+Moradabad,Moderate,148,"PM
+2.5",4,2022-01-27
+Moradabad,Moderate,133,"PM
+2.5",4,2022-01-28
+Moradabad,Moderate,161,"PM
+2.5",4,2022-01-29
+Moradabad,Poor,204,"PM
+2.5",4,2022-01-30
+Moradabad,Moderate,147,"PM
+2.5",4,2022-01-31
+Moradabad,Moderate,176,"PM
+2.5",3,2022-02-01
+Moradabad,Poor,242,"PM
+2.5",4,2022-02-02
+Moradabad,Moderate,164,"PM
+2.5",3,2022-02-03
+Moradabad,Satisfactory,59,"CO, PM
+2.5",3,2022-02-04
+Moradabad,Moderate,103,"PM
+2.5",4,2022-02-05
+Moradabad,Moderate,147,"PM
+2.5",4,2022-02-06
+Moradabad,Moderate,164,"PM
+2.5",4,2022-02-07
+Moradabad,Moderate,194,"PM
+2.5",4,2022-02-08
+Moradabad,Moderate,155,"PM
+2.5",4,2022-02-09
+Moradabad,Satisfactory,76,"PM , CO
+2.5",4,2022-02-10
+Moradabad,Satisfactory,77,"PM , PM
+2.5 10",4,2022-02-11
+Moradabad,Satisfactory,88,"PM , PM
+2.5 10",4,2022-02-12
+Moradabad,Moderate,160,"PM
+2.5",4,2022-02-13
+Moradabad,Moderate,200,"PM
+2.5",4,2022-02-14
+Moradabad,Moderate,192,"PM
+2.5",4,2022-02-15
+Moradabad,Moderate,185,"PM
+2.5",4,2022-02-16
+Moradabad,Moderate,181,"PM
+2.5",4,2022-02-17
+Moradabad,Moderate,155,"PM
+2.5",4,2022-02-18
+Moradabad,Moderate,110,"PM , PM
+2.5 10",4,2022-02-19
+Moradabad,Moderate,101,"PM , PM
+2.5 10",4,2022-02-20
+Moradabad,Moderate,120,"PM , PM
+2.5 10",4,2022-02-21
+Moradabad,Moderate,156,"PM , PM
+2.5 10",4,2022-02-22
+Moradabad,Satisfactory,83,"PM
+10",3,2022-02-23
+Moradabad,Moderate,176,"PM , PM
+2.5 10",3,2022-02-24
+Moradabad,Moderate,154,"PM
+2.5",4,2022-02-25
+Moradabad,Satisfactory,80,"PM , CO
+10",4,2022-02-26
+Moradabad,Good,50,"CO, PM , PM
+2.5 10",4,2022-02-27
+Moradabad,Satisfactory,62,"PM , CO
+10",4,2022-02-28
+Moradabad,Satisfactory,78,"PM , PM
+2.5 10",4,2022-03-01
+Moradabad,Moderate,123,"PM
+2.5",3,2022-03-02
+Moradabad,Moderate,150,"PM , PM
+2.5 10",4,2022-03-03
+Moradabad,Moderate,136,"PM , PM
+2.5 10",4,2022-03-04
+Moradabad,Satisfactory,75,"PM
+10",4,2022-03-05
+Moradabad,Moderate,104,"PM , PM
+2.5 10",4,2022-03-06
+Moradabad,Moderate,197,"PM
+2.5",4,2022-03-07
+Moradabad,Moderate,171,"PM
+2.5",4,2022-03-08
+Moradabad,Moderate,106,"PM , PM
+2.5 10",4,2022-03-09
+Moradabad,Satisfactory,94,"PM
+10",4,2022-03-10
+Moradabad,Moderate,101,"PM , PM
+2.5 10",3,2022-03-11
+Moradabad,Moderate,104,"PM , PM
+2.5 10",4,2022-03-12
+Moradabad,Moderate,125,"PM , PM
+2.5 10",4,2022-03-13
+Moradabad,Moderate,150,"PM , O
+2.5 3",3,2022-03-14
+Moradabad,Moderate,182,"PM
+2.5",4,2022-03-15
+Moradabad,Moderate,164,"PM , PM
+2.5 10",4,2022-03-16
+Moradabad,Moderate,176,"PM
+2.5",4,2022-03-17
+Moradabad,Moderate,191,"PM
+2.5",4,2022-03-18
+Moradabad,Moderate,141,"PM , PM
+2.5 10",3,2022-03-19
+Moradabad,Moderate,137,"PM , PM
+2.5 10",4,2022-03-20
+Moradabad,Moderate,144,"PM , PM
+10 2.5",4,2022-03-21
+Moradabad,Moderate,105,"PM
+10",4,2022-03-22
+Moradabad,Moderate,146,"O , PM , PM
+3 2.5 10",3,2022-03-23
+Moradabad,Moderate,154,"PM , PM
+10 2.5",4,2022-03-24
+Moradabad,Moderate,140,"PM , PM
+2.5 10",3,2022-03-25
+Moradabad,Moderate,115,"O , PM
+3 10",4,2022-03-26
+Moradabad,Moderate,121,"O , PM
+3 10",4,2022-03-27
+Moradabad,Moderate,182,"O , PM , PM
+3 2.5 10",4,2022-03-28
+Moradabad,Moderate,178,"PM , PM
+2.5 10",4,2022-03-29
+Moradabad,Moderate,154,"PM , PM
+10 2.5",4,2022-03-30
+Moradabad,Moderate,181,"PM , PM , O
+10 2.5 3",4,2022-03-31
+Moradabad,Moderate,161,"PM , PM
+2.5 10",4,2022-04-01
+Moradabad,Moderate,132,"O , PM , PM
+3 2.5 10",4,2022-04-02
+Moradabad,Moderate,157,"PM , PM
+2.5 10",4,2022-04-03
+Moradabad,Moderate,158,"PM
+10",4,2022-04-04
+Moradabad,Moderate,134,"PM , PM
+10 2.5",3,2022-04-05
+Moradabad,Moderate,138,"PM , PM
+2.5 10",4,2022-04-06
+Moradabad,Moderate,146,"PM , PM
+2.5 10",4,2022-04-07
+Moradabad,Moderate,190,"PM , PM , O
+2.5 10 3",4,2022-04-08
+Moradabad,Moderate,157,"PM , PM
+2.5 10",4,2022-04-09
+Moradabad,Moderate,169,"PM , PM
+10 2.5",4,2022-04-10
+Moradabad,Moderate,187,"PM , PM
+10 2.5",4,2022-04-11
+Moradabad,Moderate,156,"PM , PM
+10 2.5",4,2022-04-12
+Moradabad,Moderate,163,"PM
+10",3,2022-04-13
+Moradabad,Moderate,173,"PM
+10",4,2022-04-14
+Moradabad,Moderate,125,"PM
+10",3,2022-04-15
+Moradabad,Moderate,113,"PM
+10",4,2022-04-16
+Moradabad,Satisfactory,98,"PM
+10",3,2022-04-17
+Moradabad,Moderate,122,"PM
+10",4,2022-04-18
+Moradabad,Moderate,143,"PM , PM
+10 2.5",4,2022-04-19
+Moradabad,Moderate,152,"PM
+10",4,2022-04-20
+Moradabad,Moderate,156,"PM
+10",4,2022-04-21
+Moradabad,Moderate,165,"PM
+10",4,2022-04-22
+Moradabad,Moderate,121,"PM
+10",4,2022-04-23
+Moradabad,Moderate,139,"O , PM
+3 10",4,2022-04-24
+Moradabad,Moderate,125,"O , PM
+3 10",4,2022-04-25
+Moradabad,Moderate,173,"PM
+10",3,2022-04-26
+Moradabad,Moderate,131,"PM
+10",3,2022-04-27
+Moradabad,Moderate,184,"PM , O
+2.5 3",3,2022-04-28
+Moradabad,Moderate,146,"PM , PM
+2.5 10",3,2022-04-29
+Moradabad,Moderate,170,"PM , O
+10 3",4,2022-04-30
+Moradabad,Moderate,167,"PM
+10",3,2022-05-01
+Moradabad,Moderate,115,"PM
+10",4,2022-05-02
+Moradabad,Satisfactory,84,"PM
+10",3,2022-05-03
+Moradabad,Moderate,105,"PM
+10",4,2022-05-04
+Moradabad,Satisfactory,71,"PM
+10",3,2022-05-05
+Moradabad,Moderate,112,"PM
+10",4,2022-05-06
+Moradabad,Moderate,111,"PM
+10",4,2022-05-07
+Moradabad,Satisfactory,77,"PM , CO
+10",4,2022-05-08
+Moradabad,Satisfactory,64,"PM , CO
+10",3,2022-05-09
+Moradabad,Satisfactory,92,"O , CO, PM
+3 10",4,2022-05-10
+Moradabad,Moderate,104,"O , CO, PM
+3 10",3,2022-05-11
+Moradabad,Moderate,115,"O , PM
+3 10",4,2022-05-12
+Moradabad,Moderate,127,"O , CO, PM
+3 10",3,2022-05-13
+Moradabad,Moderate,144,"O , PM
+3 10",3,2022-05-14
+Moradabad,Moderate,157,"O , PM
+3 10",3,2022-05-15
+Moradabad,Moderate,124,"O , PM
+3 10",4,2022-05-16
+Moradabad,Satisfactory,72,"PM
+10",2,2022-05-17
+Moradabad,Moderate,111,"PM
+10",4,2022-05-18
+Moradabad,Moderate,120,"PM , O
+10 3",4,2022-05-19
+Moradabad,Moderate,180,"O , PM
+3 10",3,2022-05-20
+Moradabad,Moderate,136,"O , PM , PM
+3 2.5 10",3,2022-05-21
+Moradabad,Poor,249,"O
+3",1,2022-05-22
+Moradabad,Satisfactory,100,"PM
+10",1,2022-05-23
+Moradabad,Satisfactory,94,"O , CO
+3",3,2022-05-24
+Moradabad,Satisfactory,89,"O , CO, PM
+3 10",4,2022-05-25
+Moradabad,Moderate,139,"O , PM
+3 10",4,2022-05-26
+Moradabad,Moderate,168,"O , PM
+3 2.5",3,2022-05-27
+Moradabad,Moderate,134,"O , PM
+3 10",3,2022-05-28
+Moradabad,Moderate,115,"O , PM
+3 10",4,2022-05-29
+Moradabad,Satisfactory,96,"O , PM
+3 10",4,2022-05-30
+Moradabad,Moderate,128,"O , PM
+3 10",4,2022-05-31
+Moradabad,Moderate,180,"PM , O
+10 3",4,2022-06-01
+Moradabad,Moderate,148,"O , PM
+3 10",4,2022-06-02
+Moradabad,Moderate,187,"O , PM
+3 10",3,2022-06-03
+Moradabad,Moderate,154,"O , PM
+3 10",4,2022-06-04
+Moradabad,Moderate,168,"O , PM
+3 10",4,2022-06-05
+Moradabad,Moderate,164,"PM
+10",4,2022-06-06
+Moradabad,Poor,216,"O
+3",4,2022-06-07
+Moradabad,Poor,210,"PM , PM
+10 2.5",4,2022-06-08
+Moradabad,Poor,204,"PM
+10",3,2022-06-09
+Moradabad,Moderate,167,"PM
+10",4,2022-06-10
+Moradabad,Moderate,181,"PM
+10",4,2022-06-11
+Moradabad,Moderate,150,"PM
+10",4,2022-06-12
+Moradabad,Moderate,149,"PM
+10",3,2022-06-13
+Moradabad,Poor,207,"PM
+10",4,2022-06-14
+Moradabad,Moderate,152,"PM
+10",4,2022-06-15
+Moradabad,Satisfactory,93,"PM
+10",4,2022-06-16
+Moradabad,Satisfactory,78,"PM , PM , CO
+2.5 10",4,2022-06-17
+Moradabad,Satisfactory,74,"PM , PM , CO
+2.5 10",4,2022-06-18
+Moradabad,Satisfactory,71,"CO, PM , PM
+10 2.5",4,2022-06-19
+Moradabad,Satisfactory,80,"PM , CO, PM
+2.5 10",4,2022-06-20
+Moradabad,Moderate,110,"PM , CO, PM
+2.5 10",5,2022-06-21
+Moradabad,Moderate,124,"PM , PM , CO
+2.5 10",4,2022-06-22
+Moradabad,Moderate,124,"PM , O , PM
+2.5 3 10",6,2022-06-23
+Moradabad,Moderate,149,"PM , O , PM
+2.5 3 10",6,2022-06-24
+Moradabad,Moderate,141,"PM , O , CO
+10 3",5,2022-06-25
+Moradabad,Satisfactory,100,"PM , PM , CO
+2.5 10",6,2022-06-26
+Moradabad,Satisfactory,92,"PM , PM , CO
+2.5 10",6,2022-06-27
+Moradabad,Moderate,104,"PM , PM , CO
+2.5 10",6,2022-06-28
+Moradabad,Satisfactory,98,"PM , PM , CO
+10 2.5",6,2022-06-29
+Moradabad,Good,50,"PM , PM , CO
+10 2.5",5,2022-06-30
+Moradabad,Good,44,"CO, O , PM
+3 10",6,2022-07-01
+Moradabad,Satisfactory,88,"PM , PM
+2.5 10",5,2022-07-02
+Moradabad,Satisfactory,63,"O , CO, PM
+3 10",5,2022-07-03
+Moradabad,Moderate,106,"PM , PM , O
+2.5 10 3",6,2022-07-04
+Moradabad,Satisfactory,92,"PM , PM , O
+2.5 10 3",6,2022-07-05
+Moradabad,Satisfactory,73,"PM , PM , CO
+2.5 10",5,2022-07-06
+Moradabad,Satisfactory,73,"PM , PM , O
+10 2.5 3",5,2022-07-07
+Moradabad,Satisfactory,77,"PM , O
+10 3",6,2022-07-08
+Moradabad,Satisfactory,68,"PM , CO
+10",6,2022-07-09
+Moradabad,Good,49,"CO, PM , PM
+2.5 10",6,2022-07-10
+Moradabad,Satisfactory,57,"CO, O , PM
+3 2.5",6,2022-07-11
+Moradabad,Satisfactory,65,"PM , CO, PM
+10 2.5",6,2022-07-12
+Moradabad,Satisfactory,64,"PM , CO
+10",5,2022-07-13
+Moradabad,Satisfactory,65,"PM , CO, PM
+10 2.5",6,2022-07-14
+Moradabad,Satisfactory,63,"PM , CO, O
+10 3",6,2022-07-15
+Moradabad,Satisfactory,63,"PM , CO, O
+10 3",6,2022-07-16
+Moradabad,Satisfactory,66,"PM , CO
+10",6,2022-07-17
+Moradabad,Satisfactory,73,"PM , CO, PM
+10 2.5",6,2022-07-18
+Moradabad,Satisfactory,71,"PM
+10",5,2022-07-19
+Moradabad,Satisfactory,64,"PM , CO
+10",5,2022-07-20
+Moradabad,Satisfactory,55,"CO, PM , PM
+10 2.5",6,2022-07-21
+Moradabad,Good,49,"CO, PM , O
+10 3",6,2022-07-22
+Moradabad,Good,50,"PM , O , PM
+10 3 2.5",6,2022-07-23
+Moradabad,Good,48,"CO, PM , O
+10 3",6,2022-07-24
+Moradabad,Good,44,"CO, O , PM
+3 10",6,2022-07-25
+Moradabad,Good,40,"O , PM , PM
+3 10 2.5",4,2022-07-26
+Moradabad,Satisfactory,58,"CO, PM , PM
+2.5 10",6,2022-07-27
+Moradabad,Satisfactory,63,"PM , CO
+2.5",5,2022-07-28
+Moradabad,Satisfactory,61,"PM , CO, PM
+10 2.5",5,2022-07-29
+Moradabad,Good,48,"CO, PM , PM
+2.5 10",5,2022-07-30
+Moradabad,Good,43,"CO, PM , PM
+10 2.5",6,2022-07-31
+Moradabad,Satisfactory,70,"PM , CO, PM
+10 2.5",5,2022-08-01
+Moradabad,Satisfactory,78,"PM , CO, PM
+10 2.5",6,2022-08-02
+Moradabad,Satisfactory,81,"PM , CO, PM
+10 2.5",5,2022-08-03
+Moradabad,Satisfactory,67,"PM , CO, PM
+10 2.5",5,2022-08-04
+Moradabad,Satisfactory,59,"PM , CO, PM
+10 2.5",5,2022-08-05
+Moradabad,Satisfactory,88,"PM , PM , CO
+2.5 10",6,2022-08-06
+Moradabad,Satisfactory,60,"CO, PM , PM
+10 2.5",6,2022-08-07
+Moradabad,Satisfactory,67,"PM , PM
+10 2.5",5,2022-08-08
+Moradabad,Satisfactory,83,"PM , PM , CO
+2.5 10",6,2022-08-09
+Moradabad,Satisfactory,69,"CO, PM , PM
+10 2.5",6,2022-08-10
+Moradabad,Satisfactory,54,"SO , PM , O
+2 10 3",6,2022-08-11
+Moradabad,Satisfactory,56,"O , PM
+3 10",4,2022-08-12
+Moradabad,Satisfactory,59,"PM , O
+10 3",5,2022-08-13
+Moradabad,Satisfactory,80,"PM
+10",6,2022-08-14
+Moradabad,Satisfactory,52,"CO, PM , O
+10 3",6,2022-08-15
+Moradabad,Satisfactory,74,"PM
+10",6,2022-08-16
+Moradabad,Satisfactory,66,"PM , CO
+10",6,2022-08-17
+Moradabad,Satisfactory,72,"PM , CO
+10",5,2022-08-18
+Moradabad,Satisfactory,80,"PM , CO
+10",6,2022-08-19
+Moradabad,Satisfactory,76,"PM , CO
+10",5,2022-08-20
+Moradabad,Satisfactory,78,"PM , PM , CO
+10 2.5",6,2022-08-21
+Moradabad,Satisfactory,70,"PM , CO, PM
+10 2.5",6,2022-08-22
+Moradabad,Satisfactory,77,"PM
+10",5,2022-08-23
+Moradabad,Satisfactory,64,"PM , CO
+10",6,2022-08-24
+Moradabad,Satisfactory,71,"PM , CO
+10",5,2022-08-25
+Moradabad,Satisfactory,92,"PM
+10",6,2022-08-26
+Moradabad,Satisfactory,99,"PM
+10",6,2022-08-27
+Moradabad,Moderate,109,"PM
+10",6,2022-08-28
+Moradabad,Moderate,101,"PM
+10",6,2022-08-29
+Moradabad,Satisfactory,80,"PM , CO, PM
+10 2.5",6,2022-08-30
+Moradabad,Satisfactory,83,"PM , CO
+10",4,2022-08-31
+Moradabad,Moderate,105,"PM , PM , CO
+10 2.5",5,2022-09-01
+Moradabad,Satisfactory,66,"CO, PM , PM
+2.5 10",5,2022-09-02
+Moradabad,Satisfactory,77,"PM , CO, PM
+10 2.5",5,2022-09-03
+Moradabad,Satisfactory,86,"PM , CO
+10",5,2022-09-04
+Moradabad,Satisfactory,92,"PM , CO
+10",6,2022-09-05
+Moradabad,Satisfactory,92,"PM , CO
+10",6,2022-09-06
+Moradabad,Moderate,102,"PM
+10",5,2022-09-07
+Moradabad,Moderate,110,"PM , PM , CO
+2.5 10",6,2022-09-08
+Moradabad,Satisfactory,85,"PM , PM , CO
+2.5 10",6,2022-09-09
+Moradabad,Satisfactory,62,"PM , PM , CO
+2.5 10",6,2022-09-10
+Moradabad,Satisfactory,58,"CO, PM , PM
+10 2.5",5,2022-09-11
+Moradabad,Satisfactory,57,"CO, PM , PM
+10 2.5",5,2022-09-12
+Moradabad,Good,48,"CO, PM
+10",6,2022-09-13
+Moradabad,Good,50,"CO, PM
+10",6,2022-09-14
+Moradabad,Good,45,"CO, PM
+10",6,2022-09-15
+Moradabad,Good,48,"O , CO, SO
+3 2",6,2022-09-16
+Moradabad,Good,36,"CO, SO , PM
+2 10",5,2022-09-17
+Moradabad,Good,33,"PM , SO , CO
+2.5 2",6,2022-09-18
+Moradabad,Good,49,"PM , PM , O
+10 2.5 3",6,2022-09-19
+Moradabad,Satisfactory,60,"PM , PM
+2.5 10",6,2022-09-20
+Moradabad,Satisfactory,60,"PM , PM
+2.5 10",6,2022-09-21
+Moradabad,Good,45,"PM , PM
+2.5 10",5,2022-09-22
+Moradabad,Good,47,"PM , PM , CO
+2.5 10",6,2022-09-23
+Moradabad,Good,42,"PM , CO
+10",2,2022-09-24
+Moradabad,Good,38,"PM , CO, SO
+2.5 2",3,2022-09-25
+Moradabad,Good,44,"PM , PM , CO
+2.5 10",6,2022-09-26
+Moradabad,Satisfactory,52,"PM , PM
+10 2.5",4,2022-09-27
+Moradabad,Satisfactory,68,"PM
+10",5,2022-09-28
+Moradabad,Satisfactory,88,"PM , PM
+10 2.5",6,2022-09-29
+Moradabad,Moderate,103,"PM , PM
+2.5 10",6,2022-09-30
+Moradabad,Moderate,116,"PM , PM
+2.5 10",6,2022-10-01
+Moradabad,Moderate,126,"PM , PM
+2.5 10",6,2022-10-02
+Moradabad,Moderate,110,"PM , PM
+2.5 10",6,2022-10-03
+Moradabad,Satisfactory,100,"PM , PM
+2.5 10",6,2022-10-04
+Moradabad,Satisfactory,70,"PM , PM
+10 2.5",6,2022-10-05
+Moradabad,Good,42,"PM , O
+10 3",6,2022-10-06
+Moradabad,Good,32,"SO , O , PM
+2 3 10",5,2022-10-07
+Moradabad,Good,28,"O , SO , PM
+3 2 10",5,2022-10-08
+Moradabad,Good,32,"SO , O , PM
+2 3 10",5,2022-10-09
+Moradabad,Good,26,"SO , PM
+2 10",3,2022-10-10
+Moradabad,Good,47,"O , PM , SO
+3 2.5 2",5,2022-10-11
+Moradabad,Satisfactory,69,"PM , PM
+2.5 10",6,2022-10-12
+Moradabad,Satisfactory,66,"PM
+2.5",6,2022-10-13
+Moradabad,Satisfactory,88,"PM , PM
+2.5 10",6,2022-10-14
+Moradabad,Satisfactory,88,"O , PM , PM
+3 2.5 10",6,2022-10-15
+Moradabad,Moderate,122,"PM
+2.5",6,2022-10-16
+Moradabad,Moderate,117,"O , PM
+3 2.5",6,2022-10-17
+Moradabad,Poor,209,"PM
+2.5",5,2022-10-18
+Moradabad,Poor,204,"PM , PM
+10 2.5",6,2022-10-19
+Moradabad,Moderate,126,"PM , PM
+2.5 10",6,2022-10-20
+Moradabad,Moderate,114,"PM
+2.5",6,2022-10-21
+Moradabad,Moderate,130,"PM
+2.5",5,2022-10-22
+Moradabad,Moderate,148,"PM
+2.5",6,2022-10-23
+Moradabad,Moderate,106,"PM
+2.5",5,2022-10-24
+Moradabad,Poor,294,"PM
+2.5",6,2022-10-25
+Moradabad,Poor,237,"PM
+2.5",4,2022-10-26
+Moradabad,Moderate,185,"PM
+2.5",6,2022-10-27
+Moradabad,Moderate,132,"PM
+2.5",6,2022-10-28
+Moradabad,Poor,213,"PM
+2.5",6,2022-10-29
+Moradabad,Moderate,131,"PM , PM
+2.5 10",6,2022-10-30
+Moradabad,Moderate,138,"PM , PM
+2.5 10",5,2022-10-31
+Moradabad,Moderate,139,"PM , PM
+10 2.5",6,2022-11-01
+Moradabad,Moderate,118,"PM , PM
+2.5 10",4,2022-11-02
+Moradabad,Moderate,181,"PM , PM
+2.5 10",6,2022-11-03
+Moradabad,Moderate,115,"PM
+2.5",6,2022-11-04
+Moradabad,Moderate,124,"PM
+2.5",6,2022-11-05
+Moradabad,Moderate,157,"PM
+2.5",6,2022-11-06
+Moradabad,Moderate,181,"PM
+2.5",6,2022-11-07
+Moradabad,Moderate,129,"PM
+2.5",6,2022-11-08
+Moradabad,Moderate,172,"PM
+2.5",6,2022-11-09
+Moradabad,Moderate,162,"PM
+2.5",6,2022-11-10
+Moradabad,Moderate,165,"PM
+2.5",6,2022-11-11
+Moradabad,Moderate,123,"PM
+2.5",6,2022-11-12
+Moradabad,Moderate,111,"PM , PM
+2.5 10",6,2022-11-13
+Moradabad,Moderate,145,"PM
+2.5",6,2022-11-14
+Moradabad,Satisfactory,92,"PM
+10",6,2022-11-15
+Moradabad,Moderate,112,"PM
+2.5",6,2022-11-16
+Moradabad,Moderate,121,"PM
+2.5",6,2022-11-17
+Moradabad,Moderate,144,"PM
+2.5",6,2022-11-18
+Moradabad,Moderate,118,"PM , PM
+10 2.5",6,2022-11-19
+Moradabad,Satisfactory,100,"PM
+2.5",6,2022-11-20
+Moradabad,Moderate,146,"PM
+2.5",6,2022-11-21
+Moradabad,Moderate,133,"PM
+2.5",6,2022-11-22
+Moradabad,Moderate,150,"PM
+2.5",6,2022-11-23
+Moradabad,Moderate,175,"PM
+2.5",6,2022-11-24
+Moradabad,Moderate,146,"PM , PM
+2.5 10",6,2022-11-25
+Moradabad,Moderate,112,"PM
+2.5",6,2022-11-26
+Moradabad,Moderate,145,"PM
+2.5",6,2022-11-27
+Moradabad,Moderate,113,"PM
+2.5",6,2022-11-28
+Moradabad,Moderate,127,"PM
+2.5",6,2022-11-29
+Moradabad,Moderate,134,"PM
+2.5",6,2022-11-30
+Moradabad,Moderate,138,"PM
+2.5",6,2022-12-01
+Moradabad,Moderate,150,"PM
+2.5",6,2022-12-02
+Moradabad,Moderate,154,"PM
+2.5",6,2022-12-03
+Moradabad,Moderate,189,"PM
+2.5",6,2022-12-04
+Moradabad,Moderate,130,"PM
+2.5",6,2022-12-05
+Moradabad,Moderate,101,"PM
+2.5",6,2022-12-06
+Moradabad,Moderate,111,"PM , PM
+2.5 10",6,2022-12-07
+Moradabad,Moderate,119,"PM , PM
+2.5 10",6,2022-12-08
+Moradabad,Moderate,169,"PM
+2.5",6,2022-12-09
+Moradabad,Moderate,136,"PM , O
+2.5 3",6,2022-12-10
+Moradabad,Moderate,127,"PM
+2.5",6,2022-12-11
+Moradabad,Satisfactory,80,"PM
+10",6,2022-12-12
+Moradabad,Satisfactory,72,"PM
+10",6,2022-12-13
+Moradabad,Satisfactory,69,"PM
+10",6,2022-12-14
+Moradabad,Moderate,111,"PM
+2.5",6,2022-12-15
+Moradabad,Moderate,180,"PM
+2.5",6,2022-12-16
+Moradabad,Moderate,172,"PM
+2.5",6,2022-12-17
+Moradabad,Satisfactory,99,"PM
+2.5",6,2022-12-18
+Moradabad,Moderate,155,"PM
+2.5",6,2022-12-19
+Moradabad,Moderate,106,"PM
+2.5",6,2022-12-20
+Moradabad,Moderate,113,"PM
+2.5",6,2022-12-21
+Moradabad,Moderate,122,"PM
+2.5",6,2022-12-22
+Moradabad,Moderate,130,"PM
+2.5",6,2022-12-23
+Moradabad,Moderate,103,"PM
+2.5",6,2022-12-24
+Moradabad,Moderate,129,"PM
+2.5",6,2022-12-25
+Moradabad,Moderate,122,"PM
+2.5",6,2022-12-26
+Moradabad,Moderate,121,"PM
+2.5",6,2022-12-27
+Moradabad,Moderate,181,"PM
+2.5",6,2022-12-28
+Moradabad,Moderate,109,"PM
+2.5",6,2022-12-29
+Moradabad,Moderate,188,"PM
+2.5",6,2022-12-30
+Moradabad,Moderate,140,"PM
+2.5",6,2022-12-31
+Moradabad,Moderate,114,"PM
+2.5",6,2023-01-01
+Moradabad,Moderate,159,"PM
+2.5",6,2023-01-02
+Moradabad,Moderate,129,"PM
+2.5",6,2023-01-03
+Moradabad,Moderate,121,"PM
+2.5",6,2023-01-04
+Moradabad,Moderate,116,"PM
+2.5",6,2023-01-05
+Moradabad,Moderate,105,"PM
+2.5",6,2023-01-06
+Moradabad,Moderate,117,"PM
+2.5",6,2023-01-07
+Moradabad,Moderate,114,"CO, PM
+2.5",6,2023-01-08
+Moradabad,Moderate,136,"PM
+2.5",6,2023-01-09
+Moradabad,Moderate,154,"PM
+2.5",6,2023-01-10
+Moradabad,Moderate,130,"PM
+2.5",6,2023-01-11
+Moradabad,Moderate,101,"PM
+2.5",6,2023-01-12
+Moradabad,Moderate,120,"PM
+2.5",6,2023-01-13
+Moradabad,Moderate,150,"PM
+2.5",6,2023-01-14
+Moradabad,Satisfactory,94,"PM
+2.5",6,2023-01-15
+Moradabad,Satisfactory,86,"PM
+2.5",6,2023-01-16
+Moradabad,Moderate,112,"PM
+2.5",6,2023-01-17
+Moradabad,Moderate,119,"PM
+2.5",6,2023-01-18
+Moradabad,Moderate,147,"PM
+2.5",6,2023-01-19
+Moradabad,Moderate,152,"PM
+2.5",6,2023-01-20
+Moradabad,Moderate,146,"PM
+2.5",6,2023-01-21
+Moradabad,Moderate,137,"PM
+2.5",6,2023-01-22
+Moradabad,Moderate,138,"PM
+2.5",6,2023-01-23
+Moradabad,Moderate,104,"PM
+2.5",6,2023-01-24
+Moradabad,Good,38,"SO , PM
+2 2.5",6,2023-01-25
+Moradabad,Satisfactory,57,"CO, PM
+10",6,2023-01-26
+Moradabad,Satisfactory,75,"PM
+2.5",6,2023-01-27
+Moradabad,Satisfactory,76,"PM
+2.5",6,2023-01-28
+Moradabad,Satisfactory,92,"PM
+2.5",6,2023-01-29
+Moradabad,Satisfactory,97,"PM
+2.5",6,2023-01-30
+Moradabad,Satisfactory,51,"PM
+2.5",6,2023-01-31
+Moradabad,Satisfactory,72,CO,6,2023-02-01
+Moradabad,Satisfactory,91,CO,6,2023-02-02
+Moradabad,Satisfactory,91,"PM , CO
+2.5",6,2023-02-03
+Moradabad,Moderate,109,"PM
+2.5",6,2023-02-04
+Moradabad,Satisfactory,87,"CO, PM
+2.5",6,2023-02-05
+Moradabad,Moderate,101,"PM
+2.5",6,2023-02-06
+Moradabad,Moderate,124,"PM
+2.5",6,2023-02-07
+Moradabad,Satisfactory,54,"CO, PM
+10",6,2023-02-08
+Moradabad,Satisfactory,72,"PM , PM
+2.5 10",6,2023-02-09
+Moradabad,Satisfactory,98,"PM , PM
+2.5 10",6,2023-02-10
+Moradabad,Satisfactory,96,"PM , PM
+2.5 10",6,2023-02-11
+Moradabad,Satisfactory,76,"PM
+10",6,2023-02-12
+Moradabad,Satisfactory,60,CO,6,2023-02-13
+Moradabad,Satisfactory,88,"O , CO
+3",6,2023-02-14
+Moradabad,Moderate,129,"PM
+2.5",6,2023-02-15
+Moradabad,Moderate,156,"PM
+2.5",6,2023-02-16
+Moradabad,Satisfactory,94,"PM
+10",6,2023-02-17
+Moradabad,Moderate,108,"PM
+2.5",6,2023-02-18
+Moradabad,Moderate,116,"PM
+2.5",6,2023-02-19
+Moradabad,Moderate,121,"PM
+2.5",6,2023-02-20
+Moradabad,Satisfactory,99,"PM , PM
+2.5 10",6,2023-02-21
+Moradabad,Satisfactory,74,"PM
+10",6,2023-02-22
+Moradabad,Moderate,138,"PM
+2.5",6,2023-02-23
+Moradabad,Satisfactory,92,"PM , PM
+10 2.5",6,2023-02-24
+Moradabad,Moderate,156,"PM
+2.5",6,2023-02-25
+Moradabad,Moderate,103,"CO, PM
+10",6,2023-02-26
+Moradabad,Moderate,111,"PM , PM
+2.5 10",6,2023-02-27
+Moradabad,Satisfactory,94,"PM , PM
+2.5 10",6,2023-02-28
+Moradabad,Satisfactory,89,"PM
+10",6,2023-03-01
+Moradabad,Satisfactory,83,"PM
+10",6,2023-03-02
+Moradabad,Moderate,131,"PM
+2.5",6,2023-03-03
+Moradabad,Satisfactory,83,"PM
+10",6,2023-03-04
+Moradabad,Moderate,131,"PM
+2.5",6,2023-03-05
+Moradabad,Satisfactory,86,"PM , PM
+10 2.5",6,2023-03-06
+Moradabad,Moderate,140,"PM
+2.5",6,2023-03-07
+Moradabad,Moderate,162,"PM
+2.5",6,2023-03-08
+Moradabad,Moderate,120,"PM
+2.5",6,2023-03-09
+Moradabad,Moderate,177,"PM
+2.5",6,2023-03-10
+Moradabad,Moderate,119,"PM
+2.5",6,2023-03-11
+Moradabad,Moderate,177,"PM
+2.5",6,2023-03-12
+Moradabad,Moderate,173,"PM
+2.5",6,2023-03-13
+Moradabad,Moderate,107,"PM , PM
+2.5 10",6,2023-03-14
+Moradabad,Satisfactory,91,"PM
+10",6,2023-03-15
+Moradabad,Moderate,149,"PM , PM
+2.5 10",6,2023-03-16
+Moradabad,Moderate,112,"PM
+10",6,2023-03-17
+Moradabad,Moderate,109,"CO, PM
+2.5",6,2023-03-18
+Moradabad,Moderate,116,"PM , PM
+2.5 10",6,2023-03-19
+Moradabad,Moderate,169,"PM
+2.5",6,2023-03-20
+Moradabad,Good,47,"CO, SO
+2",6,2023-03-21
+Moradabad,Good,48,"PM , SO
+2.5 2",5,2023-03-22
+Moradabad,Moderate,119,"PM
+2.5",5,2023-03-23
+Moradabad,Moderate,158,"PM
+2.5",6,2023-03-24
+Moradabad,Satisfactory,86,"PM
+2.5",6,2023-03-25
+Moradabad,Satisfactory,74,"PM , PM
+2.5 10",6,2023-03-26
+Moradabad,Satisfactory,95,"PM
+10",6,2023-03-27
+Moradabad,Moderate,101,"PM
+2.5",6,2023-03-28
+Moradabad,Moderate,157,"PM
+2.5",6,2023-03-29
+Moradabad,Moderate,111,"PM
+2.5",6,2023-03-30
+Moradabad,Good,50,"SO , CO
+2",5,2023-03-31
+Moradabad,Satisfactory,58,"CO, SO
+2",5,2023-04-01
+Moradabad,Satisfactory,63,"CO, PM
+2.5",6,2023-04-02
+Moradabad,Moderate,160,"PM
+2.5",6,2023-04-03
+Moradabad,Satisfactory,72,"PM
+10",5,2023-04-04
+Moradabad,Satisfactory,95,"PM
+2.5",6,2023-04-05
+Moradabad,Moderate,101,"PM
+10",6,2023-04-06
+Moradabad,Satisfactory,87,"PM
+10",6,2023-04-07
+Moradabad,Moderate,102,"PM , PM
+2.5 10",6,2023-04-08
+Moradabad,Moderate,122,"PM
+2.5",6,2023-04-09
+Moradabad,Moderate,150,"PM
+2.5",6,2023-04-10
+Moradabad,Moderate,119,"PM , PM
+2.5 10",6,2023-04-11
+Moradabad,Moderate,116,"PM
+10",5,2023-04-12
+Moradabad,Moderate,142,"PM
+10",6,2023-04-13
+Moradabad,Moderate,141,"PM , PM
+2.5 10",6,2023-04-14
+Moradabad,Moderate,165,"PM , PM
+10 2.5",6,2023-04-15
+Moradabad,Moderate,127,"PM
+10",6,2023-04-16
+Moradabad,Moderate,158,"PM , PM
+10 2.5",6,2023-04-17
+Moradabad,Moderate,114,"PM , PM
+2.5 10",6,2023-04-18
+Moradabad,Moderate,133,"PM , PM
+2.5 10",6,2023-04-19
+Moradabad,Satisfactory,68,"PM
+10",6,2023-04-20
+Moradabad,Satisfactory,76,"PM
+10",6,2023-04-21
+Moradabad,Satisfactory,72,"PM
+10",5,2023-04-22
+Moradabad,Moderate,119,"PM
+10",6,2023-04-23
+Moradabad,Moderate,135,"PM
+2.5",6,2023-04-24
+Moradabad,Moderate,138,"PM
+2.5",6,2023-04-25
+Moradabad,Moderate,145,"PM
+2.5",6,2023-04-26
+Moradabad,Moderate,151,"PM
+2.5",6,2023-04-27
+Moradabad,Satisfactory,73,"PM
+10",6,2023-04-28
+Moradabad,Moderate,147,"PM
+2.5",6,2023-04-29
+Moradabad,Satisfactory,66,"CO, PM
+10",6,2023-04-30
+Moradabad,Good,40,"PM
+10",5,2023-05-01
+Moradabad,Satisfactory,56,"CO, PM
+2.5",5,2023-05-02
+Moradabad,Satisfactory,64,"PM , CO
+2.5",6,2023-05-03
+Moradabad,Satisfactory,66,"PM , CO
+2.5",6,2023-05-04
+Moradabad,Satisfactory,97,"PM
+2.5",6,2023-05-05
+Moradabad,Moderate,140,"PM
+2.5",6,2023-05-06
+Moradabad,Moderate,104,"PM , PM
+10 2.5",6,2023-05-07
+Moradabad,Satisfactory,81,"PM
+10",6,2023-05-08
+Moradabad,Moderate,124,"O , PM
+3 10",6,2023-05-09
+Moradabad,Satisfactory,84,"PM , SO
+10 2",6,2023-05-10
+Moradabad,Moderate,135,"PM , PM
+2.5 10",6,2023-05-11
+Moradabad,Moderate,120,"PM
+2.5",6,2023-05-12
+Moradabad,Moderate,134,"PM , PM
+2.5 10",6,2023-05-13
+Moradabad,Moderate,142,"PM , PM
+2.5 10",6,2023-05-14
+Moradabad,Satisfactory,98,"PM
+10",6,2023-05-15
+Moradabad,Moderate,178,"PM
+10",6,2023-05-16
+Moradabad,Moderate,188,"PM , PM
+10 2.5",6,2023-05-17
+Moradabad,Satisfactory,92,"PM
+2.5",6,2023-05-18
+Moradabad,Satisfactory,88,"PM
+2.5",6,2023-05-19
+Moradabad,Moderate,128,"PM
+2.5",6,2023-05-20
+Moradabad,Moderate,119,"PM
+2.5",5,2023-05-21
+Moradabad,Moderate,171,"PM
+2.5",5,2023-05-22
+Moradabad,Moderate,113,"PM
+10",5,2023-05-23
+Moradabad,Satisfactory,80,"SO
+2",6,2023-05-24
+Moradabad,Satisfactory,84,"PM
+2.5",6,2023-05-25
+Moradabad,Satisfactory,66,"SO , PM
+2 2.5",6,2023-05-26
+Moradabad,Satisfactory,97,"PM
+2.5",6,2023-05-27
+Moradabad,Moderate,118,"PM
+2.5",6,2023-05-28
+Moradabad,Moderate,118,"PM
+2.5",6,2023-05-29
+Moradabad,Satisfactory,82,"SO , PM
+2 2.5",6,2023-05-30
+Moradabad,Satisfactory,87,"PM
+10",6,2023-05-31
+Moradabad,Satisfactory,68,"PM
+2.5",6,2023-06-01
+Moradabad,Satisfactory,72,"PM , PM
+10 2.5",6,2023-06-02
+Moradabad,Satisfactory,71,"PM
+10",6,2023-06-03
+Moradabad,Moderate,111,"PM
+2.5",6,2023-06-04
+Moradabad,Moderate,107,"PM
+2.5",6,2023-06-05
+Moradabad,Satisfactory,93,"PM
+10",6,2023-06-06
+Moradabad,Satisfactory,94,"PM
+10",6,2023-06-07
+Moradabad,Moderate,108,"PM
+10",6,2023-06-08
+Moradabad,Moderate,113,"PM , PM
+2.5 10",6,2023-06-09
+Moradabad,Moderate,121,"PM
+10",6,2023-06-10
+Moradabad,Moderate,116,"PM
+10",6,2023-06-11
+Moradabad,Satisfactory,96,"PM
+10",6,2023-06-12
+Moradabad,Moderate,133,"PM
+10",6,2023-06-13
+Moradabad,Moderate,148,"PM
+10",6,2023-06-14
+Moradabad,Moderate,109,"PM
+10",6,2023-06-15
+Moradabad,Satisfactory,85,"PM
+10",6,2023-06-16
+Moradabad,Moderate,117,"PM , PM
+10 2.5",6,2023-06-17
+Moradabad,Satisfactory,82,"PM
+10",6,2023-06-18
+Moradabad,Satisfactory,100,"PM
+2.5",6,2023-06-19
+Moradabad,Satisfactory,93,"PM
+2.5",6,2023-06-20
+Moradabad,Satisfactory,72,"PM
+2.5",6,2023-06-21
+Moradabad,Moderate,112,"PM
+2.5",6,2023-06-22
+Moradabad,Moderate,118,"PM
+2.5",6,2023-06-23
+Moradabad,Moderate,105,"PM
+2.5",6,2023-06-24
+Moradabad,Moderate,138,"O
+3",6,2023-06-25
+Moradabad,Satisfactory,58,"CO, SO
+2",5,2023-06-26
+Moradabad,Satisfactory,73,"PM
+2.5",6,2023-06-27
+Moradabad,Satisfactory,55,"CO, SO
+2",6,2023-06-28
+Moradabad,Satisfactory,63,"PM
+2.5",6,2023-06-29
+Moradabad,Satisfactory,54,"CO, SO
+2",6,2023-06-30
+Moradabad,Good,45,"SO , PM
+2 2.5",6,2023-07-01
+Moradabad,Good,49,"CO, SO
+2",5,2023-07-02
+Moradabad,Satisfactory,65,"PM
+10",6,2023-07-03
+Moradabad,Satisfactory,74,"PM
+10",6,2023-07-04
+Moradabad,Satisfactory,68,"PM
+2.5",6,2023-07-05
+Moradabad,Satisfactory,63,"PM
+2.5",6,2023-07-06
+Moradabad,Satisfactory,67,"SO
+2",5,2023-07-07
+Moradabad,Satisfactory,57,"PM
+2.5",5,2023-07-08
+Moradabad,Satisfactory,62,"PM
+2.5",5,2023-07-09
+Moradabad,Satisfactory,77,"PM
+2.5",4,2023-07-10
+Moradabad,Satisfactory,73,"PM
+2.5",5,2023-07-11
+Moradabad,Satisfactory,62,"PM
+2.5",6,2023-07-12
+Moradabad,Satisfactory,55,"PM
+10",6,2023-07-13
+Moradabad,Satisfactory,61,"PM
+10",6,2023-07-14
+Moradabad,Satisfactory,74,"PM
+10",6,2023-07-15
+Moradabad,Satisfactory,77,"PM
+10",6,2023-07-16
+Moradabad,Satisfactory,87,"PM
+10",6,2023-07-17
+Moradabad,Satisfactory,72,"PM
+10",6,2023-07-18
+Moradabad,Satisfactory,75,"PM
+10",6,2023-07-19
+Moradabad,Moderate,103,"PM
+2.5",6,2023-07-20
+Moradabad,Moderate,104,"PM
+10",6,2023-07-21
+Moradabad,Moderate,119,"O
+3",6,2023-07-22
+Moradabad,Satisfactory,68,"PM
+2.5",6,2023-07-23
+Moradabad,Satisfactory,77,"PM
+2.5",6,2023-07-24
+Moradabad,Satisfactory,90,"PM
+2.5",6,2023-07-25
+Moradabad,Satisfactory,68,"PM
+2.5",6,2023-07-26
+Moradabad,Satisfactory,79,"PM
+2.5",6,2023-07-27
+Moradabad,Satisfactory,71,"PM
+2.5",6,2023-07-28
+Moradabad,Satisfactory,66,"PM
+2.5",6,2023-07-29
+Moradabad,Satisfactory,59,"PM
+10",6,2023-07-30
+Moradabad,Satisfactory,81,"PM
+2.5",6,2023-07-31
+Moradabad,Moderate,138,"PM
+2.5",6,2023-08-01
+Moradabad,Moderate,110,"PM
+10",6,2023-08-02
+Moradabad,Satisfactory,99,"PM , PM
+10 2.5",6,2023-08-03
+Moradabad,Satisfactory,58,"PM
+10",2,2023-08-04
+Moradabad,Satisfactory,91,"O , PM
+3 10",6,2023-08-05
+Moradabad,Good,47,"PM
+10",5,2023-08-06
+Moradabad,Satisfactory,68,"PM
+10",5,2023-08-07
+Moradabad,Moderate,110,"PM
+10",6,2023-08-08
+Moradabad,Moderate,113,"PM
+10",6,2023-08-09
+Moradabad,Moderate,120,"PM
+10",5,2023-08-10
+Moradabad,Satisfactory,93,"PM
+10",6,2023-08-11
+Moradabad,Moderate,117,"PM
+10",5,2023-08-12
+Moradabad,Moderate,104,"PM
+10",6,2023-08-13
+Moradabad,Satisfactory,88,"PM
+10",6,2023-08-14
+Moradabad,Satisfactory,87,"PM
+10",5,2023-08-15
+Moradabad,Moderate,104,"PM
+10",5,2023-08-16
+Moradabad,Moderate,112,"PM
+10",5,2023-08-17
+Moradabad,Moderate,117,"PM
+10",6,2023-08-18
+Moradabad,Satisfactory,93,"PM
+10",5,2023-08-19
+Moradabad,Satisfactory,64,"PM
+10",5,2023-08-20
+Moradabad,Satisfactory,71,"PM
+10",5,2023-08-21
+Moradabad,Satisfactory,63,"PM
+2.5",5,2023-08-22
+Moradabad,Good,38,"PM , PM
+10 2.5",5,2023-08-23
+Moradabad,Good,39,"PM
+2.5",5,2023-08-24
+Moradabad,Satisfactory,90,"PM
+10",6,2023-08-25
+Moradabad,Moderate,111,"PM
+10",5,2023-08-26
+Moradabad,Moderate,132,"PM
+10",6,2023-08-27
+Moradabad,Moderate,128,"PM
+10",6,2023-08-28
+Moradabad,Moderate,110,"PM
+10",6,2023-08-29
+Moradabad,Moderate,120,"PM
+10",6,2023-08-30
+Moradabad,Moderate,116,"PM
+10",6,2023-08-31
+Moradabad,Moderate,111,"PM
+10",6,2023-09-01
+Moradabad,Moderate,121,"PM
+10",6,2023-09-02
+Moradabad,Moderate,118,"PM
+10",4,2023-09-03
+Moradabad,Moderate,120,"PM
+10",6,2023-09-04
+Moradabad,Satisfactory,54,"PM
+10",4,2023-09-05
+Moradabad,Satisfactory,61,"PM
+10",6,2023-09-06
+Moradabad,Satisfactory,77,"PM
+10",5,2023-09-07
+Moradabad,Satisfactory,62,"PM , CO
+10",6,2023-09-08
+Moradabad,Good,43,"PM
+10",5,2023-09-09
+Moradabad,Good,36,"PM
+10",5,2023-09-10
+Moradabad,Good,40,"CO, PM
+2.5",3,2023-09-11
+Moradabad,Satisfactory,63,"PM , CO
+10",6,2023-09-12
+Moradabad,Satisfactory,91,"PM , PM
+2.5 10",6,2023-09-13
+Moradabad,Satisfactory,94,"PM , PM
+2.5 10",6,2023-09-14
+Moradabad,Satisfactory,62,"PM
+10",6,2023-09-15
+Moradabad,Satisfactory,66,"PM
+10",6,2023-09-16
+Moradabad,Good,50,"PM
+10",3,2023-09-17
+Moradabad,Good,46,"CO, PM
+10",5,2023-09-18
+Moradabad,Satisfactory,70,"PM
+10",5,2023-09-19
+Moradabad,Satisfactory,83,"PM
+10",5,2023-09-20
+Moradabad,Satisfactory,74,"PM
+10",6,2023-09-21
+Moradabad,Satisfactory,67,"PM
+10",6,2023-09-22
+Moradabad,Satisfactory,64,"PM
+10",5,2023-09-23
+Moradabad,Satisfactory,66,"PM
+10",6,2023-09-24
+Moradabad,Satisfactory,85,"PM
+10",6,2023-09-25
+Moradabad,Satisfactory,81,"PM
+10",5,2023-09-26
+Moradabad,Moderate,109,"PM , PM
+2.5 10",6,2023-09-27
+Moradabad,Moderate,110,"PM
+10",5,2023-09-28
+Moradabad,Moderate,129,"PM
+10",6,2023-09-29
+Moradabad,Moderate,127,"PM
+10",6,2023-09-30
+Moradabad,Satisfactory,99,"PM
+10",6,2023-10-01
+Moradabad,Moderate,123,"PM , PM
+2.5 10",6,2023-10-02
+Moradabad,Moderate,124,"PM , PM
+2.5 10",6,2023-10-03
+Moradabad,Moderate,137,"PM
+10",6/7,2023-10-04
+Moradabad,Moderate,154,"PM , PM
+2.5 10",6/7,2023-10-05
+Moradabad,Moderate,156,"PM , PM
+2.5 10",6/7,2023-10-06
+Moradabad,Moderate,186,"PM
+2.5",6/7,2023-10-07
+Moradabad,Moderate,123,"PM , PM
+2.5 10",6/7,2023-10-08
+Moradabad,Moderate,108,"PM
+2.5",4/7,2023-10-09
+Moradabad,Satisfactory,94,"PM
+10",6/7,2023-10-10
+Moradabad,Satisfactory,94,"PM
+10",5/7,2023-10-11
+Moradabad,Satisfactory,91,"PM , PM
+10 2.5",6/7,2023-10-12
+Moradabad,Moderate,104,"PM , O
+10 3",6/7,2023-10-13
+Moradabad,Moderate,128,"PM , PM
+2.5 10",6/7,2023-10-14
+Moradabad,Moderate,155,"PM , PM
+2.5 10",5/7,2023-10-15
+Moradabad,Moderate,122,"PM , PM
+2.5 10",5/7,2023-10-16
+Moradabad,Satisfactory,54,"PM , CO
+10",4/7,2023-10-17
+Moradabad,Satisfactory,59,"PM , CO
+10",6/7,2023-10-18
+Moradabad,Satisfactory,67,"PM , PM
+10 2.5",6/7,2023-10-19
+Moradabad,Satisfactory,84,"PM
+10",6/7,2023-10-20
+Moradabad,Moderate,111,"PM , PM
+2.5 10",6/7,2023-10-21
+Moradabad,Moderate,103,"PM , PM
+10 2.5",5/7,2023-10-22
+Moradabad,Moderate,120,"PM , PM
+10 2.5",5/7,2023-10-23
+Moradabad,Moderate,110,"PM , PM
+2.5 10",6/7,2023-10-24
+Moradabad,Satisfactory,98,"PM , PM
+10 2.5",6/7,2023-10-25
+Moradabad,Moderate,136,"PM , PM
+2.5 10",6/7,2023-10-26
+Moradabad,Moderate,138,"PM , PM
+2.5 10",6/7,2023-10-27
+Moradabad,Moderate,112,"PM , PM
+2.5 10",6/7,2023-10-28
+Moradabad,Moderate,162,"PM
+2.5",6/7,2023-10-29
+Moradabad,Moderate,166,"PM
+2.5",6/7,2023-10-30
+Moradabad,Moderate,150,"PM
+2.5",6/7,2023-10-31
+Moradabad,Moderate,127,"PM , PM
+10 2.5",6/7,2023-11-01
+Moradabad,Satisfactory,97,"PM , PM
+10 2.5",6/7,2023-11-02
+Moradabad,Moderate,150,"PM
+2.5",6/7,2023-11-03
+Moradabad,Moderate,139,"PM
+2.5",6/7,2023-11-04
+Moradabad,Moderate,141,"PM
+2.5",6/7,2023-11-05
+Moradabad,Moderate,183,"PM
+2.5",5/7,2023-11-06
+Moradabad,Moderate,146,"PM
+2.5",5/7,2023-11-07
+Moradabad,Moderate,200,"PM
+2.5",6/7,2023-11-08
+Moradabad,Moderate,159,"PM
+2.5",6/7,2023-11-09
+Moradabad,Moderate,183,"PM
+2.5",5/7,2023-11-10
+Moradabad,Satisfactory,81,"PM , PM
+10 2.5",6/7,2023-11-11
+Moradabad,Satisfactory,86,"PM , PM
+10 2.5",6/7,2023-11-12
+Moradabad,Poor,264,"PM
+2.5",6/7,2023-11-13
+Moradabad,Poor,223,"PM
+2.5",6/7,2023-11-14
+Moradabad,Moderate,165,"PM
+2.5",6/7,2023-11-15
+Moradabad,Moderate,145,"PM , PM
+2.5 10",6/7,2023-11-16
+Moradabad,Moderate,131,"PM , PM
+2.5 10",5/7,2023-11-17
+Moradabad,Moderate,154,"PM
+2.5",6/7,2023-11-18
+Moradabad,Moderate,172,"PM
+2.5",6/7,2023-11-19
+Moradabad,Moderate,171,"PM
+2.5",6/7,2023-11-20
+Moradabad,Moderate,193,"PM
+2.5",6/7,2023-11-21
+Moradabad,Poor,205,"PM
+2.5",6/7,2023-11-22
+Moradabad,Poor,251,"PM
+2.5",6/7,2023-11-23
+Moradabad,Poor,207,"PM
+2.5",6/7,2023-11-24
+Moradabad,Poor,235,"PM
+2.5",6/7,2023-11-25
+Moradabad,Moderate,192,"PM , PM
+2.5 10",6/7,2023-11-26
+Moradabad,Moderate,134,"PM , PM
+10 2.5",6/7,2023-11-27
+Moradabad,Moderate,128,"PM , PM
+10 2.5",6/7,2023-11-28
+Moradabad,Moderate,122,"PM , PM
+2.5 10",6/7,2023-11-29
+Moradabad,Moderate,182,"PM , PM
+10 2.5",6/7,2023-11-30
+Moradabad,Moderate,183,"PM
+2.5",5/7,2023-12-01
+Moradabad,Moderate,138,"PM , PM
+10 2.5",6/7,2023-12-02
+Moradabad,Moderate,101,"PM , PM
+2.5 10",6/7,2023-12-03
+Moradabad,Satisfactory,87,"PM , PM
+2.5 10",6/7,2023-12-04
+Moradabad,Satisfactory,68,"PM
+10",6/7,2023-12-05
+Moradabad,Moderate,107,"PM
+10",6/7,2023-12-06
+Moradabad,Moderate,130,"PM , PM
+2.5 10",6/7,2023-12-07
+Moradabad,Moderate,136,"PM , PM
+10 2.5",6/7,2023-12-08
+Moradabad,Moderate,148,"PM , PM
+10 2.5",6/7,2023-12-09
+Moradabad,Moderate,128,"PM , PM
+10 2.5",6/7,2023-12-10
+Moradabad,Moderate,200,"PM
+2.5",6/7,2023-12-11
+Moradabad,Poor,213,"PM
+2.5",5/7,2023-12-12
+Moradabad,Moderate,187,"PM
+2.5",6/7,2023-12-13
+Moradabad,Moderate,133,"PM , PM
+10 2.5",6/7,2023-12-14
+Moradabad,Moderate,151,"PM , PM
+10 2.5",6/7,2023-12-15
+Moradabad,Moderate,183,"PM
+2.5",6/7,2023-12-16
+Moradabad,Moderate,180,"PM , PM , O
+10 2.5 3",6/7,2023-12-17
+Moradabad,Moderate,151,"PM , PM
+10 2.5",6/7,2023-12-18
+Moradabad,Moderate,125,"PM , PM
+10 2.5",6/7,2023-12-19
+Moradabad,Moderate,194,"PM
+2.5",6/7,2023-12-20
+Moradabad,Moderate,198,"PM , PM
+10 2.5",6/7,2023-12-21
+Moradabad,Moderate,153,"PM , PM
+10 2.5",6/7,2023-12-22
+Moradabad,Moderate,167,"PM
+2.5",6/7,2023-12-23
+Moradabad,Moderate,113,"PM , PM
+10 2.5",6/7,2023-12-24
+Moradabad,Moderate,129,"PM , PM
+10 2.5",6/7,2023-12-25
+Moradabad,Moderate,153,"PM , PM
+10 2.5",6/7,2023-12-26
+Moradabad,Moderate,183,"PM
+2.5",6/7,2023-12-27
+Moradabad,Moderate,149,"PM , PM
+10 2.5",6/7,2023-12-28
+Moradabad,Moderate,113,"PM , PM
+10 2.5",6/7,2023-12-29
+Moradabad,Satisfactory,98,"PM , PM , O
+10 2.5 3",6/7,2023-12-30
+Moradabad,Satisfactory,97,"PM , PM
+10 2.5",6/7,2023-12-31
+Moradabad,Satisfactory,90,"PM , PM
+2.5 10",6/7,2024-01-01
+Moradabad,Moderate,113,"PM , PM
+10 2.5",5/7,2024-01-02
+Moradabad,Moderate,159,"PM , PM
+10 2.5",6/7,2024-01-03
+Moradabad,Moderate,124,"PM , PM
+10 2.5",6/7,2024-01-04
+Moradabad,Moderate,138,"PM , PM
+10 2.5",6/7,2024-01-05
+Moradabad,Moderate,111,"PM , PM
+10 2.5",6/7,2024-01-06
+Moradabad,Moderate,163,"PM , PM , O
+10 2.5 3",6/7,2024-01-07
+Moradabad,Satisfactory,88,"PM , PM
+2.5 10",6/7,2024-01-08
+Moradabad,Satisfactory,73,"PM , PM
+10 2.5",6/7,2024-01-09
+Moradabad,Moderate,108,"PM , PM
+10 2.5",6/7,2024-01-10
+Moradabad,Moderate,119,"PM , PM
+10 2.5",6/7,2024-01-11
+Moradabad,Moderate,172,"PM , PM
+10 2.5",6/7,2024-01-12
+Moradabad,Moderate,160,"PM , PM
+10 2.5",6/7,2024-01-13
+Moradabad,Moderate,166,"PM
+2.5",6/7,2024-01-14
+Moradabad,Moderate,140,"PM , PM
+10 2.5",6/7,2024-01-15
+Moradabad,Moderate,188,"O , PM
+3 2.5",6/7,2024-01-16
+Moradabad,Moderate,132,"PM , PM
+10 2.5",6/7,2024-01-17
+Moradabad,Satisfactory,90,"PM , PM
+10 2.5",5/7,2024-01-18
+Moradabad,Moderate,106,"PM , PM
+10 2.5",6/7,2024-01-19
+Moradabad,Satisfactory,96,"PM , PM
+10 2.5",6/7,2024-01-20
+Moradabad,Moderate,146,"PM , PM
+10 2.5",6/7,2024-01-21
+Moradabad,Moderate,133,"PM , PM
+10 2.5",6/7,2024-01-22
+Moradabad,Moderate,140,"PM , PM
+10 2.5",6/7,2024-01-23
+Moradabad,Moderate,117,"PM , PM
+10 2.5",5/7,2024-01-24
+Moradabad,Moderate,148,"PM , PM
+10 2.5",6/7,2024-01-25
+Moradabad,Moderate,172,"PM
+2.5",5/7,2024-01-26
+Moradabad,Moderate,178,"PM
+2.5",6/7,2024-01-27
+Moradabad,Moderate,147,"PM , PM
+10 2.5",6/7,2024-01-28
+Moradabad,Moderate,136,"PM , PM
+10 2.5",6/7,2024-01-29
+Moradabad,Poor,220,"PM
+2.5",6/7,2024-01-30
+Moradabad,Moderate,186,"PM
+2.5",6/7,2024-01-31
+Moradabad,Satisfactory,86,"PM
+10",1/7,2024-02-01
+Moradabad,Satisfactory,84,"PM , O
+10 3",6/7,2024-02-02
+Moradabad,Satisfactory,66,"PM
+10",6/7,2024-02-03
+Moradabad,Satisfactory,73,"PM , PM
+10 2.5",5/7,2024-02-04
+Moradabad,Satisfactory,62,"PM , O
+10 3",6/7,2024-02-05
+Moradabad,Satisfactory,91,"PM , O
+10 3",6/7,2024-02-06
+Moradabad,Satisfactory,69,"PM
+10",6/7,2024-02-07
+Moradabad,Satisfactory,71,"PM
+10",6/7,2024-02-08
+Moradabad,Satisfactory,84,"PM
+10",6/7,2024-02-09
+Moradabad,Moderate,132,"PM , PM
+10 2.5",6/7,2024-02-10
+Moradabad,Moderate,126,"PM , PM
+10 2.5",6/7,2024-02-11
+Moradabad,Moderate,149,"PM , PM
+10 2.5",5/7,2024-02-12
+Moradabad,Moderate,149,"PM , PM
+10 2.5",6/7,2024-02-13
+Moradabad,Moderate,124,"PM , PM
+10 2.5",6/7,2024-02-14
+Moradabad,Moderate,132,"PM , PM
+10 2.5",6/7,2024-02-15
+Moradabad,Moderate,133,"PM , PM
+10 2.5",6/7,2024-02-16
+Moradabad,Satisfactory,99,"PM , PM
+10 2.5",6/7,2024-02-17
+Moradabad,Moderate,126,"PM , PM
+10 2.5",6/7,2024-02-18
+Moradabad,Moderate,126,"PM , PM
+10 2.5",6/7,2024-02-19
+Moradabad,Moderate,102,"PM , PM
+10 2.5",5/7,2024-02-20
+Moradabad,Moderate,105,"PM
+10",5/7,2024-02-21
+Moradabad,Satisfactory,95,"PM
+10",6/7,2024-02-22
+Moradabad,Satisfactory,82,"PM
+10",6/7,2024-02-23
+Moradabad,Satisfactory,82,"PM
+10",6/7,2024-02-24
+Moradabad,Moderate,106,"PM , PM
+10 2.5",6/7,2024-02-25
+Moradabad,Satisfactory,90,"PM , SO
+10 2",6/7,2024-02-26
+Moradabad,Satisfactory,97,"PM , PM
+10 2.5",6/7,2024-02-27
+Moradabad,Satisfactory,90,"PM , PM
+10 2.5",6/7,2024-02-28
+Moradabad,Satisfactory,71,"PM
+10",6/7,2024-02-29
+Moradabad,Satisfactory,90,"PM , PM
+10 2.5",4/7,2024-03-01
+Moradabad,Satisfactory,78,"PM
+10",3/7,2024-03-02
+Moradabad,Good,36,"PM , SO
+10 2",6/7,2024-03-03
+Moradabad,Good,34,"PM , SO
+10 2",5/7,2024-03-04
+Moradabad,Satisfactory,57,"PM
+10",6/7,2024-03-05
+Moradabad,Satisfactory,57,"PM , O
+10 3",5/7,2024-03-06
+Moradabad,Satisfactory,75,"PM
+10",5/7,2024-03-07
+Moradabad,Satisfactory,81,"PM
+10",6/7,2024-03-08
+Moradabad,Satisfactory,65,"PM
+10",6/7,2024-03-09
+Moradabad,Satisfactory,80,"PM
+10",5/7,2024-03-10
+Moradabad,Moderate,143,"PM , PM
+10 2.5",6/7,2024-03-11
+Moradabad,Moderate,118,"PM , PM
+10 2.5",5/7,2024-03-12
+Moradabad,Satisfactory,89,"PM
+10",6/7,2024-03-13
+Moradabad,Satisfactory,92,"PM
+10",6/7,2024-03-14
+Moradabad,Satisfactory,88,"PM
+10",6/7,2024-03-15
+Moradabad,Satisfactory,86,"PM
+10",6/7,2024-03-16
+Moradabad,Moderate,113,"PM , PM
+10 2.5",6/7,2024-03-17
+Moradabad,Moderate,110,"PM , PM
+10 2.5",6/7,2024-03-18
+Moradabad,Moderate,108,"PM
+10",6/7,2024-03-19
+Moradabad,Moderate,124,"PM , PM
+10 2.5",6/7,2024-03-20
+Moradabad,Satisfactory,82,"PM
+10",6/7,2024-03-21
+Moradabad,Satisfactory,92,"PM , PM
+10 2.5",5/7,2024-03-22
+Moradabad,Moderate,136,"PM , PM
+10 2.5",5/7,2024-03-23
+Moradabad,Moderate,104,"PM
+10",6/7,2024-03-24
+Moradabad,Moderate,122,"PM , PM
+10 2.5",6/7,2024-03-25
+Moradabad,Satisfactory,71,"PM
+10",6/7,2024-03-26
+Moradabad,Moderate,106,"PM , PM
+10 2.5",6/7,2024-03-27
+Moradabad,Moderate,107,"PM
+10",6/7,2024-03-28
+Moradabad,Moderate,132,"O , PM , PM
+3 10 2.5",6/7,2024-03-29
+Moradabad,Moderate,137,"O , PM
+3 10",6/7,2024-03-30
+Moradabad,Moderate,103,"PM
+10",6/7,2024-03-31
+Moradabad,Satisfactory,82,"PM
+10",6/7,2024-04-01
+Moradabad,Satisfactory,86,"PM , O
+10 3",6/7,2024-04-02
+Moradabad,Satisfactory,94,"PM
+10",6/7,2024-04-03
+Moradabad,Satisfactory,99,"PM
+10",6/7,2024-04-04
+Moradabad,Moderate,102,"PM
+10",6/7,2024-04-05
+Moradabad,Satisfactory,96,"PM
+10",6/7,2024-04-06
+Moradabad,Satisfactory,98,"O , PM
+3 10",5/7,2024-04-07
+Moradabad,Moderate,117,"PM
+10",5/7,2024-04-08
+Moradabad,Moderate,120,"O , PM
+3 10",5/7,2024-04-09
+Moradabad,Moderate,136,"O , PM
+3 10",5/7,2024-04-10
+Moradabad,Moderate,121,"O , PM , PM
+3 2.5 10",6/7,2024-04-11
+Moradabad,Moderate,129,"PM
+10",5/7,2024-04-12
+Moradabad,Moderate,130,"O , PM
+3 10",5/7,2024-04-13
+Moradabad,Moderate,129,"PM
+10",5/7,2024-04-14
+Moradabad,Satisfactory,91,"O , PM , PM
+3 2.5 10",6/7,2024-04-15
+Moradabad,Moderate,107,"O , PM
+3 10",6/7,2024-04-16
+Moradabad,Satisfactory,88,"O , PM
+3 10",6/7,2024-04-17
+Moradabad,Satisfactory,99,"O , PM
+3 10",6/7,2024-04-18
+Moradabad,Moderate,108,"PM
+10",6/7,2024-04-19
+Moradabad,Moderate,113,"PM
+10",6/7,2024-04-20
+Moradabad,Moderate,122,"O , PM
+3 10",6/7,2024-04-21
+Moradabad,Moderate,109,"O , PM
+3 10",6/7,2024-04-22
+Moradabad,Moderate,112,"PM , O
+10 3",6/7,2024-04-23
+Moradabad,Moderate,123,"PM , O
+10 3",6/7,2024-04-24
+Moradabad,Moderate,129,"PM , O
+10 3",6/7,2024-04-25
+Moradabad,Moderate,117,"PM , O
+10 3",6/7,2024-04-26
+Moradabad,Moderate,114,"PM , O
+10 3",6/7,2024-04-27
+Moradabad,Moderate,125,"PM , O
+10 3",6/7,2024-04-28
+Moradabad,Moderate,115,"PM , O
+10 3",6/7,2024-04-29
+Moradabad,Moderate,116,"PM , O
+10 3",6/7,2024-04-30
+Moradabad,Moderate,123,"PM
+10",5/7,2024-05-01
+Moradabad,Moderate,123,"PM , O
+10 3",6/7,2024-05-02
+Moradabad,Moderate,116,"PM
+10",5/7,2024-05-03
+Moradabad,Moderate,148,"PM , O
+10 3",6/7,2024-05-04
+Moradabad,Moderate,140,"PM , O
+10 3",6/7,2024-05-05
+Moradabad,Moderate,134,"PM , O
+10 3",6/7,2024-05-06
+Moradabad,Moderate,136,"PM
+10",4/7,2024-05-07
+Moradabad,Moderate,116,"PM
+10",6/7,2024-05-08
+Moradabad,Satisfactory,85,"PM
+10",5/7,2024-05-09
+Moradabad,Satisfactory,95,"PM , O
+10 3",6/7,2024-05-10
+Moradabad,Moderate,102,"PM
+10",6/7,2024-05-11
+Moradabad,Satisfactory,91,"PM , O
+10 3",6/7,2024-05-12
+Moradabad,Moderate,133,"PM , O
+10 3",6/7,2024-05-13
+Moradabad,Moderate,124,"PM , O
+10 3",5/7,2024-05-14
+Moradabad,Moderate,140,"PM , O
+10 3",6/7,2024-05-15
+Moradabad,Moderate,117,"PM , O
+10 3",6/7,2024-05-16
+Moradabad,Moderate,156,"PM , O , PM
+10 3 2.5",6/7,2024-05-17
+Moradabad,Moderate,152,"PM , O
+10 3",6/7,2024-05-18
+Moradabad,Moderate,145,"PM , O
+10 3",5/7,2024-05-19
+Moradabad,Moderate,114,"PM
+10",6/7,2024-05-20
+Moradabad,Satisfactory,94,"PM , O
+10 3",6/7,2024-05-21
+Moradabad,Moderate,108,"PM , SO , O
+10 2 3",6/7,2024-05-22
+Moradabad,Satisfactory,93,"PM , O
+10 3",6/7,2024-05-23
+Moradabad,Satisfactory,92,"PM , SO , O
+10 2 3",6/7,2024-05-24
+Moradabad,Moderate,113,"PM , O
+10 3",5/7,2024-05-25
+Moradabad,Moderate,101,"PM
+10",5/7,2024-05-26
+Moradabad,Satisfactory,94,"PM
+10",4/7,2024-05-27
+Moradabad,Moderate,136,"PM , O
+10 3",6/7,2024-05-28
+Moradabad,Moderate,131,"PM , O
+10 3",6/7,2024-05-29
+Moradabad,Moderate,141,"PM , O
+10 3",5/7,2024-05-30
+Moradabad,Moderate,132,"O , PM
+3 10",5/7,2024-05-31
+Moradabad,Moderate,134,"O , PM
+3 10",6/7,2024-06-01
+Moradabad,Moderate,190,"PM
+10",5/7,2024-06-02
+Moradabad,Moderate,131,"PM , O
+10 3",6/7,2024-06-03
+Moradabad,Moderate,131,"PM , O
+10 3",5/7,2024-06-04
+Moradabad,Moderate,113,"PM , O
+10 3",5/7,2024-06-05
+Moradabad,Satisfactory,82,"PM , O
+10 3",6/7,2024-06-06
+Moradabad,Moderate,123,"PM , O
+10 3",6/7,2024-06-07
+Moradabad,Moderate,132,"PM , O
+10 3",6/7,2024-06-08
+Moradabad,Moderate,114,"PM , O
+10 3",6/7,2024-06-09
+Moradabad,Satisfactory,100,"PM
+10",5/7,2024-06-10
+Moradabad,Moderate,111,"PM , O
+10 3",5/7,2024-06-11
+Moradabad,Moderate,137,"PM , O
+10 3",5/7,2024-06-12
+Moradabad,Moderate,134,"PM , O
+10 3",6/7,2024-06-13
+Moradabad,Moderate,124,"PM
+10",6/7,2024-06-14
+Moradabad,Moderate,117,"PM
+10",5/7,2024-06-15
+Moradabad,Moderate,121,"PM
+10",5/7,2024-06-16
+Moradabad,Moderate,115,"PM
+10",5/7,2024-06-17
+Moradabad,Moderate,118,"PM
+10",6/7,2024-06-18
+Moradabad,Moderate,124,"PM , O
+10 3",6/7,2024-06-19
+Moradabad,Moderate,120,"O , PM
+3 10",4/7,2024-06-20
+Moradabad,Moderate,117,"O
+3",6/7,2024-06-21
+Moradabad,Satisfactory,80,"PM , O
+10 3",6/7,2024-06-22
+Moradabad,Satisfactory,68,"PM , O
+10 3",6/7,2024-06-23
+Moradabad,Satisfactory,76,"PM
+10",6/7,2024-06-24
+Moradabad,Satisfactory,61,"O , PM
+3 10",5/7,2024-06-25
+Moradabad,Satisfactory,60,"PM
+10",6/7,2024-06-26
+Moradabad,Good,46,"PM , O
+10 3",5/7,2024-06-27
+Moradabad,Good,44,"CO, PM , O
+10 3",5/7,2024-06-28
+Moradabad,Satisfactory,51,"PM
+10",5/7,2024-06-29
+Moradabad,Good,40,"CO, PM
+10",5/7,2024-06-30
+Moradabad,Good,45,"PM
+10",5/7,2024-07-01
+Moradabad,Good,40,"PM
+10",4/7,2024-07-02
+Moradabad,Good,38,"CO, PM , PM
+10 2.5",6/7,2024-07-03
+Moradabad,Good,34,"SO , O , NO
+2 3 2",5/7,2024-07-04
+Moradabad,Good,33,"O , CO
+3",6/7,2024-07-05
+Moradabad,Good,32,"PM , CO
+2.5",6/7,2024-07-06
+Moradabad,Good,30,"CO, O
+3",6/7,2024-07-07
+Moradabad,Good,35,"CO, O , SO
+3 2",5/7,2024-07-08
+Moradabad,Good,47,"PM , O , PM
+10 3 2.5",6/7,2024-07-09
+Moradabad,Satisfactory,64,"PM , PM
+2.5 10",6/7,2024-07-10
+Moradabad,Satisfactory,61,"PM
+2.5",6/7,2024-07-11
+Moradabad,Satisfactory,59,"PM , PM
+2.5 10",6/7,2024-07-12
+Moradabad,Satisfactory,63,"PM , O
+10 3",6/7,2024-07-13
+Moradabad,Satisfactory,64,"PM , PM
+10 2.5",6/7,2024-07-14
+Moradabad,Satisfactory,65,"PM , PM
+10 2.5",6/7,2024-07-15
+Moradabad,Satisfactory,66,"SO , PM
+2 10",6/7,2024-07-16
+Moradabad,Good,46,"PM
+10",6/7,2024-07-17
+Moradabad,Good,48,"PM
+10",6/7,2024-07-18
+Moradabad,Good,46,"PM
+10",6/7,2024-07-19
+Moradabad,Good,48,"PM , PM
+10 2.5",6/7,2024-07-20
+Moradabad,Satisfactory,58,"PM , PM
+10 2.5",6/7,2024-07-21
+Moradabad,Good,43,"CO, PM
+10",6/7,2024-07-22
+Moradabad,Satisfactory,59,"O , PM , PM
+3 10 2.5",6/7,2024-07-23
+Moradabad,Good,50,"PM , PM
+10 2.5",4/7,2024-07-24
+Moradabad,Good,39,"PM , CO, PM
+10 2.5",6/7,2024-07-25
+Moradabad,Good,44,"PM
+10",6/7,2024-07-26
+Moradabad,Good,39,"PM , CO
+10",6/7,2024-07-27
+Moradabad,Satisfactory,56,"PM
+10",6/7,2024-07-28
+Moradabad,Good,47,"PM , O
+10 3",6/7,2024-07-29
+Moradabad,Satisfactory,52,"PM , CO
+10",6/7,2024-07-30
+Moradabad,Good,48,"PM , O
+10 3",5/7,2024-07-31
+Moradabad,Good,42,"O , PM
+3 10",6/7,2024-08-01
+Moradabad,Good,46,"O , PM
+3 10",6/7,2024-08-02
+Moradabad,Good,41,"O , PM , CO
+3 10",6/7,2024-08-03
+Moradabad,Good,43,"PM , O
+10 3",6/7,2024-08-04
+Moradabad,Good,39,"O , CO
+3",6/7,2024-08-05
+Moradabad,Good,47,"SO , PM
+2 10",6/7,2024-08-06
+Moradabad,Good,31,"O , PM , CO
+3 2.5",6/7,2024-08-07
+Moradabad,Good,36,"CO, PM
+2.5",6/7,2024-08-08
+Moradabad,Good,38,"CO, SO
+2",6/7,2024-08-09
+Moradabad,Good,42,"CO, SO
+2",6/7,2024-08-10
+Moradabad,Good,37,"CO, PM
+10",6/7,2024-08-11
+Moradabad,Good,37,"CO, O
+3",6/7,2024-08-12
+Moradabad,Good,40,CO,6/7,2024-08-13
+Moradabad,Satisfactory,52,"PM , SO
+10 2",6/7,2024-08-14
+Moradabad,Good,42,"CO, PM , PM
+10 2.5",6/7,2024-08-15
+Moradabad,Good,50,"PM
+10",6/7,2024-08-16
+Moradabad,Satisfactory,51,"PM , PM
+10 2.5",6/7,2024-08-17
+Moradabad,Good,44,"PM , CO
+10",6/7,2024-08-18
+Moradabad,Good,41,"PM , PM
+2.5 10",6/7,2024-08-19
+Moradabad,Good,41,"CO, PM
+10",6/7,2024-08-20
+Moradabad,Good,40,"O , PM , CO
+3 10",5/7,2024-08-21
+Moradabad,Good,49,"PM , PM
+10 2.5",6/7,2024-08-22
+Moradabad,Good,44,"CO, O
+3",6/7,2024-08-23
+Moradabad,Good,50,"PM
+10",6/7,2024-08-24
+Moradabad,Good,41,"O , PM , PM
+3 2.5 10",6/7,2024-08-25
+Moradabad,Good,39,"CO, PM
+10",6/7,2024-08-26
+Moradabad,Good,35,"CO, O
+3",6/7,2024-08-27
+Moradabad,Good,37,"O , CO
+3",6/7,2024-08-28
+Moradabad,Good,37,"O , CO, PM
+3 10",5/7,2024-08-29
+Moradabad,Satisfactory,55,"PM , O
+10 3",6/7,2024-08-30
+Moradabad,Satisfactory,55,"PM
+10",6/7,2024-08-31
+Moradabad,Satisfactory,62,"PM
+10",6/7,2024-09-01
+Moradabad,Good,37,"O , PM , CO
+3 2.5",6/7,2024-09-02
+Moradabad,Good,48,"PM , PM
+10 2.5",5/7,2024-09-03
+Moradabad,Good,42,"PM
+10",6/7,2024-09-04
+Moradabad,Good,36,"PM , CO, O
+10 3",5/7,2024-09-05
+Moradabad,Satisfactory,58,"PM , PM
+2.5 10",6/7,2024-09-06
+Moradabad,Good,42,"PM , PM
+10 2.5",6/7,2024-09-07
+Moradabad,Satisfactory,52,"O , PM , PM
+3 10 2.5",5/7,2024-09-08
+Moradabad,Good,49,"PM , PM
+2.5 10",5/7,2024-09-09
+Moradabad,Satisfactory,56,"PM , PM
+2.5 10",6/7,2024-09-10
+Moradabad,Good,35,"PM
+10",5/7,2024-09-11
+Moradabad,Good,30,"PM , O
+10 3",4/7,2024-09-12
+Moradabad,Good,26,"CO, NO , SO
+2 2",3/7,2024-09-13
+Moradabad,Good,32,"O , CO
+3",5/7,2024-09-14
+Moradabad,Good,40,"O , PM
+3 10",6/7,2024-09-15
+Moradabad,Satisfactory,54,"PM , O
+10 3",6/7,2024-09-16
+Moradabad,Satisfactory,85,"PM
+10",6/7,2024-09-17
+Moradabad,Good,35,"CO, PM
+10",6/7,2024-09-18
+Moradabad,Good,40,"O , PM , CO
+3 2.5",6/7,2024-09-19
+Moradabad,Satisfactory,56,"PM , PM
+10 2.5",6/7,2024-09-20
+Moradabad,Satisfactory,59,"PM , PM
+2.5 10",6/7,2024-09-21
+Moradabad,Satisfactory,69,"PM , PM
+10 2.5",6/7,2024-09-22
+Moradabad,Satisfactory,100,"PM , PM
+2.5 10",6/7,2024-09-23
+Moradabad,Moderate,103,"PM , PM
+10 2.5",6/7,2024-09-24
+Moradabad,Satisfactory,78,"PM , SO
+2.5 2",5/7,2024-09-25
+Moradabad,Good,46,"PM , SO , PM
+2.5 2 10",6/7,2024-09-26
+Moradabad,Good,40,"PM , O
+10 3",6/7,2024-09-27
+Moradabad,Good,36,"SO , O , CO
+2 3",5/7,2024-09-28
+Moradabad,Good,40,"PM , CO, O
+10 3",6/7,2024-09-29
+Moradabad,Satisfactory,58,"PM , O
+10 3",6/7,2024-09-30
+Moradabad,Satisfactory,82,"PM
+10",6/7,2024-10-01
+Moradabad,Moderate,105,"O , PM
+3 10",6/7,2024-10-02
+Moradabad,Moderate,101,"PM
+10",6/7,2024-10-03
+Moradabad,Moderate,116,"O , PM
+3 10",6/7,2024-10-04
+Moradabad,Moderate,106,"PM , PM
+10 2.5",6/7,2024-10-05
+Moradabad,Moderate,112,"PM , PM
+10 2.5",5/7,2024-10-06
+Moradabad,Satisfactory,91,"PM
+10",5/7,2024-10-07
+Moradabad,Satisfactory,96,"PM , PM
+2.5 10",6/7,2024-10-08
+Moradabad,Moderate,104,"PM , PM
+10 2.5",5/7,2024-10-09
+Moradabad,Satisfactory,98,"PM , PM
+2.5 10",6/7,2024-10-10
+Moradabad,Satisfactory,97,"PM , PM
+10 2.5",6/7,2024-10-11
+Moradabad,Satisfactory,99,"PM , PM
+2.5 10",6/7,2024-10-12
+Moradabad,Satisfactory,95,"PM , PM
+2.5 10",6/7,2024-10-13
+Moradabad,Moderate,120,"PM , PM
+10 2.5",6/7,2024-10-14
+Moradabad,Moderate,139,"PM
+2.5",6/7,2024-10-15
+Moradabad,Moderate,150,"PM
+2.5",6/7,2024-10-16
+Moradabad,Moderate,147,"PM
+2.5",6/7,2024-10-17
+Moradabad,Moderate,133,"PM , PM
+2.5 10",6/7,2024-10-18
+Moradabad,Moderate,134,"PM , PM
+10 2.5",6/7,2024-10-19
+Moradabad,Moderate,136,"PM
+2.5",6/7,2024-10-20
+Moradabad,Moderate,128,"PM , PM
+10 2.5",4/7,2024-10-21
+Moradabad,Moderate,141,"PM
+2.5",6/7,2024-10-22
+Moradabad,Moderate,152,"PM
+2.5",6/7,2024-10-23
+Moradabad,Moderate,127,"PM
+2.5",6/7,2024-10-24
+Moradabad,Moderate,136,"PM
+2.5",6/7,2024-10-25
+Moradabad,Moderate,147,"PM
+2.5",6/7,2024-10-26
+Moradabad,Moderate,114,"PM
+2.5",6/7,2024-10-27
+Moradabad,Moderate,163,"PM
+2.5",6/7,2024-10-28
+Moradabad,Moderate,148,"PM
+2.5",6/7,2024-10-29
+Moradabad,Moderate,133,"PM
+2.5",6/7,2024-10-30
+Moradabad,Moderate,140,"PM
+2.5",6/7,2024-10-31
+Moradabad,Very Poor,320,"PM
+2.5",6/7,2024-11-01
+Moradabad,Moderate,139,"PM
+2.5",6/7,2024-11-02
+Moradabad,Moderate,147,"PM
+2.5",6/7,2024-11-03
+Moradabad,Satisfactory,98,"PM , PM
+2.5 10",6/7,2024-11-04
+Moradabad,Moderate,112,"PM , PM
+10 2.5",6/7,2024-11-05
+Moradabad,Moderate,141,"PM
+2.5",6/7,2024-11-06
+Moradabad,Moderate,144,"PM
+2.5",6/7,2024-11-07
+Moradabad,Moderate,140,"PM
+2.5",6/7,2024-11-08
+Moradabad,Moderate,134,"PM
+2.5",6/7,2024-11-09
+Moradabad,Moderate,140,"PM
+2.5",6/7,2024-11-10
+Moradabad,Moderate,131,"PM
+2.5",6/7,2024-11-11
+Moradabad,Moderate,136,"PM
+2.5",6/7,2024-11-12
+Moradabad,Moderate,148,"PM
+2.5",6/7,2024-11-13
+Moradabad,Moderate,156,"PM
+2.5",6/7,2024-11-14
+Moradabad,Moderate,190,"PM
+2.5",6/7,2024-11-15
+Moradabad,Moderate,184,"PM
+2.5",5/7,2024-11-16
+Moradabad,Moderate,175,"PM
+2.5",6/7,2024-11-17
+Moradabad,Moderate,160,"PM
+2.5",5/7,2024-11-18
+Moradabad,Moderate,125,"PM
+2.5",6/7,2024-11-19
+Moradabad,Moderate,120,"PM
+2.5",6/7,2024-11-20
+Moradabad,Satisfactory,95,"PM
+2.5",6/7,2024-11-21
+Moradabad,Moderate,103,"PM , PM
+2.5 10",6/7,2024-11-22
+Moradabad,Moderate,124,"PM
+2.5",6/7,2024-11-23
+Moradabad,Moderate,128,"PM
+2.5",6/7,2024-11-24
+Moradabad,Moderate,186,"PM
+2.5",6/7,2024-11-25
+Moradabad,Poor,204,"PM
+2.5",6/7,2024-11-26
+Moradabad,Moderate,109,"PM , PM
+10 2.5",6/7,2024-11-27
+Moradabad,Moderate,117,"PM
+2.5",6/7,2024-11-28
+Moradabad,Moderate,120,"PM
+2.5",6/7,2024-11-29
+Moradabad,Satisfactory,90,"PM
+2.5",6/7,2024-11-30
+Moradabad,Moderate,120,"PM
+2.5",6/7,2024-12-01
+Moradabad,Moderate,146,"PM
+2.5",6/7,2024-12-02
+Moradabad,Moderate,126,"PM
+2.5",6/7,2024-12-03
+Moradabad,Satisfactory,78,"PM , PM
+2.5 10",6/7,2024-12-04
+Moradabad,Satisfactory,71,"PM
+10",6/7,2024-12-05
+Moradabad,Satisfactory,80,"PM
+10",6/7,2024-12-06
+Moradabad,Moderate,111,"PM
+2.5",6/7,2024-12-07
+Moradabad,Moderate,131,"PM
+2.5",6/7,2024-12-08
+Moradabad,Satisfactory,70,"PM , PM
+10 2.5",6/7,2024-12-09
+Moradabad,Satisfactory,69,"PM , PM
+2.5 10",6/7,2024-12-10
+Moradabad,Satisfactory,76,"PM , PM
+10 2.5",6/7,2024-12-11
+Moradabad,Moderate,123,"PM
+2.5",6/7,2024-12-12
+Moradabad,Satisfactory,91,"PM , PM
+10 2.5",6/7,2024-12-13
+Moradabad,Satisfactory,83,"PM
+10",6/7,2024-12-14
+Moradabad,Moderate,191,"PM
+2.5",6/7,2024-12-15
+Moradabad,Moderate,162,"PM
+2.5",6/7,2024-12-16
+Moradabad,Moderate,156,"PM
+2.5",6/7,2024-12-17
+Moradabad,Moderate,143,"PM
+2.5",6/7,2024-12-18
+Moradabad,Moderate,175,"PM
+2.5",6/7,2024-12-19
+Moradabad,Moderate,119,"PM
+2.5",6/7,2024-12-20
+Moradabad,Satisfactory,94,"PM , PM
+10 2.5",5/7,2024-12-21
+Moradabad,Moderate,115,"PM
+2.5",6/7,2024-12-22
+Moradabad,Moderate,130,"PM
+2.5",6/7,2024-12-23
+Moradabad,Moderate,105,"PM
+2.5",6/7,2024-12-24
+Moradabad,Moderate,116,"PM
+2.5",6/7,2024-12-25
+Moradabad,Moderate,124,"PM
+2.5",6/7,2024-12-26
+Moradabad,Moderate,123,"PM
+2.5",6/7,2024-12-27
+Moradabad,Good,38,"SO , PM
+2 2.5",6/7,2024-12-28
+Moradabad,Good,45,"PM , PM
+10 2.5",5/7,2024-12-29
+Moradabad,Satisfactory,57,"PM , PM
+10 2.5",5/7,2024-12-30
+Moradabad,Satisfactory,69,"PM , PM
+2.5 10",6/7,2024-12-31
+Moradabad,Moderate,104,"PM , PM
+2.5 10",6/7,2025-01-02
+Moradabad,Moderate,138,"PM
+2.5",6/7,2025-01-03
+Moradabad,Satisfactory,92,"PM
+2.5",6/7,2025-01-04
+Moradabad,Satisfactory,94,"PM
+2.5",5/7,2025-01-05
+Moradabad,Moderate,122,"PM
+2.5",5/7,2025-01-06
+Moradabad,Moderate,111,"PM
+2.5",4/7,2025-01-07
+Moradabad,Moderate,111,"O , PM , PM
+3 10 2.5",6/7,2025-01-08
+Moradabad,Moderate,124,"PM
+2.5",6/7,2025-01-09
+Moradabad,Moderate,156,"PM
+2.5",6/7,2025-01-10
+Moradabad,Moderate,124,"PM
+2.5",6/7,2025-01-11
+Moradabad,Satisfactory,78,"PM , O
+2.5 3",5/7,2025-01-12
+Moradabad,Satisfactory,53,"O , PM , PM
+3 2.5 10",6/7,2025-01-13
+Moradabad,Satisfactory,97,"PM
+2.5",6/7,2025-01-14
+Moradabad,Moderate,105,"PM
+2.5",6/7,2025-01-15
+Moradabad,Satisfactory,92,"PM , PM
+2.5 10",6/7,2025-01-16
+Moradabad,Satisfactory,79,"PM
+2.5",6/7,2025-01-17
+Moradabad,Satisfactory,80,"PM , PM
+10 2.5",5/7,2025-01-18
+Moradabad,Moderate,107,"PM
+2.5",6/7,2025-01-19
+Moradabad,Satisfactory,83,"PM , PM
+2.5 10",6/7,2025-01-20
+Moradabad,Satisfactory,85,"PM , NO
+2.5 2",6/7,2025-01-21
+Moradabad,Moderate,104,"PM
+2.5",6/7,2025-01-22
+Moradabad,Satisfactory,96,"NO , PM
+2 2.5",4/7,2025-01-23
+Moradabad,Satisfactory,73,"PM , PM , O
+2.5 10 3",6/7,2025-01-24
+Moradabad,Satisfactory,73,"O , PM , PM
+3 10 2.5",6/7,2025-01-25
+Moradabad,Moderate,104,"PM
+2.5",6/7,2025-01-26
+Moradabad,Moderate,127,"PM , O
+2.5 3",6/7,2025-01-27
+Moradabad,Moderate,143,"PM
+2.5",6/7,2025-01-28
+Moradabad,Moderate,188,"PM
+2.5",6/7,2025-01-29
+Moradabad,Moderate,168,"PM
+2.5",6/7,2025-01-30
+Moradabad,Moderate,125,"PM , PM
+10 2.5",5/7,2025-01-31
+Moradabad,Satisfactory,89,"PM
+10",6/7,2025-02-01
+Moradabad,Satisfactory,84,"PM
+10",6/7,2025-02-02
+Moradabad,Satisfactory,71,"PM
+10",6/7,2025-02-03
+Moradabad,Satisfactory,82,"PM
+10",6/7,2025-02-04
+Moradabad,Satisfactory,85,"PM
+10",6/7,2025-02-05
+Moradabad,Satisfactory,66,"O , PM
+3 10",6/7,2025-02-06
+Moradabad,Satisfactory,62,"PM , O
+10 3",6/7,2025-02-07
+Moradabad,Satisfactory,69,"O , PM
+3 10",6/7,2025-02-08
+Moradabad,Satisfactory,92,"PM
+10",5/7,2025-02-09
+Moradabad,Satisfactory,90,"PM
+10",5/7,2025-02-10
+Moradabad,Satisfactory,92,"O , PM
+3 10",5/7,2025-02-11
+Moradabad,Satisfactory,100,"PM , PM
+2.5 10",5/7,2025-02-12
+Moradabad,Satisfactory,64,"PM , O
+10 3",6/7,2025-02-13
+Moradabad,Satisfactory,66,"O , PM
+3 10",6/7,2025-02-14
+Moradabad,Satisfactory,80,"O , PM , PM
+3 10 2.5",6/7,2025-02-15
+Moradabad,Moderate,101,"PM , PM
+2.5 10",6/7,2025-02-16
+Moradabad,Satisfactory,92,"PM , O , PM
+2.5 3 10",5/7,2025-02-17
+Moradabad,Moderate,107,"PM , PM
+2.5 10",6/7,2025-02-18
+Moradabad,Satisfactory,77,"PM
+10",6/7,2025-02-19
+Moradabad,Moderate,101,"PM
+10",6/7,2025-02-20
+Moradabad,Satisfactory,61,"CO, PM
+10",6/7,2025-02-21
+Moradabad,Satisfactory,66,"PM , SO , CO
+10 2",4/7,2025-02-22
+Moradabad,Satisfactory,68,"PM
+10",4/7,2025-02-23
+Moradabad,Satisfactory,69,"O , PM
+3 10",6/7,2025-02-24
+Moradabad,Satisfactory,78,"PM , O
+10 3",6/7,2025-02-25
+Moradabad,Satisfactory,94,"PM
+10",6/7,2025-02-26
+Moradabad,Satisfactory,70,"PM
+10",6/7,2025-02-27
+Moradabad,Good,46,"CO, PM
+10",5/7,2025-02-28
+Moradabad,Good,41,"SO , O , PM
+2 3 10",6/7,2025-03-01
+Moradabad,Good,49,"PM , O
+10 3",6/7,2025-03-02
+Moradabad,Satisfactory,56,"O , PM
+3 10",6/7,2025-03-03
+Moradabad,Satisfactory,83,"PM
+10",6/7,2025-03-04
+Moradabad,Satisfactory,58,"O , PM
+3 10",6/7,2025-03-05
+Moradabad,Satisfactory,60,"O , PM
+3 10",6/7,2025-03-06
+Moradabad,Satisfactory,77,"PM , O
+10 3",5/7,2025-03-07
+Moradabad,Satisfactory,82,"PM , O
+10 3",6/7,2025-03-08
+Moradabad,Satisfactory,96,"PM , O
+10 3",6/7,2025-03-09
+Moradabad,Satisfactory,84,"PM , O
+10 3",6/7,2025-03-10
+Moradabad,Moderate,110,"PM , PM , O
+2.5 10 3",6/7,2025-03-11
+Moradabad,Satisfactory,85,"PM
+10",6/7,2025-03-12
+Moradabad,Satisfactory,65,"O , PM
+3 10",6/7,2025-03-13
+Moradabad,Satisfactory,80,"PM , O
+10 3",6/7,2025-03-14
+Moradabad,Satisfactory,58,"SO , O , PM
+2 3 10",6/7,2025-03-15
+Moradabad,Satisfactory,67,"PM , SO
+10 2",6/7,2025-03-16
+Moradabad,Satisfactory,55,"PM , SO , O
+10 2 3",6/7,2025-03-17
+Moradabad,Satisfactory,60,"O , PM
+3 10",6/7,2025-03-18
+Moradabad,Satisfactory,68,"PM , O
+10 3",6/7,2025-03-19
+Moradabad,Satisfactory,80,"O , PM
+3 10",6/7,2025-03-20
+Moradabad,Satisfactory,66,"PM , O
+10 3",6/7,2025-03-21
+Moradabad,Satisfactory,72,"O , PM , CO
+3 10",6/7,2025-03-22
+Moradabad,Satisfactory,92,"O , CO, PM
+3 10",5/7,2025-03-23
+Moradabad,Satisfactory,91,"PM
+10",6/7,2025-03-24
+Moradabad,Moderate,101,"PM , O
+10 3",6/7,2025-03-25
+Moradabad,Moderate,111,"O , PM
+3 10",6/7,2025-03-26
+Moradabad,Moderate,101,"PM , O
+10 3",6/7,2025-03-27
+Moradabad,Satisfactory,100,"PM
+10",6/7,2025-03-28
+Moradabad,Satisfactory,72,"O , PM
+3 10",6/7,2025-03-29
+Moradabad,Satisfactory,80,"O , PM
+3 10",6/7,2025-03-30
+Moradabad,Satisfactory,80,"PM , O
+10 3",6/7,2025-03-31
+Moradabad,Satisfactory,68,"O , PM
+3 10",6/7,2025-04-01
+Moradabad,Satisfactory,88,"O , PM
+3 10",6/7,2025-04-02
+Moradabad,Satisfactory,99,"PM , O
+10 3",6/7,2025-04-03
+Moradabad,Satisfactory,84,"PM
+10",6/7,2025-04-04
+Moradabad,Satisfactory,72,"PM , O
+10 3",6/7,2025-04-05
+Moradabad,Satisfactory,79,"PM , O
+10 3",6/7,2025-04-06
+Moradabad,Satisfactory,99,"SO , CO, PM
+2 10",6/7,2025-04-07
+Moradabad,Satisfactory,98,"PM
+10",6/7,2025-04-08
+Moradabad,Moderate,101,"PM
+10",4/7,2025-04-09
+Moradabad,Satisfactory,80,"PM
+10",6/7,2025-04-10
+Moradabad,Satisfactory,60,"SO , CO, PM
+2 10",6/7,2025-04-11
+Moradabad,Satisfactory,54,"O , PM , PM
+3 2.5 10",3/7,2025-04-12
+Moradabad,Satisfactory,61,"PM , O
+10 3",5/7,2025-04-13
+Moradabad,Satisfactory,79,"O , SO
+3 2",5/7,2025-04-14
+Moradabad,Satisfactory,88,"O , PM
+3 10",6/7,2025-04-15
+Moradabad,Moderate,111,"O , PM
+3 10",6/7,2025-04-16
+Moradabad,Moderate,113,"O , PM
+3 10",6/7,2025-04-17
+Moradabad,Satisfactory,84,"O , PM
+3 10",6/7,2025-04-18
+Moradabad,Satisfactory,57,"O
+3",1/7,2025-04-19
+Moradabad,Satisfactory,59,"PM , O
+10 3",6/7,2025-04-20
+Moradabad,Moderate,101,"O , PM
+3 10",5/7,2025-04-21
+Moradabad,Satisfactory,99,"O , PM
+3 10",6/7,2025-04-22
+Moradabad,Moderate,115,"PM , O
+10 3",6/7,2025-04-23
+Moradabad,Moderate,112,"O , PM
+3 10",6/7,2025-04-24
+Moradabad,Moderate,123,"PM , PM , O
+10 2.5 3",5/7,2025-04-25
+Moradabad,Satisfactory,91,"O , PM
+3 10",6/7,2025-04-26
+Moradabad,Moderate,139,"O , PM
+3 10",6/7,2025-04-27
+Moradabad,Moderate,139,"O , PM
+3 10",6/7,2025-04-28
+Moradabad,Satisfactory,95,"PM , O
+10 3",6/7,2025-04-29
+Moradabad,Satisfactory,83,"O , PM
+3 10",5/7,2025-04-30
+Moradabad,Satisfactory,85,"O , PM
+3 10",5/7,2025-05-01
+Moradabad,Satisfactory,74,"PM , O
+10 3",6/7,2025-05-02
+Moradabad,Satisfactory,94,"PM , O
+10 3",6/7,2025-05-03
+Moradabad,Moderate,104,"PM , CO, O
+10 3",5/7,2025-05-04
+Moradabad,Satisfactory,67,"O , SO
+3 2",4/7,2025-05-05
+Moradabad,Satisfactory,84,"PM , SO , PM
+10 2 2.5",5/7,2025-05-06
+Moradabad,Satisfactory,76,"SO , O , CO
+2 3",6/7,2025-05-07
+Moradabad,Satisfactory,82,"SO , O , PM
+2 3 10",6/7,2025-05-08
+Moradabad,Satisfactory,82,"SO , PM , O
+2 10 3",6/7,2025-05-09
+Moradabad,Satisfactory,79,"O , PM , SO
+3 10 2",6/7,2025-05-10
+Moradabad,Satisfactory,72,"SO , PM , O
+2 10 3",6/7,2025-05-11
+Moradabad,Satisfactory,87,"O , PM , SO
+3 10 2",6/7,2025-05-12
+Moradabad,Satisfactory,87,"PM , CO, SO
+10 2",5/7,2025-05-13
+Moradabad,Satisfactory,79,"O , PM
+3 10",6/7,2025-05-14
+Moradabad,Moderate,132,"O , PM
+3 10",6/7,2025-05-15
+Moradabad,Moderate,103,"PM
+10",6/7,2025-05-16
+Moradabad,Satisfactory,98,"PM
+10",6/7,2025-05-17
+Moradabad,Satisfactory,82,"PM , CO
+10",5/7,2025-05-18
+Moradabad,Satisfactory,69,"PM , O
+10 3",5/7,2025-05-19
+Moradabad,Satisfactory,65,"O , PM
+3 10",5/7,2025-05-20
+Moradabad,Satisfactory,74,"O , PM
+3 10",5/7,2025-05-21
+Moradabad,Satisfactory,66,"PM , SO , CO
+10 2",5/7,2025-05-22
+Moradabad,Satisfactory,55,"O , SO
+3 2",6/7,2025-05-23
+Moradabad,Satisfactory,72,"SO , CO, PM
+2 10",6/7,2025-05-24
+Moradabad,Satisfactory,61,"O , SO
+3 2",5/7,2025-05-25
+Moradabad,Satisfactory,67,"SO , O
+2 3",4/7,2025-05-26
+Moradabad,Satisfactory,68,"PM , SO , CO
+10 2",6/7,2025-05-27
+Moradabad,Satisfactory,68,"SO , CO, O
+2 3",5/7,2025-05-28
+Moradabad,Satisfactory,66,"CO, PM , O
+2.5 3",6/7,2025-05-29
+Moradabad,Satisfactory,67,"O , PM
+3 10",6/7,2025-05-30
+Moradabad,Satisfactory,83,"O , PM
+3 10",6/7,2025-05-31
+Moradabad,Satisfactory,91,"O , PM
+3 10",6/7,2025-06-01
+Moradabad,Satisfactory,86,"PM
+10",6/7,2025-06-02
+Moradabad,Satisfactory,84,"PM
+10",6/7,2025-06-03
+Moradabad,Satisfactory,74,"O , PM
+3 10",6/7,2025-06-04
+Moradabad,Satisfactory,74,"PM , O
+10 3",6/7,2025-06-05
+Moradabad,Satisfactory,88,"O , PM
+3 10",5/7,2025-06-06
+Moradabad,Moderate,102,"PM , O
+10 3",6/7,2025-06-07
+Moradabad,Moderate,104,"PM , O
+10 3",6/7,2025-06-08
+Moradabad,Moderate,107,"PM , O
+10 3",4/7,2025-06-09
+Moradabad,Satisfactory,97,"PM
+10",5/7,2025-06-10
+Moradabad,Satisfactory,86,"PM
+10",6/7,2025-06-11
+Moradabad,Satisfactory,70,"PM
+10",6/7,2025-06-12
+Moradabad,Satisfactory,73,"CO, PM
+10",4/7,2025-06-13
+Moradabad,Satisfactory,58,"O , SO
+3 2",5/7,2025-06-14
+Moradabad,Satisfactory,63,"PM , SO
+10 2",6/7,2025-06-15
+Moradabad,Satisfactory,52,"O , SO
+3 2",5/7,2025-06-16
+Moradabad,Satisfactory,53,"O , SO , CO
+3 2",5/7,2025-06-17
+Moradabad,Satisfactory,56,"CO, O , SO
+3 2",6/7,2025-06-18
+Moradabad,Satisfactory,53,"SO , O , CO
+2 3",5/7,2025-06-19
+Moradabad,Satisfactory,54,"SO , CO, O
+2 3",6/7,2025-06-20
+Moradabad,Satisfactory,57,"CO, O , SO
+3 2",6/7,2025-06-21
+Moradabad,Satisfactory,54,"SO , CO
+2",6/7,2025-06-22
+Moradabad,Good,50,"CO, SO
+2",6/7,2025-06-23
+Moradabad,Satisfactory,52,"CO, SO
+2",5/7,2025-06-24
+Moradabad,Satisfactory,56,"CO, SO
+2",5/7,2025-06-25
+Moradabad,Satisfactory,56,"SO , CO
+2",5/7,2025-06-26
+Moradabad,Satisfactory,57,"SO , O , CO
+2 3",5/7,2025-06-27
+Moradabad,Satisfactory,57,"CO, SO , O
+2 3",4/7,2025-06-28
+Moradabad,Satisfactory,51,"SO , PM
+2 10",4/7,2025-06-29
+Moradabad,Good,39,"CO, O
+3",3/7,2025-06-30
+Moradabad,Good,48,"SO , CO
+2",6/7,2025-07-01
+Moradabad,Good,42,"CO, SO , O
+2 3",4/7,2025-07-02
+Moradabad,Good,44,"O , CO
+3",4/7,2025-07-03
+Moradabad,Good,43,"O , CO
+3",6/7,2025-07-04
+Moradabad,Satisfactory,58,"PM , O
+10 3",6/7,2025-07-05
+Moradabad,Good,48,"PM , O
+10 3",6/7,2025-07-06
+Moradabad,Good,42,CO,4/7,2025-07-07
+Moradabad,Satisfactory,68,"PM , PM , O
+10 2.5 3",4/7,2025-07-08
+Moradabad,Satisfactory,73,"PM , PM
+10 2.5",5/7,2025-07-09
+Moradabad,Good,50,"O , PM
+3 10",5/7,2025-07-10
+Moradabad,Satisfactory,62,"PM , CO, PM
+2.5 10",6/7,2025-07-11
+Moradabad,Satisfactory,71,"PM , PM
+2.5 10",6/7,2025-07-12
+Moradabad,Satisfactory,51,"PM , O
+10 3",5/7,2025-07-13
+Moradabad,Satisfactory,56,"PM , CO, PM
+2.5 10",5/7,2025-07-14
+Moradabad,Good,49,"PM , CO, PM
+10 2.5",6/7,2025-07-15
+Moradabad,Satisfactory,57,"PM , PM
+10 2.5",6/7,2025-07-16
+Moradabad,Satisfactory,57,"PM , PM , O
+2.5 10 3",4/7,2025-07-17
+Moradabad,Satisfactory,55,"PM , CO, PM
+2.5 10",6/7,2025-07-18
+Moradabad,Satisfactory,62,"PM , PM
+10 2.5",6/7,2025-07-19
+Moradabad,Satisfactory,70,"PM
+10",6/7,2025-07-20
+Moradabad,Satisfactory,76,"PM , PM
+10 2.5",5/7,2025-07-21
+Moradabad,Satisfactory,82,"PM , PM
+10 2.5",6/7,2025-07-22
+Moradabad,Satisfactory,91,"PM , PM
+2.5 10",6/7,2025-07-23
+Moradabad,Satisfactory,53,"PM , PM
+10 2.5",5/7,2025-07-24
+Moradabad,Satisfactory,89,"PM , PM
+10 2.5",5/7,2025-07-25
+Moradabad,Satisfactory,61,"O , PM , PM
+3 2.5 10",4/7,2025-07-26
+Moradabad,Good,48,"PM , O
+10 3",5/7,2025-07-27
+Moradabad,Satisfactory,57,"PM , PM
+2.5 10",6/7,2025-07-28
+Moradabad,Satisfactory,54,"CO, SO , O
+2 3",5/7,2025-07-29
+Moradabad,Satisfactory,55,"CO, PM , O
+2.5 3",3/7,2025-07-30
+Moradabad,Satisfactory,53,"PM , PM , CO
+2.5 10",5/7,2025-07-31
+Moradabad,Satisfactory,54,"CO, PM
+2.5",6/7,2025-08-01
+Moradabad,Satisfactory,62,"PM , SO
+10 2",5/7,2025-08-02
+Moradabad,Satisfactory,70,"PM
+10",5/7,2025-08-03
+Moradabad,Good,49,"CO, O
+3",4/7,2025-08-04
+Moradabad,Satisfactory,58,"PM , CO, O
+2.5 3",4/7,2025-08-05
+Moradabad,Satisfactory,57,"PM , CO
+2.5",5/7,2025-08-06
+Moradabad,Satisfactory,84,"PM , PM
+2.5 10",4/7,2025-08-07
+Moradabad,Moderate,110,"PM
+10",5/7,2025-08-08
+Moradabad,Satisfactory,57,"CO, SO , PM
+2 2.5",5/7,2025-08-09
+Moradabad,Satisfactory,57,"PM , CO, PM
+2.5 10",5/7,2025-08-10
+Moradabad,Satisfactory,64,"PM , CO, PM
+2.5 10",4/7,2025-08-11
+Moradabad,Satisfactory,79,"PM , PM
+2.5 10",4/7,2025-08-12
+Moradabad,Satisfactory,93,"PM , PM
+2.5 10",4/7,2025-08-13
+Moradabad,Satisfactory,82,"PM , PM
+10 2.5",3/7,2025-08-14
+Moradabad,Satisfactory,71,"PM , PM
+10 2.5",5/7,2025-08-15
+Moradabad,Satisfactory,73,"PM , PM
+2.5 10",5/7,2025-08-16
+Moradabad,Satisfactory,74,"PM , PM
+10 2.5",6/7,2025-08-17
+Moradabad,Satisfactory,60,"PM , PM
+2.5 10",6/7,2025-08-18
+Moradabad,Satisfactory,67,"PM , SO
+2.5 2",6/7,2025-08-19
+Moradabad,Satisfactory,57,"PM , PM
+2.5 10",5/7,2025-08-20
+Moradabad,Satisfactory,56,"PM , PM
+2.5 10",6/7,2025-08-21
+Moradabad,Satisfactory,78,"PM , PM
+2.5 10",6/7,2025-08-22
+Moradabad,Satisfactory,62,"PM , PM
+2.5 10",6/7,2025-08-23
+Moradabad,Satisfactory,64,"PM , PM
+2.5 10",6/7,2025-08-24
+Moradabad,Satisfactory,58,"O , PM , PM
+3 10 2.5",5/7,2025-08-25
+Moradabad,Satisfactory,59,"SO , PM , PM
+2 2.5 10",6/7,2025-08-26
+Moradabad,Satisfactory,74,"PM , O , PM
+2.5 3 10",6/7,2025-08-27
+Moradabad,Satisfactory,66,"PM , PM
+10 2.5",6/7,2025-08-28
+Moradabad,Satisfactory,62,"PM , PM
+2.5 10",5/7,2025-08-29
+Moradabad,Satisfactory,61,"PM , PM
+10 2.5",6/7,2025-08-30
+Moradabad,Satisfactory,61,"PM , PM
+2.5 10",6/7,2025-08-31
+Moradabad,Satisfactory,54,"PM , PM
+10 2.5",5/7,2025-09-01
+Moradabad,Good,50,"PM
+2.5",4/7,2025-09-02
+Moradabad,Satisfactory,52,"SO , PM , PM
+2 10 2.5",4/7,2025-09-03
+Moradabad,Satisfactory,68,"PM , PM
+2.5 10",5/7,2025-09-04
+Moradabad,Satisfactory,57,"SO , PM , PM
+2 2.5 10",5/7,2025-09-05
+Moradabad,Satisfactory,63,"PM , SO , PM
+10 2 2.5",5/7,2025-09-06
+Moradabad,Satisfactory,65,"PM , PM
+10 2.5",5/7,2025-09-07
+Moradabad,Satisfactory,80,"PM , PM
+10 2.5",5/7,2025-09-08
+Moradabad,Satisfactory,67,"PM , PM , SO
+10 2.5 2",5/7,2025-09-09
+Moradabad,Satisfactory,76,"SO , PM , PM
+2 10 2.5",6/7,2025-09-10
+Moradabad,Satisfactory,74,"PM
+10",6/7,2025-09-11
+Moradabad,Satisfactory,86,"PM
+10",5/7,2025-09-12
+Moradabad,Satisfactory,95,"PM , PM , SO
+2.5 10 2",5/7,2025-09-13
+Moradabad,Satisfactory,89,"PM
+10",6/7,2025-09-14
+Moradabad,Satisfactory,84,"PM , PM
+2.5 10",5/7,2025-09-15
+Moradabad,Satisfactory,80,"PM , PM
+2.5 10",6/7,2025-09-16
+Moradabad,Satisfactory,69,"PM , PM , O
+2.5 10 3",5/7,2025-09-17
+Moradabad,Satisfactory,66,"PM , PM , O
+2.5 10 3",6/7,2025-09-18
+Moradabad,Satisfactory,66,"O , PM , PM
+3 2.5 10",6/7,2025-09-19
+Moradabad,Satisfactory,97,"PM , PM
+10 2.5",5/7,2025-09-20
+Moradabad,Moderate,112,"PM
+10",6/7,2025-09-21
+Moradabad,Moderate,129,"PM
+10",6/7,2025-09-22
+Moradabad,Moderate,122,"PM
+10",6/7,2025-09-23
+Moradabad,Moderate,117,"PM
+10",5/7,2025-09-24
+Moradabad,Moderate,117,"PM
+10",5/7,2025-09-25
+Moradabad,Moderate,120,"PM , PM
+10 2.5",5/7,2025-09-26
+Moradabad,Moderate,116,"PM
+10",5/7,2025-09-27
+Moradabad,Satisfactory,82,"PM
+10",6/7,2025-09-28
+Moradabad,Satisfactory,90,"PM , PM
+10 2.5",6/7,2025-09-29
+Moradabad,Satisfactory,98,"PM , PM
+2.5 10",6/7,2025-09-30
+Moradabad,Satisfactory,85,"PM , PM
+10 2.5",5/7,2025-10-01
+Moradabad,Moderate,111,"PM
+2.5",6/7,2025-10-02
+Moradabad,Satisfactory,69,"PM
+10",5/7,2025-10-03
+Moradabad,Satisfactory,74,"PM
+10",6/7,2025-10-04
+Moradabad,Moderate,126,"PM , PM
+10 2.5",5/7,2025-10-05
+Moradabad,Moderate,146,"PM
+2.5",6/7,2025-10-06
+Moradabad,Satisfactory,52,"PM , O , PM
+10 3 2.5",4/7,2025-10-07
+Moradabad,Satisfactory,59,"O , PM , SO
+3 10 2",5/7,2025-10-08
+Moradabad,Moderate,102,"PM , PM
+2.5 10",5/7,2025-10-09
+Moradabad,Moderate,112,"PM , PM
+2.5 10",6/7,2025-10-10
+Moradabad,Moderate,136,"PM , PM
+10 2.5",6/7,2025-10-11
+Moradabad,Moderate,162,"PM , PM
+2.5 10",6/7,2025-10-12
+Moradabad,Moderate,149,"PM , PM
+2.5 10",6/7,2025-10-13
+Moradabad,Moderate,144,"PM , PM
+10 2.5",6/7,2025-10-14
+Moradabad,Moderate,133,"PM , PM
+10 2.5",6/7,2025-10-15
+Moradabad,Moderate,130,"PM
+10",5/7,2025-10-16
+Moradabad,Moderate,146,"PM
+10",6/7,2025-10-17
+Moradabad,Moderate,150,"PM
+10",6/7,2025-10-18
+Moradabad,Moderate,154,"PM
+10",6/7,2025-10-19
+Moradabad,Moderate,157,"PM , PM
+2.5 10",6/7,2025-10-20
+Moradabad,Poor,279,"PM
+2.5",6/7,2025-10-21
+Moradabad,Poor,230,"PM
+2.5",6/7,2025-10-22
+Moradabad,Moderate,167,"PM
+2.5",6/7,2025-10-23
+Moradabad,Moderate,128,"PM , PM
+2.5 10",6/7,2025-10-24
+Moradabad,Moderate,132,"PM , PM
+2.5 10",6/7,2025-10-25
+Moradabad,Moderate,157,"PM , PM
+10 2.5",6/7,2025-10-26
+Moradabad,Moderate,170,"PM , PM
+2.5 10",6/7,2025-10-27
+Moradabad,Moderate,197,"PM
+2.5",6/7,2025-10-28
+Moradabad,Moderate,150,"PM
+2.5",6/7,2025-10-29
+Moradabad,Moderate,110,"PM
+10",6/7,2025-10-30
+Moradabad,Satisfactory,74,"PM , PM
+2.5 10",6/7,2025-10-31
+Moradabad,Moderate,131,"PM
+2.5",6/7,2025-11-01
+Moradabad,Poor,217,"PM
+2.5",6/7,2025-11-02
+Moradabad,Poor,232,"PM
+2.5",6/7,2025-11-03
+Moradabad,Moderate,189,"PM , PM
+10 2.5",6/7,2025-11-04
+Moradabad,Moderate,178,"PM
+2.5",6/7,2025-11-05
+Moradabad,Satisfactory,89,"PM
+10",6/7,2025-11-06
+Moradabad,Moderate,135,"PM , PM
+2.5 10",6/7,2025-11-07
+Moradabad,Moderate,142,"PM
+2.5",6/7,2025-11-08
+Moradabad,Moderate,139,"PM
+2.5",6/7,2025-11-09
+Moradabad,Satisfactory,95,"PM
+10",6/7,2025-11-10
+Moradabad,Moderate,106,"PM
+10",6/7,2025-11-11
+Moradabad,Moderate,105,"PM
+10",5/7,2025-11-12
+Moradabad,Moderate,128,"PM , PM
+10 2.5",5/7,2025-11-13
+Moradabad,Moderate,139,"PM
+2.5",5/7,2025-11-14
+Moradabad,Moderate,132,"PM , PM
+2.5 10",5/7,2025-11-15
+Moradabad,Moderate,127,"PM , PM
+10 2.5",6/7,2025-11-16
+Moradabad,Moderate,117,"PM , PM
+2.5 10",6/7,2025-11-17
+Moradabad,Moderate,103,"PM
+10",6/7,2025-11-18
+Moradabad,Moderate,128,"PM , PM
+2.5 10",6/7,2025-11-19
+Moradabad,Moderate,119,"PM , PM
+10 2.5",6/7,2025-11-20
+Moradabad,Moderate,159,"PM
+2.5",6/7,2025-11-21
+Moradabad,Moderate,182,"PM
+2.5",6/7,2025-11-22
+Moradabad,Moderate,192,"PM
+2.5",6/7,2025-11-23
+Moradabad,Moderate,168,"PM
+2.5",6/7,2025-11-24
+Moradabad,Moderate,136,"PM , PM
+10 2.5",6/7,2025-11-25
+Moradabad,Moderate,150,"PM
+2.5",6/7,2025-11-26
+Moradabad,Moderate,135,"PM
+2.5",6/7,2025-11-27
+Moradabad,Moderate,102,"PM , SO , PM
+2.5 2 10",6/7,2025-11-28
+Moradabad,Moderate,120,"PM , PM
+2.5 10",6/7,2025-11-29
+Moradabad,Satisfactory,98,"PM , PM
+10 2.5",6/7,2025-11-30
+Moradabad,Moderate,133,"PM , PM
+10 2.5",6/7,2025-12-01
+Moradabad,Moderate,152,"PM
+2.5",5/7,2025-12-02
+Moradabad,Moderate,147,"PM
+2.5",5/7,2025-12-03
+Moradabad,Moderate,146,"PM
+2.5",6/7,2025-12-04
+Moradabad,Moderate,161,"PM
+2.5",6/7,2025-12-05
+Moradabad,Moderate,184,"PM
+2.5",5/7,2025-12-06
+Moradabad,Moderate,178,"PM
+2.5",6/7,2025-12-07
+Moradabad,Moderate,199,"PM
+2.5",6/7,2025-12-08
+Moradabad,Moderate,116,"PM
+10",6/7,2025-12-09
+Moradabad,Moderate,151,"PM
+2.5",6/7,2025-12-10
+Moradabad,Moderate,176,"PM
+2.5",6/7,2025-12-11
+Moradabad,Poor,236,"PM
+2.5",6/7,2025-12-12
+Moradabad,Moderate,159,"PM
+2.5",6/7,2025-12-13
+Moradabad,Moderate,145,"PM
+2.5",6/7,2025-12-14

@@ -1,0 +1,794 @@
+City,Air Quality,Index Value,Prominent Pollutant,No. of Stations Participated / Total Stations (Based on Number of Monitoring Stations),Date
+Darbhanga,Satisfactory,85,"PM
+10",1,2021-07-18
+Darbhanga,Moderate,113,"PM
+10",1,2021-07-19
+Darbhanga,Good,42,"PM
+2.5",1,2021-07-20
+Darbhanga,Moderate,111,"PM
+10",1,2021-07-21
+Darbhanga,Satisfactory,96,"PM
+10",1,2021-07-22
+Darbhanga,Good,29,"PM
+2.5",1,2021-07-23
+Darbhanga,Satisfactory,79,"PM
+10",1,2021-07-24
+Darbhanga,Satisfactory,75,"PM
+10",1,2021-07-25
+Darbhanga,Moderate,143,"PM
+10",1,2021-07-26
+Darbhanga,Moderate,130,"PM
+10",1,2021-07-27
+Darbhanga,Good,38,"PM
+2.5",1,2021-07-28
+Darbhanga,Good,22,CO,1,2021-07-29
+Darbhanga,Good,17,CO,1,2021-07-30
+Darbhanga,Good,27,CO,1,2021-07-31
+Darbhanga,Good,27,"PM
+2.5",1,2021-08-01
+Darbhanga,Satisfactory,61,CO,1,2021-08-02
+Darbhanga,Poor,293,"PM
+10",1,2021-08-03
+Darbhanga,Moderate,119,"PM
+10",1,2021-08-07
+Darbhanga,Satisfactory,93,"PM
+10",1,2021-08-09
+Darbhanga,Moderate,178,"PM
+10",1,2021-08-10
+Darbhanga,Poor,252,"PM
+2.5",1,2021-11-13
+Darbhanga,Poor,271,"PM
+2.5",1,2021-11-14
+Darbhanga,Poor,235,"PM
+10",1,2021-11-17
+Darbhanga,Very Poor,302,"PM
+2.5",1,2021-11-18
+Darbhanga,Very Poor,366,"PM
+2.5",1,2021-11-20
+Darbhanga,Very Poor,390,"PM
+2.5",1,2021-11-21
+Darbhanga,Very Poor,379,"PM
+2.5",1,2021-11-22
+Darbhanga,Very Poor,369,"PM
+2.5",1,2021-11-23
+Darbhanga,Very Poor,377,"PM
+2.5",1,2021-11-24
+Darbhanga,Very Poor,366,"PM
+2.5",1,2021-11-25
+Darbhanga,Very Poor,351,"PM
+2.5",1,2021-11-26
+Darbhanga,Very Poor,332,"PM
+2.5",1,2021-11-27
+Darbhanga,Very Poor,331,"PM
+2.5",1,2021-11-28
+Darbhanga,Very Poor,356,"PM
+2.5",1,2021-11-29
+Darbhanga,Very Poor,390,"PM
+2.5",1,2021-11-30
+Darbhanga,Very Poor,326,"PM
+2.5",1,2021-12-01
+Darbhanga,Very Poor,308,"PM
+2.5",1,2021-12-02
+Darbhanga,Very Poor,328,"PM
+2.5",1,2021-12-03
+Darbhanga,Very Poor,351,"PM
+2.5",1,2021-12-04
+Darbhanga,Very Poor,304,"PM
+2.5",1,2021-12-05
+Darbhanga,Poor,215,"PM
+2.5",1,2021-12-06
+Darbhanga,Poor,298,"PM
+2.5",1,2021-12-07
+Darbhanga,Very Poor,323,"PM
+2.5",1,2021-12-08
+Darbhanga,Poor,262,"PM
+2.5",1,2021-12-09
+Darbhanga,Very Poor,310,"PM
+2.5",1,2021-12-10
+Darbhanga,Very Poor,324,"PM
+2.5",1,2021-12-11
+Darbhanga,Very Poor,338,"PM
+2.5",1,2021-12-12
+Darbhanga,Very Poor,376,"PM
+2.5",1,2021-12-13
+Darbhanga,Very Poor,386,"PM
+2.5",1,2021-12-14
+Darbhanga,Very Poor,372,"PM
+2.5",1,2021-12-15
+Darbhanga,Very Poor,335,"PM
+2.5",1,2021-12-16
+Darbhanga,Very Poor,350,"PM
+2.5",1,2021-12-17
+Darbhanga,Very Poor,391,"PM
+2.5",1,2021-12-18
+Darbhanga,Very Poor,313,"PM
+2.5",1,2021-12-19
+Darbhanga,Very Poor,380,"PM
+2.5",1,2021-12-20
+Darbhanga,Severe,424,"PM
+2.5",1,2021-12-21
+Darbhanga,Very Poor,389,"PM
+2.5",1,2021-12-22
+Darbhanga,Severe,413,"PM
+2.5",1,2021-12-23
+Darbhanga,Very Poor,392,"PM
+2.5",1,2021-12-24
+Darbhanga,Poor,263,"PM
+2.5",1,2021-12-25
+Darbhanga,Poor,238,"PM
+2.5",1,2021-12-26
+Darbhanga,Poor,275,"PM
+2.5",1,2021-12-27
+Darbhanga,Poor,257,"PM
+2.5",1,2021-12-28
+Darbhanga,Moderate,113,"PM
+2.5",1,2021-12-29
+Darbhanga,Satisfactory,69,"PM
+10",1,2021-12-30
+Darbhanga,Moderate,157,"PM
+2.5",1,2021-12-31
+Darbhanga,Poor,261,"PM
+2.5",1,2022-01-01
+Darbhanga,Poor,203,"PM
+2.5",1,2022-01-02
+Darbhanga,Poor,296,"PM
+2.5",1,2022-01-03
+Darbhanga,Very Poor,330,"PM
+2.5",1,2022-01-04
+Darbhanga,Very Poor,326,"PM
+2.5",1,2022-01-05
+Darbhanga,Very Poor,364,"PM
+2.5",1,2022-01-06
+Darbhanga,Very Poor,317,"PM
+2.5",1,2022-01-07
+Darbhanga,Moderate,199,"PM
+2.5",1,2022-01-08
+Darbhanga,Moderate,194,"PM
+2.5",1,2022-01-09
+Darbhanga,Poor,290,"PM
+2.5",1,2022-01-10
+Darbhanga,Very Poor,308,"PM
+2.5",1,2022-01-11
+Darbhanga,Poor,277,"PM
+2.5",1,2022-01-12
+Darbhanga,Moderate,120,"PM
+2.5",1,2022-01-13
+Darbhanga,Poor,260,"PM
+2.5",1,2022-01-14
+Darbhanga,Moderate,199,"PM
+10",1,2022-01-15
+Darbhanga,Poor,251,"PM
+2.5",1,2022-01-16
+Darbhanga,Poor,273,"PM
+2.5",1,2022-01-17
+Darbhanga,Poor,288,"PM
+2.5",1,2022-01-18
+Darbhanga,Poor,288,"PM
+2.5",1,2022-01-19
+Darbhanga,Poor,288,"PM
+2.5",1,2022-01-20
+Darbhanga,Very Poor,334,"PM
+2.5",1,2022-01-21
+Darbhanga,Very Poor,347,"PM
+2.5",1,2022-01-22
+Darbhanga,Very Poor,323,"PM
+2.5",1,2022-01-23
+Darbhanga,Poor,209,"PM
+2.5",1,2022-01-24
+Darbhanga,Poor,290,"PM
+2.5",1,2022-01-25
+Darbhanga,Moderate,190,"PM
+2.5",1,2022-01-26
+Darbhanga,Poor,208,"PM
+2.5",1,2022-01-27
+Darbhanga,Poor,261,"PM
+2.5",1,2022-01-28
+Darbhanga,Very Poor,307,"PM
+2.5",1,2022-01-29
+Darbhanga,Very Poor,361,"PM
+2.5",1,2022-01-30
+Darbhanga,Very Poor,363,"PM
+2.5",1,2022-01-31
+Darbhanga,Very Poor,324,"PM
+2.5",1,2022-02-02
+Darbhanga,Poor,290,"PM
+2.5",1,2022-02-03
+Darbhanga,Satisfactory,62,CO,1,2022-02-05
+Darbhanga,Moderate,134,"PM
+2.5",1,2022-02-06
+Darbhanga,Poor,219,"PM
+2.5",1,2022-02-07
+Darbhanga,Poor,243,"PM
+2.5",1,2022-02-08
+Darbhanga,Poor,292,"PM
+2.5",1,2022-02-09
+Darbhanga,Poor,274,"PM
+2.5",1,2022-02-10
+Darbhanga,Moderate,169,"PM
+2.5",1,2022-02-11
+Darbhanga,Moderate,165,"PM
+2.5",1,2022-02-12
+Darbhanga,Poor,237,"PM
+2.5",1,2022-02-13
+Darbhanga,Poor,236,"PM
+2.5",1,2022-02-14
+Darbhanga,Poor,236,"PM
+2.5",1,2022-02-15
+Darbhanga,Poor,248,"PM
+2.5",1,2022-02-16
+Darbhanga,Poor,244,"PM
+2.5",1,2022-02-17
+Darbhanga,Moderate,197,"PM
+2.5",1,2022-02-18
+Darbhanga,Moderate,199,"PM
+2.5",1,2022-02-19
+Darbhanga,Moderate,161,"O
+3",1,2022-02-20
+Darbhanga,Moderate,164,"PM
+10",1,2022-02-21
+Darbhanga,Moderate,194,"PM
+10",1,2022-02-22
+Darbhanga,Moderate,158,"PM
+10",1,2022-02-23
+Darbhanga,Moderate,165,"PM
+10",1,2022-02-25
+Darbhanga,Moderate,151,"PM
+2.5",1,2022-02-26
+Darbhanga,Moderate,200,"PM
+2.5",1,2022-02-27
+Darbhanga,Poor,230,"PM
+2.5",1,2022-02-28
+Darbhanga,Moderate,130,"PM
+10",1,2022-03-01
+Darbhanga,Moderate,159,"PM
+10",1,2022-03-02
+Darbhanga,Moderate,182,"PM
+2.5",1,2022-03-03
+Darbhanga,Poor,202,"PM
+2.5",1,2022-03-04
+Darbhanga,Moderate,164,"PM
+10",1,2022-03-05
+Darbhanga,Moderate,146,"PM
+10",1,2022-03-06
+Darbhanga,Poor,203,"PM
+2.5",1,2022-03-07
+Darbhanga,Moderate,191,"PM
+2.5",1,2022-03-08
+Darbhanga,Moderate,161,"PM
+2.5",1,2022-03-09
+Darbhanga,Moderate,196,"PM
+2.5",1,2022-03-10
+Darbhanga,Moderate,177,"PM
+2.5",1,2022-03-11
+Darbhanga,Moderate,184,"PM
+2.5",1,2022-03-12
+Darbhanga,Moderate,182,"PM
+2.5",1,2022-03-13
+Darbhanga,Moderate,193,"PM
+2.5",1,2022-03-14
+Darbhanga,Moderate,200,"PM
+2.5",1,2022-03-15
+Darbhanga,Poor,223,"PM
+10",1,2022-03-16
+Darbhanga,Poor,224,"PM
+10",1,2022-03-17
+Darbhanga,Poor,264,"PM
+2.5",1,2022-03-18
+Darbhanga,Poor,218,"PM
+2.5",1,2022-03-20
+Darbhanga,Poor,224,"PM
+2.5",1,2022-03-21
+Darbhanga,Moderate,193,"PM
+10",1,2022-03-22
+Darbhanga,Poor,217,"PM
+10",1,2022-03-23
+Darbhanga,Poor,215,"PM
+10",1,2022-03-24
+Darbhanga,Poor,223,"PM
+10",1,2022-03-25
+Darbhanga,Poor,210,"PM
+10",1,2022-03-26
+Darbhanga,Poor,222,"PM
+10",1,2022-03-27
+Darbhanga,Poor,277,"PM
+10",1,2022-03-28
+Darbhanga,Moderate,196,"PM
+10",1,2022-03-29
+Darbhanga,Moderate,158,"PM
+10",1,2022-03-30
+Darbhanga,Moderate,163,"PM
+10",1,2022-04-01
+Darbhanga,Moderate,170,"PM
+10",1,2022-04-02
+Darbhanga,Moderate,144,"PM
+10",1,2022-04-03
+Darbhanga,Moderate,174,"PM
+10",1,2022-04-04
+Darbhanga,Poor,204,"PM
+10",1,2022-04-05
+Darbhanga,Poor,224,"PM
+10",1,2022-04-06
+Darbhanga,Moderate,174,"PM
+10",1,2022-04-07
+Darbhanga,Moderate,130,"PM
+10",1,2022-04-08
+Darbhanga,Moderate,176,"PM
+10",1,2022-04-09
+Darbhanga,Moderate,155,"PM
+10",1,2022-04-10
+Darbhanga,Moderate,161,"PM
+10",1,2022-04-12
+Darbhanga,Moderate,182,"PM
+10",1,2022-04-14
+Darbhanga,Very Poor,335,"PM
+10",1,2022-04-15
+Darbhanga,Very Poor,301,"PM
+10",1,2022-04-16
+Darbhanga,Poor,265,"PM
+10",1,2022-04-17
+Darbhanga,Poor,243,"PM
+10",1,2022-04-18
+Darbhanga,Moderate,168,"PM
+10",1,2022-04-19
+Darbhanga,Moderate,121,"PM
+10",1,2022-04-20
+Darbhanga,Moderate,113,"PM
+10",1,2022-04-21
+Darbhanga,Moderate,139,"PM
+10",1,2022-04-22
+Darbhanga,Poor,270,"PM
+10",1,2022-04-24
+Darbhanga,Very Poor,362,"PM
+10",1,2022-04-25
+Darbhanga,Poor,286,"PM
+10",1,2022-04-26
+Darbhanga,Poor,208,"PM
+10",1,2022-04-27
+Darbhanga,Poor,211,"PM
+10",1,2022-04-28
+Darbhanga,Moderate,102,"PM
+10",1,2022-05-04
+Darbhanga,Satisfactory,98,"PM
+10",1,2022-05-05
+Darbhanga,Satisfactory,87,"PM
+10",1,2022-05-06
+Darbhanga,Moderate,121,"PM
+10",1,2022-05-11
+Darbhanga,Moderate,127,"PM
+10",1,2022-05-12
+Darbhanga,Moderate,124,"PM
+10",1,2022-05-13
+Darbhanga,Satisfactory,76,"PM
+10",1,2022-05-14
+Darbhanga,Satisfactory,92,"PM
+10",1,2022-05-15
+Darbhanga,Moderate,121,"PM
+10",1,2022-05-16
+Darbhanga,Moderate,134,"PM
+10",1,2022-05-18
+Darbhanga,Moderate,164,"PM
+10",1,2022-05-19
+Darbhanga,Satisfactory,89,"PM
+10",1,2022-05-20
+Darbhanga,Moderate,107,"PM
+10",1,2022-05-21
+Darbhanga,Satisfactory,71,"PM
+10",1,2022-05-22
+Darbhanga,Satisfactory,99,"PM
+10",1,2022-05-23
+Darbhanga,Moderate,121,"PM
+10",1,2022-05-25
+Darbhanga,Moderate,128,"PM
+10",1,2022-05-26
+Darbhanga,Moderate,199,"PM
+10",1,2022-05-27
+Darbhanga,Moderate,168,"PM
+10",1,2022-05-28
+Darbhanga,Moderate,126,"PM
+10",1,2022-05-29
+Darbhanga,Moderate,121,"PM
+10",1,2022-05-30
+Darbhanga,Moderate,137,"PM
+10",1,2022-05-31
+Darbhanga,Moderate,169,"PM
+10",1,2022-06-01
+Darbhanga,Moderate,148,"PM
+10",1,2022-06-02
+Darbhanga,Moderate,145,"PM
+10",1,2022-06-03
+Darbhanga,Moderate,135,"PM
+10",1,2022-06-04
+Darbhanga,Moderate,130,"PM
+10",1,2022-06-05
+Darbhanga,Moderate,110,"PM
+10",1,2022-06-06
+Darbhanga,Moderate,110,"PM
+10",1,2022-06-07
+Darbhanga,Satisfactory,60,"PM
+2.5",1,2022-06-09
+Darbhanga,Satisfactory,51,"PM
+2.5",1,2022-06-10
+Darbhanga,Satisfactory,71,"PM
+2.5",1,2022-06-11
+Darbhanga,Satisfactory,69,"PM
+2.5",1,2022-06-12
+Darbhanga,Satisfactory,61,"O
+3",1,2022-06-13
+Darbhanga,Moderate,121,"PM
+10",1,2022-06-14
+Darbhanga,Moderate,121,"PM
+10",1,2022-06-15
+Darbhanga,Moderate,106,"PM
+10",1,2022-06-16
+Darbhanga,Moderate,126,"PM
+10",1,2022-06-17
+Darbhanga,Satisfactory,89,"PM
+10",1,2022-06-22
+Darbhanga,Moderate,121,"PM
+10",1,2022-06-23
+Darbhanga,Moderate,128,"PM
+10",1,2022-06-24
+Darbhanga,Moderate,102,"PM
+10",1,2022-06-25
+Darbhanga,Satisfactory,96,"PM
+10",1,2022-06-26
+Darbhanga,Satisfactory,97,"PM
+10",1,2022-06-27
+Darbhanga,Satisfactory,93,"PM
+10",1,2022-06-28
+Darbhanga,Moderate,110,CO,1,2022-06-29
+Darbhanga,Satisfactory,95,CO,1,2022-06-30
+Darbhanga,Satisfactory,93,"PM
+10",1,2022-07-01
+Darbhanga,Satisfactory,87,CO,1,2022-07-02
+Darbhanga,Satisfactory,70,"PM
+10",1,2022-07-03
+Darbhanga,Satisfactory,67,"PM
+10",1,2022-07-04
+Darbhanga,Satisfactory,100,"PM
+10",1,2022-07-05
+Darbhanga,Moderate,117,"PM
+10",1,2022-07-06
+Darbhanga,Moderate,107,"PM
+10",1,2022-07-07
+Darbhanga,Moderate,125,"PM
+10",1,2022-07-08
+Darbhanga,Moderate,103,"PM
+10",1,2022-07-09
+Darbhanga,Moderate,106,"PM
+10",1,2022-07-10
+Darbhanga,Satisfactory,97,"PM
+10",1,2022-07-11
+Darbhanga,Satisfactory,93,"PM
+10",1,2022-07-12
+Darbhanga,Moderate,102,"PM
+10",1,2022-07-13
+Darbhanga,Satisfactory,93,"PM
+10",1,2022-07-14
+Darbhanga,Satisfactory,90,"PM
+10",1,2022-07-15
+Darbhanga,Moderate,102,"PM
+10",1,2022-07-17
+Darbhanga,Poor,205,"NO
+2",1,2022-07-19
+Darbhanga,Good,34,"PM
+2.5",1,2022-07-21
+Darbhanga,Good,45,CO,1,2022-07-22
+Darbhanga,Good,40,CO,1,2022-07-23
+Darbhanga,Good,43,CO,1,2022-07-24
+Darbhanga,Satisfactory,97,"PM
+10",1,2022-07-25
+Darbhanga,Satisfactory,100,"PM
+10",1,2022-07-26
+Darbhanga,Good,48,CO,1,2022-07-27
+Darbhanga,Satisfactory,53,"PM
+10",1,2022-07-28
+Darbhanga,Satisfactory,53,CO,1,2022-07-29
+Darbhanga,Satisfactory,58,"PM
+10",1,2022-07-30
+Darbhanga,Satisfactory,52,"PM
+10",1,2022-07-31
+Darbhanga,Satisfactory,54,CO,1,2022-08-01
+Darbhanga,Good,41,"O
+3",1,2022-08-02
+Darbhanga,Satisfactory,51,"PM
+10",1,2022-08-03
+Darbhanga,Satisfactory,57,"PM
+10",1,2022-08-04
+Darbhanga,Satisfactory,81,"PM
+10",1,2022-08-06
+Darbhanga,Satisfactory,53,"PM
+10",1,2022-08-07
+Darbhanga,Satisfactory,91,"PM
+10",1,2022-08-08
+Darbhanga,Satisfactory,61,"PM
+10",1,2022-08-09
+Darbhanga,Satisfactory,53,"PM
+10",1,2022-08-10
+Darbhanga,Satisfactory,59,"PM
+10",1,2022-08-11
+Darbhanga,Satisfactory,53,"PM
+10",1,2022-08-12
+Darbhanga,Satisfactory,81,"PM
+10",1,2022-08-13
+Darbhanga,Satisfactory,75,"PM
+10",1,2022-08-14
+Darbhanga,Good,45,CO,1,2022-08-15
+Darbhanga,Satisfactory,51,CO,1,2022-08-16
+Darbhanga,Moderate,106,"PM
+10",1,2022-08-17
+Darbhanga,Satisfactory,95,"PM
+10",1,2022-08-19
+Darbhanga,Good,42,"PM
+10",1,2022-08-20
+Darbhanga,Satisfactory,65,"PM
+10",1,2022-08-21
+Darbhanga,Satisfactory,93,"PM
+10",1,2022-08-22
+Darbhanga,Moderate,101,"PM
+10",1,2022-08-23
+Darbhanga,Satisfactory,58,"PM
+10",1,2022-08-24
+Darbhanga,Satisfactory,59,"PM
+10",1,2022-08-25
+Darbhanga,Moderate,104,"PM
+10",1,2022-08-27
+Darbhanga,Good,38,"PM
+10",1,2022-08-28
+Darbhanga,Good,38,"PM
+10",1,2022-08-29
+Darbhanga,Satisfactory,91,"PM
+10",1,2022-08-30
+Darbhanga,Satisfactory,80,"PM
+10",1,2022-08-31
+Darbhanga,Satisfactory,58,"PM
+10",1,2022-09-01
+Darbhanga,Satisfactory,68,"PM
+10",1,2022-09-02
+Darbhanga,Good,46,CO,1,2022-09-03
+Darbhanga,Good,47,"O
+3",1,2022-09-04
+Darbhanga,Satisfactory,54,CO,1,2022-09-05
+Darbhanga,Satisfactory,70,"PM
+10",1,2022-09-06
+Darbhanga,Satisfactory,80,"PM
+10",1,2022-09-07
+Darbhanga,Satisfactory,74,"PM
+10",1,2022-09-08
+Darbhanga,Good,50,"PM
+10",1,2022-09-09
+Darbhanga,Satisfactory,73,"PM
+10",1,2022-09-10
+Darbhanga,Satisfactory,61,"PM
+10",1,2022-09-11
+Darbhanga,Good,37,CO,1,2022-09-12
+Darbhanga,Good,26,"O
+3",1,2022-09-13
+Darbhanga,Good,26,"PM
+10",1,2022-09-14
+Darbhanga,Good,34,"PM
+10",1,2022-09-15
+Darbhanga,Good,29,"O
+3",1,2022-09-16
+Darbhanga,Good,42,"PM
+10",1,2022-09-20
+Darbhanga,Good,50,"PM
+10",1,2022-09-21
+Darbhanga,Satisfactory,80,"PM
+2.5",1,2022-09-22
+Darbhanga,Satisfactory,81,"PM
+10",1,2022-09-23
+Darbhanga,Satisfactory,88,"PM
+10",1,2022-09-24
+Darbhanga,Satisfactory,55,"PM
+10",1,2022-09-25
+Darbhanga,Satisfactory,79,"PM
+10",1,2022-09-26
+Darbhanga,Satisfactory,65,"PM
+10",1,2022-09-27
+Darbhanga,Satisfactory,79,"PM
+10",1,2022-09-28
+Darbhanga,Satisfactory,90,"PM
+10",1,2022-09-29
+Darbhanga,Satisfactory,88,"PM
+10",1,2022-09-30
+Darbhanga,Moderate,115,"PM
+10",1,2022-10-01
+Darbhanga,Moderate,117,"PM
+10",1,2022-10-02
+Darbhanga,Moderate,134,"PM
+2.5",1,2022-10-03
+Darbhanga,Satisfactory,55,CO,1,2022-10-04
+Darbhanga,Satisfactory,51,CO,1,2022-10-05
+Darbhanga,Good,50,"PM
+10",1,2022-10-06
+Darbhanga,Satisfactory,52,"PM
+10",1,2022-10-07
+Darbhanga,Poor,207,"NO
+2",1,2022-10-09
+Darbhanga,Moderate,159,"NO
+2",1,2022-10-10
+Darbhanga,Poor,222,"NO
+2",1,2022-10-11
+Darbhanga,Satisfactory,72,"PM
+2.5",1,2022-10-13
+Darbhanga,Moderate,170,"PM
+2.5",1,2022-10-14
+Darbhanga,Moderate,147,"PM
+2.5",1,2022-10-15
+Darbhanga,Moderate,166,"PM
+2.5",1,2022-10-16
+Darbhanga,Moderate,161,"PM
+2.5",1,2022-10-17
+Darbhanga,Moderate,186,"PM
+2.5",1,2022-10-18
+Darbhanga,Poor,230,"PM
+2.5",1,2022-10-19
+Darbhanga,Poor,294,"PM
+2.5",1,2022-10-20
+Darbhanga,Poor,292,"PM
+2.5",1,2022-10-21
+Darbhanga,Poor,259,"PM
+2.5",1,2022-10-22
+Darbhanga,Poor,251,"PM
+2.5",1,2022-10-23
+Darbhanga,Moderate,130,"PM
+10",1,2022-10-25
+Darbhanga,Very Poor,301,"PM
+2.5",1,2022-10-26
+Darbhanga,Poor,295,"PM
+2.5",1,2022-10-27
+Darbhanga,Poor,283,"PM
+2.5",1,2022-10-28
+Darbhanga,Very Poor,303,"PM
+2.5",1,2022-10-29
+Darbhanga,Poor,290,"PM
+2.5",1,2022-10-30
+Darbhanga,Poor,237,"PM
+2.5",1,2022-10-31
+Darbhanga,Moderate,198,"PM
+2.5",1,2022-11-01
+Darbhanga,Poor,209,"PM
+2.5",1,2022-11-02
+Darbhanga,Poor,263,"PM
+2.5",1,2022-11-03
+Darbhanga,Very Poor,316,"PM
+2.5",1,2022-11-04
+Darbhanga,Poor,289,"PM
+2.5",1,2022-11-05
+Darbhanga,Poor,253,"PM
+2.5",1,2022-11-06
+Darbhanga,Poor,206,"PM
+10",1,2022-11-07
+Darbhanga,Poor,263,"PM
+2.5",1,2022-11-08
+Darbhanga,Poor,286,"PM
+2.5",1,2022-11-09
+Darbhanga,Very Poor,348,"PM
+2.5",1,2022-11-10
+Darbhanga,Very Poor,388,"PM
+2.5",1,2022-11-11
+Darbhanga,Severe,404,"PM
+2.5",1,2022-11-12
+Darbhanga,Very Poor,316,"PM
+2.5",1,2022-11-13
+Darbhanga,Very Poor,360,"PM
+2.5",1,2022-11-14
+Darbhanga,Very Poor,339,"PM
+2.5",1,2022-11-15
+Darbhanga,Very Poor,378,"PM
+2.5",1,2022-11-16
+Darbhanga,Very Poor,374,"PM
+2.5",1,2022-11-17
+Darbhanga,Very Poor,332,"PM
+10",1,2022-11-18
+Darbhanga,Very Poor,394,"PM
+10",1,2022-11-19
+Darbhanga,Severe,411,"PM
+10",1,2022-11-20
+Darbhanga,Very Poor,376,"PM
+10",1,2022-11-21
+Darbhanga,Very Poor,374,"PM
+10",1,2022-11-22
+Darbhanga,Very Poor,382,"PM
+10",1,2022-11-23
+Darbhanga,Very Poor,398,"PM
+10",1,2022-11-24
+Darbhanga,Severe,415,"PM
+10",1,2022-11-25
+Darbhanga,Very Poor,397,"PM
+10",1,2022-11-26
+Darbhanga,Very Poor,376,"PM
+2.5",1,2022-11-27
+Darbhanga,Severe,427,"PM
+10",1,2022-11-29
+Darbhanga,Very Poor,342,"PM
+10",1,2022-11-30
+Darbhanga,Very Poor,360,"PM
+10",1,2022-12-01
+Darbhanga,Very Poor,360,"PM
+10",1,2022-12-02
+Darbhanga,Severe,407,"PM
+10",1,2022-12-03
+Darbhanga,Severe,422,"PM
+10",1,2022-12-04
+Darbhanga,Severe,411,"PM
+10",1,2022-12-05
+Darbhanga,Very Poor,386,"PM
+10",1,2022-12-06
+Darbhanga,Very Poor,396,"PM
+10",1,2022-12-07
+Darbhanga,Severe,412,"PM
+10",1,2022-12-08
+Darbhanga,Severe,403,"PM
+10",1,2022-12-09
+Darbhanga,Severe,426,"PM
+10",1,2022-12-10
+Darbhanga,Very Poor,395,"PM
+2.5",1,2022-12-11
+Darbhanga,Severe,473,"PM
+2.5",1,2022-12-13
+Darbhanga,Severe,446,"PM
+2.5",1,2022-12-14
+Darbhanga,Severe,437,"PM
+10",1,2022-12-15
+Darbhanga,Very Poor,362,"PM
+2.5",1,2022-12-16
+Darbhanga,Severe,407,"PM
+2.5",1,2022-12-17
+Darbhanga,Severe,446,"PM
+2.5",1,2022-12-18
+Darbhanga,Severe,407,"PM
+2.5",1,2022-12-19
+Darbhanga,Severe,431,"PM
+2.5",1,2022-12-20
+Darbhanga,Severe,433,"PM
+2.5",1,2022-12-21
+Darbhanga,Very Poor,385,"PM
+2.5",1,2022-12-22
+Darbhanga,Very Poor,375,"PM
+2.5",1,2022-12-23
+Darbhanga,Very Poor,372,"PM
+2.5",1,2022-12-24
+Darbhanga,Severe,424,"PM
+2.5",1,2022-12-25
+Darbhanga,Severe,414,"PM
+2.5",1,2022-12-26
+Darbhanga,Very Poor,370,"PM
+2.5",1,2022-12-27
+Darbhanga,Very Poor,375,"PM
+2.5",1,2022-12-28
+Darbhanga,Severe,419,"PM
+2.5",1,2022-12-29
+Darbhanga,Severe,449,"PM
+2.5",1,2022-12-30
+Darbhanga,Severe,470,"PM
+2.5",1,2022-12-31
+Darbhanga,Severe,473,"PM
+2.5",1,2023-01-01
+Darbhanga,Severe,407,"PM
+2.5",1,2023-01-02
+Darbhanga,Poor,280,"PM
+2.5",1,2023-01-03
+Darbhanga,Very Poor,327,"PM
+2.5",1,2023-01-04
+Darbhanga,Very Poor,331,"PM
+2.5",1,2023-01-05
+Darbhanga,Very Poor,354,"PM
+2.5",1,2023-01-06
+Darbhanga,Very Poor,358,"PM
+2.5",1,2023-01-07
+Darbhanga,Very Poor,305,"PM
+10",1,2023-01-08
+Darbhanga,Very Poor,342,"PM
+10",1,2023-01-09
+Darbhanga,Very Poor,387,"PM
+2.5",1,2023-01-10
+Darbhanga,Very Poor,343,"PM
+2.5",1,2023-01-11
+Darbhanga,Severe,409,"PM
+2.5",1,2023-01-12
+Darbhanga,Very Poor,354,"PM
+2.5",1,2023-01-13
+Darbhanga,Severe,436,"PM
+2.5",1,2023-01-14

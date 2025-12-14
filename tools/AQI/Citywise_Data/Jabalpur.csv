@@ -1,0 +1,4349 @@
+City,Air Quality,Index Value,Prominent Pollutant,No. of Stations Participated / Total Stations (Based on Number of Monitoring Stations),Date
+Jabalpur,Good,45,OZONE,1,2019-09-23
+Jabalpur,Good,47,"PM
+2.5",1,2019-09-24
+Jabalpur,Good,40,CO,1,2019-09-25
+Jabalpur,Good,35,CO,1,2019-09-27
+Jabalpur,Good,40,CO,1,2019-09-28
+Jabalpur,Good,34,CO,1,2019-09-29
+Jabalpur,Satisfactory,62,"PM
+10",1,2019-09-30
+Jabalpur,Good,50,"PM
+10",1,2019-10-01
+Jabalpur,Satisfactory,52,CO,1,2019-10-02
+Jabalpur,Satisfactory,80,"PM
+10",1,2019-10-03
+Jabalpur,Satisfactory,94,"PM
+10",1,2019-10-04
+Jabalpur,Satisfactory,97,"PM
+10",1,2019-10-05
+Jabalpur,Moderate,116,"PM
+10",1,2019-10-06
+Jabalpur,Moderate,108,"PM
+10",1,2019-10-07
+Jabalpur,Moderate,117,"PM
+10",1,2019-10-08
+Jabalpur,Moderate,125,"PM
+10",1,2019-10-09
+Jabalpur,Moderate,113,"PM
+10",1,2019-10-10
+Jabalpur,Satisfactory,99,"PM
+10",1,2019-10-11
+Jabalpur,Satisfactory,91,"PM
+10",1,2019-10-12
+Jabalpur,Moderate,101,"PM
+10",1,2019-10-13
+Jabalpur,Moderate,103,"PM
+10",1,2019-10-14
+Jabalpur,Moderate,107,"PM
+10",1,2019-10-15
+Jabalpur,Moderate,115,"PM
+10",1,2019-10-16
+Jabalpur,Moderate,114,"PM
+10",1,2019-10-17
+Jabalpur,Moderate,153,"PM
+2.5",1,2019-10-18
+Jabalpur,Satisfactory,90,"PM
+10",1,2019-10-19
+Jabalpur,Moderate,102,"PM
+2.5",1,2019-10-20
+Jabalpur,Satisfactory,75,"PM
+2.5",1,2019-10-21
+Jabalpur,Poor,218,"PM
+2.5",1,2019-10-22
+Jabalpur,Moderate,144,"PM
+2.5",1,2019-10-23
+Jabalpur,Moderate,103,"PM
+10",1,2019-10-24
+Jabalpur,Moderate,109,"PM
+10",1,2019-10-25
+Jabalpur,Satisfactory,68,"PM
+10",1,2019-10-26
+Jabalpur,Satisfactory,84,"PM
+10",1,2019-10-27
+Jabalpur,Moderate,164,"PM
+2.5",1,2019-10-28
+Jabalpur,Moderate,118,"PM
+2.5",1,2019-10-29
+Jabalpur,Moderate,139,"PM
+2.5",1,2019-10-30
+Jabalpur,Moderate,161,"PM
+2.5",1,2019-10-31
+Jabalpur,Poor,220,"PM
+2.5",1,2019-11-01
+Jabalpur,Moderate,198,"PM
+2.5",1,2019-11-02
+Jabalpur,Poor,245,"PM
+2.5",1,2019-11-03
+Jabalpur,Moderate,168,"PM
+2.5",1,2019-11-04
+Jabalpur,Moderate,177,"PM
+2.5",1,2019-11-05
+Jabalpur,Poor,224,"PM
+2.5",1,2019-11-06
+Jabalpur,Moderate,126,"PM
+10",1,2019-11-08
+Jabalpur,Very Poor,303,"PM
+2.5",1,2019-11-09
+Jabalpur,Poor,245,"PM
+2.5",1,2019-11-10
+Jabalpur,Moderate,141,"PM
+2.5",1,2019-11-11
+Jabalpur,Moderate,138,"PM
+2.5",1,2019-11-12
+Jabalpur,Moderate,160,"PM
+2.5",1,2019-11-13
+Jabalpur,Moderate,126,"PM
+10",1,2019-11-14
+Jabalpur,Moderate,138,"PM
+10",1,2019-11-15
+Jabalpur,Moderate,179,"PM
+2.5",1,2019-11-16
+Jabalpur,Poor,243,"PM
+2.5",1,2019-11-17
+Jabalpur,Poor,211,"PM
+2.5",1,2019-11-18
+Jabalpur,Moderate,162,"PM
+2.5",1,2019-11-19
+Jabalpur,Poor,244,"PM
+2.5",1,2019-11-20
+Jabalpur,Moderate,165,"PM
+2.5",1,2019-11-21
+Jabalpur,Poor,234,"PM
+2.5",1,2019-11-22
+Jabalpur,Poor,284,"PM
+2.5",1,2019-11-23
+Jabalpur,Poor,262,"PM
+2.5",1,2019-11-24
+Jabalpur,Poor,209,"PM
+2.5",1,2019-11-25
+Jabalpur,Moderate,133,"PM
+10",1,2019-11-26
+Jabalpur,Moderate,162,"PM
+2.5",1,2019-11-27
+Jabalpur,Moderate,149,"PM
+2.5",1,2019-11-28
+Jabalpur,Poor,201,"PM
+2.5",1,2019-11-29
+Jabalpur,Poor,271,"PM
+2.5",1,2019-11-30
+Jabalpur,Poor,225,"PM
+2.5",1,2019-12-01
+Jabalpur,Poor,213,"PM
+2.5",1,2019-12-02
+Jabalpur,Poor,292,"PM
+2.5",1,2019-12-03
+Jabalpur,Moderate,165,"PM
+2.5",1,2019-12-05
+Jabalpur,Poor,230,"PM
+2.5",1,2019-12-06
+Jabalpur,Poor,238,"PM
+2.5",1,2019-12-07
+Jabalpur,Poor,269,"PM
+2.5",1,2019-12-08
+Jabalpur,Poor,287,"PM
+2.5",1,2019-12-09
+Jabalpur,Poor,297,"PM
+2.5",1,2019-12-10
+Jabalpur,Poor,263,"PM
+2.5",1,2019-12-11
+Jabalpur,Poor,245,"PM
+2.5",1,2019-12-12
+Jabalpur,Moderate,113,"PM
+2.5",1,2019-12-13
+Jabalpur,Moderate,136,"PM
+2.5",1,2019-12-14
+Jabalpur,Moderate,112,"PM
+2.5",1,2019-12-15
+Jabalpur,Moderate,144,"PM
+2.5",1,2019-12-16
+Jabalpur,Moderate,186,"PM
+2.5",1,2019-12-17
+Jabalpur,Poor,238,"PM
+2.5",1,2019-12-18
+Jabalpur,Moderate,190,"PM
+2.5",1,2019-12-19
+Jabalpur,Poor,243,"PM
+2.5",1,2019-12-20
+Jabalpur,Moderate,194,"PM
+2.5",1,2019-12-21
+Jabalpur,Poor,231,"PM
+2.5",1,2019-12-22
+Jabalpur,Poor,241,"PM
+2.5",1,2019-12-23
+Jabalpur,Poor,230,"PM
+2.5",1,2019-12-24
+Jabalpur,Very Poor,317,"PM
+2.5",1,2019-12-25
+Jabalpur,Poor,264,"PM
+2.5",1,2019-12-26
+Jabalpur,Moderate,108,"PM
+2.5",1,2019-12-27
+Jabalpur,Moderate,155,"PM
+2.5",1,2019-12-28
+Jabalpur,Poor,233,"PM
+2.5",1,2019-12-29
+Jabalpur,Poor,265,"PM
+2.5",1,2019-12-30
+Jabalpur,Poor,297,"PM
+2.5",1,2019-12-31
+Jabalpur,Poor,254,"PM
+2.5",1,2020-01-01
+Jabalpur,Moderate,149,"PM
+2.5",1,2020-01-02
+Jabalpur,Satisfactory,77,"PM
+2.5",1,2020-01-03
+Jabalpur,Moderate,137,"PM
+2.5",1,2020-01-04
+Jabalpur,Moderate,155,"PM
+2.5",1,2020-01-05
+Jabalpur,Moderate,173,"PM
+2.5",1,2020-01-06
+Jabalpur,Moderate,144,"PM
+10",1,2020-01-07
+Jabalpur,Moderate,138,"PM
+2.5",1,2020-01-08
+Jabalpur,Moderate,155,"PM
+2.5",1,2020-01-09
+Jabalpur,Moderate,136,"PM
+2.5",1,2020-01-10
+Jabalpur,Poor,254,"PM
+2.5",1,2020-01-11
+Jabalpur,Poor,267,"PM
+2.5",1,2020-01-12
+Jabalpur,Moderate,175,"PM
+2.5",1,2020-01-13
+Jabalpur,Moderate,165,"PM
+10",1,2020-01-14
+Jabalpur,Moderate,156,"PM
+10",1,2020-01-15
+Jabalpur,Moderate,141,"PM
+10",1,2020-01-16
+Jabalpur,Moderate,179,"PM
+2.5",1,2020-01-17
+Jabalpur,Moderate,162,"PM
+2.5",1,2020-01-18
+Jabalpur,Moderate,165,"PM
+2.5",1,2020-01-19
+Jabalpur,Moderate,199,"PM
+2.5",1,2020-01-20
+Jabalpur,Moderate,160,"PM
+10",1,2020-01-21
+Jabalpur,Moderate,176,"PM
+2.5",1,2020-01-22
+Jabalpur,Moderate,181,"PM
+2.5",1,2020-01-23
+Jabalpur,Moderate,114,"PM
+10",1,2020-01-24
+Jabalpur,Moderate,164,"PM
+10",1,2020-01-25
+Jabalpur,Poor,207,"PM
+2.5",1,2020-01-26
+Jabalpur,Moderate,148,"PM
+10",1,2020-01-27
+Jabalpur,Moderate,124,"PM
+10",1,2020-01-28
+Jabalpur,Moderate,145,"PM
+2.5",1,2020-01-29
+Jabalpur,Moderate,118,"PM
+10",1,2020-01-30
+Jabalpur,Satisfactory,95,"PM
+10",1,2020-01-31
+Jabalpur,Moderate,131,"PM
+2.5",1,2020-02-01
+Jabalpur,Moderate,125,"PM
+2.5",1,2020-02-02
+Jabalpur,Moderate,118,"PM
+10",1,2020-02-03
+Jabalpur,Moderate,147,"PM
+2.5",1,2020-02-04
+Jabalpur,Moderate,176,"PM
+2.5",1,2020-02-05
+Jabalpur,Moderate,165,"PM
+2.5",1,2020-02-06
+Jabalpur,Moderate,117,"PM
+2.5",1,2020-02-07
+Jabalpur,Moderate,134,"PM
+2.5",1,2020-02-08
+Jabalpur,Moderate,146,"PM
+2.5",1,2020-02-09
+Jabalpur,Moderate,163,"PM
+2.5",1,2020-02-10
+Jabalpur,Moderate,158,"PM
+2.5",1,2020-02-11
+Jabalpur,Moderate,169,"PM
+2.5",1,2020-02-12
+Jabalpur,Moderate,163,"PM
+10",1,2020-02-13
+Jabalpur,Moderate,176,"PM
+10",1,2020-02-14
+Jabalpur,Moderate,192,"PM
+10",1,2020-02-15
+Jabalpur,Moderate,164,"PM
+10",1,2020-02-16
+Jabalpur,Moderate,147,"PM
+10",1,2020-02-17
+Jabalpur,Moderate,144,"PM
+10",1,2020-02-18
+Jabalpur,Moderate,160,"PM
+10",1,2020-02-19
+Jabalpur,Moderate,122,"PM
+10",1,2020-02-20
+Jabalpur,Moderate,107,"PM
+10",1,2020-02-21
+Jabalpur,Moderate,130,"PM
+10",1,2020-02-22
+Jabalpur,Moderate,200,"PM
+2.5",1,2020-02-23
+Jabalpur,Moderate,180,"PM
+2.5",1,2020-02-24
+Jabalpur,Moderate,139,"PM
+2.5",1,2020-02-25
+Jabalpur,Moderate,118,"PM
+10",1,2020-02-26
+Jabalpur,Moderate,155,"PM
+10",1,2020-02-27
+Jabalpur,Moderate,148,"PM
+10",1,2020-02-28
+Jabalpur,Moderate,148,"PM
+10",1,2020-02-29
+Jabalpur,Moderate,136,"PM
+10",1,2020-03-01
+Jabalpur,Satisfactory,72,"PM
+10",1,2020-03-02
+Jabalpur,Moderate,112,"PM
+10",1,2020-03-03
+Jabalpur,Moderate,123,"PM
+10",1,2020-03-04
+Jabalpur,Moderate,127,"PM
+10",1,2020-03-05
+Jabalpur,Moderate,142,"PM
+10",1,2020-03-06
+Jabalpur,Moderate,142,"PM
+10",1,2020-03-07
+Jabalpur,Moderate,118,"PM
+10",1,2020-03-08
+Jabalpur,Satisfactory,93,"PM
+10",1,2020-03-09
+Jabalpur,Moderate,112,"PM
+10",1,2020-03-10
+Jabalpur,Satisfactory,57,"O
+3",1,2020-03-11
+Jabalpur,Satisfactory,76,"PM
+10",1,2020-03-12
+Jabalpur,Moderate,102,"PM
+10",1,2020-03-13
+Jabalpur,Satisfactory,81,"PM
+10",1,2020-03-14
+Jabalpur,Satisfactory,100,"PM
+10",1,2020-03-15
+Jabalpur,Moderate,118,"PM
+10",1,2020-03-16
+Jabalpur,Moderate,122,"PM
+10",1,2020-03-17
+Jabalpur,Moderate,113,"PM
+10",1,2020-03-18
+Jabalpur,Satisfactory,95,"PM
+10",1,2020-03-19
+Jabalpur,Satisfactory,69,"O
+3",1,2020-03-20
+Jabalpur,Satisfactory,80,"O
+3",1,2020-03-21
+Jabalpur,Satisfactory,92,"PM
+10",1,2020-03-22
+Jabalpur,Satisfactory,75,"PM
+2.5",1,2020-03-23
+Jabalpur,Satisfactory,84,"PM
+10",1,2020-03-24
+Jabalpur,Satisfactory,82,"PM
+10",1,2020-03-25
+Jabalpur,Satisfactory,64,"O
+3",1,2020-03-26
+Jabalpur,Satisfactory,60,"PM
+10",1,2020-03-27
+Jabalpur,Good,46,"O
+3",1,2020-03-28
+Jabalpur,Satisfactory,62,"O
+3",1,2020-03-29
+Jabalpur,Satisfactory,70,"O
+3",1,2020-03-30
+Jabalpur,Satisfactory,71,"O
+3",1,2020-03-31
+Jabalpur,Satisfactory,74,"O
+3",1,2020-04-01
+Jabalpur,Satisfactory,93,"PM
+10",1,2020-04-02
+Jabalpur,Satisfactory,72,"PM
+10",1,2020-04-03
+Jabalpur,Satisfactory,85,"O
+3",1,2020-04-04
+Jabalpur,Satisfactory,68,"O
+3",1,2020-04-05
+Jabalpur,Satisfactory,87,"PM
+2.5",1,2020-04-06
+Jabalpur,Satisfactory,83,"O
+3",1,2020-04-08
+Jabalpur,Satisfactory,81,"O
+3",1,2020-04-09
+Jabalpur,Moderate,110,"PM
+10",1,2020-04-10
+Jabalpur,Satisfactory,88,"PM
+10",1,2020-04-11
+Jabalpur,Satisfactory,99,"PM
+10",1,2020-04-12
+Jabalpur,Moderate,116,"PM
+10",1,2020-04-13
+Jabalpur,Satisfactory,98,"PM
+10",1,2020-04-14
+Jabalpur,Satisfactory,73,"O
+3",1,2020-04-15
+Jabalpur,Satisfactory,76,"O
+3",1,2020-04-16
+Jabalpur,Moderate,120,"PM
+2.5",1,2020-04-17
+Jabalpur,Moderate,124,"PM
+10",1,2020-04-18
+Jabalpur,Satisfactory,83,"PM
+10",1,2020-04-19
+Jabalpur,Satisfactory,93,"PM
+10",1,2020-04-20
+Jabalpur,Moderate,104,"PM
+10",1,2020-04-21
+Jabalpur,Satisfactory,97,"PM
+10",1,2020-04-22
+Jabalpur,Satisfactory,93,"PM
+10",1,2020-04-23
+Jabalpur,Satisfactory,97,"PM
+10",1,2020-04-24
+Jabalpur,Satisfactory,79,"O
+3",1,2020-04-25
+Jabalpur,Satisfactory,89,"O
+3",1,2020-04-26
+Jabalpur,Satisfactory,85,"O
+3",1,2020-04-27
+Jabalpur,Satisfactory,92,"O
+3",1,2020-04-28
+Jabalpur,Satisfactory,94,"O
+3",1,2020-04-29
+Jabalpur,Moderate,103,"O
+3",1,2020-04-30
+Jabalpur,Satisfactory,89,"O
+3",1,2020-05-01
+Jabalpur,Moderate,103,"O
+3",1,2020-05-02
+Jabalpur,Moderate,113,"O
+3",1,2020-05-03
+Jabalpur,Moderate,107,"O
+3",1,2020-05-04
+Jabalpur,Satisfactory,89,"O
+3",1,2020-05-05
+Jabalpur,Satisfactory,89,"O
+3",1,2020-05-06
+Jabalpur,Satisfactory,95,"O
+3",1,2020-05-07
+Jabalpur,Satisfactory,94,"O
+3",1,2020-05-08
+Jabalpur,Satisfactory,68,"O
+3",1,2020-05-09
+Jabalpur,Moderate,101,"O
+3",1,2020-05-14
+Jabalpur,Satisfactory,95,"O
+3",1,2020-05-15
+Jabalpur,Moderate,103,"O
+3",1,2020-05-16
+Jabalpur,Moderate,107,"O
+3",1,2020-05-17
+Jabalpur,Moderate,108,"O
+3",1,2020-05-18
+Jabalpur,Moderate,104,"O
+3",1,2020-05-19
+Jabalpur,Moderate,127,"PM
+10",1,2020-05-20
+Jabalpur,Moderate,124,"PM
+10",1,2020-05-21
+Jabalpur,Moderate,111,"PM
+10",1,2020-05-22
+Jabalpur,Moderate,133,"PM
+10",1,2020-05-23
+Jabalpur,Moderate,114,"PM
+10",1,2020-05-24
+Jabalpur,Moderate,110,"PM
+10",1,2020-05-25
+Jabalpur,Satisfactory,100,"PM
+10",1,2020-05-26
+Jabalpur,Satisfactory,100,"PM
+10",1,2020-05-27
+Jabalpur,Moderate,110,"PM
+10",1,2020-05-28
+Jabalpur,Moderate,114,"PM
+10",1,2020-05-29
+Jabalpur,Satisfactory,88,"PM
+10",1,2020-05-30
+Jabalpur,Moderate,105,"PM
+10",1,2020-05-31
+Jabalpur,Satisfactory,73,"O
+3",1,2020-06-01
+Jabalpur,Satisfactory,71,"PM
+10",1,2020-06-02
+Jabalpur,Satisfactory,66,"PM
+10",1,2020-06-03
+Jabalpur,Satisfactory,54,"O
+3",1,2020-06-04
+Jabalpur,Satisfactory,51,"O
+3",1,2020-06-05
+Jabalpur,Satisfactory,73,"O
+3",1,2020-06-06
+Jabalpur,Satisfactory,86,"O
+3",1,2020-06-07
+Jabalpur,Satisfactory,76,"O
+3",1,2020-06-08
+Jabalpur,Satisfactory,71,"O
+3",1,2020-06-09
+Jabalpur,Satisfactory,81,"O
+3",1,2020-06-10
+Jabalpur,Satisfactory,92,"PM
+10",1,2020-06-11
+Jabalpur,Satisfactory,88,"PM
+10",1,2020-06-12
+Jabalpur,Satisfactory,72,"PM
+10",1,2020-06-13
+Jabalpur,Satisfactory,60,"O
+3",1,2020-06-14
+Jabalpur,Satisfactory,53,"O
+3",1,2020-06-15
+Jabalpur,Satisfactory,57,"O
+3",1,2020-06-16
+Jabalpur,Satisfactory,70,"PM
+10",1,2020-06-17
+Jabalpur,Satisfactory,64,"O
+3",1,2020-06-18
+Jabalpur,Satisfactory,66,"O
+3",1,2020-06-19
+Jabalpur,Satisfactory,61,"O
+3",1,2020-06-20
+Jabalpur,Satisfactory,69,"PM
+10",1,2020-06-21
+Jabalpur,Satisfactory,58,"PM
+10",1,2020-06-22
+Jabalpur,Good,50,CO,1,2020-06-23
+Jabalpur,Satisfactory,59,"PM
+10",1,2020-06-24
+Jabalpur,Satisfactory,56,"PM
+10",1,2020-06-25
+Jabalpur,Satisfactory,52,"PM
+10",1,2020-06-26
+Jabalpur,Good,47,"PM
+10",1,2020-06-27
+Jabalpur,Good,50,"O
+3",1,2020-06-28
+Jabalpur,Satisfactory,69,CO,1,2020-06-29
+Jabalpur,Good,48,"O
+3",1,2020-06-30
+Jabalpur,Satisfactory,57,"PM
+10",1,2020-07-01
+Jabalpur,Satisfactory,63,CO,1,2020-07-02
+Jabalpur,Satisfactory,57,"PM
+10",1,2020-07-03
+Jabalpur,Satisfactory,70,"O
+3",1,2020-07-04
+Jabalpur,Satisfactory,55,"O
+3",1,2020-07-05
+Jabalpur,Satisfactory,56,CO,1,2020-07-06
+Jabalpur,Satisfactory,69,"SO
+2",1,2020-07-07
+Jabalpur,Good,42,"PM
+10",1,2020-07-08
+Jabalpur,Satisfactory,54,"PM
+10",1,2020-07-09
+Jabalpur,Satisfactory,53,"PM
+10",1,2020-07-10
+Jabalpur,Satisfactory,73,"PM
+10",1,2020-07-11
+Jabalpur,Good,50,"PM
+10",1,2020-07-12
+Jabalpur,Good,41,CO,1,2020-07-13
+Jabalpur,Satisfactory,61,"PM
+10",1,2020-07-14
+Jabalpur,Satisfactory,58,"PM
+10",1,2020-07-15
+Jabalpur,Good,38,"O
+3",1,2020-07-16
+Jabalpur,Good,41,"PM
+10",1,2020-07-17
+Jabalpur,Good,47,"PM
+10",1,2020-07-18
+Jabalpur,Satisfactory,62,"PM
+10",1,2020-07-19
+Jabalpur,Good,41,"PM
+10",1,2020-07-20
+Jabalpur,Good,38,"PM
+10",1,2020-07-21
+Jabalpur,Good,40,"PM
+10",1,2020-07-22
+Jabalpur,Satisfactory,52,"PM
+10",1,2020-07-23
+Jabalpur,Good,48,"O
+3",1,2020-07-24
+Jabalpur,Satisfactory,52,"PM
+10",1,2020-07-25
+Jabalpur,Good,40,"O
+3",1,2020-07-26
+Jabalpur,Good,38,"O
+3",1,2020-07-27
+Jabalpur,Satisfactory,55,"PM
+10",1,2020-07-28
+Jabalpur,Good,40,"O
+3",1,2020-07-29
+Jabalpur,Satisfactory,51,"O
+3",1,2020-07-30
+Jabalpur,Satisfactory,88,"PM
+2.5",1,2020-07-31
+Jabalpur,Satisfactory,68,"PM
+10",1,2020-08-01
+Jabalpur,Good,40,"O
+3",1,2020-08-02
+Jabalpur,Good,43,"O
+3",1,2020-08-03
+Jabalpur,Good,43,CO,1,2020-08-04
+Jabalpur,Good,37,"PM
+10",1,2020-08-05
+Jabalpur,Good,35,"O
+3",1,2020-08-06
+Jabalpur,Good,35,"O
+3",1,2020-08-07
+Jabalpur,Good,36,CO,1,2020-08-08
+Jabalpur,Good,40,"PM
+10",1,2020-08-09
+Jabalpur,Good,47,CO,1,2020-08-10
+Jabalpur,Satisfactory,52,"PM
+10",1,2020-08-11
+Jabalpur,Good,41,CO,1,2020-08-12
+Jabalpur,Satisfactory,54,CO,1,2020-08-13
+Jabalpur,Good,39,CO,1,2020-08-14
+Jabalpur,Good,42,CO,1,2020-08-15
+Jabalpur,Good,48,"PM
+10",1,2020-08-16
+Jabalpur,Good,45,CO,1,2020-08-17
+Jabalpur,Good,34,CO,1,2020-08-18
+Jabalpur,Satisfactory,55,CO,1,2020-08-19
+Jabalpur,Good,45,"PM
+10",1,2020-08-20
+Jabalpur,Good,41,CO,1,2020-08-21
+Jabalpur,Good,26,"O
+3",1,2020-08-22
+Jabalpur,Good,22,"PM
+10",1,2020-08-23
+Jabalpur,Good,32,"PM
+10",1,2020-08-24
+Jabalpur,Good,49,"PM
+10",1,2020-08-25
+Jabalpur,Satisfactory,72,"PM
+10",1,2020-08-26
+Jabalpur,Good,43,"PM
+10",1,2020-08-27
+Jabalpur,Good,43,CO,1,2020-08-28
+Jabalpur,Good,30,CO,1,2020-08-29
+Jabalpur,Good,27,"O
+3",1,2020-08-30
+Jabalpur,Good,34,"PM
+10",1,2020-08-31
+Jabalpur,Satisfactory,69,"PM
+10",1,2020-09-01
+Jabalpur,Satisfactory,80,"PM
+10",1,2020-09-02
+Jabalpur,Good,38,"PM
+10",1,2020-09-03
+Jabalpur,Good,41,"O
+3",1,2020-09-04
+Jabalpur,Satisfactory,59,"PM
+10",1,2020-09-05
+Jabalpur,Satisfactory,62,"PM
+10",1,2020-09-06
+Jabalpur,Satisfactory,53,"PM
+10",1,2020-09-07
+Jabalpur,Good,39,"PM
+10",1,2020-09-08
+Jabalpur,Good,42,"PM
+10",1,2020-09-09
+Jabalpur,Satisfactory,54,"PM
+10",1,2020-09-10
+Jabalpur,Satisfactory,59,"O
+3",1,2020-09-11
+Jabalpur,Good,47,"PM
+10",1,2020-09-12
+Jabalpur,Good,50,"PM
+10",1,2020-09-13
+Jabalpur,Good,41,"PM
+10",1,2020-09-14
+Jabalpur,Satisfactory,54,"PM
+10",1,2020-09-15
+Jabalpur,Satisfactory,56,"PM
+10",1,2020-09-16
+Jabalpur,Satisfactory,60,"PM
+10",1,2020-09-17
+Jabalpur,Satisfactory,94,"PM
+10",1,2020-09-18
+Jabalpur,Satisfactory,65,"PM
+10",1,2020-09-19
+Jabalpur,Satisfactory,67,"PM
+10",1,2020-09-20
+Jabalpur,Satisfactory,65,"PM
+2.5",1,2020-09-21
+Jabalpur,Good,46,"NO
+2",1,2020-09-22
+Jabalpur,Good,37,"NO
+2",1,2020-09-23
+Jabalpur,Good,42,CO,1,2020-09-24
+Jabalpur,Satisfactory,60,"PM
+10",1,2020-09-25
+Jabalpur,Satisfactory,80,"PM
+10",1,2020-09-26
+Jabalpur,Satisfactory,59,"PM
+10",1,2020-09-27
+Jabalpur,Satisfactory,53,"PM
+10",1,2020-09-28
+Jabalpur,Satisfactory,57,"PM
+10",1,2020-09-29
+Jabalpur,Satisfactory,88,"PM
+10",1,2020-09-30
+Jabalpur,Moderate,122,"PM
+10",1,2020-10-01
+Jabalpur,Moderate,118,"PM
+10",1,2020-10-02
+Jabalpur,Moderate,129,"PM
+10",1,2020-10-03
+Jabalpur,Moderate,126,"PM
+10",1,2020-10-04
+Jabalpur,Moderate,118,"PM
+10",1,2020-10-05
+Jabalpur,Moderate,144,"PM
+10",1,2020-10-06
+Jabalpur,Moderate,132,"PM
+10",1,2020-10-07
+Jabalpur,Satisfactory,87,"PM
+10",1,2020-10-08
+Jabalpur,Satisfactory,85,"PM
+10",1,2020-10-09
+Jabalpur,Satisfactory,68,"PM
+10",1,2020-10-10
+Jabalpur,Satisfactory,95,"PM
+10",1,2020-10-11
+Jabalpur,Satisfactory,68,"PM
+10",1,2020-10-12
+Jabalpur,Satisfactory,75,"PM
+10",1,2020-10-13
+Jabalpur,Satisfactory,60,"PM
+10",1,2020-10-14
+Jabalpur,Satisfactory,51,"PM
+10",1,2020-10-15
+Jabalpur,Satisfactory,64,"PM
+10",1,2020-10-16
+Jabalpur,Satisfactory,63,"PM
+10",1,2020-10-17
+Jabalpur,Satisfactory,63,"O
+3",1,2020-10-18
+Jabalpur,Satisfactory,100,"PM
+10",1,2020-10-19
+Jabalpur,Moderate,120,"PM
+10",1,2020-10-20
+Jabalpur,Moderate,148,"PM
+10",1,2020-10-21
+Jabalpur,Moderate,161,"PM
+10",1,2020-10-22
+Jabalpur,Moderate,151,"PM
+10",1,2020-10-23
+Jabalpur,Moderate,167,"PM
+2.5",1,2020-10-24
+Jabalpur,Moderate,112,"PM
+10",1,2020-10-25
+Jabalpur,Moderate,101,"PM
+10",1,2020-10-26
+Jabalpur,Moderate,112,"PM
+10",1,2020-10-27
+Jabalpur,Moderate,111,"PM
+10",1,2020-10-28
+Jabalpur,Moderate,139,"PM
+10",1,2020-10-29
+Jabalpur,Moderate,172,"PM
+10",1,2020-10-30
+Jabalpur,Poor,209,"PM
+2.5",1,2020-10-31
+Jabalpur,Poor,234,"PM
+2.5",1,2020-11-01
+Jabalpur,Poor,277,"PM
+2.5",1,2020-11-02
+Jabalpur,Poor,256,"PM
+2.5",1,2020-11-03
+Jabalpur,Moderate,161,"PM
+10",1,2020-11-04
+Jabalpur,Moderate,162,"PM
+10",1,2020-11-05
+Jabalpur,Moderate,192,"PM
+2.5",1,2020-11-06
+Jabalpur,Poor,280,"PM
+2.5",1,2020-11-10
+Jabalpur,Poor,267,"PM
+2.5",1,2020-11-11
+Jabalpur,Poor,205,"PM
+2.5",1,2020-11-12
+Jabalpur,Moderate,109,"PM
+10",1,2020-11-13
+Jabalpur,Moderate,138,"PM
+10",1,2020-11-14
+Jabalpur,Poor,203,"PM
+2.5",1,2020-11-15
+Jabalpur,Satisfactory,95,"PM
+2.5",1,2020-11-16
+Jabalpur,Poor,227,"PM
+2.5",1,2020-11-17
+Jabalpur,Moderate,161,"PM
+2.5",1,2020-11-18
+Jabalpur,Moderate,130,"PM
+2.5",1,2020-11-19
+Jabalpur,Moderate,183,"PM
+2.5",1,2020-11-20
+Jabalpur,Poor,230,"PM
+2.5",1,2020-11-21
+Jabalpur,Moderate,198,"PM
+2.5",1,2020-11-22
+Jabalpur,Poor,236,"PM
+2.5",1,2020-11-23
+Jabalpur,Moderate,180,"PM
+2.5",1,2020-11-24
+Jabalpur,Moderate,157,"PM
+10",1,2020-11-25
+Jabalpur,Poor,243,"PM
+2.5",1,2020-11-26
+Jabalpur,Poor,268,"PM
+2.5",1,2020-11-27
+Jabalpur,Poor,210,"PM
+2.5",1,2020-11-28
+Jabalpur,Moderate,195,"PM
+2.5",1,2020-11-29
+Jabalpur,Moderate,135,"PM
+10",1,2020-11-30
+Jabalpur,Moderate,199,"PM
+10",1,2020-12-01
+Jabalpur,Poor,214,"PM
+10",1,2020-12-02
+Jabalpur,Moderate,196,"PM
+10",1,2020-12-03
+Jabalpur,Moderate,171,"PM
+10",1,2020-12-04
+Jabalpur,Moderate,167,"PM
+10",1,2020-12-05
+Jabalpur,Moderate,155,"PM
+10",1,2020-12-06
+Jabalpur,Moderate,159,"PM
+10",1,2020-12-07
+Jabalpur,Moderate,156,"PM
+10",1,2020-12-08
+Jabalpur,Moderate,185,"PM
+10",1,2020-12-09
+Jabalpur,Moderate,168,"PM
+10",1,2020-12-10
+Jabalpur,Moderate,139,"PM
+10",1,2020-12-11
+Jabalpur,Moderate,119,"PM
+10",1,2020-12-12
+Jabalpur,Moderate,162,"PM
+2.5",1,2020-12-13
+Jabalpur,Moderate,145,"PM
+2.5",1,2020-12-14
+Jabalpur,Moderate,195,"PM
+2.5",1,2020-12-15
+Jabalpur,Poor,260,"PM
+2.5",1,2020-12-16
+Jabalpur,Poor,271,"PM
+2.5",1,2020-12-17
+Jabalpur,Moderate,181,"PM
+2.5",1,2020-12-19
+Jabalpur,Moderate,188,"PM
+10",1,2020-12-20
+Jabalpur,Moderate,190,"PM
+10",1,2020-12-21
+Jabalpur,Moderate,187,"PM
+10",1,2020-12-22
+Jabalpur,Moderate,184,"PM
+2.5",1,2020-12-23
+Jabalpur,Poor,204,"PM
+10",1,2020-12-24
+Jabalpur,Poor,215,"PM
+2.5",1,2020-12-25
+Jabalpur,Poor,245,"PM
+2.5",1,2020-12-26
+Jabalpur,Poor,216,"PM
+2.5",1,2020-12-27
+Jabalpur,Moderate,194,"PM
+2.5",1,2020-12-28
+Jabalpur,Poor,289,"PM
+2.5",1,2020-12-29
+Jabalpur,Very Poor,332,"PM
+2.5",1,2020-12-30
+Jabalpur,Very Poor,322,"PM
+2.5",1,2020-12-31
+Jabalpur,Very Poor,359,"PM
+2.5",1,2021-01-01
+Jabalpur,Very Poor,315,"PM
+2.5",1,2021-01-02
+Jabalpur,Poor,294,"PM
+2.5",1,2021-01-03
+Jabalpur,Poor,252,"PM
+2.5",1,2021-01-04
+Jabalpur,Poor,300,"PM
+2.5",1,2021-01-05
+Jabalpur,Poor,272,"PM
+2.5",1,2021-01-06
+Jabalpur,Poor,212,"PM
+10",1,2021-01-07
+Jabalpur,Poor,207,"PM
+2.5",1,2021-01-08
+Jabalpur,Poor,236,"PM
+2.5",1,2021-01-09
+Jabalpur,Moderate,152,"PM
+2.5",1,2021-01-10
+Jabalpur,Poor,206,"PM
+2.5",1,2021-01-11
+Jabalpur,Moderate,152,"PM
+2.5",1,2021-01-12
+Jabalpur,Moderate,106,"PM
+10",1,2021-01-13
+Jabalpur,Moderate,182,"PM
+2.5",1,2021-01-14
+Jabalpur,Moderate,191,"PM
+10",1,2021-01-15
+Jabalpur,Moderate,192,"PM
+2.5",1,2021-01-16
+Jabalpur,Moderate,186,"PM
+10",1,2021-01-17
+Jabalpur,Moderate,159,"PM
+2.5",1,2021-01-18
+Jabalpur,Moderate,150,"PM
+10",1,2021-01-19
+Jabalpur,Poor,201,"PM
+2.5",1,2021-01-20
+Jabalpur,Poor,205,"PM
+10",1,2021-01-21
+Jabalpur,Moderate,154,"PM
+10",1,2021-01-22
+Jabalpur,Moderate,151,"PM
+10",1,2021-01-23
+Jabalpur,Moderate,140,"PM
+10",1,2021-01-24
+Jabalpur,Poor,245,"PM
+2.5",1,2021-01-25
+Jabalpur,Poor,280,"PM
+2.5",1,2021-01-29
+Jabalpur,Moderate,167,"PM
+2.5",1,2021-01-30
+Jabalpur,Poor,261,"PM
+2.5",1,2021-01-31
+Jabalpur,Poor,206,"PM
+10",1,2021-02-01
+Jabalpur,Moderate,194,"PM
+10",1,2021-02-02
+Jabalpur,Moderate,175,"PM
+10",1,2021-02-03
+Jabalpur,Moderate,136,"PM
+10",1,2021-02-04
+Jabalpur,Moderate,116,"PM
+10",1,2021-02-05
+Jabalpur,Poor,210,"PM
+2.5",1,2021-02-06
+Jabalpur,Moderate,120,"PM
+10",1,2021-02-07
+Jabalpur,Moderate,162,"PM
+10",1,2021-02-08
+Jabalpur,Moderate,186,"PM
+10",1,2021-02-09
+Jabalpur,Moderate,188,"PM
+10",1,2021-02-10
+Jabalpur,Poor,209,"PM
+10",1,2021-02-11
+Jabalpur,Moderate,178,"PM
+10",1,2021-02-12
+Jabalpur,Poor,211,"PM
+10",1,2021-02-13
+Jabalpur,Moderate,170,"PM
+10",1,2021-02-14
+Jabalpur,Moderate,194,"PM
+10",1,2021-02-15
+Jabalpur,Moderate,183,"PM
+10",1,2021-02-16
+Jabalpur,Satisfactory,73,"O
+3",1,2021-02-17
+Jabalpur,Satisfactory,87,"PM
+10",1,2021-02-18
+Jabalpur,Moderate,147,"PM
+10",1,2021-02-19
+Jabalpur,Moderate,151,"PM
+10",1,2021-02-20
+Jabalpur,Moderate,149,"PM
+10",1,2021-02-21
+Jabalpur,Moderate,163,"PM
+10",1,2021-02-22
+Jabalpur,Moderate,157,"PM
+10",1,2021-02-23
+Jabalpur,Moderate,169,"PM
+10",1,2021-02-24
+Jabalpur,Moderate,158,"PM
+10",1,2021-02-25
+Jabalpur,Moderate,138,"PM
+10",1,2021-02-26
+Jabalpur,Moderate,152,"PM
+10",1,2021-02-27
+Jabalpur,Moderate,145,"PM
+10",1,2021-02-28
+Jabalpur,Moderate,145,"PM
+10",1,2021-03-01
+Jabalpur,Moderate,146,"PM
+10",1,2021-03-02
+Jabalpur,Moderate,185,"PM
+10",1,2021-03-03
+Jabalpur,Moderate,156,"PM
+10",1,2021-03-04
+Jabalpur,Moderate,148,"PM
+10",1,2021-03-05
+Jabalpur,Moderate,123,"PM
+10",1,2021-03-06
+Jabalpur,Moderate,158,"PM
+10",1,2021-03-07
+Jabalpur,Moderate,125,"PM
+10",1,2021-03-08
+Jabalpur,Moderate,155,"PM
+10",1,2021-03-09
+Jabalpur,Moderate,123,"PM
+10",1,2021-03-10
+Jabalpur,Moderate,178,"PM
+10",1,2021-03-11
+Jabalpur,Satisfactory,94,"PM
+10",1,2021-03-12
+Jabalpur,Satisfactory,63,"O
+3",1,2021-03-13
+Jabalpur,Satisfactory,98,"PM
+10",1,2021-03-14
+Jabalpur,Moderate,122,"PM
+10",1,2021-03-15
+Jabalpur,Moderate,152,"PM
+10",1,2021-03-16
+Jabalpur,Moderate,136,"PM
+10",1,2021-03-17
+Jabalpur,Moderate,189,"PM
+10",1,2021-03-18
+Jabalpur,Satisfactory,98,"PM
+10",1,2021-03-19
+Jabalpur,Satisfactory,80,"PM
+10",1,2021-03-20
+Jabalpur,Moderate,106,"PM
+10",1,2021-03-21
+Jabalpur,Satisfactory,100,"PM
+10",1,2021-03-22
+Jabalpur,Moderate,104,"PM
+10",1,2021-03-23
+Jabalpur,Moderate,110,"PM
+10",1,2021-03-24
+Jabalpur,Moderate,164,"PM
+10",1,2021-03-25
+Jabalpur,Moderate,142,"PM
+10",1,2021-03-26
+Jabalpur,Moderate,162,"PM
+10",1,2021-03-27
+Jabalpur,Moderate,149,"PM
+10",1,2021-03-28
+Jabalpur,Poor,215,"PM
+2.5",1,2021-03-29
+Jabalpur,Moderate,157,"PM
+10",1,2021-03-30
+Jabalpur,Poor,216,"PM
+10",1,2021-03-31
+Jabalpur,Poor,214,"PM
+10",1,2021-04-01
+Jabalpur,Moderate,125,"PM
+10",1,2021-04-02
+Jabalpur,Poor,210,"PM
+2.5",1,2021-04-03
+Jabalpur,Moderate,160,"PM
+10",1,2021-04-04
+Jabalpur,Moderate,174,"PM
+2.5",1,2021-04-05
+Jabalpur,Poor,201,"PM
+10",1,2021-04-06
+Jabalpur,Moderate,161,"PM
+10",1,2021-04-07
+Jabalpur,Poor,273,"PM
+10",1,2021-04-08
+Jabalpur,Moderate,134,"PM
+10",1,2021-04-09
+Jabalpur,Moderate,113,"PM
+10",1,2021-04-10
+Jabalpur,Satisfactory,79,"O
+3",1,2021-04-11
+Jabalpur,Satisfactory,90,"O
+3",1,2021-04-12
+Jabalpur,Moderate,131,"PM
+10",1,2021-04-13
+Jabalpur,Moderate,129,"PM
+10",1,2021-04-14
+Jabalpur,Satisfactory,87,"PM
+10",1,2021-04-15
+Jabalpur,Moderate,107,"PM
+10",1,2021-04-16
+Jabalpur,Moderate,143,"PM
+10",1,2021-04-17
+Jabalpur,Moderate,161,"PM
+10",1,2021-04-18
+Jabalpur,Moderate,112,"PM
+10",1,2021-04-19
+Jabalpur,Moderate,138,"PM
+10",1,2021-04-20
+Jabalpur,Satisfactory,95,"PM
+10",1,2021-04-21
+Jabalpur,Moderate,118,"PM
+10",1,2021-04-22
+Jabalpur,Moderate,120,"PM
+10",1,2021-04-23
+Jabalpur,Moderate,121,"PM
+10",1,2021-04-24
+Jabalpur,Satisfactory,94,"PM
+10",1,2021-04-25
+Jabalpur,Satisfactory,97,"O
+3",1,2021-04-26
+Jabalpur,Moderate,133,"PM
+10",1,2021-04-27
+Jabalpur,Moderate,124,"PM
+10",1,2021-04-28
+Jabalpur,Moderate,190,"PM
+10",1,2021-04-29
+Jabalpur,Moderate,143,"PM
+10",1,2021-04-30
+Jabalpur,Moderate,114,"PM
+10",1,2021-05-01
+Jabalpur,Satisfactory,97,"PM
+10",1,2021-05-02
+Jabalpur,Satisfactory,81,"PM
+10",1,2021-05-03
+Jabalpur,Satisfactory,61,"PM
+10",1,2021-05-04
+Jabalpur,Satisfactory,81,"PM
+10",1,2021-05-05
+Jabalpur,Satisfactory,92,"PM
+10",1,2021-05-06
+Jabalpur,Satisfactory,64,"PM
+10",1,2021-05-07
+Jabalpur,Satisfactory,62,"PM
+10",1,2021-05-08
+Jabalpur,Satisfactory,75,"O
+3",1,2021-05-09
+Jabalpur,Satisfactory,76,"O
+3",1,2021-05-10
+Jabalpur,Satisfactory,88,"O
+3",1,2021-05-11
+Jabalpur,Satisfactory,78,"O
+3",1,2021-05-12
+Jabalpur,Satisfactory,87,"O
+3",1,2021-05-13
+Jabalpur,Satisfactory,88,"O
+3",1,2021-05-14
+Jabalpur,Satisfactory,85,"O
+3",1,2021-05-15
+Jabalpur,Satisfactory,77,"O
+3",1,2021-05-16
+Jabalpur,Satisfactory,62,"O
+3",1,2021-05-17
+Jabalpur,Satisfactory,56,"O
+3",1,2021-05-18
+Jabalpur,Satisfactory,57,"O
+3",1,2021-05-19
+Jabalpur,Satisfactory,63,"O
+3",1,2021-05-20
+Jabalpur,Satisfactory,91,"O
+3",1,2021-05-21
+Jabalpur,Satisfactory,100,"PM
+10",1,2021-05-22
+Jabalpur,Satisfactory,95,"O
+3",1,2021-05-23
+Jabalpur,Moderate,141,"PM
+10",1,2021-05-24
+Jabalpur,Moderate,126,"PM
+10",1,2021-05-25
+Jabalpur,Moderate,118,"O
+3",1,2021-05-26
+Jabalpur,Moderate,112,"PM
+10",1,2021-05-27
+Jabalpur,Satisfactory,85,"PM
+10",1,2021-05-28
+Jabalpur,Satisfactory,76,"O
+3",1,2021-05-29
+Jabalpur,Satisfactory,80,"PM
+10",1,2021-05-30
+Jabalpur,Satisfactory,77,"PM
+10",1,2021-05-31
+Jabalpur,Satisfactory,91,"PM
+10",1,2021-06-01
+Jabalpur,Satisfactory,88,"O
+3",1,2021-06-02
+Jabalpur,Satisfactory,83,"O
+3",1,2021-06-03
+Jabalpur,Satisfactory,77,"O
+3",1,2021-06-04
+Jabalpur,Satisfactory,60,"O
+3",1,2021-06-05
+Jabalpur,Satisfactory,76,"O
+3",1,2021-06-06
+Jabalpur,Satisfactory,69,"O
+3",1,2021-06-07
+Jabalpur,Satisfactory,72,"O
+3",1,2021-06-08
+Jabalpur,Satisfactory,59,"O
+3",1,2021-06-09
+Jabalpur,Satisfactory,65,"O
+3",1,2021-06-10
+Jabalpur,Good,50,"NO
+2",1,2021-06-11
+Jabalpur,Satisfactory,58,"PM
+10",1,2021-06-12
+Jabalpur,Satisfactory,77,"PM
+10",1,2021-06-13
+Jabalpur,Satisfactory,80,"PM
+10",1,2021-06-14
+Jabalpur,Satisfactory,86,"PM
+10",1,2021-06-15
+Jabalpur,Satisfactory,75,"PM
+10",1,2021-06-16
+Jabalpur,Satisfactory,96,"PM
+10",1,2021-06-17
+Jabalpur,Satisfactory,71,"PM
+10",1,2021-06-19
+Jabalpur,Satisfactory,94,"PM
+10",1,2021-06-20
+Jabalpur,Moderate,104,"PM
+10",1,2021-06-21
+Jabalpur,Moderate,115,"PM
+10",1,2021-06-22
+Jabalpur,Satisfactory,69,"PM
+10",1,2021-06-23
+Jabalpur,Satisfactory,58,CO,1,2021-06-24
+Jabalpur,Satisfactory,66,"O
+3",1,2021-06-25
+Jabalpur,Satisfactory,76,"O
+3",1,2021-06-26
+Jabalpur,Satisfactory,91,"PM
+10",1,2021-06-27
+Jabalpur,Satisfactory,75,"PM
+10",1,2021-06-28
+Jabalpur,Satisfactory,69,"O
+3",1,2021-06-29
+Jabalpur,Satisfactory,72,"PM
+10",1,2021-06-30
+Jabalpur,Satisfactory,58,"PM
+10",1,2021-07-01
+Jabalpur,Satisfactory,54,"PM
+10",1,2021-07-02
+Jabalpur,Satisfactory,78,"PM
+10",1,2021-07-03
+Jabalpur,Satisfactory,70,"PM
+10",1,2021-07-04
+Jabalpur,Satisfactory,86,"PM
+10",1,2021-07-05
+Jabalpur,Satisfactory,86,"PM
+10",1,2021-07-06
+Jabalpur,Satisfactory,52,"O
+3",1,2021-07-07
+Jabalpur,Satisfactory,65,"PM
+10",1,2021-07-08
+Jabalpur,Satisfactory,56,CO,1,2021-07-09
+Jabalpur,Satisfactory,64,"PM
+10",1,2021-07-10
+Jabalpur,Satisfactory,58,"O
+3",1,2021-07-11
+Jabalpur,Satisfactory,54,"PM
+10",1,2021-07-12
+Jabalpur,Good,48,CO,1,2021-07-13
+Jabalpur,Good,47,CO,1,2021-07-14
+Jabalpur,Good,49,CO,1,2021-07-15
+Jabalpur,Good,38,"O
+3",1,2021-07-16
+Jabalpur,Good,43,"O
+3",1,2021-07-17
+Jabalpur,Good,38,"O
+3",1,2021-07-18
+Jabalpur,Good,35,"O
+3",1,2021-07-19
+Jabalpur,Good,35,"PM
+10",1,2021-07-20
+Jabalpur,Good,41,"PM
+10",1,2021-07-21
+Jabalpur,Good,44,"PM
+10",1,2021-07-22
+Jabalpur,Good,47,CO,1,2021-07-23
+Jabalpur,Good,41,CO,1,2021-07-24
+Jabalpur,Good,24,"NO
+2",1,2021-07-25
+Jabalpur,Good,40,CO,1,2021-07-26
+Jabalpur,Good,31,CO,1,2021-07-27
+Jabalpur,Good,48,CO,1,2021-07-28
+Jabalpur,Good,50,"PM
+10",1,2021-07-29
+Jabalpur,Good,38,CO,1,2021-07-30
+Jabalpur,Good,36,CO,1,2021-07-31
+Jabalpur,Good,35,CO,1,2021-08-01
+Jabalpur,Good,25,"PM
+10",1,2021-08-02
+Jabalpur,Satisfactory,55,CO,1,2021-08-03
+Jabalpur,Satisfactory,64,"PM
+10",1,2021-08-04
+Jabalpur,Good,42,"PM
+10",1,2021-08-05
+Jabalpur,Good,33,CO,1,2021-08-06
+Jabalpur,Good,45,"PM
+10",1,2021-08-07
+Jabalpur,Satisfactory,76,"PM
+10",1,2021-08-08
+Jabalpur,Satisfactory,78,"PM
+10",1,2021-08-09
+Jabalpur,Satisfactory,80,"PM
+10",1,2021-08-10
+Jabalpur,Satisfactory,90,"PM
+10",1,2021-08-11
+Jabalpur,Moderate,121,"PM
+10",1,2021-08-12
+Jabalpur,Moderate,111,"PM
+10",1,2021-08-13
+Jabalpur,Satisfactory,97,"PM
+10",1,2021-08-14
+Jabalpur,Satisfactory,61,"PM
+10",1,2021-08-15
+Jabalpur,Satisfactory,79,"PM
+10",1,2021-08-16
+Jabalpur,Satisfactory,63,"PM
+10",1,2021-08-17
+Jabalpur,Good,43,"PM
+10",1,2021-08-18
+Jabalpur,Good,40,"PM
+10",1,2021-08-19
+Jabalpur,Satisfactory,54,"PM
+10",1,2021-08-20
+Jabalpur,Good,49,"PM
+10",1,2021-08-21
+Jabalpur,Good,49,"PM
+10",1,2021-08-22
+Jabalpur,Satisfactory,52,"PM
+10",1,2021-08-23
+Jabalpur,Satisfactory,74,"PM
+10",1,2021-08-24
+Jabalpur,Satisfactory,82,"PM
+10",1,2021-08-25
+Jabalpur,Satisfactory,74,"PM
+10",1,2021-08-26
+Jabalpur,Satisfactory,88,"PM
+10",1,2021-08-27
+Jabalpur,Moderate,126,"PM
+10",1,2021-08-28
+Jabalpur,Satisfactory,77,"PM
+10",1,2021-08-29
+Jabalpur,Satisfactory,58,"PM
+10",1,2021-08-30
+Jabalpur,Satisfactory,51,"PM
+10",1,2021-08-31
+Jabalpur,Good,45,CO,1,2021-09-01
+Jabalpur,Satisfactory,52,"PM
+10",1,2021-09-02
+Jabalpur,Satisfactory,54,"PM
+10",1,2021-09-03
+Jabalpur,Good,43,"PM
+10",1,2021-09-04
+Jabalpur,Satisfactory,53,CO,1,2021-09-05
+Jabalpur,Satisfactory,53,"PM
+10",1,2021-09-06
+Jabalpur,Satisfactory,58,"PM
+10",1,2021-09-07
+Jabalpur,Good,36,"O
+3",1,2021-09-08
+Jabalpur,Satisfactory,55,CO,1,2021-09-09
+Jabalpur,Satisfactory,53,CO,1,2021-09-10
+Jabalpur,Satisfactory,52,CO,1,2021-09-11
+Jabalpur,Good,45,CO,1,2021-09-12
+Jabalpur,Satisfactory,51,CO,1,2021-09-13
+Jabalpur,Good,42,"PM
+10",1,2021-09-14
+Jabalpur,Good,39,CO,1,2021-09-15
+Jabalpur,Good,34,CO,1,2021-09-16
+Jabalpur,Good,42,"PM
+10",1,2021-09-17
+Jabalpur,Satisfactory,71,"PM
+10",1,2021-09-18
+Jabalpur,Satisfactory,72,"PM
+10",1,2021-09-19
+Jabalpur,Satisfactory,64,"PM
+10",1,2021-09-20
+Jabalpur,Good,49,CO,1,2021-09-21
+Jabalpur,Satisfactory,63,"PM
+10",1,2021-09-22
+Jabalpur,Satisfactory,70,"PM
+10",1,2021-09-23
+Jabalpur,Good,50,"PM
+10",1,2021-09-24
+Jabalpur,Satisfactory,55,"PM
+10",1,2021-09-25
+Jabalpur,Good,50,"PM
+10",1,2021-09-26
+Jabalpur,Satisfactory,64,"PM
+10",1,2021-09-27
+Jabalpur,Good,45,"O
+3",1,2021-09-28
+Jabalpur,Good,48,"PM
+10",1,2021-09-29
+Jabalpur,Satisfactory,52,"O
+3",1,2021-09-30
+Jabalpur,Satisfactory,56,"PM
+10",1,2021-10-01
+Jabalpur,Satisfactory,71,"PM
+10",1,2021-10-02
+Jabalpur,Satisfactory,62,"PM
+10",1,2021-10-04
+Jabalpur,Satisfactory,58,"PM
+10",1,2021-10-05
+Jabalpur,Satisfactory,62,"PM
+10",1,2021-10-06
+Jabalpur,Satisfactory,77,"PM
+10",1,2021-10-07
+Jabalpur,Satisfactory,82,"PM
+10",1,2021-10-08
+Jabalpur,Satisfactory,97,"PM
+10",1,2021-10-09
+Jabalpur,Moderate,127,"PM
+10",1,2021-10-10
+Jabalpur,Moderate,140,"PM
+10",1,2021-10-11
+Jabalpur,Moderate,132,"PM
+10",1,2021-10-12
+Jabalpur,Moderate,143,"PM
+10",1,2021-10-13
+Jabalpur,Moderate,152,"PM
+10",1,2021-10-14
+Jabalpur,Moderate,153,"PM
+10",1,2021-10-15
+Jabalpur,Moderate,118,"PM
+10",1,2021-10-16
+Jabalpur,Good,44,"PM
+10",1,2021-10-17
+Jabalpur,Good,44,"O
+3",1,2021-10-18
+Jabalpur,Good,42,"PM
+10",1,2021-10-19
+Jabalpur,Satisfactory,100,"PM
+10",1,2021-10-20
+Jabalpur,Moderate,130,"PM
+10",1,2021-10-21
+Jabalpur,Moderate,136,"PM
+10",1,2021-10-22
+Jabalpur,Moderate,123,"PM
+10",1,2021-10-23
+Jabalpur,Moderate,116,"PM
+10",1,2021-10-24
+Jabalpur,Moderate,129,"PM
+10",1,2021-10-25
+Jabalpur,Moderate,118,"PM
+10",1,2021-10-26
+Jabalpur,Moderate,113,"PM
+10",1,2021-10-27
+Jabalpur,Moderate,130,"PM
+10",1,2021-10-28
+Jabalpur,Moderate,155,"PM
+10",1,2021-10-29
+Jabalpur,Moderate,195,"PM
+10",1,2021-10-30
+Jabalpur,Moderate,159,"PM
+10",1,2021-10-31
+Jabalpur,Moderate,155,"PM
+10",1,2021-11-01
+Jabalpur,Moderate,155,"PM
+10",1,2021-11-02
+Jabalpur,Moderate,138,"PM
+10",1,2021-11-03
+Jabalpur,Moderate,182,"PM
+10",1,2021-11-04
+Jabalpur,Poor,230,"PM
+2.5",1,2021-11-05
+Jabalpur,Moderate,156,"PM
+10",1,2021-11-06
+Jabalpur,Moderate,176,"PM
+10",1,2021-11-07
+Jabalpur,Moderate,199,"PM
+10",1,2021-11-08
+Jabalpur,Poor,219,"PM
+10",1,2021-11-09
+Jabalpur,Poor,277,"PM
+2.5",1,2021-11-10
+Jabalpur,Very Poor,309,"PM
+2.5",1,2021-11-11
+Jabalpur,Poor,293,"PM
+2.5",1,2021-11-12
+Jabalpur,Poor,298,"PM
+2.5",1,2021-11-13
+Jabalpur,Poor,267,"PM
+2.5",1,2021-11-14
+Jabalpur,Poor,202,"PM
+2.5",1,2021-11-15
+Jabalpur,Poor,247,"PM
+2.5",1,2021-11-16
+Jabalpur,Poor,278,"PM
+2.5",1,2021-11-17
+Jabalpur,Poor,299,"PM
+2.5",1,2021-11-18
+Jabalpur,Poor,235,"PM
+2.5",1,2021-11-19
+Jabalpur,Very Poor,309,"PM
+2.5",1,2021-11-20
+Jabalpur,Poor,243,"PM
+2.5",1,2021-11-21
+Jabalpur,Moderate,196,"PM
+2.5",1,2021-11-22
+Jabalpur,Poor,224,"PM
+2.5",1,2021-11-23
+Jabalpur,Poor,239,"PM
+2.5",1,2021-11-24
+Jabalpur,Moderate,185,"PM
+10",1,2021-11-25
+Jabalpur,Moderate,186,"PM
+2.5",1,2021-11-26
+Jabalpur,Moderate,161,"PM
+10",1,2021-11-27
+Jabalpur,Moderate,121,"PM
+10",1,2021-11-28
+Jabalpur,Moderate,136,"PM
+10",1,2021-11-29
+Jabalpur,Moderate,178,"PM
+10",1,2021-11-30
+Jabalpur,Moderate,169,"PM
+2.5",1,2021-12-01
+Jabalpur,Poor,263,"PM
+2.5",1,2021-12-02
+Jabalpur,Very Poor,302,"PM
+2.5",1,2021-12-03
+Jabalpur,Very Poor,328,"PM
+2.5",1,2021-12-04
+Jabalpur,Poor,218,"PM
+2.5",1,2021-12-06
+Jabalpur,Moderate,174,"PM
+2.5",1,2021-12-07
+Jabalpur,Moderate,136,"PM
+10",1,2021-12-11
+Jabalpur,Moderate,132,"PM
+10",1,2021-12-12
+Jabalpur,Moderate,155,"PM
+10",1,2021-12-13
+Jabalpur,Moderate,111,"PM
+10",1,2021-12-14
+Jabalpur,Moderate,141,"PM
+10",1,2021-12-15
+Jabalpur,Moderate,125,"PM
+10",1,2021-12-16
+Jabalpur,Moderate,152,"PM
+2.5",1,2021-12-17
+Jabalpur,Moderate,156,"PM
+2.5",1,2021-12-18
+Jabalpur,Moderate,131,"PM
+2.5",1,2021-12-19
+Jabalpur,Poor,203,"PM
+10",1,2021-12-20
+Jabalpur,Poor,224,"PM
+10",1,2021-12-21
+Jabalpur,Moderate,186,"PM
+10",1,2021-12-22
+Jabalpur,Moderate,194,"PM
+10",1,2021-12-23
+Jabalpur,Moderate,184,"PM
+10",1,2021-12-24
+Jabalpur,Poor,242,"PM
+2.5",1,2021-12-25
+Jabalpur,Poor,258,"PM
+2.5",1,2021-12-26
+Jabalpur,Poor,247,"PM
+2.5",1,2021-12-27
+Jabalpur,Poor,266,"PM
+2.5",1,2021-12-28
+Jabalpur,Poor,244,"PM
+2.5",1,2021-12-29
+Jabalpur,Poor,220,"PM
+2.5",1,2021-12-30
+Jabalpur,Moderate,120,"PM
+2.5",1,2021-12-31
+Jabalpur,Moderate,187,"PM
+2.5",1,2022-01-01
+Jabalpur,Poor,218,"PM
+2.5",1,2022-01-02
+Jabalpur,Poor,202,"PM
+2.5",1,2022-01-03
+Jabalpur,Poor,212,"PM
+2.5",1,2022-01-04
+Jabalpur,Poor,209,"PM
+10",1,2022-01-05
+Jabalpur,Moderate,164,"PM
+10",1,2022-01-06
+Jabalpur,Poor,263,"PM
+2.5",1,2022-01-07
+Jabalpur,Poor,232,"PM
+2.5",1,2022-01-08
+Jabalpur,Satisfactory,69,"PM
+2.5",1,2022-01-09
+Jabalpur,Satisfactory,78,"PM
+2.5",1,2022-01-10
+Jabalpur,Satisfactory,92,"PM
+10",1,2022-01-11
+Jabalpur,Moderate,115,"PM
+10",1,2022-01-12
+Jabalpur,Moderate,124,"PM
+2.5",1,2022-01-13
+Jabalpur,Moderate,175,"PM
+2.5",1,2022-01-14
+Jabalpur,Poor,282,"PM
+2.5",1,2022-01-15
+Jabalpur,Poor,232,"PM
+2.5",1,2022-01-16
+Jabalpur,Moderate,150,"PM
+2.5",1,2022-01-17
+Jabalpur,Moderate,164,"PM
+2.5",1,2022-01-18
+Jabalpur,Moderate,140,"PM
+2.5",1,2022-01-19
+Jabalpur,Moderate,176,"PM
+10",1,2022-01-20
+Jabalpur,Moderate,191,"PM
+10",1,2022-01-21
+Jabalpur,Moderate,145,"PM
+10",1,2022-01-22
+Jabalpur,Satisfactory,89,"PM
+10",1,2022-01-23
+Jabalpur,Moderate,190,"PM
+10",1,2022-01-24
+Jabalpur,Moderate,187,"PM
+10",1,2022-01-25
+Jabalpur,Moderate,161,"PM
+10",1,2022-01-26
+Jabalpur,Moderate,165,"PM
+2.5",1,2022-01-27
+Jabalpur,Moderate,119,"PM
+10",1,2022-01-28
+Jabalpur,Moderate,192,"PM
+10",1,2022-01-29
+Jabalpur,Moderate,165,"PM
+10",1,2022-01-30
+Jabalpur,Moderate,185,"PM
+10",1,2022-01-31
+Jabalpur,Moderate,191,"PM
+10",1,2022-02-02
+Jabalpur,Moderate,127,"PM
+10",1,2022-02-03
+Jabalpur,Moderate,156,"PM
+10",1,2022-02-04
+Jabalpur,Moderate,117,"PM
+10",1,2022-02-05
+Jabalpur,Moderate,158,"PM
+10",1,2022-02-06
+Jabalpur,Moderate,146,"PM
+10",1,2022-02-07
+Jabalpur,Moderate,147,"PM
+10",1,2022-02-08
+Jabalpur,Moderate,149,"PM
+10",1,2022-02-09
+Jabalpur,Moderate,187,"PM
+2.5",1,2022-02-10
+Jabalpur,Moderate,151,"PM
+2.5",1,2022-02-11
+Jabalpur,Moderate,181,"PM
+10",1,2022-02-12
+Jabalpur,Moderate,171,"PM
+10",1,2022-02-13
+Jabalpur,Moderate,155,"PM
+10",1,2022-02-14
+Jabalpur,Moderate,159,"PM
+10",1,2022-02-15
+Jabalpur,Moderate,123,"PM
+10",1,2022-02-16
+Jabalpur,Moderate,131,"PM
+10",1,2022-02-17
+Jabalpur,Moderate,128,"PM
+10",1,2022-02-18
+Jabalpur,Moderate,168,"PM
+10",1,2022-02-19
+Jabalpur,Moderate,124,"PM
+2.5",1,2022-02-20
+Jabalpur,Moderate,147,"PM
+10",1,2022-02-21
+Jabalpur,Moderate,159,"PM
+10",1,2022-02-22
+Jabalpur,Moderate,113,"PM
+10",1,2022-02-23
+Jabalpur,Moderate,116,"PM
+10",1,2022-02-24
+Jabalpur,Moderate,151,"PM
+10",1,2022-02-25
+Jabalpur,Moderate,141,"PM
+10",1,2022-02-26
+Jabalpur,Satisfactory,76,"PM
+10",1,2022-02-27
+Jabalpur,Moderate,119,"PM
+10",1,2022-02-28
+Jabalpur,Moderate,124,"PM
+10",1,2022-03-01
+Jabalpur,Moderate,112,"PM
+10",1,2022-03-02
+Jabalpur,Moderate,126,"PM
+10",1,2022-03-03
+Jabalpur,Moderate,127,"PM
+10",1,2022-03-04
+Jabalpur,Moderate,158,"PM
+10",1,2022-03-05
+Jabalpur,Moderate,119,"PM
+10",1,2022-03-06
+Jabalpur,Moderate,148,"PM
+10",1,2022-03-07
+Jabalpur,Moderate,157,"PM
+10",1,2022-03-08
+Jabalpur,Moderate,176,"PM
+10",1,2022-03-09
+Jabalpur,Moderate,179,"PM
+10",1,2022-03-10
+Jabalpur,Moderate,116,"PM
+10",1,2022-03-11
+Jabalpur,Moderate,126,"PM
+10",1,2022-03-12
+Jabalpur,Moderate,163,"PM
+10",1,2022-03-13
+Jabalpur,Moderate,153,"PM
+10",1,2022-03-14
+Jabalpur,Moderate,172,"PM
+10",1,2022-03-15
+Jabalpur,Moderate,189,"PM
+10",1,2022-03-16
+Jabalpur,Moderate,178,"PM
+10",1,2022-03-17
+Jabalpur,Moderate,177,"PM
+10",1,2022-03-18
+Jabalpur,Moderate,176,"PM
+10",1,2022-03-19
+Jabalpur,Moderate,173,"PM
+10",1,2022-03-20
+Jabalpur,Moderate,187,"PM
+10",1,2022-03-21
+Jabalpur,Poor,203,"PM
+10",1,2022-03-22
+Jabalpur,Poor,224,"PM
+10",1,2022-03-23
+Jabalpur,Moderate,188,"PM
+10",1,2022-03-24
+Jabalpur,Moderate,182,"PM
+10",1,2022-03-25
+Jabalpur,Poor,218,"PM
+10",1,2022-03-26
+Jabalpur,Moderate,169,"PM
+10",1,2022-03-27
+Jabalpur,Poor,201,"PM
+10",1,2022-03-28
+Jabalpur,Poor,218,"PM
+10",1,2022-03-29
+Jabalpur,Moderate,195,"PM
+10",1,2022-03-30
+Jabalpur,Poor,216,"PM
+10",1,2022-03-31
+Jabalpur,Poor,232,"PM
+10",1,2022-04-01
+Jabalpur,Poor,253,"PM
+10",1,2022-04-02
+Jabalpur,Poor,207,"PM
+10",1,2022-04-03
+Jabalpur,Poor,218,"PM
+10",1,2022-04-04
+Jabalpur,Poor,209,"PM
+10",1,2022-04-05
+Jabalpur,Poor,260,"PM
+10",1,2022-04-06
+Jabalpur,Poor,232,"PM
+10",1,2022-04-07
+Jabalpur,Moderate,187,"PM
+10",1,2022-04-08
+Jabalpur,Moderate,115,"PM
+10",1,2022-04-09
+Jabalpur,Moderate,186,"PM
+10",1,2022-04-10
+Jabalpur,Moderate,194,"PM
+10",1,2022-04-11
+Jabalpur,Poor,210,"PM
+10",1,2022-04-12
+Jabalpur,Poor,245,"PM
+10",1,2022-04-13
+Jabalpur,Moderate,155,"PM
+10",1,2022-04-15
+Jabalpur,Moderate,170,"PM
+10",1,2022-04-16
+Jabalpur,Poor,209,"PM
+10",1,2022-04-17
+Jabalpur,Moderate,182,"PM
+10",1,2022-04-18
+Jabalpur,Moderate,176,"PM
+10",1,2022-04-19
+Jabalpur,Poor,204,"PM
+10",1,2022-04-20
+Jabalpur,Poor,226,"PM
+10",1,2022-04-21
+Jabalpur,Moderate,184,"PM
+10",1,2022-04-22
+Jabalpur,Moderate,153,"PM
+10",1,2022-04-23
+Jabalpur,Moderate,174,"PM
+10",1,2022-04-24
+Jabalpur,Moderate,143,"PM
+10",1,2022-04-25
+Jabalpur,Moderate,162,"PM
+10",1,2022-04-26
+Jabalpur,Moderate,177,"PM
+10",1,2022-04-27
+Jabalpur,Moderate,172,"PM
+10",1,2022-04-28
+Jabalpur,Moderate,175,"PM
+10",1,2022-04-29
+Jabalpur,Moderate,131,"PM
+10",1,2022-04-30
+Jabalpur,Moderate,132,"PM
+10",1,2022-05-01
+Jabalpur,Moderate,153,"PM
+10",1,2022-05-02
+Jabalpur,Moderate,173,"PM
+10",1,2022-05-03
+Jabalpur,Moderate,158,"PM
+10",1,2022-05-04
+Jabalpur,Moderate,152,"PM
+10",1,2022-05-05
+Jabalpur,Moderate,179,"PM
+10",1,2022-05-06
+Jabalpur,Moderate,157,"PM
+10",1,2022-05-07
+Jabalpur,Poor,213,"PM
+10",1,2022-05-08
+Jabalpur,Moderate,167,"PM
+10",1,2022-05-09
+Jabalpur,Moderate,149,"PM
+10",1,2022-05-10
+Jabalpur,Moderate,135,"PM
+10",1,2022-05-11
+Jabalpur,Moderate,128,"PM
+10",1,2022-05-12
+Jabalpur,Moderate,113,"PM
+10",1,2022-05-13
+Jabalpur,Moderate,123,"PM
+10",1,2022-05-14
+Jabalpur,Moderate,173,"PM
+10",1,2022-05-15
+Jabalpur,Moderate,157,"PM
+10",1,2022-05-16
+Jabalpur,Moderate,152,"PM
+10",1,2022-05-17
+Jabalpur,Moderate,171,"PM
+10",1,2022-05-18
+Jabalpur,Moderate,139,"PM
+10",1,2022-05-19
+Jabalpur,Moderate,147,"PM
+10",1,2022-05-20
+Jabalpur,Moderate,171,"PM
+10",1,2022-05-21
+Jabalpur,Moderate,172,"PM
+10",1,2022-05-22
+Jabalpur,Moderate,155,"PM
+10",1,2022-05-23
+Jabalpur,Moderate,122,"PM
+10",1,2022-05-25
+Jabalpur,Moderate,116,"PM
+10",1,2022-05-26
+Jabalpur,Moderate,147,"PM
+10",1,2022-05-27
+Jabalpur,Moderate,120,"PM
+10",1,2022-05-28
+Jabalpur,Moderate,147,"PM
+10",1,2022-05-29
+Jabalpur,Moderate,127,"PM
+10",1,2022-05-30
+Jabalpur,Moderate,139,"PM
+10",1,2022-05-31
+Jabalpur,Poor,240,"PM
+10",1,2022-06-01
+Jabalpur,Moderate,189,"PM
+10",1,2022-06-02
+Jabalpur,Moderate,185,"PM
+10",1,2022-06-03
+Jabalpur,Moderate,158,"PM
+10",1,2022-06-04
+Jabalpur,Moderate,162,"PM
+10",1,2022-06-05
+Jabalpur,Moderate,178,"PM
+10",1,2022-06-06
+Jabalpur,Moderate,169,"PM
+10",1,2022-06-07
+Jabalpur,Moderate,163,"PM
+10",1,2022-06-08
+Jabalpur,Moderate,144,"PM
+10",1,2022-06-09
+Jabalpur,Moderate,138,"PM
+10",1,2022-06-10
+Jabalpur,Moderate,110,"PM
+10",1,2022-06-11
+Jabalpur,Satisfactory,98,"PM
+10",1,2022-06-12
+Jabalpur,Satisfactory,93,"PM
+10",1,2022-06-13
+Jabalpur,Satisfactory,95,"PM
+10",1,2022-06-14
+Jabalpur,Satisfactory,99,"PM
+10",1,2022-06-15
+Jabalpur,Satisfactory,57,"PM
+10",1,2022-06-16
+Jabalpur,Satisfactory,67,"PM
+10",1,2022-06-17
+Jabalpur,Satisfactory,52,"PM
+10",1,2022-06-18
+Jabalpur,Good,32,"PM
+10",1,2022-06-19
+Jabalpur,Good,40,"O
+3",1,2022-06-20
+Jabalpur,Satisfactory,51,"O
+3",1,2022-06-21
+Jabalpur,Satisfactory,84,"PM
+10",1,2022-06-22
+Jabalpur,Satisfactory,89,"PM
+10",1,2022-06-23
+Jabalpur,Satisfactory,83,"PM
+10",1,2022-06-24
+Jabalpur,Moderate,108,"PM
+10",1,2022-06-25
+Jabalpur,Satisfactory,79,"PM
+10",1,2022-06-26
+Jabalpur,Satisfactory,86,"PM
+10",1,2022-06-28
+Jabalpur,Satisfactory,75,"PM
+10",1,2022-06-29
+Jabalpur,Good,50,"O
+3",1,2022-06-30
+Jabalpur,Satisfactory,72,"PM
+10",1,2022-07-01
+Jabalpur,Satisfactory,58,"PM
+10",1,2022-07-02
+Jabalpur,Good,36,"PM
+10",1,2022-07-05
+Jabalpur,Satisfactory,58,"PM
+10",1,2022-07-06
+Jabalpur,Satisfactory,58,"PM
+10",1,2022-07-07
+Jabalpur,Satisfactory,53,"PM
+10",1,2022-07-09
+Jabalpur,Satisfactory,51,"PM
+10",1,2022-07-10
+Jabalpur,Satisfactory,51,CO,1,2022-07-11
+Jabalpur,Satisfactory,54,CO,1,2022-07-12
+Jabalpur,Satisfactory,65,"PM
+10",1,2022-07-13
+Jabalpur,Satisfactory,54,CO,1,2022-07-14
+Jabalpur,Satisfactory,52,CO,1,2022-07-15
+Jabalpur,Satisfactory,51,CO,1,2022-07-16
+Jabalpur,Satisfactory,55,"PM
+10",1,2022-07-17
+Jabalpur,Good,43,"PM
+10",1,2022-07-18
+Jabalpur,Satisfactory,52,"PM
+10",1,2022-07-19
+Jabalpur,Satisfactory,57,"PM
+10",1,2022-07-20
+Jabalpur,Satisfactory,67,"PM
+10",1,2022-07-21
+Jabalpur,Good,46,CO,1,2022-07-22
+Jabalpur,Good,35,"O
+3",1,2022-07-23
+Jabalpur,Good,38,CO,1,2022-07-24
+Jabalpur,Satisfactory,62,CO,1,2022-07-25
+Jabalpur,Satisfactory,52,CO,1,2022-07-26
+Jabalpur,Satisfactory,61,"PM
+10",1,2022-07-27
+Jabalpur,Satisfactory,66,"PM
+10",1,2022-07-28
+Jabalpur,Satisfactory,51,CO,1,2022-07-29
+Jabalpur,Satisfactory,92,"PM
+10",1,2022-07-30
+Jabalpur,Good,48,CO,1,2022-07-31
+Jabalpur,Moderate,124,"PM
+10",1,2022-08-01
+Jabalpur,Satisfactory,94,"PM
+10",1,2022-08-02
+Jabalpur,Satisfactory,88,"PM
+10",1,2022-08-03
+Jabalpur,Satisfactory,74,CO,1,2022-08-04
+Jabalpur,Satisfactory,76,CO,1,2022-08-05
+Jabalpur,Satisfactory,63,"PM
+10",1,2022-08-06
+Jabalpur,Satisfactory,51,CO,1,2022-08-09
+Jabalpur,Satisfactory,57,CO,1,2022-08-10
+Jabalpur,Satisfactory,60,CO,1,2022-08-11
+Jabalpur,Satisfactory,76,CO,1,2022-08-12
+Jabalpur,Satisfactory,83,CO,1,2022-08-13
+Jabalpur,Satisfactory,83,CO,1,2022-08-14
+Jabalpur,Satisfactory,53,CO,1,2022-08-15
+Jabalpur,Good,37,CO,1,2022-08-16
+Jabalpur,Satisfactory,51,CO,1,2022-08-17
+Jabalpur,Satisfactory,64,CO,1,2022-08-18
+Jabalpur,Satisfactory,73,"PM
+10",1,2022-08-19
+Jabalpur,Satisfactory,64,"PM
+10",1,2022-08-20
+Jabalpur,Good,45,CO,1,2022-08-21
+Jabalpur,Good,48,CO,1,2022-08-22
+Jabalpur,Good,50,CO,1,2022-08-23
+Jabalpur,Satisfactory,60,CO,1,2022-08-24
+Jabalpur,Satisfactory,84,"PM
+10",1,2022-08-25
+Jabalpur,Satisfactory,89,"PM
+10",1,2022-08-26
+Jabalpur,Moderate,123,"PM
+10",1,2022-08-27
+Jabalpur,Satisfactory,70,"PM
+10",1,2022-08-28
+Jabalpur,Satisfactory,61,CO,1,2022-08-29
+Jabalpur,Good,41,"PM
+10",1,2022-08-30
+Jabalpur,Satisfactory,70,"PM
+10",1,2022-08-31
+Jabalpur,Good,44,"PM
+10",1,2022-09-01
+Jabalpur,Good,47,CO,1,2022-09-02
+Jabalpur,Satisfactory,71,"PM
+10",1,2022-09-03
+Jabalpur,Good,50,CO,1,2022-09-04
+Jabalpur,Satisfactory,66,CO,1,2022-09-05
+Jabalpur,Satisfactory,87,"PM
+10",1,2022-09-06
+Jabalpur,Satisfactory,71,"PM
+10",1,2022-09-07
+Jabalpur,Satisfactory,84,"PM
+10",1,2022-09-08
+Jabalpur,Satisfactory,67,CO,1,2022-09-09
+Jabalpur,Satisfactory,70,CO,1,2022-09-10
+Jabalpur,Satisfactory,58,"PM
+10",1,2022-09-11
+Jabalpur,Good,43,"PM
+10",1,2022-09-12
+Jabalpur,Satisfactory,55,CO,1,2022-09-13
+Jabalpur,Good,46,CO,1,2022-09-16
+Jabalpur,Good,50,CO,1,2022-09-17
+Jabalpur,Satisfactory,83,"PM
+10",1,2022-09-18
+Jabalpur,Satisfactory,58,"PM
+10",1,2022-09-19
+Jabalpur,Satisfactory,79,"PM
+10",1,2022-09-20
+Jabalpur,Satisfactory,54,CO,1,2022-09-21
+Jabalpur,Good,44,CO,1,2022-09-22
+Jabalpur,Satisfactory,77,"PM
+10",1,2022-09-23
+Jabalpur,Satisfactory,69,"PM
+10",1,2022-09-24
+Jabalpur,Satisfactory,77,"PM
+10",1,2022-09-25
+Jabalpur,Moderate,110,"PM
+10",1,2022-09-26
+Jabalpur,Satisfactory,73,"PM
+10",1,2022-09-27
+Jabalpur,Satisfactory,92,"PM
+10",1,2022-09-28
+Jabalpur,Satisfactory,98,"PM
+10",1,2022-09-29
+Jabalpur,Moderate,107,"PM
+10",1,2022-09-30
+Jabalpur,Moderate,136,"PM
+10",1,2022-10-01
+Jabalpur,Moderate,118,"PM
+10",1,2022-10-02
+Jabalpur,Moderate,117,"PM
+10",1,2022-10-03
+Jabalpur,Moderate,123,"PM
+10",1,2022-10-04
+Jabalpur,Satisfactory,99,CO,1,2022-10-05
+Jabalpur,Satisfactory,96,CO,1,2022-10-06
+Jabalpur,Satisfactory,79,CO,1,2022-10-07
+Jabalpur,Satisfactory,74,CO,1,2022-10-08
+Jabalpur,Satisfactory,69,CO,1,2022-10-09
+Jabalpur,Satisfactory,72,CO,1,2022-10-11
+Jabalpur,Good,29,CO,1,2022-10-12
+Jabalpur,Satisfactory,59,"PM
+10",1,2022-10-14
+Jabalpur,Satisfactory,84,"PM
+10",1,2022-10-15
+Jabalpur,Satisfactory,97,"PM
+10",1,2022-10-16
+Jabalpur,Satisfactory,87,"PM
+10",1,2022-10-17
+Jabalpur,Satisfactory,85,"PM
+10",1,2022-10-18
+Jabalpur,Satisfactory,91,"PM
+10",1,2022-10-19
+Jabalpur,Satisfactory,84,"PM
+10",1,2022-10-20
+Jabalpur,Moderate,108,"PM
+10",1,2022-10-21
+Jabalpur,Moderate,126,"PM
+10",1,2022-10-22
+Jabalpur,Moderate,124,"PM
+10",1,2022-10-23
+Jabalpur,Moderate,148,"PM
+10",1,2022-10-24
+Jabalpur,Poor,238,"PM
+2.5",1,2022-10-25
+Jabalpur,Poor,229,"PM
+2.5",1,2022-10-26
+Jabalpur,Poor,208,"PM
+2.5",1,2022-10-27
+Jabalpur,Moderate,181,"PM
+2.5",1,2022-10-28
+Jabalpur,Moderate,179,"PM
+2.5",1,2022-10-29
+Jabalpur,Moderate,133,"PM
+2.5",1,2022-10-30
+Jabalpur,Moderate,114,"PM
+10",1,2022-10-31
+Jabalpur,Moderate,116,"PM
+2.5",1,2022-11-01
+Jabalpur,Moderate,144,"PM
+2.5",1,2022-11-02
+Jabalpur,Moderate,132,"PM
+2.5",1,2022-11-03
+Jabalpur,Moderate,139,"PM
+10",1,2022-11-04
+Jabalpur,Moderate,186,"PM
+2.5",1,2022-11-05
+Jabalpur,Moderate,151,"PM
+10",1,2022-11-06
+Jabalpur,Poor,214,"PM
+2.5",1,2022-11-07
+Jabalpur,Moderate,133,"PM
+2.5",1,2022-11-08
+Jabalpur,Moderate,121,"PM
+10",1,2022-11-09
+Jabalpur,Moderate,152,"PM
+2.5",1,2022-11-10
+Jabalpur,Moderate,174,"PM
+2.5",1,2022-11-11
+Jabalpur,Poor,220,"PM
+2.5",1,2022-11-12
+Jabalpur,Poor,226,"PM
+2.5",1,2022-11-13
+Jabalpur,Moderate,155,"PM
+2.5",1,2022-11-14
+Jabalpur,Moderate,171,"PM
+2.5",1,2022-11-15
+Jabalpur,Moderate,186,"PM
+2.5",1,2022-11-16
+Jabalpur,Poor,207,"PM
+2.5",1,2022-11-17
+Jabalpur,Poor,209,"PM
+2.5",1,2022-11-18
+Jabalpur,Moderate,199,"PM
+2.5",1,2022-11-19
+Jabalpur,Poor,266,"PM
+2.5",1,2022-11-20
+Jabalpur,Very Poor,322,"PM
+2.5",1,2022-11-21
+Jabalpur,Poor,283,"PM
+2.5",1,2022-11-22
+Jabalpur,Moderate,200,"PM
+10",1,2022-11-23
+Jabalpur,Moderate,197,"PM
+10",1,2022-11-24
+Jabalpur,Moderate,179,"PM
+10",1,2022-11-25
+Jabalpur,Poor,237,"PM
+2.5",1,2022-11-26
+Jabalpur,Poor,236,"PM
+2.5",1,2022-11-27
+Jabalpur,Poor,251,"PM
+2.5",1,2022-11-28
+Jabalpur,Poor,267,"PM
+2.5",1,2022-11-29
+Jabalpur,Poor,287,"PM
+2.5",1,2022-11-30
+Jabalpur,Poor,284,"PM
+2.5",1,2022-12-02
+Jabalpur,Poor,269,"PM
+2.5",1,2022-12-03
+Jabalpur,Poor,294,"PM
+2.5",1,2022-12-04
+Jabalpur,Poor,274,"PM
+2.5",1,2022-12-05
+Jabalpur,Poor,276,"PM
+2.5",1,2022-12-06
+Jabalpur,Poor,205,"PM
+2.5",1,2022-12-08
+Jabalpur,Poor,248,"PM
+2.5",1,2022-12-09
+Jabalpur,Poor,241,"PM
+2.5",1,2022-12-10
+Jabalpur,Very Poor,304,"PM
+2.5",1,2022-12-11
+Jabalpur,Poor,214,"PM
+2.5",1,2022-12-12
+Jabalpur,Moderate,128,"PM
+2.5",1,2022-12-13
+Jabalpur,Moderate,162,"PM
+10",1,2022-12-14
+Jabalpur,Moderate,121,"PM
+10",1,2022-12-15
+Jabalpur,Moderate,136,"PM
+10",1,2022-12-16
+Jabalpur,Moderate,122,"PM
+10",1,2022-12-17
+Jabalpur,Moderate,138,"PM
+10",1,2022-12-18
+Jabalpur,Moderate,186,"PM
+10",1,2022-12-19
+Jabalpur,Poor,208,"PM
+10",1,2022-12-20
+Jabalpur,Moderate,185,"PM
+2.5",1,2022-12-21
+Jabalpur,Moderate,119,"PM
+10",1,2022-12-22
+Jabalpur,Moderate,123,"PM
+10",1,2022-12-23
+Jabalpur,Moderate,147,"PM
+2.5",1,2022-12-24
+Jabalpur,Poor,286,"PM
+2.5",1,2022-12-25
+Jabalpur,Very Poor,325,"PM
+2.5",1,2022-12-26
+Jabalpur,Very Poor,317,"PM
+2.5",1,2022-12-27
+Jabalpur,Poor,232,"PM
+2.5",1,2022-12-28
+Jabalpur,Moderate,167,"PM
+10",1,2022-12-29
+Jabalpur,Moderate,121,"PM
+10",1,2022-12-30
+Jabalpur,Poor,207,"PM
+10",1,2022-12-31
+Jabalpur,Moderate,174,"PM
+2.5",1,2023-01-01
+Jabalpur,Poor,270,"PM
+2.5",1,2023-01-02
+Jabalpur,Very Poor,311,"PM
+2.5",1,2023-01-03
+Jabalpur,Very Poor,368,"PM
+2.5",1,2023-01-04
+Jabalpur,Very Poor,351,"PM
+2.5",1,2023-01-05
+Jabalpur,Poor,294,"PM
+2.5",1,2023-01-06
+Jabalpur,Poor,245,"PM
+2.5",1,2023-01-07
+Jabalpur,Poor,217,"PM
+2.5",1,2023-01-08
+Jabalpur,Poor,231,"PM
+10",1,2023-01-09
+Jabalpur,Poor,234,"PM
+2.5",1,2023-01-10
+Jabalpur,Poor,201,"PM
+10",1,2023-01-11
+Jabalpur,Moderate,158,"PM
+10",1,2023-01-12
+Jabalpur,Moderate,168,"PM
+2.5",1,2023-01-15
+Jabalpur,Poor,251,"PM
+2.5",1,2023-01-16
+Jabalpur,Moderate,177,"PM
+2.5",1,2023-01-17
+Jabalpur,Poor,209,"PM
+2.5",1,2023-01-18
+Jabalpur,Poor,256,"PM
+2.5",1,2023-01-19
+Jabalpur,Poor,246,"PM
+2.5",1,2023-01-20
+Jabalpur,Moderate,155,"PM
+2.5",1,2023-01-21
+Jabalpur,Moderate,161,"PM
+2.5",1,2023-01-22
+Jabalpur,Moderate,111,"PM
+2.5",1,2023-01-23
+Jabalpur,Moderate,115,"PM
+10",1,2023-01-24
+Jabalpur,Moderate,139,"PM
+2.5",1,2023-01-25
+Jabalpur,Moderate,165,"PM
+2.5",1,2023-01-26
+Jabalpur,Poor,251,"PM
+2.5",1,2023-01-27
+Jabalpur,Poor,208,"PM
+2.5",1,2023-01-28
+Jabalpur,Moderate,196,"PM
+2.5",1,2023-01-29
+Jabalpur,Moderate,123,"PM
+10",1,2023-01-30
+Jabalpur,Poor,246,"PM
+2.5",1,2023-01-31
+Jabalpur,Satisfactory,82,"PM
+10",1,2023-02-01
+Jabalpur,Moderate,128,"PM
+10",1,2023-02-02
+Jabalpur,Moderate,171,"PM
+10",1,2023-02-03
+Jabalpur,Moderate,196,"PM
+10",1,2023-02-04
+Jabalpur,Moderate,137,"PM
+10",1,2023-02-05
+Jabalpur,Moderate,149,"PM
+10",1,2023-02-06
+Jabalpur,Moderate,160,"PM
+10",1,2023-02-07
+Jabalpur,Moderate,158,"PM
+10",1,2023-02-08
+Jabalpur,Moderate,154,"PM
+10",1,2023-02-09
+Jabalpur,Moderate,161,"PM
+10",1,2023-02-10
+Jabalpur,Moderate,148,"PM
+10",1,2023-02-11
+Jabalpur,Moderate,154,"PM
+10",1,2023-02-12
+Jabalpur,Moderate,138,"PM
+10",1,2023-02-13
+Jabalpur,Moderate,145,"PM
+10",1,2023-02-14
+Jabalpur,Moderate,188,"PM
+10",1,2023-02-15
+Jabalpur,Moderate,178,"PM
+10",1,2023-02-16
+Jabalpur,Moderate,148,"PM
+10",1,2023-02-17
+Jabalpur,Poor,245,"PM
+2.5",1,2023-02-18
+Jabalpur,Poor,251,"PM
+2.5",1,2023-02-19
+Jabalpur,Moderate,186,"PM
+10",1,2023-02-20
+Jabalpur,Moderate,152,"PM
+10",1,2023-02-21
+Jabalpur,Moderate,112,"PM
+10",1,2023-02-22
+Jabalpur,Moderate,169,"PM
+10",1,2023-02-23
+Jabalpur,Moderate,196,"PM
+10",1,2023-02-24
+Jabalpur,Moderate,148,"PM
+10",1,2023-02-25
+Jabalpur,Moderate,157,"PM
+10",1,2023-02-26
+Jabalpur,Moderate,123,"PM
+10",1,2023-02-27
+Jabalpur,Moderate,134,"PM
+10",1,2023-02-28
+Jabalpur,Moderate,151,"PM
+10",1,2023-03-01
+Jabalpur,Moderate,172,"PM
+2.5",1,2023-03-02
+Jabalpur,Moderate,194,"PM
+10",1,2023-03-03
+Jabalpur,Moderate,162,"PM
+10",1,2023-03-04
+Jabalpur,Moderate,113,"PM
+10",1,2023-03-05
+Jabalpur,Moderate,149,"PM
+10",1,2023-03-06
+Jabalpur,Satisfactory,83,"PM
+10",1,2023-03-07
+Jabalpur,Moderate,132,"PM
+2.5",1,2023-03-08
+Jabalpur,Moderate,115,"PM
+10",1,2023-03-09
+Jabalpur,Satisfactory,77,"PM
+10",1,2023-03-10
+Jabalpur,Satisfactory,96,"PM
+10",1,2023-03-11
+Jabalpur,Moderate,134,"PM
+10",1,2023-03-12
+Jabalpur,Moderate,120,"PM
+10",1,2023-03-13
+Jabalpur,Moderate,161,"PM
+10",1,2023-03-14
+Jabalpur,Satisfactory,85,"PM
+10",1,2023-03-15
+Jabalpur,Moderate,118,"PM
+10",1,2023-03-16
+Jabalpur,Moderate,103,"PM
+10",1,2023-03-17
+Jabalpur,Satisfactory,60,"PM
+10",1,2023-03-18
+Jabalpur,Good,49,"PM
+10",1,2023-03-19
+Jabalpur,Satisfactory,53,"PM
+10",1,2023-03-20
+Jabalpur,Satisfactory,52,"PM
+10",1,2023-03-21
+Jabalpur,Satisfactory,71,"PM
+10",1,2023-03-22
+Jabalpur,Satisfactory,71,"PM
+10",1,2023-03-23
+Jabalpur,Satisfactory,85,"PM
+10",1,2023-03-24
+Jabalpur,Moderate,110,"PM
+10",1,2023-03-25
+Jabalpur,Satisfactory,99,"PM
+10",1,2023-03-26
+Jabalpur,Satisfactory,96,"PM
+10",1,2023-03-27
+Jabalpur,Moderate,121,"PM
+10",1,2023-03-28
+Jabalpur,Moderate,123,"PM
+10",1,2023-03-29
+Jabalpur,Moderate,137,"PM
+10",1,2023-03-30
+Jabalpur,Satisfactory,98,"PM
+10",1,2023-03-31
+Jabalpur,Satisfactory,76,"PM
+10",1,2023-04-01
+Jabalpur,Moderate,123,"PM
+10",1,2023-04-02
+Jabalpur,Moderate,105,"PM
+10",1,2023-04-03
+Jabalpur,Moderate,145,"PM
+10",1,2023-04-04
+Jabalpur,Moderate,126,"PM
+10",1,2023-04-05
+Jabalpur,Moderate,146,"PM
+10",1,2023-04-06
+Jabalpur,Moderate,142,"PM
+10",1,2023-04-07
+Jabalpur,Satisfactory,79,"PM
+10",1,2023-04-08
+Jabalpur,Moderate,138,"PM
+10",1,2023-04-12
+Jabalpur,Moderate,171,"PM
+10",1,2023-04-13
+Jabalpur,Moderate,159,"PM
+10",1,2023-04-14
+Jabalpur,Moderate,135,"PM
+10",1,2023-04-15
+Jabalpur,Satisfactory,87,"PM
+10",1,2023-04-16
+Jabalpur,Moderate,145,"PM
+10",1,2023-04-17
+Jabalpur,Moderate,143,"PM
+10",1,2023-04-18
+Jabalpur,Moderate,139,"PM
+10",1,2023-04-19
+Jabalpur,Moderate,114,"PM
+10",1,2023-04-20
+Jabalpur,Satisfactory,100,"PM
+10",1,2023-04-22
+Jabalpur,Satisfactory,78,"O
+3",1,2023-04-23
+Jabalpur,Satisfactory,95,"O
+3",1,2023-04-24
+Jabalpur,Satisfactory,88,"O
+3",1,2023-04-25
+Jabalpur,Satisfactory,89,"O
+3",1,2023-04-27
+Jabalpur,Satisfactory,78,"O
+3",1,2023-04-28
+Jabalpur,Satisfactory,71,"O
+3",1,2023-04-29
+Jabalpur,Satisfactory,59,"O
+3",1,2023-04-30
+Jabalpur,Satisfactory,57,"O
+3",1,2023-05-01
+Jabalpur,Satisfactory,57,"O
+3",1,2023-05-02
+Jabalpur,Good,49,"O
+3",1,2023-05-03
+Jabalpur,Satisfactory,69,"O
+3",1,2023-05-04
+Jabalpur,Satisfactory,76,"O
+3",1,2023-05-05
+Jabalpur,Moderate,101,"PM
+10",1,2023-05-06
+Jabalpur,Satisfactory,93,"PM
+10",1,2023-05-07
+Jabalpur,Moderate,106,"O
+3",1,2023-05-08
+Jabalpur,Moderate,106,"O
+3",1,2023-05-09
+Jabalpur,Moderate,157,"PM
+10",1,2023-05-10
+Jabalpur,Moderate,132,"O
+3",1,2023-05-11
+Jabalpur,Moderate,139,"O
+3",1,2023-05-12
+Jabalpur,Moderate,175,"O
+3",1,2023-05-13
+Jabalpur,Moderate,165,"PM
+10",1,2023-05-14
+Jabalpur,Moderate,129,"PM
+10",1,2023-05-15
+Jabalpur,Moderate,123,"PM
+10",1,2023-05-16
+Jabalpur,Satisfactory,98,"PM
+10",1,2023-05-17
+Jabalpur,Moderate,104,"PM
+10",1,2023-05-18
+Jabalpur,Moderate,117,"PM
+10",1,2023-05-19
+Jabalpur,Moderate,122,"PM
+10",1,2023-05-21
+Jabalpur,Moderate,104,"PM
+10",1,2023-05-22
+Jabalpur,Satisfactory,93,"PM
+10",1,2023-05-23
+Jabalpur,Satisfactory,96,"PM
+10",1,2023-05-24
+Jabalpur,Satisfactory,91,"PM
+10",1,2023-05-25
+Jabalpur,Moderate,111,"PM
+10",1,2023-05-26
+Jabalpur,Moderate,119,"PM
+10",1,2023-05-27
+Jabalpur,Satisfactory,82,"O
+3",1,2023-05-28
+Jabalpur,Satisfactory,88,"PM
+10",1,2023-05-29
+Jabalpur,Moderate,124,"PM
+10",1,2023-05-30
+Jabalpur,Moderate,113,"PM
+10",1,2023-05-31
+Jabalpur,Moderate,161,"PM
+10",1,2023-06-01
+Jabalpur,Moderate,127,"PM
+10",1,2023-06-02
+Jabalpur,Moderate,128,"PM
+10",1,2023-06-03
+Jabalpur,Satisfactory,96,"PM
+10",1,2023-06-04
+Jabalpur,Satisfactory,100,"PM
+10",1,2023-06-05
+Jabalpur,Moderate,121,"PM
+10",1,2023-06-06
+Jabalpur,Moderate,113,"PM
+10",1,2023-06-07
+Jabalpur,Moderate,127,"PM
+10",1,2023-06-08
+Jabalpur,Moderate,106,"PM
+10",1,2023-06-09
+Jabalpur,Satisfactory,98,"PM
+10",1,2023-06-10
+Jabalpur,Moderate,106,"PM
+10",1,2023-06-11
+Jabalpur,Moderate,102,"PM
+10",1,2023-06-12
+Jabalpur,Satisfactory,83,"PM
+10",1,2023-06-13
+Jabalpur,Satisfactory,90,"PM
+10",1,2023-06-14
+Jabalpur,Moderate,107,"PM
+10",1,2023-06-15
+Jabalpur,Moderate,107,"PM
+10",1,2023-06-16
+Jabalpur,Moderate,120,"PM
+10",1,2023-06-17
+Jabalpur,Moderate,122,"PM
+10",1,2023-06-18
+Jabalpur,Moderate,128,"PM
+10",1,2023-06-19
+Jabalpur,Moderate,106,"PM
+10",1,2023-06-20
+Jabalpur,Satisfactory,93,"PM
+10",1,2023-06-21
+Jabalpur,Satisfactory,91,"PM
+10",1,2023-06-22
+Jabalpur,Satisfactory,74,"PM
+10",2,2023-06-23
+Jabalpur,Satisfactory,64,"O , PM
+3 10",2,2023-06-24
+Jabalpur,Satisfactory,67,"PM
+10",2,2023-06-25
+Jabalpur,Good,30,"O
+3",1,2023-06-26
+Jabalpur,Satisfactory,53,"O , CO
+3",2,2023-06-27
+Jabalpur,Satisfactory,71,"O , CO
+3",2,2023-06-28
+Jabalpur,Satisfactory,61,"O
+3",2,2023-06-29
+Jabalpur,Good,46,"O
+3",2,2023-06-30
+Jabalpur,Satisfactory,56,"O
+3",2,2023-07-01
+Jabalpur,Satisfactory,57,"O , PM
+3 10",2,2023-07-02
+Jabalpur,Satisfactory,71,"O , PM
+3 10",2,2023-07-03
+Jabalpur,Moderate,104,"PM
+10",3,2023-07-04
+Jabalpur,Satisfactory,79,"O
+3",3,2023-07-05
+Jabalpur,Satisfactory,75,"PM , O
+10 3",3,2023-07-06
+Jabalpur,Satisfactory,55,"O
+3",3,2023-07-07
+Jabalpur,Good,47,"O
+3",3,2023-07-08
+Jabalpur,Good,37,"O , CO
+3",3,2023-07-09
+Jabalpur,Good,42,"O
+3",3,2023-07-10
+Jabalpur,Satisfactory,57,"O
+3",3,2023-07-11
+Jabalpur,Satisfactory,64,"O
+3",3,2023-07-12
+Jabalpur,Satisfactory,56,"O
+3",3,2023-07-13
+Jabalpur,Good,50,"O , PM
+3 10",3,2023-07-14
+Jabalpur,Satisfactory,57,"O , PM
+3 10",3,2023-07-15
+Jabalpur,Good,46,"O
+3",3,2023-07-16
+Jabalpur,Good,46,"O , CO
+3",2,2023-07-17
+Jabalpur,Satisfactory,55,"O
+3",3,2023-07-18
+Jabalpur,Satisfactory,76,"PM
+10",2,2023-07-19
+Jabalpur,Satisfactory,72,"PM
+10",2,2023-07-20
+Jabalpur,Satisfactory,57,"PM
+10",2,2023-07-21
+Jabalpur,Good,27,"O
+3",2,2023-07-22
+Jabalpur,Good,34,"O
+3",1,2023-07-23
+Jabalpur,Good,48,"O
+3",1,2023-07-24
+Jabalpur,Satisfactory,61,"O
+3",1,2023-07-25
+Jabalpur,Satisfactory,67,"PM , O
+10 3",2,2023-07-26
+Jabalpur,Satisfactory,88,"PM , PM
+2.5 10",3,2023-07-27
+Jabalpur,Satisfactory,75,"PM , O
+2.5 3",3,2023-07-28
+Jabalpur,Good,41,"O , PM
+3 10",3,2023-07-29
+Jabalpur,Good,49,"PM
+10",3,2023-07-30
+Jabalpur,Good,43,"PM
+10",3,2023-07-31
+Jabalpur,Good,45,"PM , PM
+2.5 10",3,2023-08-01
+Jabalpur,Good,37,"PM
+10",3,2023-08-02
+Jabalpur,Good,31,CO,2,2023-08-03
+Jabalpur,Good,27,CO,1,2023-08-04
+Jabalpur,Good,40,"O , CO
+3",3,2023-08-05
+Jabalpur,Good,41,"O , PM
+3 10",2,2023-08-06
+Jabalpur,Good,46,"O
+3",1,2023-08-07
+Jabalpur,Satisfactory,72,"PM
+10",1,2023-08-08
+Jabalpur,Satisfactory,84,"PM
+10",2,2023-08-09
+Jabalpur,Satisfactory,98,"PM
+10",2,2023-08-10
+Jabalpur,Satisfactory,75,"PM
+10",3,2023-08-11
+Jabalpur,Satisfactory,70,"PM
+10",3,2023-08-12
+Jabalpur,Satisfactory,62,"PM
+10",3,2023-08-13
+Jabalpur,Satisfactory,63,"PM
+10",3,2023-08-14
+Jabalpur,Satisfactory,79,"PM
+10",3,2023-08-15
+Jabalpur,Satisfactory,67,"PM
+10",3,2023-08-16
+Jabalpur,Satisfactory,75,"PM
+10",3,2023-08-17
+Jabalpur,Good,40,"PM , CO
+2.5",2,2023-08-18
+Jabalpur,Satisfactory,68,"PM , O
+10 3",2,2023-08-19
+Jabalpur,Good,39,CO,1,2023-08-20
+Jabalpur,Good,46,"PM
+10",2,2023-08-21
+Jabalpur,Satisfactory,52,"PM
+10",2,2023-08-22
+Jabalpur,Satisfactory,79,"PM
+10",3,2023-08-23
+Jabalpur,Satisfactory,64,"PM
+10",3,2023-08-24
+Jabalpur,Satisfactory,65,"PM
+10",3,2023-08-25
+Jabalpur,Moderate,111,"PM
+10",1,2023-08-26
+Jabalpur,Moderate,109,"PM
+10",3,2023-08-27
+Jabalpur,Moderate,142,"PM
+10",1,2023-08-28
+Jabalpur,Moderate,138,"PM
+10",2,2023-08-29
+Jabalpur,Moderate,109,"PM
+10",3,2023-08-30
+Jabalpur,Moderate,109,"PM
+10",3,2023-08-31
+Jabalpur,Moderate,120,"PM
+10",2,2023-09-01
+Jabalpur,Moderate,101,"PM
+10",3,2023-09-02
+Jabalpur,Moderate,102,"PM
+10",3,2023-09-03
+Jabalpur,Moderate,115,"PM
+10",3,2023-09-04
+Jabalpur,Satisfactory,96,"PM
+10",3,2023-09-05
+Jabalpur,Good,48,CO,1,2023-09-06
+Jabalpur,Good,46,"PM , CO
+10",3,2023-09-07
+Jabalpur,Satisfactory,84,"PM , CO
+10",2,2023-09-08
+Jabalpur,Satisfactory,57,"PM , O
+10 3",3,2023-09-09
+Jabalpur,Satisfactory,53,"PM , CO
+10",3,2023-09-10
+Jabalpur,Satisfactory,57,"PM
+10",3,2023-09-11
+Jabalpur,Satisfactory,61,"PM
+10",3,2023-09-12
+Jabalpur,Satisfactory,68,"PM
+10",3,2023-09-13
+Jabalpur,Satisfactory,58,"PM
+10",3,2023-09-14
+Jabalpur,Satisfactory,60,"PM
+10",3,2023-09-15
+Jabalpur,Good,49,"O , PM
+3 10",3,2023-09-16
+Jabalpur,Satisfactory,54,"PM
+10",3,2023-09-17
+Jabalpur,Satisfactory,63,"O , PM
+3 10",3,2023-09-18
+Jabalpur,Satisfactory,79,"PM
+10",3,2023-09-19
+Jabalpur,Satisfactory,71,"PM
+10",2,2023-09-20
+Jabalpur,Satisfactory,70,"PM
+10",3,2023-09-21
+Jabalpur,Satisfactory,56,"PM , O
+10 3",3,2023-09-22
+Jabalpur,Satisfactory,60,"O
+3",2,2023-09-23
+Jabalpur,Satisfactory,66,"O , PM
+3 10",3,2023-09-24
+Jabalpur,Satisfactory,78,"O , PM
+3 10",3,2023-09-25
+Jabalpur,Satisfactory,91,"PM
+10",3,2023-09-26
+Jabalpur,Satisfactory,88,"PM
+10",3,2023-09-27
+Jabalpur,Satisfactory,92,"PM
+10",3,2023-09-28
+Jabalpur,Satisfactory,90,"O , PM
+3 10",3,2023-09-29
+Jabalpur,Satisfactory,91,"O , PM
+3 10",3,2023-09-30
+Jabalpur,Moderate,103,"PM
+10",3,2023-10-01
+Jabalpur,Satisfactory,65,"PM
+10",3,2023-10-02
+Jabalpur,Satisfactory,67,"O
+3",3,2023-10-03
+Jabalpur,Moderate,147,"O , PM
+3 10",3/3,2023-10-04
+Jabalpur,Moderate,167,"O , PM
+3 10",3/3,2023-10-05
+Jabalpur,Moderate,154,"O , PM
+3 10",3/3,2023-10-06
+Jabalpur,Moderate,149,"O , PM
+3 10",3/3,2023-10-07
+Jabalpur,Moderate,137,"O , PM
+3 10",3/3,2023-10-08
+Jabalpur,Moderate,131,"O , PM
+3 10",3/3,2023-10-09
+Jabalpur,Moderate,136,"O , PM
+3 10",2/3,2023-10-10
+Jabalpur,Moderate,121,"O , PM
+3 2.5",3/3,2023-10-11
+Jabalpur,Moderate,107,"PM
+10",1/3,2023-10-12
+Jabalpur,Moderate,115,"PM
+10",1/3,2023-10-13
+Jabalpur,Satisfactory,94,"PM
+10",1/3,2023-10-14
+Jabalpur,Satisfactory,95,"PM
+10",1/3,2023-10-15
+Jabalpur,Moderate,111,"PM
+10",1/3,2023-10-16
+Jabalpur,Moderate,107,"PM
+10",1/3,2023-10-17
+Jabalpur,Satisfactory,75,"PM
+10",1/3,2023-10-18
+Jabalpur,Moderate,103,"PM
+10",1/3,2023-10-19
+Jabalpur,Satisfactory,96,"PM
+10",1/3,2023-10-20
+Jabalpur,Moderate,131,"PM
+10",1/3,2023-10-21
+Jabalpur,Moderate,107,"PM
+10",1/3,2023-10-22
+Jabalpur,Moderate,114,"PM
+10",1/3,2023-10-23
+Jabalpur,Moderate,107,"PM
+10",1/3,2023-10-24
+Jabalpur,Moderate,117,"PM
+10",1/3,2023-10-25
+Jabalpur,Moderate,140,"PM
+10",1/3,2023-10-26
+Jabalpur,Moderate,101,"PM
+10",2/3,2023-10-27
+Jabalpur,Satisfactory,86,"PM
+10",3/3,2023-10-28
+Jabalpur,Satisfactory,98,"PM
+10",2/3,2023-10-29
+Jabalpur,Satisfactory,95,"PM
+10",2/3,2023-10-30
+Jabalpur,Moderate,111,"PM
+2.5",2/3,2023-10-31
+Jabalpur,Moderate,114,"PM
+10",1/3,2023-11-01
+Jabalpur,Moderate,122,"PM
+2.5",3/3,2023-11-02
+Jabalpur,Moderate,145,"PM
+2.5",3/3,2023-11-03
+Jabalpur,Moderate,142,"PM
+2.5",3/3,2023-11-04
+Jabalpur,Moderate,126,"PM
+2.5",3/3,2023-11-05
+Jabalpur,Satisfactory,100,"PM
+10",3/3,2023-11-06
+Jabalpur,Moderate,118,"PM
+2.5",3/3,2023-11-07
+Jabalpur,Moderate,135,"PM
+2.5",3/3,2023-11-08
+Jabalpur,Moderate,126,"PM
+10",3/3,2023-11-09
+Jabalpur,Moderate,174,"O , PM
+3 2.5",3/3,2023-11-10
+Jabalpur,Moderate,132,"PM
+2.5",3/3,2023-11-11
+Jabalpur,Poor,224,"PM
+2.5",3/3,2023-11-12
+Jabalpur,Poor,282,"PM
+2.5",2/3,2023-11-13
+Jabalpur,Poor,300,"PM
+2.5",1/3,2023-11-14
+Jabalpur,Poor,250,"PM
+2.5",2/3,2023-11-15
+Jabalpur,Poor,248,"PM
+2.5",3/3,2023-11-16
+Jabalpur,Poor,220,"PM
+2.5",3/3,2023-11-17
+Jabalpur,Poor,228,"PM
+2.5",3/3,2023-11-18
+Jabalpur,Poor,202,"PM
+2.5",3/3,2023-11-19
+Jabalpur,Moderate,109,"PM , PM
+2.5 10",3/3,2023-11-20
+Jabalpur,Moderate,168,"PM
+2.5",3/3,2023-11-21
+Jabalpur,Poor,267,"PM
+2.5",3/3,2023-11-22
+Jabalpur,Poor,259,"PM
+2.5",3/3,2023-11-23
+Jabalpur,Poor,290,"PM
+2.5",3/3,2023-11-24
+Jabalpur,Poor,268,"PM
+2.5",3/3,2023-11-25
+Jabalpur,Poor,203,"PM
+2.5",3/3,2023-11-26
+Jabalpur,Poor,218,"PM
+2.5",2/3,2023-11-27
+Jabalpur,Satisfactory,100,"PM
+2.5",3/3,2023-11-28
+Jabalpur,Satisfactory,51,"CO, O
+3",3/3,2023-11-29
+Jabalpur,Satisfactory,73,"CO, PM , PM
+10 2.5",3/3,2023-11-30
+Jabalpur,Satisfactory,62,"CO, PM
+2.5",4/4,2023-12-01
+Jabalpur,Satisfactory,80,"PM , O
+2.5 3",4/4,2023-12-02
+Jabalpur,Satisfactory,78,"O , PM , PM
+3 2.5 10",3/4,2023-12-03
+Jabalpur,Satisfactory,100,"PM , PM
+10 2.5",4/4,2023-12-05
+Jabalpur,Good,49,"PM , PM
+2.5 10",4/4,2023-12-06
+Jabalpur,Good,40,"CO, O
+3",4/4,2023-12-07
+Jabalpur,Good,46,"O
+3",4/4,2023-12-08
+Jabalpur,Satisfactory,78,"O , PM , PM
+3 10 2.5",4/4,2023-12-09
+Jabalpur,Satisfactory,83,"O , PM
+3 10",2/4,2023-12-10
+Jabalpur,Satisfactory,81,"PM , PM , O
+2.5 10 3",3/4,2023-12-11
+Jabalpur,Satisfactory,77,"PM , PM , O
+2.5 10 3",4/4,2023-12-12
+Jabalpur,Satisfactory,84,"O , PM
+3 10",4/4,2023-12-13
+Jabalpur,Satisfactory,96,"O , PM
+3 10",4/4,2023-12-14
+Jabalpur,Satisfactory,92,"O , PM
+3 10",3/4,2023-12-15
+Jabalpur,Moderate,104,"O , PM , PM
+3 10 2.5",4/4,2023-12-16
+Jabalpur,Moderate,104,"PM , PM
+10 2.5",3/4,2023-12-17
+Jabalpur,Moderate,110,"PM , PM
+10 2.5",2/4,2023-12-18
+Jabalpur,Moderate,117,"O , PM
+3 2.5",4/4,2023-12-19
+Jabalpur,Moderate,138,"PM
+2.5",4/4,2023-12-20
+Jabalpur,Moderate,151,"PM
+2.5",4/4,2023-12-21
+Jabalpur,Moderate,151,"PM
+2.5",3/4,2023-12-22
+Jabalpur,Moderate,190,"O , PM
+3 2.5",4/4,2023-12-23
+Jabalpur,Poor,208,"O , PM
+3 2.5",4/4,2023-12-24
+Jabalpur,Poor,223,"PM
+2.5",4/4,2023-12-25
+Jabalpur,Moderate,171,"O , PM
+3 2.5",4/4,2023-12-26
+Jabalpur,Moderate,132,"PM
+2.5",4/4,2023-12-27
+Jabalpur,Moderate,105,"PM
+2.5",4/4,2023-12-28
+Jabalpur,Moderate,135,"PM
+2.5",4/4,2023-12-29
+Jabalpur,Moderate,183,"PM
+2.5",4/4,2023-12-30
+Jabalpur,Moderate,165,"PM
+2.5",3/4,2023-12-31
+Jabalpur,Moderate,142,"O , PM
+3 2.5",4/4,2024-01-01
+Jabalpur,Moderate,159,"PM
+2.5",4/4,2024-01-02
+Jabalpur,Moderate,161,"PM , PM
+10 2.5",4/4,2024-01-03
+Jabalpur,Very Poor,326,"PM
+2.5",4/4,2024-01-04
+Jabalpur,Very Poor,314,"PM
+2.5",4/4,2024-01-05
+Jabalpur,Moderate,176,"PM
+2.5",2/4,2024-01-06
+Jabalpur,Moderate,126,"PM
+2.5",4/4,2024-01-07
+Jabalpur,Moderate,122,"PM
+2.5",4/4,2024-01-08
+Jabalpur,Moderate,168,"PM
+2.5",4/4,2024-01-09
+Jabalpur,Moderate,172,"PM
+2.5",4/4,2024-01-10
+Jabalpur,Satisfactory,90,"PM
+2.5",4/4,2024-01-11
+Jabalpur,Moderate,118,"PM
+2.5",4/4,2024-01-12
+Jabalpur,Satisfactory,88,"O , PM
+3 2.5",4/4,2024-01-13
+Jabalpur,Satisfactory,89,"PM
+2.5",4/4,2024-01-14
+Jabalpur,Satisfactory,86,"PM , O
+10 3",4/4,2024-01-15
+Jabalpur,Moderate,125,"O
+3",4/4,2024-01-16
+Jabalpur,Moderate,190,"O , PM
+3 2.5",4/4,2024-01-17
+Jabalpur,Poor,212,"PM
+2.5",4/4,2024-01-18
+Jabalpur,Moderate,189,"PM
+2.5",4/4,2024-01-19
+Jabalpur,Poor,238,"PM
+2.5",4/4,2024-01-20
+Jabalpur,Poor,293,"PM
+2.5",4/4,2024-01-21
+Jabalpur,Moderate,196,"O , PM
+3 2.5",4/4,2024-01-22
+Jabalpur,Moderate,148,"PM
+2.5",4/4,2024-01-23
+Jabalpur,Moderate,144,"O , PM
+3 2.5",3/4,2024-01-24
+Jabalpur,Moderate,155,"O , PM
+3 2.5",4/4,2024-01-25
+Jabalpur,Moderate,139,"O , PM
+3 2.5",4/4,2024-01-26
+Jabalpur,Moderate,142,"O , PM
+3 2.5",4/4,2024-01-27
+Jabalpur,Moderate,126,"O , PM
+3 2.5",4/4,2024-01-28
+Jabalpur,Moderate,112,"O , PM
+3 2.5",3/4,2024-01-29
+Jabalpur,Moderate,140,"O , PM
+3 2.5",4/4,2024-01-30
+Jabalpur,Moderate,148,"PM
+2.5",4/4,2024-01-31
+Jabalpur,Moderate,138,"PM
+2.5",4/4,2024-02-01
+Jabalpur,Moderate,127,"PM
+2.5",4/4,2024-02-02
+Jabalpur,Moderate,114,"PM
+2.5",3/4,2024-02-03
+Jabalpur,Satisfactory,94,"O , PM
+3 2.5",4/4,2024-02-04
+Jabalpur,Moderate,102,"PM , O
+10 3",4/4,2024-02-05
+Jabalpur,Moderate,102,"PM , PM
+10 2.5",4/4,2024-02-06
+Jabalpur,Satisfactory,80,"PM , O
+10 3",4/4,2024-02-07
+Jabalpur,Moderate,102,"PM , O
+10 3",4/4,2024-02-08
+Jabalpur,Satisfactory,90,"PM , O
+10 3",4/4,2024-02-09
+Jabalpur,Moderate,102,"PM , O
+10 3",4/4,2024-02-10
+Jabalpur,Moderate,105,"PM
+2.5",4/4,2024-02-11
+Jabalpur,Moderate,141,"PM
+2.5",4/4,2024-02-12
+Jabalpur,Satisfactory,81,"PM , PM
+10 2.5",3/4,2024-02-13
+Jabalpur,Satisfactory,92,"PM
+2.5",4/4,2024-02-14
+Jabalpur,Moderate,155,"PM
+2.5",3/4,2024-02-15
+Jabalpur,Moderate,127,"PM
+2.5",3/4,2024-02-16
+Jabalpur,Moderate,116,"PM , O
+2.5 3",4/4,2024-02-17
+Jabalpur,Moderate,121,"PM , O
+2.5 3",4/4,2024-02-18
+Jabalpur,Moderate,115,"PM , O
+2.5 3",4/4,2024-02-19
+Jabalpur,Satisfactory,86,"PM , O
+10 3",4/4,2024-02-20
+Jabalpur,Satisfactory,80,"PM , O
+10 3",4/4,2024-02-21
+Jabalpur,Satisfactory,79,"PM , O
+10 3",4/4,2024-02-22
+Jabalpur,Satisfactory,82,"PM , O
+10 3",4/4,2024-02-23
+Jabalpur,Satisfactory,84,"PM , PM , O
+10 2.5 3",4/4,2024-02-24
+Jabalpur,Satisfactory,92,"PM , O
+10 3",4/4,2024-02-25
+Jabalpur,Satisfactory,77,"PM , PM , O
+10 2.5 3",3/4,2024-02-26
+Jabalpur,Satisfactory,100,"PM , PM , O
+10 2.5 3",4/4,2024-02-27
+Jabalpur,Satisfactory,75,"PM , PM , O
+10 2.5 3",4/4,2024-02-28
+Jabalpur,Moderate,121,"PM , O
+2.5 3",3/4,2024-02-29
+Jabalpur,Moderate,132,"PM , PM , O
+10 2.5 3",4/4,2024-03-01
+Jabalpur,Satisfactory,95,"PM , PM
+10 2.5",3/4,2024-03-02
+Jabalpur,Satisfactory,94,"PM , PM , O
+10 2.5 3",4/4,2024-03-03
+Jabalpur,Satisfactory,93,"PM , O
+2.5 3",4/4,2024-03-04
+Jabalpur,Moderate,104,"PM , O
+2.5 3",4/4,2024-03-05
+Jabalpur,Moderate,118,"O , PM
+3 2.5",4/4,2024-03-06
+Jabalpur,Moderate,126,"O , PM
+3 2.5",4/4,2024-03-07
+Jabalpur,Moderate,109,"PM , O
+2.5 3",4/4,2024-03-08
+Jabalpur,Moderate,125,"O , PM
+3 2.5",4/4,2024-03-09
+Jabalpur,Moderate,168,"O
+3",4/4,2024-03-10
+Jabalpur,Moderate,122,"PM , PM
+10 2.5",3/4,2024-03-11
+Jabalpur,Moderate,136,"PM , PM , O
+10 2.5 3",4/4,2024-03-12
+Jabalpur,Moderate,106,"PM , PM
+10 2.5",4/4,2024-03-13
+Jabalpur,Satisfactory,98,"PM , PM
+2.5 10",4/4,2024-03-14
+Jabalpur,Moderate,123,"PM , PM
+10 2.5",4/4,2024-03-15
+Jabalpur,Moderate,132,"PM , PM , O
+10 2.5 3",4/4,2024-03-16
+Jabalpur,Moderate,106,"PM , PM
+10 2.5",4/4,2024-03-17
+Jabalpur,Satisfactory,81,"PM
+2.5",3/4,2024-03-18
+Jabalpur,Satisfactory,75,"PM , O
+2.5 3",3/4,2024-03-19
+Jabalpur,Satisfactory,66,"O
+3",3/4,2024-03-20
+Jabalpur,Satisfactory,92,"PM , PM
+10 2.5",4/4,2024-03-21
+Jabalpur,Satisfactory,92,"PM , PM
+10 2.5",4/4,2024-03-22
+Jabalpur,Moderate,111,"PM , PM
+10 2.5",4/4,2024-03-23
+Jabalpur,Moderate,115,"PM , PM
+10 2.5",4/4,2024-03-24
+Jabalpur,Moderate,164,"PM
+2.5",4/4,2024-03-25
+Jabalpur,Satisfactory,92,"PM , PM
+10 2.5",4/4,2024-03-26
+Jabalpur,Satisfactory,94,"PM , O
+2.5 3",4/4,2024-03-27
+Jabalpur,Moderate,124,"PM , PM
+10 2.5",4/4,2024-03-28
+Jabalpur,Moderate,122,"PM , PM
+10 2.5",4/4,2024-03-29
+Jabalpur,Moderate,105,"PM , PM
+10 2.5",3/4,2024-03-30
+Jabalpur,Moderate,131,"PM , PM
+10 2.5",3/4,2024-03-31
+Jabalpur,Moderate,144,"PM , PM
+2.5 10",4/4,2024-04-01
+Jabalpur,Moderate,171,"PM
+2.5",4/4,2024-04-02
+Jabalpur,Moderate,166,"PM , PM
+2.5 10",3/4,2024-04-03
+Jabalpur,Moderate,148,"PM
+2.5",4/4,2024-04-04
+Jabalpur,Moderate,142,"PM , PM
+2.5 10",4/4,2024-04-05
+Jabalpur,Moderate,139,"PM , PM
+2.5 10",4/4,2024-04-06
+Jabalpur,Moderate,143,"PM , PM
+2.5 10",4/4,2024-04-07
+Jabalpur,Satisfactory,72,"O , PM
+3 10",4/4,2024-04-08
+Jabalpur,Satisfactory,92,"O
+3",3/4,2024-04-09
+Jabalpur,Satisfactory,86,"O
+3",1/4,2024-04-10
+Jabalpur,Satisfactory,72,"O
+3",3/4,2024-04-11
+Jabalpur,Satisfactory,64,"O
+3",4/4,2024-04-12
+Jabalpur,Satisfactory,80,"O
+3",3/4,2024-04-13
+Jabalpur,Satisfactory,67,"O
+3",3/4,2024-04-14
+Jabalpur,Satisfactory,76,"O
+3",3/4,2024-04-15
+Jabalpur,Satisfactory,71,"O , PM
+3 10",3/4,2024-04-16
+Jabalpur,Satisfactory,82,"O , PM
+3 10",4/4,2024-04-17
+Jabalpur,Moderate,110,"PM , PM
+2.5 10",4/4,2024-04-18
+Jabalpur,Moderate,104,"PM , PM
+2.5 10",4/4,2024-04-19
+Jabalpur,Moderate,105,"PM , PM
+2.5 10",4/4,2024-04-20
+Jabalpur,Satisfactory,86,"O , PM
+3 10",3/4,2024-04-21
+Jabalpur,Satisfactory,73,"O , PM
+3 10",2/4,2024-04-22
+Jabalpur,Moderate,105,"O
+3",3/4,2024-04-23
+Jabalpur,Satisfactory,75,"O
+3",1/4,2024-04-24
+Jabalpur,Satisfactory,86,"O
+3",4/4,2024-04-25
+Jabalpur,Moderate,107,"O
+3",3/4,2024-04-26
+Jabalpur,Moderate,109,"PM , O
+10 3",4/4,2024-04-27
+Jabalpur,Moderate,113,"PM , O
+10 3",4/4,2024-04-28
+Jabalpur,Moderate,117,"O
+3",3/4,2024-04-29
+Jabalpur,Moderate,118,"PM , O
+10 3",4/4,2024-04-30
+Jabalpur,Moderate,129,"PM , O
+10 3",4/4,2024-05-01
+Jabalpur,Moderate,163,"PM , O
+10 3",4/4,2024-05-02
+Jabalpur,Poor,248,"O
+3",4/4,2024-05-03
+Jabalpur,Poor,222,"O
+3",4/4,2024-05-04
+Jabalpur,Moderate,160,"PM , O , PM
+10 3 2.5",4/4,2024-05-05
+Jabalpur,Moderate,124,"O
+3",4/4,2024-05-06
+Jabalpur,Moderate,189,"O
+3",4/4,2024-05-07
+Jabalpur,Moderate,136,"O
+3",4/4,2024-05-08
+Jabalpur,Moderate,162,"O
+3",4/4,2024-05-09
+Jabalpur,Moderate,118,"O
+3",3/4,2024-05-10
+Jabalpur,Moderate,194,"O
+3",4/4,2024-05-11
+Jabalpur,Moderate,157,"O
+3",4/4,2024-05-12
+Jabalpur,Moderate,108,"O
+3",4/4,2024-05-13
+Jabalpur,Moderate,107,"O
+3",4/4,2024-05-14
+Jabalpur,Moderate,114,"O
+3",4/4,2024-05-15
+Jabalpur,Moderate,160,"O
+3",2/4,2024-05-16
+Jabalpur,Moderate,105,"O
+3",3/4,2024-05-17
+Jabalpur,Moderate,142,"O , PM
+3 2.5",4/4,2024-05-18
+Jabalpur,Moderate,151,"O
+3",4/4,2024-05-19
+Jabalpur,Moderate,152,"PM , O
+10 3",3/4,2024-05-20
+Jabalpur,Moderate,164,"O
+3",4/4,2024-05-21
+Jabalpur,Moderate,146,"O
+3",4/4,2024-05-22
+Jabalpur,Moderate,105,"O
+3",4/4,2024-05-23
+Jabalpur,Moderate,112,"PM , O
+10 3",4/4,2024-05-24
+Jabalpur,Moderate,124,"PM , PM , O
+10 2.5 3",4/4,2024-05-25
+Jabalpur,Moderate,102,"PM , PM , O
+10 2.5 3",4/4,2024-05-26
+Jabalpur,Moderate,103,"PM , O
+10 3",4/4,2024-05-27
+Jabalpur,Moderate,111,"PM
+10",4/4,2024-05-28
+Jabalpur,Moderate,103,"PM
+10",4/4,2024-05-29
+Jabalpur,Satisfactory,100,"PM
+10",4/4,2024-05-30
+Jabalpur,Moderate,106,"PM
+10",4/4,2024-05-31
+Jabalpur,Satisfactory,100,"PM
+10",4/4,2024-06-01
+Jabalpur,Moderate,107,"PM
+10",4/4,2024-06-02
+Jabalpur,Satisfactory,95,"PM
+10",4/4,2024-06-03
+Jabalpur,Satisfactory,80,"PM , O
+10 3",4/4,2024-06-04
+Jabalpur,Satisfactory,88,"PM , O
+10 3",4/4,2024-06-05
+Jabalpur,Satisfactory,88,"PM , O
+10 3",4/4,2024-06-06
+Jabalpur,Satisfactory,83,"PM , O
+10 3",4/4,2024-06-07
+Jabalpur,Moderate,106,"PM , O
+10 3",4/4,2024-06-08
+Jabalpur,Satisfactory,84,"PM
+10",4/4,2024-06-09
+Jabalpur,Satisfactory,88,"PM , O
+10 3",3/4,2024-06-10
+Jabalpur,Satisfactory,86,"PM , PM
+2.5 10",4/4,2024-06-11
+Jabalpur,Moderate,119,"PM , PM
+2.5 10",4/4,2024-06-12
+Jabalpur,Satisfactory,75,"PM , O
+10 3",4/4,2024-06-13
+Jabalpur,Satisfactory,83,"PM , O
+10 3",4/4,2024-06-14
+Jabalpur,Satisfactory,76,"PM , PM , O
+2.5 10 3",4/4,2024-06-15
+Jabalpur,Satisfactory,62,"PM , O
+10 3",3/4,2024-06-16
+Jabalpur,Satisfactory,71,"PM , PM
+10 2.5",2/4,2024-06-17
+Jabalpur,Satisfactory,86,"PM , PM
+2.5 10",3/4,2024-06-18
+Jabalpur,Good,46,CO,1/4,2024-06-19
+Jabalpur,Satisfactory,57,"PM , PM
+2.5 10",3/4,2024-06-20
+Jabalpur,Satisfactory,65,"O , CO
+3",3/4,2024-06-21
+Jabalpur,Satisfactory,73,"O
+3",3/4,2024-06-22
+Jabalpur,Satisfactory,58,"CO, O
+3",2/4,2024-06-23
+Jabalpur,Satisfactory,60,"PM , CO, O
+2.5 3",3/4,2024-06-24
+Jabalpur,Satisfactory,66,"CO, O , PM
+3 2.5",3/4,2024-06-25
+Jabalpur,Satisfactory,53,"PM , PM
+2.5 10",2/4,2024-06-26
+Jabalpur,Good,46,"PM , CO
+2.5",2/4,2024-06-27
+Jabalpur,Good,48,"PM , SO , CO
+2.5 2",3/4,2024-06-29
+Jabalpur,Good,36,"PM
+10",1/4,2024-06-30
+Jabalpur,Good,39,"PM
+10",1/4,2024-07-01
+Jabalpur,Good,38,"NO , O , PM
+2 3 10",4/4,2024-07-02
+Jabalpur,Satisfactory,51,"PM , NO , O
+10 2 3",4/4,2024-07-03
+Jabalpur,Good,45,"PM , NO , PM
+2.5 2 10",4/4,2024-07-04
+Jabalpur,Good,38,"O , PM , NO
+3 2.5 2",4/4,2024-07-05
+Jabalpur,Good,38,"PM , CO, PM
+2.5 10",4/4,2024-07-06
+Jabalpur,Good,44,"CO, PM , PM
+10 2.5",4/4,2024-07-07
+Jabalpur,Good,48,"CO, PM , O
+2.5 3",4/4,2024-07-08
+Jabalpur,Good,42,"PM , CO
+2.5",3/4,2024-07-09
+Jabalpur,Good,46,"CO, PM , PM
+2.5 10",3/4,2024-07-10
+Jabalpur,Good,48,"CO, PM , PM
+2.5 10",3/4,2024-07-11
+Jabalpur,Good,41,"PM , PM , CO
+2.5 10",3/4,2024-07-12
+Jabalpur,Good,47,"PM , PM , CO
+2.5 10",3/4,2024-07-13
+Jabalpur,Good,42,"CO, PM , PM
+10 2.5",3/4,2024-07-14
+Jabalpur,Good,43,"CO, PM
+2.5",3/4,2024-07-15
+Jabalpur,Good,44,"PM , CO
+10",3/4,2024-07-16
+Jabalpur,Satisfactory,62,"PM , CO
+10",3/4,2024-07-17
+Jabalpur,Good,37,"O , CO
+3",2/4,2024-07-18
+Jabalpur,Good,43,"PM
+2.5",3/4,2024-07-19
+Jabalpur,Satisfactory,60,"PM , PM , CO
+10 2.5",3/4,2024-07-20
+Jabalpur,Good,50,"CO, PM , PM
+10 2.5",3/4,2024-07-21
+Jabalpur,Satisfactory,52,CO,2/4,2024-07-22
+Jabalpur,Good,47,CO,2/4,2024-07-23
+Jabalpur,Good,36,"PM , CO
+2.5",3/4,2024-07-24
+Jabalpur,Good,42,"CO, PM
+2.5",3/4,2024-07-25
+Jabalpur,Good,39,"PM , CO
+2.5",3/4,2024-07-26
+Jabalpur,Good,41,"PM , CO
+2.5",3/4,2024-07-27
+Jabalpur,Good,41,"CO, PM
+2.5",3/4,2024-07-28
+Jabalpur,Good,34,"PM , CO
+2.5",3/4,2024-07-29
+Jabalpur,Good,43,"O , PM , CO
+3 10",3/4,2024-07-30
+Jabalpur,Good,36,"PM , NO , CO
+2.5 2",3/4,2024-07-31
+Jabalpur,Good,42,"O , PM , CO
+3 2.5",3/4,2024-08-01
+Jabalpur,Good,34,"CO, PM
+2.5",4/4,2024-08-02
+Jabalpur,Good,34,"PM , CO
+2.5",3/4,2024-08-03
+Jabalpur,Good,41,CO,1/4,2024-08-04
+Jabalpur,Satisfactory,54,CO,2/4,2024-08-05
+Jabalpur,Good,39,"PM , CO
+2.5",3/4,2024-08-06
+Jabalpur,Good,46,"PM , CO
+2.5",3/4,2024-08-07
+Jabalpur,Good,46,"CO, PM
+2.5",3/4,2024-08-08
+Jabalpur,Good,50,CO,2/4,2024-08-09
+Jabalpur,Good,47,"CO, PM
+2.5",3/4,2024-08-10
+Jabalpur,Good,36,"PM , CO
+2.5",3/4,2024-08-11
+Jabalpur,Good,40,"CO, PM
+2.5",3/4,2024-08-12
+Jabalpur,Good,44,"CO, PM , O
+2.5 3",4/4,2024-08-13
+Jabalpur,Good,45,"PM , CO
+10",4/4,2024-08-14
+Jabalpur,Good,48,"O , CO
+3",4/4,2024-08-15
+Jabalpur,Good,43,"O , CO
+3",4/4,2024-08-16
+Jabalpur,Good,46,"CO, PM , PM
+10 2.5",4/4,2024-08-17
+Jabalpur,Good,43,"CO, PM , O
+2.5 3",4/4,2024-08-18
+Jabalpur,Good,46,"CO, O
+3",4/4,2024-08-19
+Jabalpur,Good,43,"CO, O
+3",3/4,2024-08-20
+Jabalpur,Good,47,"O , SO
+3 2",3/4,2024-08-21
+Jabalpur,Good,44,"CO, O
+3",3/4,2024-08-22
+Jabalpur,Good,43,"CO, O
+3",3/4,2024-08-23
+Jabalpur,Good,38,"O , CO
+3",3/4,2024-08-24
+Jabalpur,Good,44,"O
+3",2/4,2024-08-25
+Jabalpur,Good,50,"O
+3",2/4,2024-08-26
+Jabalpur,Satisfactory,53,"O
+3",3/4,2024-08-27
+Jabalpur,Good,47,"O
+3",4/4,2024-08-28
+Jabalpur,Satisfactory,55,"O , CO
+3",4/4,2024-08-29
+Jabalpur,Good,50,"O
+3",1/4,2024-08-30
+Jabalpur,Satisfactory,58,"CO, O
+3",4/4,2024-08-31
+Jabalpur,Satisfactory,69,"CO, PM , O
+2.5 3",4/4,2024-09-01
+Jabalpur,Satisfactory,51,"O , CO
+3",3/4,2024-09-02
+Jabalpur,Satisfactory,58,"O , CO
+3",4/4,2024-09-03
+Jabalpur,Satisfactory,61,"CO, O
+3",4/4,2024-09-04
+Jabalpur,Satisfactory,58,"CO, O
+3",3/4,2024-09-05
+Jabalpur,Satisfactory,55,"O , CO
+3",3/4,2024-09-06
+Jabalpur,Satisfactory,55,"O , CO
+3",3/4,2024-09-07
+Jabalpur,Good,25,"NO
+2",1/4,2024-09-08
+Jabalpur,Satisfactory,65,"CO, O
+3",3/4,2024-09-09
+Jabalpur,Satisfactory,51,"CO, O
+3",4/4,2024-09-10
+Jabalpur,Satisfactory,55,CO,1/4,2024-09-11
+Jabalpur,Satisfactory,59,"CO, O
+3",2/4,2024-09-12
+Jabalpur,Good,50,CO,1/4,2024-09-13
+Jabalpur,Satisfactory,58,"O , CO
+3",4/4,2024-09-14
+Jabalpur,Satisfactory,64,"O , CO, PM
+3 10",4/4,2024-09-15
+Jabalpur,Satisfactory,63,"PM , O , CO
+10 3",4/4,2024-09-16
+Jabalpur,Satisfactory,60,"O , NO
+3 2",2/4,2024-09-17
+Jabalpur,Satisfactory,62,"CO, O
+3",2/4,2024-09-18
+Jabalpur,Satisfactory,68,"O , CO
+3",4/4,2024-09-19
+Jabalpur,Satisfactory,72,"O , PM , PM
+3 10 2.5",4/4,2024-09-20
+Jabalpur,Satisfactory,70,"PM , PM , O
+2.5 10 3",4/4,2024-09-21
+Jabalpur,Satisfactory,57,"O , PM , CO
+3 10",4/4,2024-09-22
+Jabalpur,Satisfactory,70,"CO, PM , PM
+10 2.5",3/4,2024-09-23
+Jabalpur,Satisfactory,66,"O , PM
+3 10",4/4,2024-09-24
+Jabalpur,Satisfactory,52,"CO, O
+3",3/4,2024-09-25
+Jabalpur,Satisfactory,60,"CO, PM , O
+10 3",4/4,2024-09-26
+Jabalpur,Good,49,"PM , PM , CO
+10 2.5",4/4,2024-09-27
+Jabalpur,Satisfactory,54,"PM , O , CO
+10 3",4/4,2024-09-28
+Jabalpur,Satisfactory,56,"CO, O
+3",4/4,2024-09-29
+Jabalpur,Satisfactory,59,"CO, O
+3",3/4,2024-09-30
+Jabalpur,Satisfactory,68,"O , CO
+3",3/4,2024-10-01
+Jabalpur,Satisfactory,87,"O , PM , PM
+3 10 2.5",4/4,2024-10-02
+Jabalpur,Satisfactory,90,"PM , O , PM
+10 3 2.5",4/4,2024-10-03
+Jabalpur,Satisfactory,85,"PM , O , PM
+2.5 3 10",4/4,2024-10-04
+Jabalpur,Satisfactory,95,"PM , O , PM
+10 3 2.5",4/4,2024-10-05
+Jabalpur,Moderate,112,"PM , PM , O
+10 2.5 3",3/4,2024-10-06
+Jabalpur,Satisfactory,70,"PM , CO
+2.5",2/4,2024-10-07
+Jabalpur,Moderate,135,"PM , O
+2.5 3",4/4,2024-10-08
+Jabalpur,Moderate,132,"PM , O , PM
+10 3 2.5",4/4,2024-10-09
+Jabalpur,Moderate,133,"PM , PM
+2.5 10",4/4,2024-10-10
+Jabalpur,Moderate,115,"PM , O
+10 3",4/4,2024-10-11
+Jabalpur,Moderate,105,"PM , PM
+2.5 10",4/4,2024-10-12
+Jabalpur,Satisfactory,85,"O , PM
+3 10",4/4,2024-10-13
+Jabalpur,Moderate,118,"PM , PM
+10 2.5",4/4,2024-10-14
+Jabalpur,Moderate,103,"PM , O , PM
+2.5 3 10",4/4,2024-10-15
+Jabalpur,Moderate,124,"PM , PM , O
+10 2.5 3",4/4,2024-10-16
+Jabalpur,Moderate,130,"PM , O
+10 3",3/4,2024-10-17
+Jabalpur,Moderate,111,"O , PM
+3 10",3/4,2024-10-18
+Jabalpur,Satisfactory,98,"PM , O
+10 3",3/4,2024-10-19
+Jabalpur,Satisfactory,82,"PM , O
+10 3",4/4,2024-10-20
+Jabalpur,Moderate,126,"O , PM
+3 2.5",4/4,2024-10-21
+Jabalpur,Moderate,125,"PM , O
+10 3",4/4,2024-10-22
+Jabalpur,Moderate,110,"O , PM
+3 10",4/4,2024-10-23
+Jabalpur,Moderate,121,"PM , PM
+10 2.5",4/4,2024-10-24
+Jabalpur,Moderate,110,"PM , PM
+2.5 10",4/4,2024-10-25
+Jabalpur,Satisfactory,79,"PM , O
+10 3",4/4,2024-10-26
+Jabalpur,Satisfactory,92,"PM , PM
+2.5 10",4/4,2024-10-27
+Jabalpur,Satisfactory,79,"PM , PM
+2.5 10",4/4,2024-10-28
+Jabalpur,Satisfactory,91,"PM , PM
+2.5 10",4/4,2024-10-29
+Jabalpur,Moderate,106,"PM , PM
+10 2.5",4/4,2024-10-30
+Jabalpur,Satisfactory,100,"PM , PM
+2.5 10",4/4,2024-10-31
+Jabalpur,Moderate,196,"PM
+2.5",4/4,2024-11-01
+Jabalpur,Moderate,145,"PM
+2.5",4/4,2024-11-02
+Jabalpur,Moderate,147,"PM
+2.5",4/4,2024-11-03
+Jabalpur,Moderate,153,"O , PM , PM
+3 2.5 10",4/4,2024-11-04
+Jabalpur,Moderate,165,"PM
+2.5",4/4,2024-11-05
+Jabalpur,Poor,224,"PM
+2.5",4/4,2024-11-06
+Jabalpur,Moderate,186,"PM
+2.5",4/4,2024-11-07
+Jabalpur,Poor,201,"PM
+2.5",4/4,2024-11-08
+Jabalpur,Moderate,161,"PM
+2.5",4/4,2024-11-09
+Jabalpur,Moderate,163,"PM , PM
+2.5 10",4/4,2024-11-10
+Jabalpur,Satisfactory,97,"PM , PM
+2.5 10",4/4,2024-11-11
+Jabalpur,Moderate,141,"PM
+2.5",4/4,2024-11-12
+Jabalpur,Moderate,172,"PM
+2.5",4/4,2024-11-13
+Jabalpur,Satisfactory,94,"PM
+10",2/4,2024-11-14
+Jabalpur,Moderate,121,"PM
+2.5",1/4,2024-11-15
+Jabalpur,Moderate,142,"PM
+2.5",4/4,2024-11-16
+Jabalpur,Moderate,161,"PM
+2.5",4/4,2024-11-17
+Jabalpur,Moderate,146,"PM
+2.5",3/4,2024-11-18
+Jabalpur,Moderate,147,"PM
+2.5",4/4,2024-11-19
+Jabalpur,Poor,222,"PM
+2.5",4/4,2024-11-20
+Jabalpur,Poor,214,"PM
+2.5",3/4,2024-11-21
+Jabalpur,Moderate,188,"PM
+2.5",3/4,2024-11-22
+Jabalpur,Moderate,128,"PM
+2.5",3/4,2024-11-23
+Jabalpur,Moderate,130,"PM , PM
+2.5 10",4/4,2024-11-24
+Jabalpur,Moderate,170,"O , PM
+3 2.5",4/4,2024-11-25
+Jabalpur,Moderate,118,"PM , PM
+2.5 10",4/4,2024-11-26
+Jabalpur,Moderate,148,"PM , PM
+10 2.5",4/4,2024-11-27
+Jabalpur,Moderate,121,"O , PM , PM
+3 2.5 10",4/4,2024-11-28
+Jabalpur,Moderate,130,"PM , PM , O
+10 2.5 3",4/4,2024-11-29
+Jabalpur,Moderate,186,"PM , PM
+2.5 10",4/4,2024-11-30
+Jabalpur,Moderate,155,"PM , PM
+10 2.5",3/4,2024-12-01
+Jabalpur,Moderate,122,"PM
+10",3/4,2024-12-02
+Jabalpur,Moderate,112,"PM , PM
+10 2.5",4/4,2024-12-03
+Jabalpur,Moderate,127,"PM , PM
+2.5 10",4/4,2024-12-04
+Jabalpur,Moderate,110,"PM , PM
+10 2.5",4/4,2024-12-05
+Jabalpur,Satisfactory,98,"PM
+10",4/4,2024-12-06
+Jabalpur,Satisfactory,87,"O , PM
+3 10",4/4,2024-12-07
+Jabalpur,Satisfactory,88,"PM
+10",4/4,2024-12-08
+Jabalpur,Moderate,127,"PM , PM
+2.5 10",4/4,2024-12-09
+Jabalpur,Satisfactory,98,"PM , O
+10 3",4/4,2024-12-10
+Jabalpur,Satisfactory,97,"PM , PM
+10 2.5",4/4,2024-12-11
+Jabalpur,Moderate,133,"PM , PM
+2.5 10",4/4,2024-12-12
+Jabalpur,Moderate,121,"PM , PM
+10 2.5",4/4,2024-12-13
+Jabalpur,Moderate,127,"PM , PM
+2.5 10",4/4,2024-12-14
+Jabalpur,Moderate,116,"PM , PM
+2.5 10",4/4,2024-12-15
+Jabalpur,Moderate,128,"PM , PM
+10 2.5",4/4,2024-12-16
+Jabalpur,Moderate,142,"PM , PM
+10 2.5",4/4,2024-12-17
+Jabalpur,Moderate,132,"PM , PM
+10 2.5",4/4,2024-12-18
+Jabalpur,Moderate,151,"PM , PM
+2.5 10",4/4,2024-12-19
+Jabalpur,Moderate,171,"PM , PM
+10 2.5",4/4,2024-12-20
+Jabalpur,Poor,220,"PM
+2.5",4/4,2024-12-21
+Jabalpur,Moderate,166,"PM , PM
+2.5 10",4/4,2024-12-22
+Jabalpur,Moderate,180,"PM
+2.5",3/4,2024-12-23
+Jabalpur,Moderate,103,"PM , PM
+2.5 10",2/4,2024-12-24
+Jabalpur,Satisfactory,98,"PM , PM
+2.5 10",4/4,2024-12-25
+Jabalpur,Moderate,110,"PM , PM
+2.5 10",4/4,2024-12-26
+Jabalpur,Satisfactory,95,"PM
+10",4/4,2024-12-27
+Jabalpur,Satisfactory,65,"PM , CO
+10",3/4,2024-12-28
+Jabalpur,Good,44,"NO , O
+2 3",2/4,2024-12-29
+Jabalpur,Satisfactory,70,"PM , CO, PM
+10 2.5",4/4,2024-12-30
+Jabalpur,Satisfactory,69,"CO, PM , PM
+2.5 10",4/4,2024-12-31
+Jabalpur,Satisfactory,83,"O , PM , NO
+3 10 2",4/4,2025-01-02
+Jabalpur,Satisfactory,80,"PM , O , NO
+10 3 2",4/4,2025-01-03
+Jabalpur,Satisfactory,93,"PM , NO
+10 2",3/4,2025-01-04
+Jabalpur,Satisfactory,78,"O , NO , PM
+3 2 10",4/4,2025-01-05
+Jabalpur,Moderate,115,"O , PM
+3 10",4/4,2025-01-06
+Jabalpur,Moderate,102,"PM , PM
+10 2.5",4/4,2025-01-07
+Jabalpur,Moderate,106,"PM , PM
+2.5 10",4/4,2025-01-08
+Jabalpur,Satisfactory,90,"O , PM , PM
+3 2.5 10",4/4,2025-01-09
+Jabalpur,Satisfactory,96,"PM , O , PM
+2.5 3 10",4/4,2025-01-10
+Jabalpur,Moderate,120,"PM , O
+10 3",4/4,2025-01-11
+Jabalpur,Moderate,110,"PM , PM , O
+2.5 10 3",4/4,2025-01-12
+Jabalpur,Moderate,140,"PM , PM
+2.5 10",4/4,2025-01-13
+Jabalpur,Moderate,111,"PM , PM
+2.5 10",3/4,2025-01-14
+Jabalpur,Moderate,121,"PM
+2.5",1/4,2025-01-15
+Jabalpur,Moderate,110,"PM , PM
+2.5 10",4/4,2025-01-16
+Jabalpur,Moderate,119,"PM , PM
+10 2.5",4/4,2025-01-17
+Jabalpur,Moderate,142,"PM
+2.5",4/4,2025-01-18
+Jabalpur,Satisfactory,93,"PM , PM
+2.5 10",4/4,2025-01-19
+Jabalpur,Satisfactory,82,"PM , PM
+2.5 10",4/4,2025-01-20
+Jabalpur,Moderate,121,"PM
+10",1/4,2025-01-21
+Jabalpur,Satisfactory,100,"PM , PM
+10 2.5",4/4,2025-01-22
+Jabalpur,Satisfactory,92,"PM , PM
+2.5 10",4/4,2025-01-23
+Jabalpur,Moderate,111,"PM , PM
+2.5 10",4/4,2025-01-24
+Jabalpur,Satisfactory,90,"PM , PM
+10 2.5",4/4,2025-01-25
+Jabalpur,Satisfactory,76,"PM
+10",4/4,2025-01-26
+Jabalpur,Satisfactory,64,"PM , O
+10 3",4/4,2025-01-27
+Jabalpur,Satisfactory,74,"NO , PM
+2 10",4/4,2025-01-28
+Jabalpur,Satisfactory,78,"O , PM
+3 10",4/4,2025-01-29
+Jabalpur,Satisfactory,92,"PM
+10",4/4,2025-01-30
+Jabalpur,Satisfactory,92,"PM
+10",3/4,2025-01-31
+Jabalpur,Satisfactory,99,"PM
+10",1/4,2025-02-01
+Jabalpur,Moderate,121,"PM
+10",1/4,2025-02-02
+Jabalpur,Satisfactory,84,"PM
+10",4/4,2025-02-03
+Jabalpur,Satisfactory,98,"PM
+10",1/4,2025-02-04
+Jabalpur,Satisfactory,85,"PM
+10",4/4,2025-02-05
+Jabalpur,Satisfactory,85,"O , PM
+3 10",4/4,2025-02-06
+Jabalpur,Satisfactory,71,"PM , O
+10 3",4/4,2025-02-07
+Jabalpur,Satisfactory,74,"O , PM
+3 10",4/4,2025-02-08
+Jabalpur,Satisfactory,81,"O , PM
+3 10",3/4,2025-02-09
+Jabalpur,Satisfactory,74,"O , PM
+3 10",4/4,2025-02-10
+Jabalpur,Satisfactory,86,"PM
+10",3/4,2025-02-11
+Jabalpur,Satisfactory,75,"PM
+10",3/4,2025-02-12
+Jabalpur,Satisfactory,65,"PM , O
+10 3",3/4,2025-02-13
+Jabalpur,Satisfactory,69,"PM , O
+10 3",4/4,2025-02-14
+Jabalpur,Satisfactory,70,"O , PM
+3 10",4/4,2025-02-15
+Jabalpur,Satisfactory,70,"PM , O
+10 3",4/4,2025-02-16
+Jabalpur,Satisfactory,77,"PM , O
+10 3",4/4,2025-02-17
+Jabalpur,Satisfactory,81,"O , PM
+3 10",4/4,2025-02-18
+Jabalpur,Satisfactory,82,"PM , O
+10 3",4/4,2025-02-19
+Jabalpur,Satisfactory,85,"PM
+10",4/4,2025-02-20
+Jabalpur,Satisfactory,82,"PM
+10",4/4,2025-02-21
+Jabalpur,Satisfactory,74,"PM , O
+10 3",4/4,2025-02-22
+Jabalpur,Satisfactory,61,"PM
+10",3/4,2025-02-23
+Jabalpur,Satisfactory,61,"O , PM
+3 10",4/4,2025-02-24
+Jabalpur,Satisfactory,57,"PM , O
+10 3",3/4,2025-02-25
+Jabalpur,Satisfactory,66,"O , PM
+3 10",4/4,2025-02-26
+Jabalpur,Satisfactory,66,"PM
+10",4/4,2025-02-27
+Jabalpur,Satisfactory,60,"PM , O
+10 3",4/4,2025-02-28
+Jabalpur,Satisfactory,84,"O , PM
+3 10",4/4,2025-03-01
+Jabalpur,Satisfactory,77,"PM , O
+10 3",4/4,2025-03-02
+Jabalpur,Satisfactory,66,"O , PM
+3 10",4/4,2025-03-03
+Jabalpur,Satisfactory,75,"O , PM
+3 10",4/4,2025-03-04
+Jabalpur,Satisfactory,76,"O , PM
+3 10",4/4,2025-03-05
+Jabalpur,Satisfactory,67,"O , PM
+3 10",4/4,2025-03-06
+Jabalpur,Satisfactory,67,"O , PM
+3 10",3/4,2025-03-07
+Jabalpur,Satisfactory,78,"PM , O
+10 3",3/4,2025-03-08
+Jabalpur,Satisfactory,84,"PM , SO
+10 2",4/4,2025-03-09
+Jabalpur,Satisfactory,86,"PM , O
+10 3",4/4,2025-03-10
+Jabalpur,Satisfactory,96,"PM , O
+10 3",4/4,2025-03-11
+Jabalpur,Moderate,103,"PM , O
+10 3",3/4,2025-03-12
+Jabalpur,Satisfactory,87,"O , PM
+3 10",3/4,2025-03-13
+Jabalpur,Satisfactory,98,"PM , PM , O
+2.5 10 3",4/4,2025-03-14
+Jabalpur,Satisfactory,81,"O
+3",1/4,2025-03-15
+Jabalpur,Satisfactory,78,"PM , O
+10 3",4/4,2025-03-16
+Jabalpur,Satisfactory,72,"PM , O
+10 3",4/4,2025-03-17
+Jabalpur,Satisfactory,95,"O , PM
+3 10",4/4,2025-03-18
+Jabalpur,Moderate,105,"O
+3",4/4,2025-03-19
+Jabalpur,Satisfactory,75,"O , CO
+3",3/4,2025-03-20
+Jabalpur,Satisfactory,70,"PM , O
+10 3",4/4,2025-03-21
+Jabalpur,Satisfactory,71,"PM , O
+10 3",4/4,2025-03-22
+Jabalpur,Satisfactory,79,"O , PM
+3 10",4/4,2025-03-23
+Jabalpur,Satisfactory,78,"O , PM
+3 10",4/4,2025-03-24
+Jabalpur,Satisfactory,90,"PM , O
+10 3",4/4,2025-03-25
+Jabalpur,Satisfactory,85,"O , PM
+3 10",4/4,2025-03-26
+Jabalpur,Satisfactory,100,"PM , O
+10 3",4/4,2025-03-27
+Jabalpur,Moderate,103,"PM , PM
+2.5 10",4/4,2025-03-28
+Jabalpur,Moderate,106,"PM
+10",4/4,2025-03-29
+Jabalpur,Moderate,101,"PM
+10",4/4,2025-03-30
+Jabalpur,Moderate,101,"PM , PM
+10 2.5",4/4,2025-03-31
+Jabalpur,Moderate,119,"PM , PM
+2.5 10",4/4,2025-04-01
+Jabalpur,Moderate,117,"PM , PM
+2.5 10",4/4,2025-04-02
+Jabalpur,Moderate,108,"PM , PM
+10 2.5",4/4,2025-04-03
+Jabalpur,Satisfactory,76,"PM , O
+10 3",4/4,2025-04-04
+Jabalpur,Moderate,102,"PM , PM
+10 2.5",3/4,2025-04-05
+Jabalpur,Moderate,113,"PM
+10",3/4,2025-04-06
+Jabalpur,Moderate,101,"PM
+10",4/4,2025-04-07
+Jabalpur,Satisfactory,96,"PM
+10",4/4,2025-04-08
+Jabalpur,Moderate,104,"PM
+10",3/4,2025-04-09
+Jabalpur,Satisfactory,82,"O
+3",4/4,2025-04-10
+Jabalpur,Moderate,129,"PM
+10",4/4,2025-04-11
+Jabalpur,Satisfactory,96,"O , PM
+3 10",4/4,2025-04-12
+Jabalpur,Moderate,102,"PM
+10",4/4,2025-04-13
+Jabalpur,Satisfactory,76,"O , PM
+3 10",4/4,2025-04-14
+Jabalpur,Satisfactory,96,"O
+3",4/4,2025-04-15
+Jabalpur,Satisfactory,91,"O
+3",4/4,2025-04-16
+Jabalpur,Satisfactory,97,"O , PM
+3 10",4/4,2025-04-17
+Jabalpur,Satisfactory,90,"PM , O
+10 3",4/4,2025-04-18
+Jabalpur,Satisfactory,88,"PM , O
+10 3",4/4,2025-04-19
+Jabalpur,Satisfactory,96,"PM
+10",4/4,2025-04-20
+Jabalpur,Satisfactory,92,"PM
+10",4/4,2025-04-21
+Jabalpur,Moderate,104,"PM , O
+10 3",4/4,2025-04-22
+Jabalpur,Moderate,110,"PM
+10",3/4,2025-04-23
+Jabalpur,Moderate,101,"O , PM
+3 10",4/4,2025-04-24
+Jabalpur,Satisfactory,100,"PM
+10",3/4,2025-04-25
+Jabalpur,Satisfactory,95,"PM
+10",4/4,2025-04-26
+Jabalpur,Satisfactory,83,"PM
+10",4/4,2025-04-27
+Jabalpur,Satisfactory,66,"SO , O
+2 3",3/4,2025-04-28
+Jabalpur,Satisfactory,73,"PM , O
+10 3",4/4,2025-04-29
+Jabalpur,Satisfactory,75,"O , PM
+3 10",3/4,2025-04-30
+Jabalpur,Satisfactory,72,"O , PM
+3 10",4/4,2025-05-01
+Jabalpur,Satisfactory,87,"O
+3",4/4,2025-05-02
+Jabalpur,Satisfactory,86,"PM , O
+10 3",4/4,2025-05-03
+Jabalpur,Satisfactory,78,"PM , O
+10 3",3/4,2025-05-04
+Jabalpur,Satisfactory,65,"O , PM , NO
+3 10 2",4/4,2025-05-05
+Jabalpur,Satisfactory,70,"NO , O , PM
+2 3 10",4/4,2025-05-06
+Jabalpur,Satisfactory,69,"O
+3",4/4,2025-05-07
+Jabalpur,Satisfactory,73,"O , PM
+3 10",3/4,2025-05-08
+Jabalpur,Satisfactory,67,"PM , O , NO
+10 3 2",4/4,2025-05-09
+Jabalpur,Satisfactory,82,"O , PM
+3 10",3/4,2025-05-10
+Jabalpur,Satisfactory,74,"PM , O
+10 3",4/4,2025-05-11
+Jabalpur,Satisfactory,75,"O , PM
+3 10",4/4,2025-05-12
+Jabalpur,Satisfactory,74,"PM , O
+10 3",4/4,2025-05-13
+Jabalpur,Satisfactory,74,"O , PM , NO
+3 10 2",3/4,2025-05-14
+Jabalpur,Satisfactory,81,"O , PM
+3 10",4/4,2025-05-15
+Jabalpur,Satisfactory,80,"O , PM
+3 10",4/4,2025-05-16
+Jabalpur,Satisfactory,86,"O
+3",4/4,2025-05-17
+Jabalpur,Satisfactory,92,"O
+3",4/4,2025-05-18
+Jabalpur,Satisfactory,100,"O
+3",4/4,2025-05-19
+Jabalpur,Satisfactory,77,"O , PM
+3 10",3/4,2025-05-20
+Jabalpur,Satisfactory,87,"PM , O
+10 3",4/4,2025-05-21
+Jabalpur,Satisfactory,70,"PM , O
+10 3",4/4,2025-05-22
+Jabalpur,Satisfactory,66,"O , NO
+3 2",4/4,2025-05-23
+Jabalpur,Satisfactory,57,"CO, PM
+2.5",3/4,2025-05-24
+Jabalpur,Satisfactory,71,"PM , CO
+2.5",2/4,2025-05-25
+Jabalpur,Satisfactory,78,"O
+3",1/4,2025-05-26
+Jabalpur,Satisfactory,75,"O , PM , PM
+3 10 2.5",3/4,2025-05-27
+Jabalpur,Satisfactory,85,"PM , O , PM
+10 3 2.5",3/4,2025-05-28
+Jabalpur,Satisfactory,78,"PM , O
+10 3",3/4,2025-05-29
+Jabalpur,Satisfactory,92,"PM , O , PM
+2.5 3 10",3/4,2025-05-30
+Jabalpur,Satisfactory,90,"O , PM , PM
+3 10 2.5",3/4,2025-05-31
+Jabalpur,Moderate,108,"PM , PM
+2.5 10",3/4,2025-06-01
+Jabalpur,Satisfactory,91,"PM , PM
+10 2.5",3/4,2025-06-02
+Jabalpur,Satisfactory,69,"PM , PM , O
+10 2.5 3",3/4,2025-06-03
+Jabalpur,Satisfactory,85,"PM , O , PM
+2.5 3 10",3/4,2025-06-04
+Jabalpur,Satisfactory,92,"PM , O , PM
+10 3 2.5",3/4,2025-06-05
+Jabalpur,Moderate,117,"O , PM
+3 10",3/4,2025-06-06
+Jabalpur,Moderate,130,"PM , PM
+10 2.5",4/4,2025-06-07
+Jabalpur,Moderate,116,"PM , PM
+2.5 10",2/4,2025-06-08
+Jabalpur,Moderate,141,"PM , PM
+2.5 10",4/4,2025-06-09
+Jabalpur,Moderate,147,"PM , PM
+10 2.5",4/4,2025-06-10
+Jabalpur,Moderate,102,"O , PM
+3 10",4/4,2025-06-11
+Jabalpur,Satisfactory,96,"O , PM
+3 10",4/4,2025-06-12
+Jabalpur,Satisfactory,79,"PM , O
+10 3",3/4,2025-06-13
+Jabalpur,Satisfactory,71,"O , PM
+3 10",4/4,2025-06-14
+Jabalpur,Satisfactory,60,"O , PM
+3 2.5",4/4,2025-06-15
+Jabalpur,Satisfactory,55,"O , CO
+3",4/4,2025-06-16
+Jabalpur,Satisfactory,57,"PM , O , PM
+10 3 2.5",4/4,2025-06-17
+Jabalpur,Satisfactory,79,"PM , O
+2.5 3",3/4,2025-06-18
+Jabalpur,Satisfactory,54,"PM , CO, PM
+2.5 10",4/4,2025-06-19
+Jabalpur,Good,40,"CO, PM , PM
+2.5 10",3/4,2025-06-20
+Jabalpur,Satisfactory,67,"PM
+10",2/4,2025-06-21
+Jabalpur,Satisfactory,68,"PM , SO , PM
+10 2 2.5",4/4,2025-06-22
+Jabalpur,Good,48,"CO, PM , PM
+10 2.5",4/4,2025-06-23
+Jabalpur,Good,37,"SO , NO
+2 2",3/4,2025-06-24
+Jabalpur,Satisfactory,61,"PM , CO, PM
+2.5 10",4/4,2025-06-25
+Jabalpur,Good,46,"NO
+2",1/4,2025-06-26
+Jabalpur,Satisfactory,60,"SO , NO , PM
+2 2 2.5",3/4,2025-06-27
+Jabalpur,Good,43,"NO , CO, PM
+2 10",4/4,2025-06-28
+Jabalpur,Good,50,"PM , CO
+10",4/4,2025-06-29
+Jabalpur,Good,43,"PM , CO
+10",4/4,2025-06-30
+Jabalpur,Good,44,"CO, PM
+10",3/4,2025-07-01
+Jabalpur,Good,42,"PM , NO , CO
+10 2",3/4,2025-07-02
+Jabalpur,Good,46,"PM , CO
+10",4/4,2025-07-03
+Jabalpur,Good,43,"PM , CO, NO
+10 2",3/4,2025-07-04
+Jabalpur,Satisfactory,52,"PM , CO
+2.5",4/4,2025-07-05
+Jabalpur,Good,40,"PM , PM
+10 2.5",3/4,2025-07-06
+Jabalpur,Good,39,"CO, PM
+2.5",4/4,2025-07-07
+Jabalpur,Good,35,"NO , CO, O
+2 3",3/4,2025-07-08
+Jabalpur,Good,41,"PM , CO
+10",3/4,2025-07-09
+Jabalpur,Good,44,"O , CO
+3",3/4,2025-07-10
+Jabalpur,Good,42,"CO, PM
+10",2/4,2025-07-11
+Jabalpur,Good,41,"O , CO
+3",4/4,2025-07-12
+Jabalpur,Good,40,"CO, O
+3",4/4,2025-07-13
+Jabalpur,Good,41,"CO, PM
+10",4/4,2025-07-14
+Jabalpur,Good,40,"PM , CO
+10",4/4,2025-07-15
+Jabalpur,Good,42,"CO, PM
+10",2/4,2025-07-16
+Jabalpur,Good,50,"CO, PM
+10",3/4,2025-07-17
+Jabalpur,Good,42,"PM , CO
+2.5",4/4,2025-07-18
+Jabalpur,Satisfactory,64,"PM , PM , CO
+10 2.5",4/4,2025-07-19
+Jabalpur,Satisfactory,81,"PM , CO, PM
+2.5 10",4/4,2025-07-20
+Jabalpur,Satisfactory,74,"PM , PM , CO
+10 2.5",4/4,2025-07-21
+Jabalpur,Good,43,"PM , CO
+10",3/4,2025-07-22
+Jabalpur,Good,42,"CO, PM
+10",3/4,2025-07-23
+Jabalpur,Good,45,"PM , CO
+10",3/4,2025-07-24
+Jabalpur,Good,35,"CO, PM
+10",3/4,2025-07-25
+Jabalpur,Good,43,"CO, PM
+10",4/4,2025-07-26
+Jabalpur,Good,42,"O , CO
+3",4/4,2025-07-27
+Jabalpur,Good,33,"O , CO, PM
+3 10",3/4,2025-07-28
+Jabalpur,Good,45,"CO, O
+3",3/4,2025-07-29
+Jabalpur,Good,44,"CO, O
+3",4/4,2025-07-30
+Jabalpur,Good,47,"O , CO
+3",3/4,2025-07-31
+Jabalpur,Satisfactory,54,"NO , PM
+2 10",3/4,2025-08-01
+Jabalpur,Satisfactory,54,"O , CO, PM
+3 10",3/4,2025-08-02
+Jabalpur,Good,50,"O , PM , NO
+3 10 2",4/4,2025-08-03
+Jabalpur,Satisfactory,66,"NO , PM , CO
+2 10",3/4,2025-08-04
+Jabalpur,Satisfactory,58,"PM , CO, O
+10 3",4/4,2025-08-05
+Jabalpur,Satisfactory,67,"PM , O , CO
+10 3",3/4,2025-08-06
+Jabalpur,Satisfactory,82,"PM , PM
+2.5 10",2/4,2025-08-07
+Jabalpur,Satisfactory,59,"NO , PM
+2 10",3/4,2025-08-08
+Jabalpur,Good,49,"CO, NO , PM
+2 10",3/4,2025-08-09
+Jabalpur,Satisfactory,51,"NO , O , CO
+2 3",3/4,2025-08-10
+Jabalpur,Good,42,"PM , NO
+10 2",3/4,2025-08-11
+Jabalpur,Good,42,"NO , PM
+2 10",3/4,2025-08-12
+Jabalpur,Satisfactory,55,"NO , CO, PM
+2 10",3/4,2025-08-13
+Jabalpur,Good,41,"PM , NO
+10 2",2/4,2025-08-14
+Jabalpur,Good,44,"PM , NO
+10 2",2/4,2025-08-15
+Jabalpur,Good,48,"PM
+10",2/4,2025-08-16
+Jabalpur,Good,44,"CO, NO
+2",3/4,2025-08-17
+Jabalpur,Good,43,"PM , NO , CO
+10 2",3/4,2025-08-18
+Jabalpur,Good,49,"NO , CO, PM
+2 10",3/4,2025-08-19
+Jabalpur,Good,43,"PM , NO , CO
+10 2",3/4,2025-08-20
+Jabalpur,Good,41,"NO , CO, O
+2 3",3/4,2025-08-21
+Jabalpur,Good,33,"O , NO , PM
+3 2 10",3/4,2025-08-22
+Jabalpur,Good,34,"O , NO
+3 2",2/4,2025-08-23
+Jabalpur,Good,50,"NO , PM , CO
+2 10",3/4,2025-08-24
+Jabalpur,Satisfactory,54,"SO , PM , CO
+2 10",3/4,2025-08-25
+Jabalpur,Good,50,"O , CO, PM
+3 10",3/4,2025-08-26
+Jabalpur,Satisfactory,60,"O , PM , CO
+3 10",3/4,2025-08-27
+Jabalpur,Good,49,"PM , O , PM
+10 3 2.5",4/4,2025-08-28
+Jabalpur,Good,45,"O , PM
+3 10",4/4,2025-08-29
+Jabalpur,Good,48,"PM , PM , O
+10 2.5 3",3/4,2025-08-30
+Jabalpur,Satisfactory,52,"PM
+10",2/4,2025-08-31
+Jabalpur,Good,36,"NO
+2",1/4,2025-09-01
+Jabalpur,Good,31,"PM , NO , O
+2.5 2 3",3/4,2025-09-02
+Jabalpur,Good,40,"NO , CO
+2",2/4,2025-09-03
+Jabalpur,Good,40,"CO, NO
+2",2/4,2025-09-04
+Jabalpur,Good,37,"NO , CO
+2",3/4,2025-09-05
+Jabalpur,Good,40,"PM , CO, O
+10 3",3/4,2025-09-06
+Jabalpur,Good,39,"PM , NO , O
+10 2 3",3/4,2025-09-07
+Jabalpur,Good,36,"O , NO
+3 2",2/4,2025-09-08
+Jabalpur,Good,39,"O , NO
+3 2",2/4,2025-09-09
+Jabalpur,Satisfactory,53,"PM
+10",2/4,2025-09-10
+Jabalpur,Satisfactory,56,"PM
+10",2/4,2025-09-11
+Jabalpur,Good,38,"PM
+10",3/4,2025-09-12
+Jabalpur,Satisfactory,51,"PM , CO
+10",3/4,2025-09-13
+Jabalpur,Satisfactory,55,"PM
+10",2/4,2025-09-14
+Jabalpur,Satisfactory,66,"PM
+10",3/4,2025-09-15
+Jabalpur,Good,45,"PM , CO, NO
+10 2",3/4,2025-09-16
+Jabalpur,Satisfactory,51,"O , CO, PM
+3 10",3/4,2025-09-17
+Jabalpur,Good,46,"PM , O , CO
+10 3",3/4,2025-09-18
+Jabalpur,Satisfactory,60,"O , PM
+3 10",4/4,2025-09-19
+Jabalpur,Satisfactory,59,"PM , O
+10 3",4/4,2025-09-20
+Jabalpur,Satisfactory,61,"PM , O
+10 3",4/4,2025-09-21
+Jabalpur,Satisfactory,71,"PM , O
+10 3",4/4,2025-09-22
+Jabalpur,Satisfactory,74,"O , PM
+3 10",2/4,2025-09-23
+Jabalpur,Satisfactory,71,"PM , O
+10 3",4/4,2025-09-24
+Jabalpur,Satisfactory,80,"PM , O
+10 3",4/4,2025-09-25
+Jabalpur,Satisfactory,58,"PM , O
+10 3",4/4,2025-09-26
+Jabalpur,Good,38,"NO , CO
+2",4/4,2025-09-27
+Jabalpur,Good,40,"NO , CO, PM
+2 2.5",4/4,2025-09-28
+Jabalpur,Good,38,"O , CO
+3",3/4,2025-09-29
+Jabalpur,Good,43,"O , PM , CO
+3 10",4/4,2025-09-30
+Jabalpur,Satisfactory,52,"PM , CO
+10",4/4,2025-10-01
+Jabalpur,Good,46,"CO, O
+3",3/4,2025-10-02
+Jabalpur,Good,44,"O , CO
+3",3/4,2025-10-03
+Jabalpur,Good,42,CO,2/4,2025-10-04
+Jabalpur,Good,46,"CO, O
+3",4/4,2025-10-05
+Jabalpur,Good,48,"CO, O
+3",4/4,2025-10-06
+Jabalpur,Satisfactory,84,"PM , CO
+10",4/4,2025-10-07
+Jabalpur,Satisfactory,70,"PM
+10",1/4,2025-10-08
+Jabalpur,Satisfactory,74,"PM
+10",4/4,2025-10-09
+Jabalpur,Moderate,119,"PM
+10",4/4,2025-10-10
+Jabalpur,Moderate,126,"PM
+10",4/4,2025-10-11
+Jabalpur,Satisfactory,90,"O , PM
+3 10",4/4,2025-10-12
+Jabalpur,Satisfactory,89,"PM
+10",3/4,2025-10-13
+Jabalpur,Satisfactory,100,"PM
+10",4/4,2025-10-14
+Jabalpur,Moderate,126,"PM , PM
+10 2.5",4/4,2025-10-15
+Jabalpur,Moderate,114,"PM , PM
+10 2.5",3/4,2025-10-16
+Jabalpur,Moderate,104,"PM , PM
+2.5 10",4/4,2025-10-17
+Jabalpur,Satisfactory,97,"PM , PM
+10 2.5",3/4,2025-10-18
+Jabalpur,Satisfactory,91,"PM , PM
+10 2.5",3/4,2025-10-19
+Jabalpur,Moderate,119,"PM , PM
+2.5 10",4/4,2025-10-20
+Jabalpur,Poor,203,"PM
+2.5",4/4,2025-10-21
+Jabalpur,Moderate,129,"PM
+2.5",3/4,2025-10-22
+Jabalpur,Satisfactory,78,"PM , PM
+2.5 10",3/4,2025-10-23
+Jabalpur,Moderate,145,"PM , PM
+10 2.5",3/4,2025-10-24
+Jabalpur,Moderate,162,"PM
+2.5",4/4,2025-10-25
+Jabalpur,Moderate,150,"PM
+2.5",4/4,2025-10-26
+Jabalpur,Satisfactory,56,"PM , PM
+2.5 10",4/4,2025-10-27
+Jabalpur,Satisfactory,83,"PM
+2.5",3/4,2025-10-28
+Jabalpur,Moderate,108,"PM , O
+2.5 3",4/4,2025-10-29
+Jabalpur,Satisfactory,73,"PM , CO, PM
+2.5 10",3/4,2025-10-30
+Jabalpur,Satisfactory,52,"O , CO
+3",4/4,2025-10-31
+Jabalpur,Satisfactory,58,"PM , O
+10 3",4/4,2025-11-01
+Jabalpur,Satisfactory,94,"PM , PM
+2.5 10",3/4,2025-11-02
+Jabalpur,Moderate,120,"O
+3",4/4,2025-11-03
+Jabalpur,Moderate,147,"O , PM
+3 2.5",4/4,2025-11-04
+Jabalpur,Moderate,147,"O , PM
+3 2.5",4/4,2025-11-05
+Jabalpur,Moderate,114,"PM , PM
+2.5 10",4/4,2025-11-06
+Jabalpur,Moderate,105,"PM
+10",4/4,2025-11-07
+Jabalpur,Moderate,143,"PM , PM
+2.5 10",4/4,2025-11-08
+Jabalpur,Moderate,147,"PM , PM
+2.5 10",4/4,2025-11-09
+Jabalpur,Moderate,161,"PM
+2.5",3/4,2025-11-10
+Jabalpur,Moderate,162,"PM
+2.5",4/4,2025-11-11
+Jabalpur,Moderate,175,"PM , PM
+10 2.5",4/4,2025-11-12
+Jabalpur,Moderate,196,"PM , PM
+10 2.5",4/4,2025-11-13
+Jabalpur,Moderate,161,"PM , PM
+10 2.5",4/4,2025-11-14
+Jabalpur,Moderate,166,"PM , PM
+2.5 10",4/4,2025-11-15
+Jabalpur,Moderate,184,"PM , O , PM
+10 3 2.5",4/4,2025-11-16
+Jabalpur,Poor,232,"PM , O
+2.5 3",4/4,2025-11-17
+Jabalpur,Moderate,169,"PM
+2.5",4/4,2025-11-18
+Jabalpur,Poor,212,"O , PM
+3 2.5",4/4,2025-11-19
+Jabalpur,Poor,261,"O , PM
+3 2.5",4/4,2025-11-20
+Jabalpur,Poor,216,"PM
+2.5",4/4,2025-11-21
+Jabalpur,Poor,220,"PM
+2.5",3/4,2025-11-22
+Jabalpur,Moderate,166,"PM
+2.5",4/4,2025-11-23
+Jabalpur,Moderate,156,"PM
+2.5",4/4,2025-11-24
+Jabalpur,Moderate,131,"PM , PM
+10 2.5",4/4,2025-11-25
+Jabalpur,Moderate,143,"PM
+2.5",4/4,2025-11-26
+Jabalpur,Satisfactory,98,"PM , PM
+10 2.5",4/4,2025-11-27
+Jabalpur,Moderate,113,"PM , PM
+2.5 10",4/4,2025-11-28
+Jabalpur,Moderate,154,"PM
+2.5",4/4,2025-11-29
+Jabalpur,Moderate,157,"PM
+2.5",3/4,2025-11-30
+Jabalpur,Moderate,176,"O
+3",1/4,2025-12-01
+Jabalpur,Moderate,115,"O , PM , PM
+3 10 2.5",3/4,2025-12-02
+Jabalpur,Satisfactory,99,"PM , PM
+10 2.5",3/4,2025-12-03
+Jabalpur,Satisfactory,83,"PM , O
+10 3",4/4,2025-12-04
+Jabalpur,Moderate,112,"PM , O , PM
+2.5 3 10",4/4,2025-12-05
+Jabalpur,Moderate,106,"PM , PM
+2.5 10",4/4,2025-12-06
+Jabalpur,Moderate,133,"PM , PM
+2.5 10",4/4,2025-12-07
+Jabalpur,Moderate,122,"PM , PM
+10 2.5",4/4,2025-12-08
+Jabalpur,Satisfactory,87,"PM
+10",4/4,2025-12-09
+Jabalpur,Moderate,106,"O , PM
+3 10",3/4,2025-12-10
+Jabalpur,Moderate,113,"PM , O , PM
+2.5 3 10",3/4,2025-12-11
+Jabalpur,Moderate,101,"PM , PM
+10 2.5",4/4,2025-12-12
+Jabalpur,Moderate,104,"PM , PM
+10 2.5",4/4,2025-12-13
+Jabalpur,Moderate,133,"PM , PM
+2.5 10",4/4,2025-12-14

@@ -1,0 +1,4389 @@
+City,Air Quality,Index Value,Prominent Pollutant,No. of Stations Participated / Total Stations (Based on Number of Monitoring Stations),Date
+Bhopal,Satisfactory,51,"PM
+10",1,2019-09-23
+Bhopal,Satisfactory,59,CO,1,2019-09-24
+Bhopal,Satisfactory,58,CO,1,2019-09-25
+Bhopal,Good,36,OZONE,1,2019-09-26
+Bhopal,Good,40,CO,1,2019-09-27
+Bhopal,Good,39,OZONE,1,2019-09-28
+Bhopal,Good,36,OZONE,1,2019-09-29
+Bhopal,Good,32,OZONE,1,2019-09-30
+Bhopal,Good,47,OZONE,1,2019-10-01
+Bhopal,Satisfactory,62,OZONE,1,2019-10-02
+Bhopal,Satisfactory,94,"PM
+10",1,2019-10-03
+Bhopal,Moderate,110,"PM
+10",1,2019-10-04
+Bhopal,Moderate,115,"PM
+10",1,2019-10-05
+Bhopal,Satisfactory,82,"PM
+10",1,2019-10-06
+Bhopal,Moderate,105,"PM
+10",1,2019-10-07
+Bhopal,Moderate,136,OZONE,1,2019-10-08
+Bhopal,Moderate,113,"PM
+10",1,2019-10-09
+Bhopal,Moderate,108,"PM
+10",1,2019-10-10
+Bhopal,Moderate,150,"PM
+10",1,2019-10-11
+Bhopal,Moderate,121,OZONE,1,2019-10-12
+Bhopal,Moderate,187,"PM
+10",1,2019-10-13
+Bhopal,Moderate,171,"PM
+10",1,2019-10-14
+Bhopal,Moderate,146,"PM
+10",1,2019-10-16
+Bhopal,Moderate,163,"PM
+10",1,2019-10-17
+Bhopal,Moderate,159,"PM
+10",1,2019-10-18
+Bhopal,Moderate,155,"PM
+2.5",1,2019-10-19
+Bhopal,Moderate,145,"PM
+2.5",1,2019-10-20
+Bhopal,Poor,240,"PM
+2.5",1,2019-10-21
+Bhopal,Poor,203,"PM
+2.5",1,2019-10-22
+Bhopal,Moderate,120,"PM
+10",1,2019-10-23
+Bhopal,Moderate,112,"PM
+10",1,2019-10-24
+Bhopal,Poor,205,"PM
+10",1,2019-10-25
+Bhopal,Moderate,116,"PM
+10",1,2019-10-26
+Bhopal,Satisfactory,88,"PM
+2.5",1,2019-10-27
+Bhopal,Moderate,157,"PM
+2.5",1,2019-10-28
+Bhopal,Satisfactory,71,OZONE,1,2019-10-29
+Bhopal,Satisfactory,87,"PM
+10",1,2019-10-30
+Bhopal,Moderate,128,"PM
+2.5",1,2019-10-31
+Bhopal,Moderate,184,"PM
+2.5",1,2019-11-01
+Bhopal,Moderate,157,"PM
+2.5",1,2019-11-02
+Bhopal,Satisfactory,75,"PM
+10",1,2019-11-03
+Bhopal,Moderate,143,"PM
+2.5",1,2019-11-04
+Bhopal,Moderate,128,"PM
+10",1,2019-11-05
+Bhopal,Moderate,151,"PM
+2.5",1,2019-11-06
+Bhopal,Moderate,194,"PM
+2.5",1,2019-11-07
+Bhopal,Satisfactory,71,"PM
+10",1,2019-11-08
+Bhopal,Moderate,199,"PM
+2.5",1,2019-11-09
+Bhopal,Poor,222,"PM
+2.5",1,2019-11-10
+Bhopal,Poor,207,"PM
+2.5",1,2019-11-11
+Bhopal,Moderate,181,"PM
+2.5",1,2019-11-12
+Bhopal,Poor,201,"PM
+2.5",1,2019-11-13
+Bhopal,Poor,228,"PM
+2.5",1,2019-11-15
+Bhopal,Poor,233,"PM
+2.5",1,2019-11-16
+Bhopal,Poor,242,"PM
+2.5",1,2019-11-17
+Bhopal,Moderate,182,"PM
+10",1,2019-11-18
+Bhopal,Moderate,167,"PM
+10",1,2019-11-19
+Bhopal,Moderate,171,"PM
+10",1,2019-11-20
+Bhopal,Poor,243,"PM
+2.5",1,2019-11-21
+Bhopal,Poor,235,"PM
+2.5",1,2019-11-22
+Bhopal,Poor,229,"PM
+2.5",1,2019-11-23
+Bhopal,Poor,241,"PM
+2.5",1,2019-11-24
+Bhopal,Poor,213,"PM
+2.5",1,2019-11-25
+Bhopal,Moderate,191,OZONE,1,2019-11-26
+Bhopal,Poor,290,"PM
+2.5",1,2019-11-27
+Bhopal,Poor,264,"PM
+2.5",1,2019-11-28
+Bhopal,Poor,207,"PM
+2.5",1,2019-11-29
+Bhopal,Poor,237,"PM
+2.5",1,2019-11-30
+Bhopal,Poor,206,"PM
+2.5",1,2019-12-01
+Bhopal,Poor,243,"PM
+2.5",1,2019-12-02
+Bhopal,Poor,243,"PM
+2.5",1,2019-12-03
+Bhopal,Moderate,121,"PM
+10",1,2019-12-04
+Bhopal,Moderate,138,"PM
+10",1,2019-12-05
+Bhopal,Moderate,117,"PM
+10",1,2019-12-06
+Bhopal,Poor,212,"PM
+2.5",1,2019-12-07
+Bhopal,Poor,292,"PM
+2.5",1,2019-12-08
+Bhopal,Poor,277,"PM
+2.5",1,2019-12-09
+Bhopal,Poor,271,"PM
+2.5",1,2019-12-10
+Bhopal,Poor,274,"PM
+2.5",1,2019-12-11
+Bhopal,Poor,230,"PM
+2.5",1,2019-12-12
+Bhopal,Satisfactory,83,"O
+3",1,2019-12-13
+Bhopal,Moderate,137,"PM
+2.5",1,2019-12-14
+Bhopal,Moderate,119,"PM
+2.5",1,2019-12-15
+Bhopal,Moderate,134,"PM
+2.5",1,2019-12-16
+Bhopal,Poor,207,"PM
+2.5",1,2019-12-17
+Bhopal,Poor,203,"PM
+2.5",1,2019-12-18
+Bhopal,Moderate,131,"PM
+2.5",1,2019-12-19
+Bhopal,Poor,210,"PM
+2.5",1,2019-12-20
+Bhopal,Moderate,192,"PM
+2.5",1,2019-12-21
+Bhopal,Moderate,131,"PM
+2.5",1,2019-12-22
+Bhopal,Moderate,182,"PM
+2.5",1,2019-12-23
+Bhopal,Moderate,110,"PM
+2.5",1,2019-12-24
+Bhopal,Poor,260,"PM
+2.5",1,2019-12-25
+Bhopal,Poor,214,"PM
+2.5",1,2019-12-26
+Bhopal,Moderate,123,"PM
+2.5",1,2019-12-27
+Bhopal,Satisfactory,91,"PM
+2.5",1,2019-12-28
+Bhopal,Moderate,124,"PM
+2.5",1,2019-12-29
+Bhopal,Moderate,125,"PM
+2.5",1,2019-12-30
+Bhopal,Poor,208,"PM
+2.5",1,2019-12-31
+Bhopal,Poor,232,"PM
+2.5",1,2020-01-01
+Bhopal,Moderate,197,"PM
+2.5",1,2020-01-02
+Bhopal,Poor,210,"PM
+2.5",1,2020-01-03
+Bhopal,Moderate,178,"PM
+2.5",1,2020-01-04
+Bhopal,Moderate,181,"PM
+2.5",1,2020-01-05
+Bhopal,Satisfactory,100,"PM
+2.5",1,2020-01-06
+Bhopal,Moderate,114,"PM
+10",1,2020-01-07
+Bhopal,Moderate,158,"PM
+2.5",1,2020-01-08
+Bhopal,Moderate,195,"PM
+2.5",1,2020-01-09
+Bhopal,Moderate,118,"PM
+2.5",1,2020-01-10
+Bhopal,Moderate,115,"PM
+2.5",1,2020-01-11
+Bhopal,Moderate,126,"PM
+2.5",1,2020-01-12
+Bhopal,Moderate,147,"PM
+10",1,2020-01-13
+Bhopal,Moderate,166,"PM
+2.5",1,2020-01-14
+Bhopal,Moderate,199,"PM
+2.5",1,2020-01-15
+Bhopal,Very Poor,301,"PM
+2.5",1,2020-01-16
+Bhopal,Moderate,196,"PM
+2.5",1,2020-01-17
+Bhopal,Moderate,180,"PM
+2.5",1,2020-01-18
+Bhopal,Moderate,140,"PM
+2.5",1,2020-01-19
+Bhopal,Moderate,118,"PM
+2.5",1,2020-01-20
+Bhopal,Moderate,106,"PM
+10",1,2020-01-21
+Bhopal,Moderate,158,"PM
+2.5",1,2020-01-22
+Bhopal,Moderate,142,"PM
+2.5",1,2020-01-23
+Bhopal,Moderate,133,"PM
+10",1,2020-01-24
+Bhopal,Moderate,159,"PM
+10",1,2020-01-25
+Bhopal,Moderate,195,"PM
+2.5",1,2020-01-26
+Bhopal,Moderate,111,"PM
+10",1,2020-01-27
+Bhopal,Moderate,180,"PM
+10",1,2020-01-28
+Bhopal,Moderate,117,"PM
+10",1,2020-01-29
+Bhopal,Moderate,118,"PM
+10",1,2020-01-30
+Bhopal,Moderate,104,"PM
+10",1,2020-01-31
+Bhopal,Satisfactory,93,"PM
+10",1,2020-02-01
+Bhopal,Satisfactory,87,"PM
+10",1,2020-02-02
+Bhopal,Satisfactory,90,"PM
+10",1,2020-02-03
+Bhopal,Moderate,110,"PM
+10",1,2020-02-04
+Bhopal,Moderate,120,"PM
+10",1,2020-02-05
+Bhopal,Moderate,123,"PM
+10",1,2020-02-06
+Bhopal,Moderate,114,"PM
+10",1,2020-02-07
+Bhopal,Moderate,119,"PM
+10",1,2020-02-08
+Bhopal,Moderate,102,"O
+3",1,2020-02-09
+Bhopal,Satisfactory,97,"PM
+10",1,2020-02-10
+Bhopal,Moderate,102,"O
+3",1,2020-02-11
+Bhopal,Moderate,112,"PM
+10",1,2020-02-12
+Bhopal,Moderate,195,"PM
+10",1,2020-02-13
+Bhopal,Moderate,147,"PM
+10",1,2020-02-14
+Bhopal,Moderate,161,"PM
+10",1,2020-02-15
+Bhopal,Moderate,144,"PM
+10",1,2020-02-16
+Bhopal,Moderate,115,"PM
+10",1,2020-02-17
+Bhopal,Moderate,120,"PM
+10",1,2020-02-18
+Bhopal,Moderate,117,"PM
+10",1,2020-02-19
+Bhopal,Moderate,150,"O
+3",1,2020-02-20
+Bhopal,Moderate,121,"PM
+10",1,2020-02-21
+Bhopal,Moderate,145,"PM
+10",1,2020-02-22
+Bhopal,Moderate,156,"PM
+2.5",1,2020-02-23
+Bhopal,Moderate,128,"PM
+2.5",1,2020-02-24
+Bhopal,Moderate,109,"PM
+10",1,2020-02-25
+Bhopal,Moderate,141,"PM
+10",1,2020-02-26
+Bhopal,Moderate,161,"PM
+10",1,2020-02-27
+Bhopal,Moderate,142,"PM
+10",1,2020-02-28
+Bhopal,Moderate,132,"PM
+10",1,2020-02-29
+Bhopal,Moderate,149,"PM
+10",1,2020-03-01
+Bhopal,Moderate,112,"PM
+10",1,2020-03-02
+Bhopal,Moderate,116,"PM
+10",1,2020-03-03
+Bhopal,Moderate,130,"PM
+10",1,2020-03-04
+Bhopal,Moderate,129,"PM
+10",1,2020-03-05
+Bhopal,Moderate,136,"PM
+10",1,2020-03-06
+Bhopal,Moderate,123,"PM
+10",1,2020-03-07
+Bhopal,Satisfactory,96,"PM
+10",1,2020-03-08
+Bhopal,Satisfactory,83,"O
+3",1,2020-03-09
+Bhopal,Satisfactory,93,"PM
+10",1,2020-03-10
+Bhopal,Satisfactory,82,"O
+3",1,2020-03-11
+Bhopal,Satisfactory,89,"PM
+10",1,2020-03-12
+Bhopal,Satisfactory,87,"O
+3",1,2020-03-13
+Bhopal,Moderate,131,"PM
+10",1,2020-03-14
+Bhopal,Moderate,128,"PM
+10",1,2020-03-15
+Bhopal,Moderate,130,"PM
+10",1,2020-03-16
+Bhopal,Moderate,114,"PM
+10",1,2020-03-17
+Bhopal,Moderate,101,"O
+3",1,2020-03-18
+Bhopal,Moderate,102,"PM
+10",1,2020-03-19
+Bhopal,Moderate,115,"PM
+10",1,2020-03-20
+Bhopal,Moderate,116,"PM
+10",1,2020-03-21
+Bhopal,Moderate,139,"PM
+10",1,2020-03-22
+Bhopal,Moderate,105,"PM
+10",1,2020-03-23
+Bhopal,Moderate,116,"PM
+10",1,2020-03-24
+Bhopal,Satisfactory,84,"O
+3",1,2020-03-25
+Bhopal,Satisfactory,80,"O
+3",1,2020-03-26
+Bhopal,Good,48,"PM
+10",1,2020-03-27
+Bhopal,Moderate,103,"PM
+10",1,2020-04-08
+Bhopal,Moderate,101,"PM
+10",1,2020-04-09
+Bhopal,Satisfactory,96,"PM
+10",1,2020-04-10
+Bhopal,Satisfactory,95,"PM
+10",1,2020-04-11
+Bhopal,Satisfactory,98,"PM
+10",1,2020-04-13
+Bhopal,Moderate,108,"PM
+10",1,2020-04-14
+Bhopal,Satisfactory,95,"PM
+10",1,2020-04-15
+Bhopal,Moderate,121,"PM
+2.5",1,2020-04-16
+Bhopal,Moderate,109,"PM
+10",1,2020-04-17
+Bhopal,Moderate,127,"PM
+2.5",1,2020-04-18
+Bhopal,Moderate,109,"PM
+10",1,2020-04-19
+Bhopal,Moderate,128,"PM
+10",1,2020-04-20
+Bhopal,Moderate,109,"PM
+10",1,2020-04-21
+Bhopal,Moderate,105,"O
+3",1,2020-04-22
+Bhopal,Moderate,111,"PM
+2.5",1,2020-04-23
+Bhopal,Moderate,106,"PM
+10",1,2020-04-24
+Bhopal,Moderate,118,"PM
+10",1,2020-04-25
+Bhopal,Moderate,121,"PM
+10",1,2020-04-26
+Bhopal,Moderate,103,"O
+3",1,2020-04-27
+Bhopal,Moderate,112,"O
+3",1,2020-04-28
+Bhopal,Moderate,147,"PM
+2.5",1,2020-04-29
+Bhopal,Moderate,113,"O
+3",1,2020-04-30
+Bhopal,Moderate,102,"PM
+10",1,2020-05-01
+Bhopal,Satisfactory,98,"PM
+10",1,2020-05-02
+Bhopal,Satisfactory,74,"PM
+10",1,2020-05-03
+Bhopal,Moderate,104,"PM
+10",1,2020-05-04
+Bhopal,Satisfactory,97,"O
+3",1,2020-05-05
+Bhopal,Moderate,118,"O
+3",1,2020-05-06
+Bhopal,Satisfactory,94,"O
+3",1,2020-05-07
+Bhopal,Moderate,103,"O
+3",1,2020-05-08
+Bhopal,Satisfactory,94,"PM
+10",1,2020-05-09
+Bhopal,Satisfactory,96,"O
+3",1,2020-05-10
+Bhopal,Moderate,161,"O
+3",1,2020-05-11
+Bhopal,Moderate,106,"O
+3",1,2020-05-12
+Bhopal,Moderate,118,"O
+3",1,2020-05-13
+Bhopal,Moderate,104,"O
+3",1,2020-05-14
+Bhopal,Moderate,103,"O
+3",1,2020-05-15
+Bhopal,Moderate,115,"O
+3",1,2020-05-16
+Bhopal,Moderate,115,"O
+3",1,2020-05-17
+Bhopal,Satisfactory,88,"O
+3",1,2020-05-18
+Bhopal,Moderate,105,"O
+3",1,2020-05-19
+Bhopal,Moderate,111,"PM
+10",1,2020-05-20
+Bhopal,Moderate,128,"O
+3",1,2020-05-21
+Bhopal,Satisfactory,91,"PM
+10",1,2020-05-22
+Bhopal,Satisfactory,73,"O
+3",1,2020-05-23
+Bhopal,Satisfactory,58,"O
+3",1,2020-05-24
+Bhopal,Good,40,"PM
+10",1,2020-05-25
+Bhopal,Satisfactory,61,"O
+3",1,2020-05-26
+Bhopal,Moderate,107,"PM
+10",1,2020-05-27
+Bhopal,Moderate,107,"PM
+10",1,2020-05-28
+Bhopal,Moderate,106,"PM
+10",1,2020-05-29
+Bhopal,Moderate,117,"PM
+10",1,2020-05-30
+Bhopal,Moderate,126,"PM
+10",1,2020-05-31
+Bhopal,Moderate,102,"PM
+10",1,2020-06-01
+Bhopal,Satisfactory,78,"PM
+10",1,2020-06-02
+Bhopal,Satisfactory,57,"PM
+10",1,2020-06-03
+Bhopal,Satisfactory,55,"O
+3",1,2020-06-04
+Bhopal,Good,31,"PM
+10",1,2020-06-05
+Bhopal,Good,43,"PM
+10",1,2020-06-06
+Bhopal,Satisfactory,61,"O
+3",1,2020-06-07
+Bhopal,Satisfactory,63,"O
+3",1,2020-06-09
+Bhopal,Good,48,"O
+3",1,2020-06-10
+Bhopal,Satisfactory,60,"PM
+10",1,2020-06-11
+Bhopal,Satisfactory,70,"PM
+10",1,2020-06-12
+Bhopal,Satisfactory,59,"PM
+10",1,2020-06-13
+Bhopal,Good,47,"PM
+10",1,2020-06-14
+Bhopal,Satisfactory,83,"O
+3",1,2020-06-15
+Bhopal,Satisfactory,85,"O
+3",1,2020-06-16
+Bhopal,Satisfactory,75,"O
+3",1,2020-06-17
+Bhopal,Satisfactory,74,"O
+3",1,2020-06-18
+Bhopal,Satisfactory,64,"O
+3",1,2020-06-19
+Bhopal,Satisfactory,60,"O
+3",1,2020-06-20
+Bhopal,Satisfactory,65,"PM
+10",1,2020-06-21
+Bhopal,Satisfactory,63,"PM
+10",1,2020-06-22
+Bhopal,Good,38,"PM
+10",1,2020-06-23
+Bhopal,Satisfactory,57,"O
+3",1,2020-06-24
+Bhopal,Good,50,"PM
+10",1,2020-06-25
+Bhopal,Good,48,"PM
+10",1,2020-06-26
+Bhopal,Satisfactory,61,"O
+3",1,2020-06-27
+Bhopal,Good,47,"O
+3",1,2020-06-28
+Bhopal,Satisfactory,51,"O
+3",1,2020-06-29
+Bhopal,Satisfactory,60,"O
+3",1,2020-06-30
+Bhopal,Satisfactory,73,"O
+3",1,2020-07-01
+Bhopal,Satisfactory,54,"PM
+10",1,2020-07-02
+Bhopal,Good,43,"PM
+10",1,2020-07-03
+Bhopal,Satisfactory,79,"O
+3",1,2020-07-04
+Bhopal,Satisfactory,55,"O
+3",1,2020-07-05
+Bhopal,Good,44,"O
+3",1,2020-07-06
+Bhopal,Good,42,CO,1,2020-07-07
+Bhopal,Satisfactory,53,"O
+3",1,2020-07-08
+Bhopal,Good,46,"O
+3",1,2020-07-09
+Bhopal,Satisfactory,54,"PM
+10",1,2020-07-11
+Bhopal,Good,39,CO,1,2020-07-13
+Bhopal,Satisfactory,52,"PM
+10",1,2020-07-14
+Bhopal,Satisfactory,54,"PM
+10",1,2020-07-15
+Bhopal,Satisfactory,77,"O
+3",1,2020-07-16
+Bhopal,Good,49,"O
+3",1,2020-07-18
+Bhopal,Good,40,CO,1,2020-07-19
+Bhopal,Good,42,"PM
+10",1,2020-07-20
+Bhopal,Good,40,"PM
+10",1,2020-07-21
+Bhopal,Good,44,"PM
+10",1,2020-07-22
+Bhopal,Satisfactory,65,"PM
+10",1,2020-07-23
+Bhopal,Satisfactory,59,"O
+3",1,2020-07-25
+Bhopal,Good,50,"O
+3",1,2020-07-26
+Bhopal,Satisfactory,55,"O
+3",1,2020-07-27
+Bhopal,Satisfactory,57,"O
+3",1,2020-07-28
+Bhopal,Good,44,"PM
+10",1,2020-07-29
+Bhopal,Good,49,"O
+3",1,2020-07-30
+Bhopal,Satisfactory,55,"O
+3",1,2020-08-01
+Bhopal,Satisfactory,60,"O
+3",1,2020-08-02
+Bhopal,Good,48,"O
+3",1,2020-08-03
+Bhopal,Good,49,"O
+3",1,2020-08-04
+Bhopal,Satisfactory,56,"O
+3",1,2020-08-05
+Bhopal,Satisfactory,51,"O
+3",1,2020-08-06
+Bhopal,Good,28,CO,1,2020-08-08
+Bhopal,Good,39,CO,1,2020-08-09
+Bhopal,Good,36,CO,1,2020-08-10
+Bhopal,Good,39,"PM
+10",1,2020-08-11
+Bhopal,Good,35,"O
+3",1,2020-08-12
+Bhopal,Good,28,CO,1,2020-08-13
+Bhopal,Good,30,CO,1,2020-08-14
+Bhopal,Good,26,"O
+3",1,2020-08-15
+Bhopal,Good,30,"O
+3",1,2020-08-16
+Bhopal,Good,33,CO,1,2020-08-17
+Bhopal,Good,30,"PM
+10",1,2020-08-18
+Bhopal,Good,28,"PM
+10",1,2020-08-19
+Bhopal,Good,34,"PM
+10",1,2020-08-20
+Bhopal,Good,29,"PM
+10",1,2020-08-21
+Bhopal,Good,26,CO,1,2020-08-23
+Bhopal,Good,25,"O
+3",1,2020-08-24
+Bhopal,Good,34,"PM
+10",1,2020-08-25
+Bhopal,Good,45,"PM
+10",1,2020-08-26
+Bhopal,Satisfactory,62,"PM
+10",1,2020-08-27
+Bhopal,Good,37,"PM
+10",1,2020-08-28
+Bhopal,Good,32,"O
+3",1,2020-08-29
+Bhopal,Good,26,"O
+3",1,2020-08-30
+Bhopal,Good,36,"O
+3",1,2020-08-31
+Bhopal,Good,44,"PM
+10",1,2020-09-01
+Bhopal,Satisfactory,74,"PM
+10",1,2020-09-02
+Bhopal,Satisfactory,54,"O
+3",1,2020-09-03
+Bhopal,Satisfactory,54,"O
+3",1,2020-09-04
+Bhopal,Satisfactory,68,"PM
+10",1,2020-09-05
+Bhopal,Satisfactory,93,"PM
+10",1,2020-09-06
+Bhopal,Satisfactory,61,"PM
+10",1,2020-09-07
+Bhopal,Satisfactory,66,"O
+3",1,2020-09-08
+Bhopal,Satisfactory,70,"PM
+10",1,2020-09-09
+Bhopal,Satisfactory,70,"PM
+10",1,2020-09-10
+Bhopal,Satisfactory,76,"O
+3",1,2020-09-11
+Bhopal,Satisfactory,76,"O
+3",1,2020-09-12
+Bhopal,Satisfactory,77,"O
+3",1,2020-09-13
+Bhopal,Satisfactory,83,"O
+3",1,2020-09-14
+Bhopal,Satisfactory,63,"O
+3",1,2020-09-15
+Bhopal,Satisfactory,74,"O
+3",1,2020-09-16
+Bhopal,Satisfactory,82,"O
+3",1,2020-09-17
+Bhopal,Satisfactory,88,"PM
+10",1,2020-09-18
+Bhopal,Satisfactory,78,"PM
+10",1,2020-09-19
+Bhopal,Satisfactory,66,"O
+3",1,2020-09-20
+Bhopal,Satisfactory,88,"PM
+10",1,2020-09-21
+Bhopal,Satisfactory,76,"PM
+10",1,2020-09-22
+Bhopal,Good,37,"O
+3",1,2020-09-23
+Bhopal,Good,41,"O
+3",1,2020-09-24
+Bhopal,Satisfactory,85,"PM
+10",1,2020-09-25
+Bhopal,Satisfactory,89,"PM
+10",1,2020-09-26
+Bhopal,Satisfactory,65,"PM
+10",1,2020-09-27
+Bhopal,Satisfactory,81,"PM
+10",1,2020-09-28
+Bhopal,Satisfactory,97,"PM
+10",1,2020-09-29
+Bhopal,Satisfactory,98,"PM
+10",1,2020-09-30
+Bhopal,Moderate,118,"PM
+10",1,2020-10-01
+Bhopal,Moderate,116,"PM
+10",1,2020-10-02
+Bhopal,Moderate,122,"PM
+10",1,2020-10-03
+Bhopal,Moderate,120,"PM
+10",1,2020-10-04
+Bhopal,Moderate,130,"PM
+10",1,2020-10-05
+Bhopal,Moderate,131,"PM
+10",1,2020-10-06
+Bhopal,Moderate,164,"PM
+10",1,2020-10-07
+Bhopal,Moderate,150,"PM
+10",1,2020-10-08
+Bhopal,Moderate,133,"PM
+10",1,2020-10-09
+Bhopal,Moderate,140,"PM
+2.5",1,2020-10-10
+Bhopal,Moderate,146,"PM
+10",1,2020-10-11
+Bhopal,Moderate,164,"PM
+10",1,2020-10-12
+Bhopal,Moderate,128,"PM
+10",1,2020-10-13
+Bhopal,Satisfactory,83,"PM
+10",1,2020-10-14
+Bhopal,Satisfactory,64,"PM
+10",1,2020-10-15
+Bhopal,Satisfactory,72,"PM
+10",1,2020-10-16
+Bhopal,Satisfactory,80,"PM
+10",1,2020-10-17
+Bhopal,Moderate,115,"PM
+10",1,2020-10-18
+Bhopal,Satisfactory,79,"PM
+10",1,2020-10-19
+Bhopal,Satisfactory,92,"PM
+10",1,2020-10-20
+Bhopal,Moderate,149,"PM
+2.5",1,2020-10-21
+Bhopal,Moderate,155,"O
+3",1,2020-10-22
+Bhopal,Moderate,131,"PM
+10",1,2020-10-23
+Bhopal,Satisfactory,97,"PM
+10",1,2020-10-24
+Bhopal,Satisfactory,81,"O
+3",1,2020-10-25
+Bhopal,Satisfactory,85,"O
+3",1,2020-10-26
+Bhopal,Moderate,118,"PM
+10",1,2020-10-27
+Bhopal,Moderate,150,"PM
+10",1,2020-10-28
+Bhopal,Moderate,167,"PM
+10",1,2020-10-29
+Bhopal,Moderate,165,"PM
+2.5",1,2020-10-30
+Bhopal,Moderate,174,"PM
+10",1,2020-10-31
+Bhopal,Moderate,176,"PM
+2.5",1,2020-11-01
+Bhopal,Poor,207,"PM
+2.5",1,2020-11-02
+Bhopal,Moderate,138,"PM
+10",1,2020-11-03
+Bhopal,Moderate,157,"PM
+10",1,2020-11-04
+Bhopal,Moderate,152,"O
+3",1,2020-11-05
+Bhopal,Poor,213,"PM
+2.5",1,2020-11-06
+Bhopal,Poor,253,"PM
+2.5",1,2020-11-07
+Bhopal,Poor,276,"PM
+2.5",1,2020-11-08
+Bhopal,Very Poor,303,"PM
+2.5",1,2020-11-09
+Bhopal,Poor,279,"PM
+2.5",1,2020-11-10
+Bhopal,Very Poor,343,"PM
+2.5",1,2020-11-11
+Bhopal,Poor,250,"PM
+2.5",1,2020-11-12
+Bhopal,Moderate,183,"PM
+10",1,2020-11-13
+Bhopal,Moderate,152,"PM
+10",1,2020-11-14
+Bhopal,Poor,202,"PM
+2.5",1,2020-11-15
+Bhopal,Satisfactory,96,"O
+3",1,2020-11-16
+Bhopal,Moderate,145,"PM
+2.5",1,2020-11-17
+Bhopal,Moderate,137,"PM
+2.5",1,2020-11-18
+Bhopal,Satisfactory,89,"O
+3",1,2020-11-19
+Bhopal,Moderate,192,"PM
+2.5",1,2020-11-20
+Bhopal,Moderate,161,"PM
+2.5",1,2020-11-21
+Bhopal,Moderate,165,"O
+3",1,2020-11-22
+Bhopal,Moderate,161,"O
+3",1,2020-11-23
+Bhopal,Moderate,156,"O
+3",1,2020-11-24
+Bhopal,Moderate,113,"O
+3",1,2020-11-25
+Bhopal,Moderate,170,"PM
+2.5",1,2020-11-26
+Bhopal,Poor,239,"PM
+2.5",1,2020-11-27
+Bhopal,Moderate,116,"NO
+2",1,2020-11-28
+Bhopal,Moderate,118,"PM
+10",1,2020-11-29
+Bhopal,Moderate,119,"PM
+10",1,2020-11-30
+Bhopal,Moderate,130,"PM
+10",1,2020-12-01
+Bhopal,Moderate,159,"PM
+10",1,2020-12-02
+Bhopal,Moderate,131,"O
+3",1,2020-12-03
+Bhopal,Moderate,152,"PM
+10",1,2020-12-04
+Bhopal,Moderate,117,"PM
+10",1,2020-12-06
+Bhopal,Moderate,149,"PM
+10",1,2020-12-07
+Bhopal,Moderate,118,"PM
+10",1,2020-12-08
+Bhopal,Moderate,132,"PM
+10",1,2020-12-09
+Bhopal,Moderate,183,"PM
+10",1,2020-12-10
+Bhopal,Moderate,143,"PM
+2.5",1,2020-12-11
+Bhopal,Satisfactory,62,"PM
+2.5",1,2020-12-12
+Bhopal,Moderate,123,"PM
+2.5",1,2020-12-13
+Bhopal,Moderate,131,"PM
+2.5",1,2020-12-14
+Bhopal,Poor,255,"PM
+2.5",1,2020-12-15
+Bhopal,Poor,248,"PM
+2.5",1,2020-12-16
+Bhopal,Poor,282,"PM
+2.5",1,2020-12-17
+Bhopal,Poor,213,"PM
+2.5",1,2020-12-18
+Bhopal,Moderate,180,"PM
+2.5",1,2020-12-19
+Bhopal,Moderate,130,"PM
+2.5",1,2020-12-20
+Bhopal,Moderate,158,"PM
+10",1,2020-12-21
+Bhopal,Moderate,132,"PM
+10",1,2020-12-22
+Bhopal,Moderate,105,"PM
+10",1,2020-12-23
+Bhopal,Moderate,119,"PM
+10",1,2020-12-24
+Bhopal,Moderate,167,"PM
+2.5",1,2020-12-25
+Bhopal,Moderate,151,"O
+3",1,2020-12-26
+Bhopal,Moderate,163,"PM
+2.5",1,2020-12-27
+Bhopal,Moderate,193,"PM
+10",1,2020-12-28
+Bhopal,Moderate,199,"PM
+10",1,2020-12-29
+Bhopal,Poor,213,"PM
+2.5",1,2020-12-31
+Bhopal,Very Poor,303,"PM
+2.5",1,2021-01-01
+Bhopal,Poor,277,"PM
+2.5",1,2021-01-02
+Bhopal,Poor,294,"PM
+2.5",1,2021-01-03
+Bhopal,Very Poor,329,"PM
+2.5",1,2021-01-04
+Bhopal,Poor,254,"PM
+2.5",1,2021-01-05
+Bhopal,Poor,263,"PM
+2.5",1,2021-01-06
+Bhopal,Poor,227,"PM
+2.5",1,2021-01-07
+Bhopal,Poor,275,"PM
+2.5",1,2021-01-08
+Bhopal,Poor,212,"PM
+2.5",1,2021-01-09
+Bhopal,Moderate,110,"PM
+2.5",1,2021-01-10
+Bhopal,Poor,226,"PM
+2.5",1,2021-01-11
+Bhopal,Moderate,135,"PM
+2.5",1,2021-01-12
+Bhopal,Moderate,133,"PM
+10",1,2021-01-13
+Bhopal,Satisfactory,97,"O
+3",1,2021-01-14
+Bhopal,Satisfactory,98,"O
+3",1,2021-01-15
+Bhopal,Moderate,158,"O
+3",1,2021-01-16
+Bhopal,Moderate,117,"PM
+10",1,2021-01-17
+Bhopal,Moderate,127,"PM
+10",1,2021-01-18
+Bhopal,Moderate,162,"PM
+2.5",1,2021-01-19
+Bhopal,Poor,222,"PM
+2.5",1,2021-01-20
+Bhopal,Poor,212,"PM
+2.5",1,2021-01-21
+Bhopal,Moderate,139,"PM
+10",1,2021-01-22
+Bhopal,Moderate,153,"O
+3",1,2021-01-23
+Bhopal,Poor,220,"PM
+2.5",1,2021-01-25
+Bhopal,Poor,247,"PM
+2.5",1,2021-01-26
+Bhopal,Moderate,197,"PM
+2.5",1,2021-01-27
+Bhopal,Moderate,134,"PM
+2.5",1,2021-01-28
+Bhopal,Moderate,167,"PM
+2.5",1,2021-01-29
+Bhopal,Moderate,150,"PM
+2.5",1,2021-01-30
+Bhopal,Moderate,122,"PM
+10",1,2021-01-31
+Bhopal,Moderate,122,"PM
+10",1,2021-02-01
+Bhopal,Moderate,117,"PM
+10",1,2021-02-02
+Bhopal,Moderate,136,"PM
+10",1,2021-02-03
+Bhopal,Moderate,117,"PM
+10",1,2021-02-04
+Bhopal,Moderate,130,"PM
+10",1,2021-02-05
+Bhopal,Moderate,132,"PM
+2.5",1,2021-02-06
+Bhopal,Moderate,115,"PM
+10",1,2021-02-07
+Bhopal,Moderate,112,"PM
+10",1,2021-02-08
+Bhopal,Moderate,161,"PM
+10",1,2021-02-09
+Bhopal,Moderate,135,"PM
+10",1,2021-02-10
+Bhopal,Moderate,152,"PM
+10",1,2021-02-11
+Bhopal,Moderate,122,"PM
+10",1,2021-02-12
+Bhopal,Moderate,120,"PM
+10",1,2021-02-13
+Bhopal,Moderate,152,"O
+3",1,2021-02-14
+Bhopal,Moderate,187,"PM
+10",1,2021-02-15
+Bhopal,Moderate,176,"PM
+10",1,2021-02-16
+Bhopal,Moderate,103,"PM
+10",1,2021-02-17
+Bhopal,Moderate,141,"PM
+10",1,2021-02-18
+Bhopal,Moderate,121,"PM
+10",1,2021-02-19
+Bhopal,Moderate,116,"PM
+10",1,2021-02-20
+Bhopal,Moderate,115,"PM
+10",1,2021-02-21
+Bhopal,Moderate,146,"PM
+10",1,2021-02-22
+Bhopal,Moderate,130,"PM
+10",1,2021-02-23
+Bhopal,Moderate,151,"PM
+10",1,2021-02-24
+Bhopal,Moderate,123,"PM
+10",1,2021-02-25
+Bhopal,Moderate,125,"PM
+10",1,2021-02-26
+Bhopal,Moderate,123,"PM
+10",1,2021-02-27
+Bhopal,Moderate,111,"PM
+10",1,2021-02-28
+Bhopal,Moderate,160,"PM
+10",1,2021-03-01
+Bhopal,Moderate,142,"PM
+10",1,2021-03-02
+Bhopal,Moderate,145,"PM
+10",1,2021-03-03
+Bhopal,Moderate,120,"O
+3",1,2021-03-04
+Bhopal,Moderate,130,"PM
+10",1,2021-03-05
+Bhopal,Moderate,123,"PM
+10",1,2021-03-06
+Bhopal,Moderate,160,"PM
+10",1,2021-03-07
+Bhopal,Moderate,117,"PM
+10",1,2021-03-08
+Bhopal,Moderate,114,"PM
+10",1,2021-03-09
+Bhopal,Moderate,129,"PM
+10",1,2021-03-10
+Bhopal,Moderate,163,"PM
+10",1,2021-03-11
+Bhopal,Moderate,114,"PM
+10",1,2021-03-12
+Bhopal,Moderate,118,"O
+3",1,2021-03-13
+Bhopal,Moderate,116,"O
+3",1,2021-03-14
+Bhopal,Moderate,115,"PM
+10",1,2021-03-15
+Bhopal,Moderate,177,"O
+3",1,2021-03-16
+Bhopal,Moderate,136,"PM
+10",1,2021-03-17
+Bhopal,Moderate,187,"O
+3",1,2021-03-18
+Bhopal,Moderate,170,"O
+3",1,2021-03-19
+Bhopal,Moderate,117,"O
+3",1,2021-03-20
+Bhopal,Moderate,152,"O
+3",1,2021-03-21
+Bhopal,Moderate,181,"PM
+2.5",1,2021-03-22
+Bhopal,Moderate,187,"O
+3",1,2021-03-23
+Bhopal,Moderate,106,"O
+3",1,2021-03-24
+Bhopal,Moderate,143,"PM
+10",1,2021-03-25
+Bhopal,Moderate,121,"PM
+10",1,2021-03-26
+Bhopal,Moderate,142,"PM
+10",1,2021-03-27
+Bhopal,Moderate,145,"PM
+10",1,2021-03-28
+Bhopal,Moderate,126,"PM
+10",1,2021-03-29
+Bhopal,Moderate,117,"O
+3",1,2021-03-30
+Bhopal,Moderate,162,"PM
+10",1,2021-03-31
+Bhopal,Moderate,189,"PM
+10",1,2021-04-01
+Bhopal,Moderate,158,"O
+3",1,2021-04-02
+Bhopal,Moderate,170,"O
+3",1,2021-04-03
+Bhopal,Moderate,171,"O
+3",1,2021-04-04
+Bhopal,Moderate,132,"O
+3",1,2021-04-05
+Bhopal,Moderate,146,"PM
+10",1,2021-04-06
+Bhopal,Moderate,131,"PM
+10",1,2021-04-07
+Bhopal,Poor,226,"PM
+10",1,2021-04-08
+Bhopal,Poor,268,"PM
+10",1,2021-04-09
+Bhopal,Moderate,168,"O
+3",1,2021-04-10
+Bhopal,Moderate,188,"O
+3",1,2021-04-11
+Bhopal,Moderate,184,"O
+3",1,2021-04-12
+Bhopal,Moderate,191,"O
+3",1,2021-04-13
+Bhopal,Moderate,167,"O
+3",1,2021-04-14
+Bhopal,Moderate,124,"O
+3",1,2021-04-15
+Bhopal,Moderate,114,"O
+3",1,2021-04-16
+Bhopal,Moderate,111,"PM
+10",1,2021-04-17
+Bhopal,Moderate,162,"O
+3",1,2021-04-18
+Bhopal,Moderate,132,"PM
+10",1,2021-04-19
+Bhopal,Moderate,122,"PM
+10",1,2021-04-20
+Bhopal,Moderate,119,"PM
+10",1,2021-04-21
+Bhopal,Moderate,126,"PM
+10",1,2021-04-22
+Bhopal,Moderate,122,"PM
+10",1,2021-04-23
+Bhopal,Moderate,108,"PM
+10",1,2021-04-24
+Bhopal,Moderate,135,"O
+3",1,2021-04-25
+Bhopal,Moderate,126,"O
+3",1,2021-04-26
+Bhopal,Moderate,182,"O
+3",1,2021-04-27
+Bhopal,Moderate,169,"O
+3",1,2021-04-28
+Bhopal,Moderate,153,"O
+3",1,2021-04-29
+Bhopal,Moderate,127,"O
+3",1,2021-05-02
+Bhopal,Moderate,103,"O
+3",1,2021-05-03
+Bhopal,Satisfactory,93,"O
+3",1,2021-05-04
+Bhopal,Satisfactory,73,"O
+3",1,2021-05-05
+Bhopal,Satisfactory,92,"PM
+10",1,2021-05-06
+Bhopal,Moderate,101,"PM
+10",1,2021-05-07
+Bhopal,Moderate,110,"PM
+10",1,2021-05-08
+Bhopal,Satisfactory,91,"O
+3",1,2021-05-09
+Bhopal,Satisfactory,96,"O
+3",1,2021-05-10
+Bhopal,Satisfactory,85,"O
+3",1,2021-05-11
+Bhopal,Satisfactory,70,"O
+3",1,2021-05-12
+Bhopal,Satisfactory,91,"PM
+10",1,2021-05-13
+Bhopal,Moderate,101,"O
+3",1,2021-05-14
+Bhopal,Satisfactory,90,"O
+3",1,2021-05-15
+Bhopal,Satisfactory,81,"O
+3",1,2021-05-16
+Bhopal,Satisfactory,56,"O
+3",1,2021-05-17
+Bhopal,Satisfactory,56,"O
+3",1,2021-05-18
+Bhopal,Satisfactory,60,"O
+3",1,2021-05-19
+Bhopal,Satisfactory,98,"O
+3",1,2021-05-20
+Bhopal,Moderate,111,"O
+3",1,2021-05-22
+Bhopal,Moderate,109,"O
+3",1,2021-05-23
+Bhopal,Moderate,127,"PM
+10",1,2021-05-24
+Bhopal,Moderate,111,"O
+3",1,2021-05-25
+Bhopal,Moderate,114,"PM
+10",1,2021-05-26
+Bhopal,Satisfactory,88,"O
+3",1,2021-05-27
+Bhopal,Satisfactory,82,"O
+3",1,2021-05-28
+Bhopal,Satisfactory,87,"O
+3",1,2021-05-29
+Bhopal,Satisfactory,82,"O
+3",1,2021-05-30
+Bhopal,Satisfactory,84,"O
+3",1,2021-05-31
+Bhopal,Satisfactory,91,"PM
+10",1,2021-06-01
+Bhopal,Satisfactory,97,"PM
+10",1,2021-06-02
+Bhopal,Satisfactory,95,"O
+3",1,2021-06-03
+Bhopal,Moderate,102,"O
+3",1,2021-06-04
+Bhopal,Satisfactory,69,"O
+3",1,2021-06-05
+Bhopal,Satisfactory,84,"O
+3",1,2021-06-06
+Bhopal,Satisfactory,82,"O
+3",1,2021-06-07
+Bhopal,Satisfactory,78,"PM
+10",1,2021-06-08
+Bhopal,Satisfactory,77,"O
+3",1,2021-06-09
+Bhopal,Satisfactory,74,"PM
+10",1,2021-06-10
+Bhopal,Satisfactory,69,"PM
+10",1,2021-06-11
+Bhopal,Satisfactory,65,"O
+3",1,2021-06-12
+Bhopal,Satisfactory,67,"O
+3",1,2021-06-13
+Bhopal,Satisfactory,58,"PM
+10",1,2021-06-14
+Bhopal,Satisfactory,72,"PM
+10",1,2021-06-15
+Bhopal,Satisfactory,70,"PM
+10",1,2021-06-16
+Bhopal,Satisfactory,66,"PM
+10",1,2021-06-17
+Bhopal,Satisfactory,73,"PM
+10",1,2021-06-18
+Bhopal,Satisfactory,78,"PM
+10",1,2021-06-19
+Bhopal,Satisfactory,94,"PM
+10",1,2021-06-20
+Bhopal,Moderate,103,"PM
+10",1,2021-06-21
+Bhopal,Moderate,110,"PM
+10",1,2021-06-22
+Bhopal,Satisfactory,93,"PM
+10",1,2021-06-23
+Bhopal,Satisfactory,69,"PM
+10",1,2021-06-24
+Bhopal,Satisfactory,71,"O
+3",1,2021-06-25
+Bhopal,Satisfactory,99,"PM
+10",1,2021-06-26
+Bhopal,Satisfactory,98,"O
+3",1,2021-06-27
+Bhopal,Satisfactory,85,"O
+3",1,2021-06-28
+Bhopal,Satisfactory,80,"O
+3",1,2021-06-29
+Bhopal,Satisfactory,78,"PM
+10",1,2021-06-30
+Bhopal,Satisfactory,76,"PM
+10",1,2021-07-01
+Bhopal,Satisfactory,77,"PM
+10",1,2021-07-02
+Bhopal,Satisfactory,91,"PM
+10",1,2021-07-03
+Bhopal,Moderate,103,"PM
+10",1,2021-07-04
+Bhopal,Satisfactory,89,"PM
+10",1,2021-07-05
+Bhopal,Satisfactory,86,"PM
+10",1,2021-07-06
+Bhopal,Satisfactory,76,"PM
+10",1,2021-07-07
+Bhopal,Satisfactory,98,"PM
+10",1,2021-07-08
+Bhopal,Satisfactory,70,"PM
+10",1,2021-07-09
+Bhopal,Satisfactory,98,"PM
+10",1,2021-07-10
+Bhopal,Satisfactory,67,"O
+3",1,2021-07-11
+Bhopal,Satisfactory,67,"PM
+10",1,2021-07-12
+Bhopal,Good,50,"PM
+10",1,2021-07-13
+Bhopal,Satisfactory,54,"O
+3",1,2021-07-14
+Bhopal,Satisfactory,53,"PM
+10",1,2021-07-15
+Bhopal,Satisfactory,52,"O
+3",1,2021-07-16
+Bhopal,Satisfactory,52,"PM
+10",1,2021-07-17
+Bhopal,Satisfactory,57,"PM
+10",1,2021-07-18
+Bhopal,Good,39,"O
+3",1,2021-07-19
+Bhopal,Good,40,"PM
+10",1,2021-07-20
+Bhopal,Satisfactory,54,"PM
+10",1,2021-07-21
+Bhopal,Satisfactory,90,"PM
+10",1,2021-07-22
+Bhopal,Satisfactory,63,"PM
+10",1,2021-07-23
+Bhopal,Satisfactory,61,"PM
+10",1,2021-07-24
+Bhopal,Good,35,"O
+3",1,2021-07-25
+Bhopal,Good,33,"SO
+2",1,2021-07-26
+Bhopal,Good,37,"PM
+10",1,2021-07-27
+Bhopal,Good,39,"PM
+10",1,2021-07-28
+Bhopal,Good,46,"PM
+10",1,2021-07-29
+Bhopal,Good,38,"PM
+10",1,2021-07-30
+Bhopal,Good,42,"PM
+10",1,2021-07-31
+Bhopal,Good,43,CO,1,2021-08-01
+Bhopal,Good,41,CO,1,2021-08-02
+Bhopal,Good,37,CO,1,2021-08-03
+Bhopal,Good,46,"PM
+10",1,2021-08-04
+Bhopal,Good,44,"PM
+10",1,2021-08-05
+Bhopal,Good,41,"PM
+10",1,2021-08-06
+Bhopal,Satisfactory,52,"PM
+10",1,2021-08-07
+Bhopal,Good,49,"PM
+10",1,2021-08-08
+Bhopal,Satisfactory,58,"PM
+10",1,2021-08-09
+Bhopal,Satisfactory,74,"PM
+10",1,2021-08-10
+Bhopal,Satisfactory,76,"PM
+10",1,2021-08-11
+Bhopal,Satisfactory,92,"PM
+10",1,2021-08-12
+Bhopal,Satisfactory,84,"PM
+10",1,2021-08-13
+Bhopal,Satisfactory,85,"PM
+10",1,2021-08-14
+Bhopal,Satisfactory,78,"PM
+10",1,2021-08-15
+Bhopal,Satisfactory,97,"PM
+10",1,2021-08-16
+Bhopal,Moderate,115,"PM
+10",1,2021-08-17
+Bhopal,Satisfactory,53,"PM
+10",1,2021-08-18
+Bhopal,Good,46,"PM
+10",1,2021-08-19
+Bhopal,Good,49,"PM
+10",1,2021-08-20
+Bhopal,Good,40,"PM
+10",1,2021-08-21
+Bhopal,Good,49,CO,1,2021-08-22
+Bhopal,Satisfactory,66,"PM
+10",1,2021-08-23
+Bhopal,Satisfactory,62,"PM
+10",1,2021-08-24
+Bhopal,Satisfactory,60,"PM
+10",1,2021-08-25
+Bhopal,Satisfactory,60,"PM
+10",1,2021-08-26
+Bhopal,Satisfactory,67,"PM
+10",1,2021-08-27
+Bhopal,Satisfactory,81,"PM
+10",1,2021-08-28
+Bhopal,Moderate,106,"PM
+10",1,2021-08-29
+Bhopal,Good,48,CO,1,2021-08-30
+Bhopal,Good,45,"PM
+10",1,2021-08-31
+Bhopal,Good,42,"PM
+10",1,2021-09-01
+Bhopal,Good,46,"O
+3",1,2021-09-02
+Bhopal,Good,43,"PM
+10",1,2021-09-03
+Bhopal,Good,47,"PM
+10",1,2021-09-04
+Bhopal,Good,42,"O
+3",1,2021-09-05
+Bhopal,Good,47,"O
+3",1,2021-09-06
+Bhopal,Satisfactory,88,"PM
+10",1,2021-09-07
+Bhopal,Good,47,"PM
+10",1,2021-09-08
+Bhopal,Good,36,"O
+3",1,2021-09-09
+Bhopal,Good,31,"PM
+10",1,2021-09-10
+Bhopal,Good,40,"O
+3",1,2021-09-11
+Bhopal,Good,44,CO,1,2021-09-12
+Bhopal,Satisfactory,51,CO,1,2021-09-13
+Bhopal,Good,47,"PM
+10",1,2021-09-14
+Bhopal,Good,45,"PM
+10",1,2021-09-15
+Bhopal,Good,36,"O
+3",1,2021-09-16
+Bhopal,Good,38,"O
+3",1,2021-09-17
+Bhopal,Good,30,"PM
+10",1,2021-09-18
+Bhopal,Good,45,"O
+3",1,2021-09-19
+Bhopal,Good,46,"O
+3",1,2021-09-20
+Bhopal,Good,47,"PM
+10",1,2021-09-21
+Bhopal,Satisfactory,61,"O
+3",1,2021-09-22
+Bhopal,Satisfactory,95,"PM
+10",1,2021-09-23
+Bhopal,Satisfactory,70,"PM
+10",1,2021-09-24
+Bhopal,Good,49,"PM
+10",1,2021-09-25
+Bhopal,Good,46,"O
+3",1,2021-09-26
+Bhopal,Satisfactory,82,"PM
+10",1,2021-09-27
+Bhopal,Satisfactory,68,"PM
+10",1,2021-09-28
+Bhopal,Good,42,"O
+3",1,2021-09-29
+Bhopal,Satisfactory,74,"PM
+10",1,2021-09-30
+Bhopal,Satisfactory,57,"PM
+10",1,2021-10-01
+Bhopal,Satisfactory,57,"O
+3",1,2021-10-02
+Bhopal,Satisfactory,71,"PM
+10",1,2021-10-03
+Bhopal,Satisfactory,67,"O
+3",1,2021-10-04
+Bhopal,Satisfactory,69,"PM
+10",1,2021-10-05
+Bhopal,Satisfactory,73,"PM
+10",1,2021-10-06
+Bhopal,Moderate,105,"PM
+10",1,2021-10-07
+Bhopal,Moderate,107,"PM
+10",1,2021-10-08
+Bhopal,Moderate,167,"PM
+10",1,2021-10-09
+Bhopal,Moderate,140,"PM
+10",1,2021-10-10
+Bhopal,Moderate,135,"PM
+10",1,2021-10-11
+Bhopal,Moderate,126,"PM
+10",1,2021-10-12
+Bhopal,Moderate,142,"PM
+10",1,2021-10-13
+Bhopal,Moderate,162,"PM
+10",1,2021-10-14
+Bhopal,Moderate,170,"O
+3",1,2021-10-15
+Bhopal,Moderate,158,"PM
+10",1,2021-10-16
+Bhopal,Satisfactory,82,"PM
+10",1,2021-10-17
+Bhopal,Satisfactory,56,"NO
+2",1,2021-10-18
+Bhopal,Satisfactory,61,"O
+3",1,2021-10-19
+Bhopal,Satisfactory,100,"PM
+10",1,2021-10-20
+Bhopal,Moderate,124,"PM
+10",1,2021-10-21
+Bhopal,Moderate,118,"O
+3",1,2021-10-22
+Bhopal,Moderate,122,"O
+3",1,2021-10-23
+Bhopal,Satisfactory,98,"O
+3",1,2021-10-24
+Bhopal,Satisfactory,98,"PM
+10",1,2021-10-25
+Bhopal,Moderate,128,"PM
+10",1,2021-10-26
+Bhopal,Moderate,150,"PM
+10",1,2021-10-27
+Bhopal,Moderate,162,"PM
+10",1,2021-10-28
+Bhopal,Moderate,158,"PM
+10",1,2021-10-29
+Bhopal,Poor,201,"PM
+10",1,2021-10-30
+Bhopal,Moderate,173,"O
+3",1,2021-10-31
+Bhopal,Poor,209,"PM
+2.5",1,2021-11-01
+Bhopal,Moderate,128,"PM
+2.5",1,2021-11-02
+Bhopal,Moderate,186,"PM
+2.5",1,2021-11-03
+Bhopal,Moderate,181,"PM
+10",1,2021-11-04
+Bhopal,Poor,240,"PM
+2.5",1,2021-11-05
+Bhopal,Moderate,145,"PM
+10",1,2021-11-06
+Bhopal,Poor,207,"PM
+2.5",1,2021-11-07
+Bhopal,Poor,257,"PM
+2.5",1,2021-11-08
+Bhopal,Poor,245,"PM
+2.5",1,2021-11-09
+Bhopal,Very Poor,306,"PM
+2.5",1,2021-11-10
+Bhopal,Poor,264,"PM
+2.5",1,2021-11-11
+Bhopal,Moderate,185,"PM
+2.5",1,2021-11-12
+Bhopal,Moderate,137,"PM
+10",1,2021-11-13
+Bhopal,Poor,275,"PM
+2.5",1,2021-11-14
+Bhopal,Poor,289,"PM
+2.5",1,2021-11-15
+Bhopal,Very Poor,306,"PM
+2.5",1,2021-11-16
+Bhopal,Poor,279,"PM
+2.5",1,2021-11-17
+Bhopal,Poor,277,"PM
+2.5",1,2021-11-18
+Bhopal,Poor,288,"PM
+2.5",1,2021-11-19
+Bhopal,Very Poor,322,"PM
+2.5",1,2021-11-20
+Bhopal,Poor,259,"PM
+2.5",1,2021-11-21
+Bhopal,Moderate,161,"PM
+2.5",1,2021-11-22
+Bhopal,Poor,216,"PM
+2.5",1,2021-11-23
+Bhopal,Moderate,138,"PM
+10",1,2021-11-24
+Bhopal,Moderate,160,"PM
+2.5",1,2021-11-25
+Bhopal,Moderate,130,"PM
+10",1,2021-11-26
+Bhopal,Moderate,136,"PM
+2.5",1,2021-11-27
+Bhopal,Moderate,117,"PM
+10",1,2021-11-28
+Bhopal,Moderate,115,"PM
+10",1,2021-11-29
+Bhopal,Moderate,131,"PM
+10",1,2021-11-30
+Bhopal,Moderate,181,"PM
+2.5",1,2021-12-01
+Bhopal,Poor,272,"PM
+2.5",1,2021-12-02
+Bhopal,Poor,292,"PM
+2.5",1,2021-12-03
+Bhopal,Poor,286,"PM
+2.5",1,2021-12-04
+Bhopal,Moderate,168,"PM
+2.5",1,2021-12-05
+Bhopal,Poor,267,"PM
+2.5",1,2021-12-06
+Bhopal,Poor,295,"PM
+2.5",1,2021-12-07
+Bhopal,Moderate,162,"PM
+2.5",1,2021-12-08
+Bhopal,Moderate,108,"PM
+10",1,2021-12-09
+Bhopal,Moderate,122,"PM
+10",1,2021-12-10
+Bhopal,Moderate,134,"PM
+2.5",1,2021-12-11
+Bhopal,Moderate,130,"PM
+2.5",1,2021-12-12
+Bhopal,Moderate,140,"PM
+2.5",1,2021-12-13
+Bhopal,Moderate,144,"PM
+2.5",1,2021-12-14
+Bhopal,Moderate,198,"PM
+2.5",1,2021-12-15
+Bhopal,Poor,223,"PM
+2.5",1,2021-12-16
+Bhopal,Poor,232,"PM
+2.5",1,2021-12-17
+Bhopal,Moderate,186,"PM
+2.5",1,2021-12-18
+Bhopal,Moderate,106,"O
+3",1,2021-12-19
+Bhopal,Moderate,147,"PM
+2.5",1,2021-12-20
+Bhopal,Moderate,119,"PM
+10",1,2021-12-21
+Bhopal,Moderate,159,"PM
+2.5",1,2021-12-22
+Bhopal,Moderate,195,"PM
+2.5",1,2021-12-23
+Bhopal,Moderate,129,"PM
+10",1,2021-12-24
+Bhopal,Moderate,148,"PM
+2.5",1,2021-12-25
+Bhopal,Poor,201,"PM
+2.5",1,2021-12-26
+Bhopal,Poor,215,"PM
+2.5",1,2021-12-27
+Bhopal,Poor,267,"PM
+2.5",1,2021-12-28
+Bhopal,Poor,298,"PM
+2.5",1,2021-12-29
+Bhopal,Moderate,182,"PM
+2.5",1,2021-12-30
+Bhopal,Moderate,104,"PM
+2.5",1,2021-12-31
+Bhopal,Satisfactory,88,"PM
+10",1,2022-01-01
+Bhopal,Moderate,106,"PM
+10",1,2022-01-02
+Bhopal,Moderate,141,"PM
+2.5",1,2022-01-03
+Bhopal,Moderate,126,"PM
+2.5",1,2022-01-04
+Bhopal,Poor,272,"PM
+2.5",1,2022-01-05
+Bhopal,Very Poor,392,"PM
+2.5",1,2022-01-06
+Bhopal,Moderate,132,"PM
+10",1,2022-01-07
+Bhopal,Very Poor,333,"PM
+2.5",1,2022-01-08
+Bhopal,Poor,239,"PM
+2.5",1,2022-01-09
+Bhopal,Satisfactory,95,"PM
+2.5",1,2022-01-10
+Bhopal,Satisfactory,94,"PM
+2.5",1,2022-01-11
+Bhopal,Moderate,136,"PM
+2.5",1,2022-01-12
+Bhopal,Moderate,131,"PM
+2.5",1,2022-01-13
+Bhopal,Moderate,130,"PM
+2.5",1,2022-01-14
+Bhopal,Moderate,171,"PM
+2.5",1,2022-01-15
+Bhopal,Moderate,186,"PM
+2.5",1,2022-01-16
+Bhopal,Moderate,187,"PM
+2.5",1,2022-01-17
+Bhopal,Moderate,184,"PM
+2.5",1,2022-01-18
+Bhopal,Moderate,133,"PM
+2.5",1,2022-01-19
+Bhopal,Moderate,178,"PM
+2.5",1,2022-01-20
+Bhopal,Satisfactory,98,"PM
+10",1,2022-01-21
+Bhopal,Moderate,106,"PM
+10",1,2022-01-22
+Bhopal,Moderate,122,"PM
+10",1,2022-01-23
+Bhopal,Poor,293,"PM
+10",1,2022-01-24
+Bhopal,Moderate,119,"PM
+10",1,2022-01-25
+Bhopal,Moderate,118,"PM
+10",1,2022-01-26
+Bhopal,Moderate,105,"PM
+10",1,2022-01-27
+Bhopal,Moderate,132,"PM
+10",1,2022-01-28
+Bhopal,Moderate,160,"O
+3",1,2022-01-29
+Bhopal,Moderate,140,"PM
+10",1,2022-01-30
+Bhopal,Moderate,106,"O
+3",1,2022-01-31
+Bhopal,Moderate,106,"PM
+10",1,2022-02-01
+Bhopal,Satisfactory,99,"PM
+10",1,2022-02-02
+Bhopal,Moderate,151,"PM
+10",1,2022-02-03
+Bhopal,Moderate,153,"PM
+10",1,2022-02-04
+Bhopal,Moderate,119,"PM
+10",1,2022-02-05
+Bhopal,Moderate,145,"PM
+10",1,2022-02-06
+Bhopal,Moderate,146,"PM
+10",1,2022-02-07
+Bhopal,Moderate,141,"PM
+10",1,2022-02-08
+Bhopal,Moderate,152,"PM
+10",1,2022-02-09
+Bhopal,Moderate,158,"PM
+2.5",1,2022-02-10
+Bhopal,Satisfactory,99,"PM
+10",1,2022-02-11
+Bhopal,Moderate,165,"O
+3",1,2022-02-12
+Bhopal,Moderate,105,"O
+3",1,2022-02-13
+Bhopal,Satisfactory,97,"PM
+10",1,2022-02-14
+Bhopal,Satisfactory,98,"PM
+10",1,2022-02-15
+Bhopal,Satisfactory,99,"O
+3",1,2022-02-16
+Bhopal,Satisfactory,99,"PM
+10",1,2022-02-17
+Bhopal,Satisfactory,90,"O
+3",1,2022-02-18
+Bhopal,Moderate,102,"O
+3",1,2022-02-19
+Bhopal,Moderate,117,"PM
+10",1,2022-02-20
+Bhopal,Satisfactory,93,"O
+3",1,2022-02-21
+Bhopal,Moderate,102,"O
+3",1,2022-02-22
+Bhopal,Moderate,108,"O
+3",1,2022-02-23
+Bhopal,Moderate,132,"PM
+10",1,2022-02-24
+Bhopal,Moderate,145,"PM
+10",1,2022-02-25
+Bhopal,Moderate,133,"PM
+10",1,2022-02-26
+Bhopal,Moderate,140,"PM
+10",1,2022-02-27
+Bhopal,Moderate,125,"PM
+10",1,2022-02-28
+Bhopal,Moderate,117,"PM
+10",1,2022-03-01
+Bhopal,Moderate,103,"O
+3",1,2022-03-02
+Bhopal,Moderate,105,"O
+3",1,2022-03-03
+Bhopal,Moderate,130,"PM
+10",1,2022-03-04
+Bhopal,Moderate,108,"PM
+10",1,2022-03-05
+Bhopal,Moderate,125,"PM
+10",1,2022-03-06
+Bhopal,Moderate,156,"O
+3",1,2022-03-07
+Bhopal,Satisfactory,99,"PM
+10",1,2022-03-08
+Bhopal,Satisfactory,99,"PM
+10",1,2022-03-09
+Bhopal,Satisfactory,94,"O
+3",1,2022-03-10
+Bhopal,Moderate,112,"PM
+10",1,2022-03-11
+Bhopal,Moderate,128,"PM
+10",1,2022-03-12
+Bhopal,Moderate,119,"PM
+10",1,2022-03-13
+Bhopal,Moderate,145,"PM
+10",1,2022-03-14
+Bhopal,Moderate,133,"PM
+10",1,2022-03-15
+Bhopal,Moderate,122,"PM
+10",1,2022-03-16
+Bhopal,Moderate,137,"PM
+10",1,2022-03-17
+Bhopal,Moderate,139,"PM
+10",1,2022-03-18
+Bhopal,Moderate,138,"O
+3",1,2022-03-19
+Bhopal,Moderate,122,"PM
+10",1,2022-03-20
+Bhopal,Moderate,145,"PM
+10",1,2022-03-21
+Bhopal,Moderate,136,"PM
+10",1,2022-03-22
+Bhopal,Moderate,165,"O
+3",1,2022-03-23
+Bhopal,Moderate,147,"PM
+10",1,2022-03-24
+Bhopal,Moderate,138,"PM
+10",1,2022-03-25
+Bhopal,Moderate,136,"PM
+10",1,2022-03-26
+Bhopal,Moderate,129,"PM
+10",1,2022-03-27
+Bhopal,Moderate,151,"PM
+10",1,2022-03-28
+Bhopal,Moderate,118,"PM
+10",1,2022-03-29
+Bhopal,Moderate,135,"PM
+10",1,2022-03-30
+Bhopal,Moderate,126,"O
+3",1,2022-03-31
+Bhopal,Moderate,133,"O
+3",1,2022-04-01
+Bhopal,Moderate,197,"O
+3",1,2022-04-02
+Bhopal,Moderate,165,"O
+3",1,2022-04-03
+Bhopal,Moderate,132,"O
+3",1,2022-04-04
+Bhopal,Moderate,134,"PM
+10",1,2022-04-05
+Bhopal,Moderate,145,"O
+3",1,2022-04-06
+Bhopal,Moderate,138,"PM
+10",1,2022-04-07
+Bhopal,Moderate,135,"O
+3",1,2022-04-08
+Bhopal,Moderate,153,"O
+3",1,2022-04-09
+Bhopal,Moderate,137,"PM
+10",1,2022-04-10
+Bhopal,Moderate,132,"O
+3",1,2022-04-11
+Bhopal,Moderate,135,"PM
+10",1,2022-04-12
+Bhopal,Moderate,153,"PM
+10",1,2022-04-13
+Bhopal,Moderate,164,"PM
+10",1,2022-04-14
+Bhopal,Moderate,136,"PM
+10",1,2022-04-16
+Bhopal,Moderate,135,"PM
+10",1,2022-04-17
+Bhopal,Moderate,142,"PM
+10",1,2022-04-18
+Bhopal,Moderate,147,"PM
+10",1,2022-04-19
+Bhopal,Moderate,161,"PM
+10",1,2022-04-20
+Bhopal,Moderate,151,"PM
+10",1,2022-04-21
+Bhopal,Moderate,192,"O
+3",1,2022-04-22
+Bhopal,Moderate,108,"PM
+10",1,2022-04-23
+Bhopal,Moderate,121,"PM
+10",1,2022-04-24
+Bhopal,Moderate,119,"PM
+10",1,2022-04-25
+Bhopal,Moderate,115,"PM
+10",1,2022-04-26
+Bhopal,Moderate,119,"PM
+10",1,2022-04-27
+Bhopal,Moderate,111,"O
+3",1,2022-04-28
+Bhopal,Satisfactory,98,"PM
+10",1,2022-04-29
+Bhopal,Moderate,115,"PM
+10",1,2022-04-30
+Bhopal,Moderate,148,"PM
+10",1,2022-05-01
+Bhopal,Moderate,140,"PM
+10",1,2022-05-02
+Bhopal,Moderate,146,"PM
+10",1,2022-05-03
+Bhopal,Moderate,138,"PM
+10",1,2022-05-04
+Bhopal,Moderate,140,"PM
+10",1,2022-05-05
+Bhopal,Moderate,161,"PM
+10",1,2022-05-06
+Bhopal,Moderate,152,"PM
+10",1,2022-05-07
+Bhopal,Poor,209,"PM
+10",1,2022-05-08
+Bhopal,Moderate,173,"PM
+10",1,2022-05-09
+Bhopal,Moderate,168,"PM
+10",1,2022-05-10
+Bhopal,Moderate,148,"PM
+10",1,2022-05-11
+Bhopal,Moderate,143,"PM
+10",1,2022-05-12
+Bhopal,Moderate,165,"PM
+10",1,2022-05-13
+Bhopal,Moderate,146,"PM
+10",1,2022-05-14
+Bhopal,Moderate,137,"PM
+10",1,2022-05-15
+Bhopal,Moderate,148,"PM
+10",1,2022-05-16
+Bhopal,Moderate,139,"PM
+10",1,2022-05-17
+Bhopal,Moderate,162,"PM
+10",1,2022-05-18
+Bhopal,Moderate,187,"PM
+10",1,2022-05-19
+Bhopal,Moderate,178,"PM
+10",1,2022-05-20
+Bhopal,Moderate,171,"PM
+10",1,2022-05-21
+Bhopal,Moderate,178,"PM
+10",1,2022-05-22
+Bhopal,Moderate,138,"PM
+10",1,2022-05-23
+Bhopal,Poor,215,"PM
+10",1,2022-05-25
+Bhopal,Moderate,180,"PM
+10",1,2022-05-26
+Bhopal,Moderate,133,"PM
+10",1,2022-05-27
+Bhopal,Moderate,126,"PM
+10",1,2022-05-28
+Bhopal,Moderate,134,"PM
+10",1,2022-05-29
+Bhopal,Moderate,153,"PM
+10",1,2022-05-30
+Bhopal,Moderate,141,"PM
+10",1,2022-05-31
+Bhopal,Moderate,159,"PM
+10",1,2022-06-01
+Bhopal,Moderate,136,"PM
+10",1,2022-06-02
+Bhopal,Moderate,141,"PM
+10",1,2022-06-03
+Bhopal,Moderate,142,"PM
+10",1,2022-06-04
+Bhopal,Moderate,136,"PM
+10",1,2022-06-05
+Bhopal,Moderate,136,"PM
+10",1,2022-06-06
+Bhopal,Moderate,128,"PM
+10",1,2022-06-07
+Bhopal,Moderate,148,"PM
+10",1,2022-06-08
+Bhopal,Moderate,108,"PM
+10",1,2022-06-09
+Bhopal,Moderate,113,"PM
+10",1,2022-06-10
+Bhopal,Moderate,106,"PM
+10",1,2022-06-11
+Bhopal,Satisfactory,68,"PM
+10",1,2022-06-12
+Bhopal,Satisfactory,90,"O
+3",1,2022-06-13
+Bhopal,Satisfactory,63,"O
+3",1,2022-06-14
+Bhopal,Satisfactory,65,"PM
+10",1,2022-06-15
+Bhopal,Good,49,"O
+3",1,2022-06-16
+Bhopal,Satisfactory,67,"O
+3",1,2022-06-17
+Bhopal,Satisfactory,67,CO,1,2022-06-18
+Bhopal,Good,39,CO,1,2022-06-19
+Bhopal,Satisfactory,61,CO,1,2022-06-20
+Bhopal,Satisfactory,54,"O
+3",1,2022-06-21
+Bhopal,Satisfactory,74,"PM
+10",1,2022-06-22
+Bhopal,Satisfactory,87,"O
+3",1,2022-06-23
+Bhopal,Satisfactory,99,"O
+3",1,2022-06-24
+Bhopal,Moderate,142,"PM
+10",1,2022-06-25
+Bhopal,Satisfactory,100,"O
+3",1,2022-06-27
+Bhopal,Satisfactory,70,"O
+3",1,2022-06-28
+Bhopal,Satisfactory,58,"PM
+10",1,2022-06-29
+Bhopal,Satisfactory,55,"PM
+10",1,2022-06-30
+Bhopal,Good,43,CO,1,2022-07-01
+Bhopal,Good,45,"PM
+10",1,2022-07-02
+Bhopal,Good,38,"PM
+10",1,2022-07-03
+Bhopal,Good,32,CO,1,2022-07-04
+Bhopal,Satisfactory,51,"O
+3",1,2022-07-05
+Bhopal,Satisfactory,52,"O
+3",1,2022-07-06
+Bhopal,Good,50,CO,1,2022-07-07
+Bhopal,Good,41,"O
+3",1,2022-07-08
+Bhopal,Good,41,CO,1,2022-07-09
+Bhopal,Satisfactory,63,"O
+3",1,2022-07-10
+Bhopal,Good,40,CO,1,2022-07-11
+Bhopal,Good,45,"O
+3",1,2022-07-12
+Bhopal,Good,47,"O
+3",1,2022-07-13
+Bhopal,Good,45,"O
+3",1,2022-07-14
+Bhopal,Good,47,CO,1,2022-07-15
+Bhopal,Good,49,CO,1,2022-07-16
+Bhopal,Satisfactory,87,CO,1,2022-07-17
+Bhopal,Satisfactory,62,CO,1,2022-07-18
+Bhopal,Satisfactory,72,CO,1,2022-07-19
+Bhopal,Satisfactory,51,CO,1,2022-07-20
+Bhopal,Satisfactory,60,"O
+3",1,2022-07-21
+Bhopal,Satisfactory,76,CO,1,2022-07-22
+Bhopal,Satisfactory,77,CO,1,2022-07-23
+Bhopal,Satisfactory,66,CO,1,2022-07-26
+Bhopal,Satisfactory,52,CO,1,2022-07-27
+Bhopal,Satisfactory,55,"SO
+2",1,2022-07-28
+Bhopal,Satisfactory,72,CO,1,2022-07-29
+Bhopal,Satisfactory,79,"PM
+10",1,2022-07-30
+Bhopal,Satisfactory,76,CO,1,2022-08-01
+Bhopal,Satisfactory,72,"PM
+10",1,2022-08-02
+Bhopal,Satisfactory,79,"O
+3",1,2022-08-03
+Bhopal,Satisfactory,92,CO,1,2022-08-04
+Bhopal,Satisfactory,67,"O
+3",1,2022-08-05
+Bhopal,Good,49,CO,1,2022-08-06
+Bhopal,Satisfactory,69,CO,1,2022-08-07
+Bhopal,Satisfactory,85,CO,1,2022-08-08
+Bhopal,Satisfactory,76,CO,1,2022-08-09
+Bhopal,Good,41,"SO
+2",1,2022-08-11
+Bhopal,Good,43,CO,1,2022-08-12
+Bhopal,Good,37,CO,1,2022-08-13
+Bhopal,Good,49,"PM
+10",1,2022-08-14
+Bhopal,Good,42,CO,1,2022-08-15
+Bhopal,Good,32,CO,1,2022-08-16
+Bhopal,Good,30,"O
+3",1,2022-08-17
+Bhopal,Good,32,"PM
+10",1,2022-08-18
+Bhopal,Satisfactory,59,"PM
+10",1,2022-08-19
+Bhopal,Satisfactory,52,CO,1,2022-08-20
+Bhopal,Good,30,"O
+3",1,2022-08-21
+Bhopal,Good,46,"O
+3",1,2022-08-22
+Bhopal,Satisfactory,56,"PM
+10",1,2022-08-25
+Bhopal,Satisfactory,81,"PM
+10",1,2022-08-26
+Bhopal,Moderate,101,"PM
+10",1,2022-08-27
+Bhopal,Moderate,121,"PM
+10",1,2022-08-28
+Bhopal,Moderate,129,"PM
+10",1,2022-08-29
+Bhopal,Satisfactory,84,"PM
+10",1,2022-08-30
+Bhopal,Moderate,107,"PM
+10",1,2022-08-31
+Bhopal,Satisfactory,94,"PM
+10",1,2022-09-01
+Bhopal,Good,49,"PM
+10",1,2022-09-02
+Bhopal,Satisfactory,55,"PM
+10",1,2022-09-03
+Bhopal,Satisfactory,63,"PM
+10",1,2022-09-04
+Bhopal,Good,48,CO,1,2022-09-05
+Bhopal,Satisfactory,63,"PM
+10",1,2022-09-06
+Bhopal,Satisfactory,87,"PM
+10",1,2022-09-07
+Bhopal,Satisfactory,76,"PM
+10",1,2022-09-08
+Bhopal,Satisfactory,75,"PM
+10",1,2022-09-09
+Bhopal,Satisfactory,69,"PM
+10",1,2022-09-10
+Bhopal,Satisfactory,76,"PM
+10",1,2022-09-11
+Bhopal,Satisfactory,60,"PM
+10",1,2022-09-12
+Bhopal,Good,45,"PM
+10",1,2022-09-13
+Bhopal,Good,38,"O
+3",1,2022-09-14
+Bhopal,Good,38,"O
+3",1,2022-09-15
+Bhopal,Good,50,"O
+3",1,2022-09-16
+Bhopal,Satisfactory,74,"PM
+10",1,2022-09-17
+Bhopal,Satisfactory,99,"PM
+10",1,2022-09-18
+Bhopal,Moderate,113,"PM
+10",1,2022-09-19
+Bhopal,Moderate,128,"PM
+10",2,2022-09-20
+Bhopal,Satisfactory,94,"PM
+10",2,2022-09-21
+Bhopal,Satisfactory,71,"PM
+10",2,2022-09-22
+Bhopal,Satisfactory,56,"PM
+10",2,2022-09-23
+Bhopal,Satisfactory,70,"PM
+10",2,2022-09-24
+Bhopal,Satisfactory,72,"PM
+10",2,2022-09-25
+Bhopal,Moderate,148,"PM
+10",2,2022-09-26
+Bhopal,Moderate,117,"PM
+10",2,2022-09-27
+Bhopal,Moderate,118,"PM
+10",2,2022-09-28
+Bhopal,Moderate,145,"PM
+10",2,2022-09-29
+Bhopal,Moderate,120,"PM
+10",2,2022-09-30
+Bhopal,Moderate,105,"PM
+10",2,2022-10-01
+Bhopal,Satisfactory,90,"PM
+10",2,2022-10-02
+Bhopal,Satisfactory,94,"PM
+10",2,2022-10-03
+Bhopal,Moderate,112,"PM
+10",2,2022-10-04
+Bhopal,Moderate,134,"PM
+10",2,2022-10-05
+Bhopal,Satisfactory,77,"PM , CO
+10",2,2022-10-06
+Bhopal,Satisfactory,54,"PM
+10",2,2022-10-07
+Bhopal,Satisfactory,51,"O
+3",1,2022-10-08
+Bhopal,Moderate,101,"PM , O
+2.5 3",2,2022-10-09
+Bhopal,Satisfactory,99,"PM
+10",2,2022-10-10
+Bhopal,Good,50,"PM , O
+10 3",2,2022-10-11
+Bhopal,Satisfactory,78,"PM , O
+10 3",2,2022-10-12
+Bhopal,Satisfactory,84,"PM , PM
+10 2.5",2,2022-10-13
+Bhopal,Moderate,105,"PM , PM
+10 2.5",2,2022-10-14
+Bhopal,Moderate,142,"PM , PM
+2.5 10",2,2022-10-15
+Bhopal,Moderate,167,"PM , PM
+2.5 10",2,2022-10-16
+Bhopal,Moderate,164,"PM
+2.5",2,2022-10-17
+Bhopal,Moderate,174,"PM
+2.5",2,2022-10-18
+Bhopal,Moderate,136,"PM , PM
+2.5 10",2,2022-10-19
+Bhopal,Moderate,148,"PM , PM
+2.5 10",2,2022-10-20
+Bhopal,Moderate,142,"PM , PM
+2.5 10",2,2022-10-21
+Bhopal,Moderate,158,"PM , PM
+2.5 10",2,2022-10-22
+Bhopal,Moderate,186,"PM , PM
+2.5 10",2,2022-10-23
+Bhopal,Moderate,171,"PM , PM
+2.5 10",2,2022-10-24
+Bhopal,Poor,218,"PM
+2.5",2,2022-10-25
+Bhopal,Moderate,184,"PM , PM
+2.5 10",2,2022-10-26
+Bhopal,Moderate,152,"PM , PM
+2.5 10",2,2022-10-27
+Bhopal,Moderate,159,"PM , PM
+2.5 10",2,2022-10-28
+Bhopal,Moderate,186,"PM , PM
+2.5 10",2,2022-10-29
+Bhopal,Moderate,188,"PM , PM
+2.5 10",2,2022-10-30
+Bhopal,Poor,250,"PM
+2.5",2,2022-10-31
+Bhopal,Poor,260,"PM
+2.5",2,2022-11-01
+Bhopal,Poor,209,"PM
+2.5",2,2022-11-02
+Bhopal,Moderate,182,"PM , PM
+2.5 10",2,2022-11-03
+Bhopal,Moderate,154,"PM
+10",2,2022-11-04
+Bhopal,Moderate,190,"PM
+2.5",2,2022-11-05
+Bhopal,Moderate,186,"PM , PM
+2.5 10",2,2022-11-06
+Bhopal,Poor,262,"PM
+2.5",2,2022-11-07
+Bhopal,Poor,250,"PM
+2.5",2,2022-11-08
+Bhopal,Moderate,188,"PM
+2.5",2,2022-11-09
+Bhopal,Poor,224,"PM
+2.5",2,2022-11-10
+Bhopal,Poor,241,"PM
+2.5",2,2022-11-11
+Bhopal,Poor,246,"PM
+2.5",2,2022-11-12
+Bhopal,Poor,233,"PM
+2.5",2,2022-11-13
+Bhopal,Very Poor,302,"PM
+2.5",2,2022-11-14
+Bhopal,Poor,279,"PM
+2.5",2,2022-11-15
+Bhopal,Poor,258,"PM
+2.5",2,2022-11-16
+Bhopal,Moderate,172,"PM
+2.5",2,2022-11-17
+Bhopal,Moderate,112,"PM , PM
+2.5 10",2,2022-11-18
+Bhopal,Moderate,154,"PM , PM
+2.5 10",2,2022-11-19
+Bhopal,Moderate,198,"PM
+2.5",2,2022-11-20
+Bhopal,Poor,270,"PM
+2.5",2,2022-11-21
+Bhopal,Poor,260,"PM
+2.5",2,2022-11-22
+Bhopal,Moderate,183,"PM
+2.5",2,2022-11-23
+Bhopal,Moderate,167,"PM , PM
+2.5 10",2,2022-11-24
+Bhopal,Moderate,196,"PM
+2.5",2,2022-11-25
+Bhopal,Moderate,167,"PM , PM
+2.5 10",2,2022-11-26
+Bhopal,Moderate,192,"PM
+2.5",2,2022-11-27
+Bhopal,Poor,220,"PM
+2.5",2,2022-11-28
+Bhopal,Poor,208,"PM
+2.5",2,2022-11-29
+Bhopal,Poor,252,"PM
+2.5",2,2022-11-30
+Bhopal,Poor,216,"PM
+2.5",2,2022-12-01
+Bhopal,Poor,234,"PM
+2.5",2,2022-12-02
+Bhopal,Poor,243,"PM
+2.5",2,2022-12-03
+Bhopal,Poor,250,"PM
+2.5",2,2022-12-04
+Bhopal,Poor,232,"PM
+2.5",2,2022-12-05
+Bhopal,Poor,214,"PM
+2.5",2,2022-12-06
+Bhopal,Moderate,184,"PM
+2.5",2,2022-12-07
+Bhopal,Moderate,142,"PM
+10",2,2022-12-08
+Bhopal,Moderate,123,"PM
+10",2,2022-12-09
+Bhopal,Moderate,158,"PM
+2.5",2,2022-12-10
+Bhopal,Moderate,188,"PM
+2.5",2,2022-12-11
+Bhopal,Moderate,146,"PM
+2.5",2,2022-12-12
+Bhopal,Moderate,124,"PM
+2.5",2,2022-12-13
+Bhopal,Moderate,106,"PM , PM
+10 2.5",2,2022-12-14
+Bhopal,Satisfactory,94,"PM
+10",2,2022-12-15
+Bhopal,Moderate,155,"PM , PM
+10 2.5",2,2022-12-16
+Bhopal,Moderate,110,"PM
+10",2,2022-12-17
+Bhopal,Moderate,118,"PM
+10",2,2022-12-18
+Bhopal,Moderate,136,"PM
+10",2,2022-12-19
+Bhopal,Moderate,144,"PM , PM
+10 2.5",2,2022-12-20
+Bhopal,Moderate,128,"PM
+10",2,2022-12-21
+Bhopal,Moderate,162,"PM , PM
+10 2.5",2,2022-12-22
+Bhopal,Poor,220,"PM , PM
+10 2.5",2,2022-12-23
+Bhopal,Moderate,130,"PM , PM
+10 2.5",2,2022-12-24
+Bhopal,Moderate,198,"PM
+2.5",2,2022-12-25
+Bhopal,Poor,214,"PM
+2.5",2,2022-12-26
+Bhopal,Poor,224,"PM
+2.5",2,2022-12-27
+Bhopal,Moderate,171,"PM
+2.5",2,2022-12-28
+Bhopal,Moderate,154,"PM , PM
+10 2.5",2,2022-12-29
+Bhopal,Moderate,160,"PM
+10",2,2022-12-30
+Bhopal,Moderate,124,"PM
+10",2,2022-12-31
+Bhopal,Moderate,184,"PM
+2.5",2,2023-01-01
+Bhopal,Poor,210,"PM
+2.5",2,2023-01-02
+Bhopal,Moderate,162,"PM
+2.5",2,2023-01-03
+Bhopal,Poor,216,"PM
+2.5",2,2023-01-04
+Bhopal,Moderate,170,"PM
+2.5",2,2023-01-05
+Bhopal,Moderate,152,"PM
+2.5",2,2023-01-06
+Bhopal,Moderate,144,"PM
+2.5",2,2023-01-07
+Bhopal,Moderate,178,"PM , PM
+10 2.5",2,2023-01-08
+Bhopal,Moderate,154,"PM , PM
+10 2.5",2,2023-01-09
+Bhopal,Moderate,164,"PM , PM
+10 2.5",2,2023-01-10
+Bhopal,Moderate,199,"PM
+2.5",2,2023-01-11
+Bhopal,Moderate,126,"PM
+10",2,2023-01-12
+Bhopal,Satisfactory,98,"PM
+10",2,2023-01-13
+Bhopal,Moderate,151,"PM
+10",2,2023-01-14
+Bhopal,Moderate,146,"PM
+2.5",2,2023-01-15
+Bhopal,Moderate,196,"PM
+2.5",2,2023-01-16
+Bhopal,Moderate,123,"PM
+10",2,2023-01-17
+Bhopal,Moderate,142,"PM , PM
+10 2.5",2,2023-01-18
+Bhopal,Moderate,169,"PM
+2.5",2,2023-01-19
+Bhopal,Moderate,170,"PM , PM
+10 2.5",2,2023-01-20
+Bhopal,Poor,234,"PM
+2.5",2,2023-01-21
+Bhopal,Poor,240,"PM
+2.5",2,2023-01-22
+Bhopal,Poor,212,"PM
+2.5",2,2023-01-23
+Bhopal,Moderate,148,"PM , PM
+10 2.5",2,2023-01-24
+Bhopal,Moderate,190,"PM
+2.5",2,2023-01-25
+Bhopal,Moderate,174,"PM
+2.5",2,2023-01-26
+Bhopal,Moderate,164,"PM
+2.5",1,2023-01-27
+Bhopal,Poor,231,"PM
+10",2,2023-01-28
+Bhopal,Moderate,152,"PM , PM
+10 2.5",2,2023-01-29
+Bhopal,Moderate,170,"PM , PM
+10 2.5",2,2023-01-30
+Bhopal,Moderate,197,"PM
+2.5",2,2023-01-31
+Bhopal,Moderate,101,"PM , PM
+10 2.5",2,2023-02-01
+Bhopal,Moderate,133,"PM , PM
+10 2.5",2,2023-02-02
+Bhopal,Moderate,141,"PM , PM
+10 2.5",2,2023-02-03
+Bhopal,Moderate,128,"PM
+10",2,2023-02-04
+Bhopal,Moderate,140,"PM
+10",2,2023-02-05
+Bhopal,Moderate,139,"PM
+10",2,2023-02-06
+Bhopal,Moderate,115,"PM
+10",2,2023-02-07
+Bhopal,Moderate,112,"PM
+10",2,2023-02-08
+Bhopal,Moderate,196,"O
+3",2,2023-02-09
+Bhopal,Moderate,146,"PM , O
+10 3",2,2023-02-10
+Bhopal,Moderate,119,"PM
+10",2,2023-02-11
+Bhopal,Moderate,121,"PM
+10",2,2023-02-12
+Bhopal,Moderate,126,"PM
+10",2,2023-02-13
+Bhopal,Moderate,114,"PM
+10",2,2023-02-14
+Bhopal,Satisfactory,100,"PM
+10",2,2023-02-15
+Bhopal,Moderate,112,"PM
+10",1,2023-02-16
+Bhopal,Moderate,139,"O
+3",2,2023-02-17
+Bhopal,Moderate,136,"PM , O
+10 3",2,2023-02-18
+Bhopal,Poor,204,"O
+3",2,2023-02-19
+Bhopal,Moderate,160,"PM , O
+10 3",2,2023-02-20
+Bhopal,Moderate,129,"PM , O
+10 3",2,2023-02-21
+Bhopal,Moderate,104,"PM , O
+10 3",3,2023-02-22
+Bhopal,Moderate,116,"PM , O
+10 3",3,2023-02-23
+Bhopal,Moderate,127,"O
+3",3,2023-02-24
+Bhopal,Moderate,120,"PM , O
+10 3",3,2023-02-25
+Bhopal,Moderate,157,"O
+3",3,2023-02-26
+Bhopal,Moderate,123,"PM , O
+10 3",3,2023-02-27
+Bhopal,Moderate,121,"PM , O
+10 3",3,2023-02-28
+Bhopal,Moderate,141,"PM
+10",3,2023-03-01
+Bhopal,Moderate,163,"PM
+2.5",3,2023-03-02
+Bhopal,Moderate,138,"PM , PM
+2.5 10",3,2023-03-03
+Bhopal,Moderate,128,"PM
+10",3,2023-03-04
+Bhopal,Satisfactory,99,"PM
+10",3,2023-03-05
+Bhopal,Moderate,113,"PM
+10",3,2023-03-06
+Bhopal,Satisfactory,80,CO,3,2023-03-07
+Bhopal,Moderate,194,"PM
+2.5",3,2023-03-08
+Bhopal,Satisfactory,76,"O , CO
+3",3,2023-03-09
+Bhopal,Satisfactory,84,CO,3,2023-03-10
+Bhopal,Satisfactory,87,"PM
+10",3,2023-03-11
+Bhopal,Moderate,102,"PM , O
+10 3",3,2023-03-12
+Bhopal,Satisfactory,100,"PM , O
+10 3",3,2023-03-13
+Bhopal,Moderate,103,"PM
+10",3,2023-03-14
+Bhopal,Moderate,120,"O
+3",3,2023-03-15
+Bhopal,Satisfactory,94,"O
+3",3,2023-03-16
+Bhopal,Satisfactory,88,"O , CO
+3",3,2023-03-17
+Bhopal,Satisfactory,76,"O
+3",3,2023-03-18
+Bhopal,Satisfactory,66,"O
+3",3,2023-03-19
+Bhopal,Satisfactory,64,"O
+3",3,2023-03-20
+Bhopal,Satisfactory,72,"O , PM
+3 10",3,2023-03-21
+Bhopal,Satisfactory,84,"O
+3",3,2023-03-22
+Bhopal,Satisfactory,96,"PM
+10",3,2023-03-23
+Bhopal,Satisfactory,85,"PM
+10",3,2023-03-24
+Bhopal,Satisfactory,82,"O , CO
+3",3,2023-03-25
+Bhopal,Satisfactory,90,"PM
+10",3,2023-03-26
+Bhopal,Moderate,105,"O , PM
+3 10",3,2023-03-27
+Bhopal,Moderate,110,"PM
+10",3,2023-03-28
+Bhopal,Moderate,133,"PM
+10",3,2023-03-29
+Bhopal,Moderate,129,"O , PM
+3 10",3,2023-03-30
+Bhopal,Moderate,102,"PM
+10",3,2023-03-31
+Bhopal,Satisfactory,79,"O
+3",3,2023-04-01
+Bhopal,Satisfactory,100,CO,3,2023-04-02
+Bhopal,Satisfactory,89,"PM , O
+10 3",3,2023-04-03
+Bhopal,Satisfactory,100,CO,3,2023-04-04
+Bhopal,Satisfactory,95,CO,3,2023-04-05
+Bhopal,Moderate,103,CO,3,2023-04-06
+Bhopal,Moderate,116,"PM
+10",3,2023-04-07
+Bhopal,Satisfactory,100,"O , PM
+3 10",3,2023-04-08
+Bhopal,Satisfactory,93,"O , PM
+3 10",3,2023-04-09
+Bhopal,Moderate,174,"PM
+2.5",3,2023-04-10
+Bhopal,Moderate,112,"PM , O
+10 3",3,2023-04-11
+Bhopal,Moderate,141,"O , PM
+3 10",3,2023-04-12
+Bhopal,Moderate,104,"PM
+10",3,2023-04-13
+Bhopal,Satisfactory,98,"PM
+10",3,2023-04-14
+Bhopal,Moderate,106,"PM
+10",3,2023-04-15
+Bhopal,Moderate,121,"O
+3",3,2023-04-16
+Bhopal,Satisfactory,97,"O , PM
+3 10",3,2023-04-17
+Bhopal,Satisfactory,92,"PM
+10",3,2023-04-18
+Bhopal,Satisfactory,92,"PM
+10",3,2023-04-19
+Bhopal,Moderate,101,"PM
+10",3,2023-04-20
+Bhopal,Satisfactory,90,"PM
+10",3,2023-04-21
+Bhopal,Moderate,102,CO,3,2023-04-22
+Bhopal,Moderate,108,CO,3,2023-04-23
+Bhopal,Satisfactory,100,"O , PM
+3 10",3,2023-04-24
+Bhopal,Moderate,123,"O , CO
+3",3,2023-04-25
+Bhopal,Moderate,102,"PM
+10",3,2023-04-26
+Bhopal,Satisfactory,84,"O , PM
+3 10",3,2023-04-27
+Bhopal,Satisfactory,86,"PM
+10",3,2023-04-28
+Bhopal,Satisfactory,62,"O
+3",3,2023-04-29
+Bhopal,Satisfactory,91,"PM
+10",3,2023-04-30
+Bhopal,Satisfactory,73,"SO
+2",3,2023-05-01
+Bhopal,Moderate,105,"PM , CO
+10",3,2023-05-02
+Bhopal,Satisfactory,82,"PM , CO
+10",3,2023-05-03
+Bhopal,Satisfactory,89,CO,3,2023-05-04
+Bhopal,Satisfactory,88,"O
+3",3,2023-05-05
+Bhopal,Satisfactory,100,CO,3,2023-05-06
+Bhopal,Satisfactory,94,"O
+3",3,2023-05-07
+Bhopal,Moderate,108,"O
+3",3,2023-05-08
+Bhopal,Moderate,111,"PM
+10",3,2023-05-09
+Bhopal,Moderate,134,"O , PM
+3 10",3,2023-05-10
+Bhopal,Moderate,122,"O , PM
+3 2.5",3,2023-05-11
+Bhopal,Moderate,125,"O , PM
+3 10",3,2023-05-12
+Bhopal,Moderate,103,"O , PM
+3 10",3,2023-05-13
+Bhopal,Moderate,104,"PM
+10",3,2023-05-14
+Bhopal,Satisfactory,92,"PM
+10",3,2023-05-15
+Bhopal,Satisfactory,85,"PM
+10",3,2023-05-16
+Bhopal,Satisfactory,87,"PM
+10",3,2023-05-17
+Bhopal,Satisfactory,80,"PM
+10",3,2023-05-18
+Bhopal,Satisfactory,94,"PM
+10",3,2023-05-19
+Bhopal,Satisfactory,94,"PM
+10",3,2023-05-20
+Bhopal,Satisfactory,100,"PM
+10",3,2023-05-21
+Bhopal,Satisfactory,70,"PM
+10",3,2023-05-22
+Bhopal,Satisfactory,77,"PM
+10",3,2023-05-23
+Bhopal,Satisfactory,85,"PM
+10",3,2023-05-24
+Bhopal,Satisfactory,84,"PM
+10",3,2023-05-25
+Bhopal,Satisfactory,90,"PM
+10",3,2023-05-26
+Bhopal,Satisfactory,86,"PM
+10",3,2023-05-27
+Bhopal,Satisfactory,100,"PM
+10",3,2023-05-28
+Bhopal,Satisfactory,71,"O , PM
+3 10",3,2023-05-29
+Bhopal,Satisfactory,91,"O , PM
+3 10",3,2023-05-30
+Bhopal,Satisfactory,78,"PM
+10",2,2023-05-31
+Bhopal,Moderate,120,"PM
+10",2,2023-06-01
+Bhopal,Satisfactory,84,"PM
+10",2,2023-06-02
+Bhopal,Satisfactory,100,"PM
+10",2,2023-06-03
+Bhopal,Satisfactory,89,"O , PM
+3 10",2,2023-06-04
+Bhopal,Satisfactory,84,"O , PM
+3 10",2,2023-06-05
+Bhopal,Satisfactory,96,"PM
+10",2,2023-06-06
+Bhopal,Moderate,128,"PM
+10",2,2023-06-07
+Bhopal,Satisfactory,93,"PM
+10",3,2023-06-08
+Bhopal,Satisfactory,71,"O , PM
+3 10",3,2023-06-09
+Bhopal,Satisfactory,76,"PM
+10",3,2023-06-10
+Bhopal,Satisfactory,60,"O , PM
+3 10",3,2023-06-11
+Bhopal,Satisfactory,65,"PM
+10",3,2023-06-12
+Bhopal,Satisfactory,69,"PM
+10",3,2023-06-13
+Bhopal,Satisfactory,78,"PM
+10",3,2023-06-14
+Bhopal,Satisfactory,65,"PM
+10",3,2023-06-15
+Bhopal,Satisfactory,78,"PM
+10",3,2023-06-16
+Bhopal,Satisfactory,79,"PM
+10",3,2023-06-17
+Bhopal,Satisfactory,96,"PM
+10",3,2023-06-18
+Bhopal,Satisfactory,99,"PM
+10",3,2023-06-19
+Bhopal,Satisfactory,89,"PM
+10",3,2023-06-20
+Bhopal,Satisfactory,64,"PM
+10",3,2023-06-21
+Bhopal,Satisfactory,53,"PM
+10",3,2023-06-22
+Bhopal,Moderate,120,"PM
+10",2,2023-06-23
+Bhopal,Good,28,CO,2,2023-06-24
+Bhopal,Satisfactory,65,"PM
+10",2,2023-06-25
+Bhopal,Satisfactory,"82
+* AQ","PM , CO
+10
+I is not calculated for today's bullet","2
+in for Ahmednagar, Akola,",2023-06-26
+Bhopal,Satisfactory,96,"PM , CO
+10",2,2023-06-27
+Bhopal,Satisfactory,93,"PM
+10",2,2023-06-28
+Bhopal,Satisfactory,60,"PM
+10",2,2023-06-29
+Bhopal,Good,41,"PM , CO
+10",3,2023-06-30
+Bhopal,Good,47,"PM , CO
+10",3,2023-07-01
+Bhopal,Good,42,"PM
+10",3,2023-07-02
+Bhopal,Satisfactory,69,"PM
+10",3,2023-07-03
+Bhopal,Satisfactory,90,"PM , PM
+2.5 10",3,2023-07-04
+Bhopal,Satisfactory,60,"PM
+10",3,2023-07-05
+Bhopal,Satisfactory,64,"PM
+10",3,2023-07-06
+Bhopal,Good,44,"PM
+10",3,2023-07-07
+Bhopal,Good,45,"PM
+10",3,2023-07-08
+Bhopal,Satisfactory,56,"PM
+10",3,2023-07-09
+Bhopal,Good,48,"PM , O
+10 3",3,2023-07-10
+Bhopal,Satisfactory,63,"CO, PM
+10",3,2023-07-11
+Bhopal,Satisfactory,68,"PM , CO
+10",3,2023-07-12
+Bhopal,Satisfactory,89,"PM , PM
+2.5 10",3,2023-07-13
+Bhopal,Satisfactory,70,"PM
+10",3,2023-07-14
+Bhopal,Satisfactory,95,"PM , PM
+2.5 10",3,2023-07-15
+Bhopal,Satisfactory,78,"PM
+10",3,2023-07-16
+Bhopal,Satisfactory,90,"PM , PM
+2.5 10",3,2023-07-17
+Bhopal,Satisfactory,90,"PM
+10",3,2023-07-18
+Bhopal,Good,45,CO,3,2023-07-19
+Bhopal,Satisfactory,58,"PM
+10",3,2023-07-20
+Bhopal,Satisfactory,94,"PM
+10",3,2023-07-21
+Bhopal,Good,45,"PM
+10",3,2023-07-22
+Bhopal,Satisfactory,57,"PM , PM
+2.5 10",3,2023-07-23
+Bhopal,Satisfactory,51,"PM , CO
+10",3,2023-07-24
+Bhopal,Good,44,"PM
+10",3,2023-07-25
+Bhopal,Satisfactory,58,CO,3,2023-07-26
+Bhopal,Satisfactory,66,CO,3,2023-07-27
+Bhopal,Satisfactory,59,CO,3,2023-07-28
+Bhopal,Satisfactory,65,CO,3,2023-07-29
+Bhopal,Satisfactory,77,CO,3,2023-07-30
+Bhopal,Satisfactory,56,CO,3,2023-07-31
+Bhopal,Satisfactory,59,"PM
+10",3,2023-08-01
+Bhopal,Good,47,"PM
+10",3,2023-08-02
+Bhopal,Good,50,"PM
+10",3,2023-08-03
+Bhopal,Good,49,"PM
+10",3,2023-08-04
+Bhopal,Satisfactory,58,"PM
+10",3,2023-08-05
+Bhopal,Satisfactory,62,"PM
+10",3,2023-08-06
+Bhopal,Satisfactory,73,"PM
+10",3,2023-08-07
+Bhopal,Satisfactory,73,"PM
+10",3,2023-08-08
+Bhopal,Satisfactory,86,"PM
+10",2,2023-08-09
+Bhopal,Satisfactory,91,"PM
+10",3,2023-08-10
+Bhopal,Satisfactory,68,"PM
+10",3,2023-08-11
+Bhopal,Satisfactory,86,"PM
+10",3,2023-08-12
+Bhopal,Satisfactory,63,"PM
+10",3,2023-08-13
+Bhopal,Satisfactory,60,"PM
+10",3,2023-08-14
+Bhopal,Satisfactory,59,"PM
+10",3,2023-08-15
+Bhopal,Satisfactory,66,"PM
+10",3,2023-08-16
+Bhopal,Satisfactory,78,"PM
+10",3,2023-08-17
+Bhopal,Moderate,103,"PM
+10",3,2023-08-18
+Bhopal,Satisfactory,80,"PM
+10",2,2023-08-19
+Bhopal,Satisfactory,64,"PM , PM
+2.5 10",2,2023-08-20
+Bhopal,Good,37,"PM , CO
+10",2,2023-08-21
+Bhopal,Good,46,"PM
+10",3,2023-08-22
+Bhopal,Satisfactory,67,"PM , PM
+2.5 10",3,2023-08-23
+Bhopal,Satisfactory,59,"PM
+10",3,2023-08-24
+Bhopal,Satisfactory,60,"PM
+10",3,2023-08-25
+Bhopal,Moderate,113,"PM
+10",3,2023-08-26
+Bhopal,Moderate,103,"PM
+10",3,2023-08-27
+Bhopal,Moderate,154,"PM
+10",2,2023-08-28
+Bhopal,Moderate,111,"PM
+10",3,2023-08-29
+Bhopal,Moderate,110,"PM
+10",3,2023-08-30
+Bhopal,Moderate,119,"PM
+10",3,2023-08-31
+Bhopal,Moderate,113,"PM
+10",3,2023-09-01
+Bhopal,Moderate,111,"PM
+10",3,2023-09-02
+Bhopal,Moderate,103,"PM
+10",3,2023-09-03
+Bhopal,Satisfactory,98,"PM
+10",3,2023-09-04
+Bhopal,Satisfactory,91,"PM
+10",3,2023-09-05
+Bhopal,Good,43,"PM
+10",1,2023-09-06
+Bhopal,Good,39,"CO, PM
+10",3,2023-09-07
+Bhopal,Moderate,142,"PM , CO
+10",3,2023-09-08
+Bhopal,Satisfactory,57,"PM , CO
+10",2,2023-09-09
+Bhopal,Good,41,CO,3,2023-09-10
+Bhopal,Satisfactory,66,"PM
+10",3,2023-09-11
+Bhopal,Satisfactory,79,"PM
+10",3,2023-09-12
+Bhopal,Satisfactory,60,"PM , CO
+10",3,2023-09-13
+Bhopal,Satisfactory,73,CO,3,2023-09-14
+Bhopal,Moderate,110,"PM , CO
+10",3,2023-09-15
+Bhopal,Good,33,CO,3,2023-09-16
+Bhopal,Good,30,"PM , SO
+10 2",3,2023-09-17
+Bhopal,Good,38,"PM
+10",2,2023-09-18
+Bhopal,Satisfactory,58,"PM
+10",3,2023-09-19
+Bhopal,Good,47,"PM
+10",2,2023-09-20
+Bhopal,Good,50,"PM
+10",2,2023-09-21
+Bhopal,Good,42,CO,3,2023-09-22
+Bhopal,Good,39,"PM
+10",1,2023-09-23
+Bhopal,Satisfactory,92,"PM
+10",1,2023-09-24
+Bhopal,Good,50,"PM
+10",1,2023-09-25
+Bhopal,Satisfactory,71,"O
+3",1,2023-09-27
+Bhopal,Satisfactory,96,"PM
+10",3,2023-09-28
+Bhopal,Moderate,114,"PM , PM
+2.5 10",3,2023-09-29
+Bhopal,Moderate,109,"PM
+10",3,2023-09-30
+Bhopal,Moderate,123,"PM
+10",3,2023-10-01
+Bhopal,Moderate,130,"PM
+10",3,2023-10-02
+Bhopal,Moderate,118,"PM
+10",3,2023-10-03
+Bhopal,Moderate,117,"PM
+10",3/3,2023-10-04
+Bhopal,Moderate,111,"PM
+10",3/3,2023-10-05
+Bhopal,Satisfactory,96,"PM
+10",2/3,2023-10-06
+Bhopal,Satisfactory,97,"PM
+10",3/3,2023-10-07
+Bhopal,Moderate,103,"PM
+10",3/3,2023-10-08
+Bhopal,Moderate,111,"PM , PM
+2.5 10",3/3,2023-10-09
+Bhopal,Moderate,109,"PM , PM
+2.5 10",3/3,2023-10-10
+Bhopal,Satisfactory,93,"PM
+10",3/3,2023-10-11
+Bhopal,Satisfactory,82,"PM
+10",3/3,2023-10-12
+Bhopal,Satisfactory,92,"PM
+10",3/3,2023-10-13
+Bhopal,Satisfactory,88,"PM
+10",3/3,2023-10-14
+Bhopal,Satisfactory,91,"PM
+10",3/3,2023-10-15
+Bhopal,Moderate,109,"PM , PM
+2.5 10",3/3,2023-10-16
+Bhopal,Satisfactory,81,"PM
+10",3/3,2023-10-17
+Bhopal,Moderate,111,"PM , PM
+2.5 10",3/3,2023-10-18
+Bhopal,Moderate,112,"PM , PM
+2.5 10",3/3,2023-10-19
+Bhopal,Moderate,113,"PM , PM
+2.5 10",3/3,2023-10-20
+Bhopal,Moderate,141,"PM , PM
+2.5 10",3/3,2023-10-21
+Bhopal,Moderate,142,"PM
+2.5",3/3,2023-10-22
+Bhopal,Moderate,131,"PM , PM
+2.5 10",3/3,2023-10-23
+Bhopal,Moderate,125,"PM
+10",3/3,2023-10-24
+Bhopal,Moderate,133,"PM , PM
+2.5 10",3/3,2023-10-25
+Bhopal,Moderate,118,"PM
+10",2/3,2023-10-26
+Bhopal,Moderate,120,"PM
+10",3/3,2023-10-27
+Bhopal,Moderate,150,"PM , PM
+2.5 10",2/3,2023-10-28
+Bhopal,Moderate,162,"PM
+2.5",3/3,2023-10-29
+Bhopal,Moderate,177,"PM
+2.5",3/3,2023-10-30
+Bhopal,Moderate,190,"PM
+2.5",3/3,2023-10-31
+Bhopal,Poor,227,"PM
+2.5",3/3,2023-11-01
+Bhopal,Moderate,200,"PM
+2.5",3/3,2023-11-02
+Bhopal,Poor,211,"PM
+2.5",3/3,2023-11-03
+Bhopal,Poor,218,"PM
+2.5",3/3,2023-11-04
+Bhopal,Poor,261,"PM
+2.5",3/3,2023-11-05
+Bhopal,Poor,236,"PM
+2.5",3/3,2023-11-06
+Bhopal,Moderate,195,"PM
+2.5",3/3,2023-11-07
+Bhopal,Moderate,180,"PM , PM
+2.5 10",3/3,2023-11-08
+Bhopal,Moderate,195,"PM
+2.5",2/3,2023-11-09
+Bhopal,Moderate,198,"PM
+2.5",2/3,2023-11-10
+Bhopal,Moderate,163,"PM , PM
+2.5 10",3/3,2023-11-11
+Bhopal,Moderate,169,"PM
+2.5",3/3,2023-11-12
+Bhopal,Poor,288,"PM
+2.5",3/3,2023-11-13
+Bhopal,Poor,263,"PM
+2.5",3/3,2023-11-14
+Bhopal,Poor,209,"PM
+2.5",3/3,2023-11-15
+Bhopal,Poor,259,"PM
+2.5",3/3,2023-11-16
+Bhopal,Poor,271,"PM
+2.5",3/3,2023-11-17
+Bhopal,Very Poor,301,"PM
+2.5",3/3,2023-11-18
+Bhopal,Very Poor,317,"PM
+2.5",3/3,2023-11-19
+Bhopal,Poor,269,"PM
+2.5",3/3,2023-11-20
+Bhopal,Poor,266,"PM
+2.5",3/3,2023-11-21
+Bhopal,Poor,291,"PM
+2.5",3/3,2023-11-22
+Bhopal,Poor,227,"PM
+2.5",3/3,2023-11-23
+Bhopal,Poor,269,"PM
+2.5",3/3,2023-11-24
+Bhopal,Poor,254,"PM
+2.5",3/3,2023-11-25
+Bhopal,Poor,240,"PM
+2.5",3/3,2023-11-26
+Bhopal,Poor,212,"PM
+2.5",3/3,2023-11-27
+Bhopal,Moderate,177,"PM
+2.5",3/3,2023-11-28
+Bhopal,Moderate,156,"PM , PM
+10 2.5",2/3,2023-11-29
+Bhopal,Moderate,151,"PM
+2.5",3/3,2023-11-30
+Bhopal,Moderate,106,"PM
+2.5",3/3,2023-12-01
+Bhopal,Satisfactory,88,"PM
+2.5",3/3,2023-12-02
+Bhopal,Moderate,140,"PM
+2.5",3/3,2023-12-03
+Bhopal,Poor,209,"PM
+2.5",3/3,2023-12-04
+Bhopal,Moderate,182,"PM
+2.5",3/3,2023-12-05
+Bhopal,Moderate,136,"PM
+2.5",3/3,2023-12-06
+Bhopal,Moderate,108,"PM
+2.5",3/3,2023-12-07
+Bhopal,Satisfactory,66,"PM
+10",3/3,2023-12-08
+Bhopal,Moderate,146,"PM
+2.5",3/3,2023-12-09
+Bhopal,Moderate,130,"PM
+2.5",3/3,2023-12-10
+Bhopal,Moderate,132,"PM
+2.5",3/3,2023-12-11
+Bhopal,Moderate,107,"PM , PM
+10 2.5",3/3,2023-12-12
+Bhopal,Moderate,101,"O , PM
+3 10",3/3,2023-12-13
+Bhopal,Moderate,111,"PM , PM
+10 2.5",3/3,2023-12-14
+Bhopal,Moderate,118,"PM , PM
+10 2.5",3/3,2023-12-15
+Bhopal,Moderate,160,"PM , PM
+10 2.5",3/3,2023-12-16
+Bhopal,Moderate,183,"PM
+2.5",3/3,2023-12-17
+Bhopal,Moderate,113,"PM , PM
+10 2.5",3/3,2023-12-18
+Bhopal,Moderate,137,"PM , PM
+10 2.5",3/3,2023-12-19
+Bhopal,Moderate,164,"PM
+2.5",3/3,2023-12-20
+Bhopal,Moderate,144,"PM , PM
+10 2.5",3/3,2023-12-21
+Bhopal,Moderate,141,"PM , PM
+10 2.5",3/3,2023-12-22
+Bhopal,Poor,226,"PM
+2.5",3/3,2023-12-23
+Bhopal,Poor,256,"PM
+2.5",3/3,2023-12-24
+Bhopal,Very Poor,301,"PM
+2.5",3/3,2023-12-25
+Bhopal,Poor,284,"PM
+2.5",3/3,2023-12-26
+Bhopal,Poor,228,"PM
+2.5",3/3,2023-12-27
+Bhopal,Moderate,156,"PM
+2.5",3/3,2023-12-28
+Bhopal,Moderate,142,"PM , PM , O
+10 2.5 3",3/3,2023-12-29
+Bhopal,Poor,227,"PM
+2.5",3/3,2023-12-30
+Bhopal,Poor,273,"PM
+2.5",3/3,2023-12-31
+Bhopal,Poor,265,"PM
+2.5",2/3,2024-01-01
+Bhopal,Poor,238,"PM
+2.5",3/3,2024-01-02
+Bhopal,Poor,232,"PM
+2.5",3/3,2024-01-03
+Bhopal,Very Poor,305,"PM
+2.5",3/3,2024-01-04
+Bhopal,Moderate,160,"PM
+2.5",3/3,2024-01-05
+Bhopal,Moderate,156,"PM
+2.5",3/3,2024-01-06
+Bhopal,Moderate,151,"PM
+2.5",3/3,2024-01-07
+Bhopal,Moderate,173,"PM
+2.5",3/3,2024-01-08
+Bhopal,Poor,217,"PM
+2.5",3/3,2024-01-09
+Bhopal,Poor,205,"PM
+2.5",3/3,2024-01-10
+Bhopal,Moderate,160,"PM
+2.5",2/3,2024-01-11
+Bhopal,Moderate,136,"PM
+2.5",3/3,2024-01-12
+Bhopal,Moderate,119,"PM , PM
+10 2.5",3/3,2024-01-13
+Bhopal,Moderate,126,"PM
+2.5",2/3,2024-01-14
+Bhopal,Moderate,105,"PM , PM
+10 2.5",3/3,2024-01-15
+Bhopal,Moderate,146,"PM , PM
+10 2.5",3/3,2024-01-16
+Bhopal,Moderate,142,"PM
+2.5",3/3,2024-01-17
+Bhopal,Moderate,136,"PM
+2.5",3/3,2024-01-18
+Bhopal,Moderate,137,"PM
+2.5",2/3,2024-01-19
+Bhopal,Poor,210,"PM
+2.5",3/3,2024-01-20
+Bhopal,Poor,273,"PM
+2.5",3/3,2024-01-21
+Bhopal,Poor,201,"PM
+2.5",3/3,2024-01-22
+Bhopal,Moderate,113,"PM , PM
+10 2.5",3/3,2024-01-23
+Bhopal,Moderate,113,"PM , PM
+10 2.5",3/3,2024-01-24
+Bhopal,Moderate,159,"PM , PM
+10 2.5",3/3,2024-01-25
+Bhopal,Moderate,134,"PM
+10",3/3,2024-01-26
+Bhopal,Moderate,153,"PM , PM
+10 2.5",3/3,2024-01-27
+Bhopal,Moderate,177,"O , PM
+3 2.5",3/3,2024-01-28
+Bhopal,Moderate,176,"PM
+2.5",2/3,2024-01-29
+Bhopal,Moderate,134,"PM
+2.5",3/3,2024-01-30
+Bhopal,Moderate,146,"PM , PM
+10 2.5",3/3,2024-01-31
+Bhopal,Moderate,140,"PM , PM
+10 2.5",3/3,2024-02-01
+Bhopal,Moderate,106,"PM
+10",3/3,2024-02-02
+Bhopal,Moderate,139,"PM
+2.5",3/3,2024-02-03
+Bhopal,Moderate,139,"PM
+10",3/3,2024-02-04
+Bhopal,Moderate,102,"PM
+10",3/3,2024-02-05
+Bhopal,Moderate,117,"PM
+10",3/3,2024-02-06
+Bhopal,Moderate,107,"PM
+10",3/3,2024-02-07
+Bhopal,Moderate,102,"PM
+10",3/3,2024-02-08
+Bhopal,Moderate,112,"PM , O
+10 3",3/3,2024-02-09
+Bhopal,Satisfactory,94,"PM , O
+10 3",3/3,2024-02-10
+Bhopal,Satisfactory,96,"PM
+10",3/3,2024-02-11
+Bhopal,Moderate,127,"PM , PM
+10 2.5",3/3,2024-02-12
+Bhopal,Poor,215,"PM
+2.5",3/3,2024-02-13
+Bhopal,Poor,232,"PM
+2.5",3/3,2024-02-14
+Bhopal,Moderate,183,"PM
+2.5",3/3,2024-02-15
+Bhopal,Moderate,131,"PM , PM
+10 2.5",3/3,2024-02-16
+Bhopal,Moderate,132,"PM , PM
+10 2.5",3/3,2024-02-17
+Bhopal,Moderate,126,"PM , PM
+10 2.5",3/3,2024-02-18
+Bhopal,Moderate,125,"PM
+10",3/3,2024-02-19
+Bhopal,Satisfactory,91,"PM
+10",3/3,2024-02-20
+Bhopal,Satisfactory,100,"PM
+10",3/3,2024-02-21
+Bhopal,Moderate,108,"PM
+10",3/3,2024-02-22
+Bhopal,Moderate,125,"PM
+10",3/3,2024-02-23
+Bhopal,Moderate,101,"PM
+10",3/3,2024-02-24
+Bhopal,Moderate,114,"PM
+10",3/3,2024-02-25
+Bhopal,Satisfactory,98,"PM
+10",2/3,2024-02-26
+Bhopal,Moderate,115,"PM
+10",3/3,2024-02-27
+Bhopal,Moderate,125,"PM
+10",3/3,2024-02-29
+Bhopal,Moderate,113,"PM
+10",3/3,2024-03-01
+Bhopal,Satisfactory,76,"PM
+10",3/3,2024-03-02
+Bhopal,Satisfactory,76,"PM
+10",3/3,2024-03-03
+Bhopal,Satisfactory,85,"O
+3",3/3,2024-03-04
+Bhopal,Satisfactory,93,"PM , O
+10 3",3/3,2024-03-05
+Bhopal,Satisfactory,96,"PM , O
+10 3",3/3,2024-03-06
+Bhopal,Moderate,102,"PM , O
+10 3",3/3,2024-03-07
+Bhopal,Moderate,102,"PM , O
+10 3",3/3,2024-03-08
+Bhopal,Satisfactory,96,"PM , O
+10 3",3/3,2024-03-09
+Bhopal,Satisfactory,99,"PM , O
+10 3",3/3,2024-03-10
+Bhopal,Moderate,101,"PM , O
+10 3",3/3,2024-03-11
+Bhopal,Moderate,126,"PM
+10",3/3,2024-03-12
+Bhopal,Satisfactory,81,"PM
+10",3/3,2024-03-13
+Bhopal,Satisfactory,100,"PM
+10",3/3,2024-03-14
+Bhopal,Moderate,109,"PM
+10",3/3,2024-03-15
+Bhopal,Moderate,116,"PM
+10",3/3,2024-03-16
+Bhopal,Moderate,106,"PM
+10",3/3,2024-03-17
+Bhopal,Moderate,105,"PM
+10",3/3,2024-03-18
+Bhopal,Moderate,105,"PM
+10",3/3,2024-03-19
+Bhopal,Satisfactory,92,"PM , O
+10 3",3/3,2024-03-20
+Bhopal,Moderate,107,"PM , O
+10 3",3/3,2024-03-21
+Bhopal,Moderate,106,"PM
+10",3/3,2024-03-22
+Bhopal,Moderate,122,"PM
+10",3/3,2024-03-23
+Bhopal,Moderate,108,"PM
+10",3/3,2024-03-24
+Bhopal,Moderate,138,"PM
+10",3/3,2024-03-25
+Bhopal,Moderate,102,"PM
+10",3/3,2024-03-26
+Bhopal,Moderate,112,"PM
+10",3/3,2024-03-27
+Bhopal,Moderate,150,"PM
+10",3/3,2024-03-28
+Bhopal,Moderate,116,"PM
+10",3/3,2024-03-29
+Bhopal,Moderate,115,"PM
+10",3/3,2024-03-30
+Bhopal,Satisfactory,98,"PM
+10",3/3,2024-03-31
+Bhopal,Moderate,106,"PM
+10",3/3,2024-04-01
+Bhopal,Moderate,129,"PM
+10",3/3,2024-04-02
+Bhopal,Moderate,136,"PM
+10",3/3,2024-04-03
+Bhopal,Moderate,108,"PM
+10",3/3,2024-04-04
+Bhopal,Moderate,110,"PM
+10",3/3,2024-04-05
+Bhopal,Moderate,110,"PM
+10",3/3,2024-04-06
+Bhopal,Moderate,117,"PM
+10",3/3,2024-04-07
+Bhopal,Satisfactory,96,"PM
+10",3/3,2024-04-08
+Bhopal,Satisfactory,93,"O , PM
+3 10",3/3,2024-04-09
+Bhopal,Satisfactory,80,"PM
+10",3/3,2024-04-10
+Bhopal,Satisfactory,68,"O
+3",2/3,2024-04-11
+Bhopal,Satisfactory,75,"O , PM
+3 10",3/3,2024-04-12
+Bhopal,Satisfactory,68,"O , PM
+3 10",3/3,2024-04-13
+Bhopal,Satisfactory,69,"O , PM
+3 10",3/3,2024-04-14
+Bhopal,Moderate,104,"PM
+10",3/3,2024-04-15
+Bhopal,Satisfactory,85,"PM
+10",3/3,2024-04-16
+Bhopal,Satisfactory,90,"O , PM
+3 10",3/3,2024-04-17
+Bhopal,Moderate,102,"O , PM
+3 10",3/3,2024-04-18
+Bhopal,Satisfactory,93,"PM
+10",3/3,2024-04-19
+Bhopal,Satisfactory,91,"PM
+10",3/3,2024-04-20
+Bhopal,Satisfactory,82,"O , PM
+3 10",3/3,2024-04-21
+Bhopal,Satisfactory,81,"O , PM
+3 10",3/3,2024-04-22
+Bhopal,Satisfactory,80,"PM , O
+10 3",3/3,2024-04-23
+Bhopal,Satisfactory,87,"PM , O
+10 3",3/3,2024-04-24
+Bhopal,Satisfactory,79,"PM
+10",3/3,2024-04-25
+Bhopal,Satisfactory,79,"PM , O
+10 3",3/3,2024-04-26
+Bhopal,Satisfactory,76,"O
+3",3/3,2024-04-27
+Bhopal,Satisfactory,99,"PM
+10",3/3,2024-04-28
+Bhopal,Satisfactory,87,"PM
+10",3/3,2024-04-29
+Bhopal,Moderate,105,"PM
+10",2/3,2024-04-30
+Bhopal,Moderate,130,"PM
+10",2/3,2024-05-01
+Bhopal,Moderate,126,"PM , O
+10 3",3/3,2024-05-02
+Bhopal,Moderate,131,"PM , O
+10 3",3/3,2024-05-03
+Bhopal,Moderate,128,"PM
+10",3/3,2024-05-04
+Bhopal,Moderate,109,"PM
+10",3/3,2024-05-05
+Bhopal,Satisfactory,85,"PM
+10",3/3,2024-05-06
+Bhopal,Moderate,102,"PM
+10",3/3,2024-05-07
+Bhopal,Satisfactory,90,"PM
+10",3/3,2024-05-08
+Bhopal,Moderate,105,"PM
+10",3/3,2024-05-09
+Bhopal,Satisfactory,77,"PM
+10",3/3,2024-05-10
+Bhopal,Satisfactory,89,"O
+3",3/3,2024-05-11
+Bhopal,Moderate,109,"PM , O
+10 3",3/3,2024-05-12
+Bhopal,Satisfactory,77,"O
+3",3/3,2024-05-13
+Bhopal,Satisfactory,86,"O
+3",3/3,2024-05-14
+Bhopal,Satisfactory,89,"O
+3",3/3,2024-05-15
+Bhopal,Moderate,102,"O
+3",3/3,2024-05-16
+Bhopal,Satisfactory,95,"PM , O
+10 3",3/3,2024-05-17
+Bhopal,Moderate,103,"O
+3",3/3,2024-05-18
+Bhopal,Satisfactory,93,"PM , O
+10 3",3/3,2024-05-19
+Bhopal,Satisfactory,88,"PM , O
+10 3",2/3,2024-05-20
+Bhopal,Satisfactory,98,"PM , O
+10 3",3/3,2024-05-21
+Bhopal,Moderate,102,"PM , O
+10 3",3/3,2024-05-22
+Bhopal,Satisfactory,93,"PM , O
+10 3",3/3,2024-05-23
+Bhopal,Moderate,101,"PM , O
+10 3",2/3,2024-05-24
+Bhopal,Moderate,104,"PM
+10",2/3,2024-05-25
+Bhopal,Moderate,106,"PM
+10",3/3,2024-05-26
+Bhopal,Moderate,121,"PM
+10",3/3,2024-05-27
+Bhopal,Moderate,121,"PM
+10",3/3,2024-05-28
+Bhopal,Moderate,117,"PM
+10",3/3,2024-05-29
+Bhopal,Moderate,116,"PM
+10",3/3,2024-05-30
+Bhopal,Moderate,128,"PM
+10",3/3,2024-05-31
+Bhopal,Moderate,113,"PM
+10",3/3,2024-06-01
+Bhopal,Satisfactory,92,"PM
+10",3/3,2024-06-02
+Bhopal,Moderate,116,"PM
+10",3/3,2024-06-03
+Bhopal,Satisfactory,88,"PM
+10",3/3,2024-06-04
+Bhopal,Satisfactory,68,"O
+3",3/3,2024-06-05
+Bhopal,Satisfactory,97,"PM
+10",3/3,2024-06-06
+Bhopal,Moderate,144,"PM
+10",3/3,2024-06-07
+Bhopal,Moderate,129,"PM
+10",3/3,2024-06-08
+Bhopal,Moderate,103,"PM
+10",3/3,2024-06-09
+Bhopal,Satisfactory,78,"PM , O
+10 3",3/3,2024-06-10
+Bhopal,Satisfactory,89,"PM
+10",3/3,2024-06-11
+Bhopal,Satisfactory,78,"PM , O
+10 3",3/3,2024-06-12
+Bhopal,Satisfactory,62,"PM , O
+10 3",3/3,2024-06-13
+Bhopal,Satisfactory,76,"PM , O
+10 3",3/3,2024-06-14
+Bhopal,Satisfactory,74,"PM , CO, O
+10 3",3/3,2024-06-15
+Bhopal,Satisfactory,77,"PM , CO, O
+10 3",3/3,2024-06-16
+Bhopal,Satisfactory,91,"PM , CO
+10",2/3,2024-06-17
+Bhopal,Satisfactory,80,"PM
+10",3/3,2024-06-18
+Bhopal,Good,40,"PM , O
+10 3",3/3,2024-06-19
+Bhopal,Satisfactory,57,"PM
+10",3/3,2024-06-20
+Bhopal,Satisfactory,57,"PM , CO
+10",3/3,2024-06-21
+Bhopal,Good,48,"PM
+10",2/3,2024-06-22
+Bhopal,Satisfactory,51,"PM , O
+10 3",3/3,2024-06-23
+Bhopal,Good,49,"PM , CO, O
+10 3",3/3,2024-06-24
+Bhopal,Satisfactory,53,"O , PM
+3 10",3/3,2024-06-25
+Bhopal,Satisfactory,54,"PM , CO
+10",3/3,2024-06-26
+Bhopal,Good,35,"CO, O
+3",3/3,2024-06-27
+Bhopal,Good,40,"PM
+10",3/3,2024-06-28
+Bhopal,Good,35,"O , PM
+3 10",3/3,2024-06-29
+Bhopal,Good,33,"CO, PM
+10",3/3,2024-06-30
+Bhopal,Good,35,"CO, PM
+10",3/3,2024-07-01
+Bhopal,Good,46,"NO , PM
+2 10",3/3,2024-07-02
+Bhopal,Satisfactory,61,"PM , NO
+10 2",3/3,2024-07-03
+Bhopal,Satisfactory,81,"PM
+10",3/3,2024-07-04
+Bhopal,Good,47,"PM
+10",3/3,2024-07-05
+Bhopal,Good,43,"PM
+10",3/3,2024-07-06
+Bhopal,Satisfactory,72,"PM
+10",3/3,2024-07-07
+Bhopal,Satisfactory,69,"PM
+10",3/3,2024-07-08
+Bhopal,Good,48,"PM , CO
+10",3/3,2024-07-09
+Bhopal,Good,47,"PM
+10",3/3,2024-07-10
+Bhopal,Satisfactory,52,"PM
+10",2/3,2024-07-11
+Bhopal,Satisfactory,53,"PM
+10",3/3,2024-07-12
+Bhopal,Good,41,"PM , NO
+10 2",3/3,2024-07-13
+Bhopal,Good,48,"NO , PM
+2 10",3/3,2024-07-14
+Bhopal,Good,48,"PM , NO
+10 2",3/3,2024-07-15
+Bhopal,Satisfactory,82,"PM
+10",3/3,2024-07-16
+Bhopal,Satisfactory,84,"PM , NO
+10 2",2/3,2024-07-17
+Bhopal,Satisfactory,60,"PM , NO
+10 2",2/3,2024-07-18
+Bhopal,Satisfactory,71,"PM , NO
+10 2",3/3,2024-07-19
+Bhopal,Satisfactory,69,"PM , NO
+10 2",3/3,2024-07-20
+Bhopal,Satisfactory,63,"PM , NO
+10 2",3/3,2024-07-21
+Bhopal,Satisfactory,54,"PM , NO
+10 2",3/3,2024-07-22
+Bhopal,Good,36,CO,1/3,2024-07-23
+Bhopal,Good,34,"PM , CO
+10",3/3,2024-07-24
+Bhopal,Good,32,"PM , CO, O
+10 3",3/3,2024-07-25
+Bhopal,Good,36,"PM , O
+10 3",3/3,2024-07-26
+Bhopal,Satisfactory,57,"PM
+10",3/3,2024-07-27
+Bhopal,Good,36,"O , PM
+3 10",2/3,2024-07-28
+Bhopal,Good,44,"PM
+10",3/3,2024-07-29
+Bhopal,Good,38,"O , PM
+3 10",3/3,2024-07-30
+Bhopal,Satisfactory,66,"PM
+10",3/3,2024-07-31
+Bhopal,Satisfactory,62,"PM
+10",3/3,2024-08-01
+Bhopal,Good,33,"O , PM
+3 10",3/3,2024-08-02
+Bhopal,Good,32,"O , PM
+3 10",3/3,2024-08-03
+Bhopal,Good,37,"PM , O
+10 3",3/3,2024-08-04
+Bhopal,Good,34,"PM , O
+10 3",3/3,2024-08-05
+Bhopal,Good,40,"PM
+10",3/3,2024-08-06
+Bhopal,Satisfactory,72,"PM
+10",3/3,2024-08-07
+Bhopal,Satisfactory,79,"PM
+10",3/3,2024-08-08
+Bhopal,Satisfactory,66,"PM
+10",3/3,2024-08-09
+Bhopal,Satisfactory,62,"PM
+10",3/3,2024-08-10
+Bhopal,Good,42,"PM
+10",3/3,2024-08-11
+Bhopal,Good,44,"PM
+10",2/3,2024-08-12
+Bhopal,Good,47,"PM
+10",3/3,2024-08-13
+Bhopal,Satisfactory,59,"PM
+10",3/3,2024-08-14
+Bhopal,Satisfactory,71,"PM
+10",3/3,2024-08-15
+Bhopal,Satisfactory,62,"PM
+10",3/3,2024-08-16
+Bhopal,Satisfactory,66,"PM
+10",2/3,2024-08-17
+Bhopal,Satisfactory,84,"PM
+10",3/3,2024-08-18
+Bhopal,Satisfactory,83,"PM
+10",3/3,2024-08-19
+Bhopal,Satisfactory,58,"PM
+10",3/3,2024-08-20
+Bhopal,Satisfactory,52,"PM
+10",3/3,2024-08-21
+Bhopal,Satisfactory,78,"PM
+10",3/3,2024-08-22
+Bhopal,Good,44,"PM , O
+10 3",3/3,2024-08-23
+Bhopal,Good,44,"O , PM
+3 10",3/3,2024-08-24
+Bhopal,Good,36,"CO, O
+3",3/3,2024-08-25
+Bhopal,Good,32,"CO, O
+3",3/3,2024-08-26
+Bhopal,Good,44,"PM
+10",3/3,2024-08-27
+Bhopal,Satisfactory,51,"PM
+10",3/3,2024-08-28
+Bhopal,Good,46,"PM
+10",2/3,2024-08-29
+Bhopal,Satisfactory,57,"PM
+10",3/3,2024-08-30
+Bhopal,Good,47,"PM , O
+10 3",3/3,2024-08-31
+Bhopal,Satisfactory,66,"PM
+10",3/3,2024-09-01
+Bhopal,Good,49,"PM
+10",3/3,2024-09-02
+Bhopal,Satisfactory,72,"PM
+10",3/3,2024-09-03
+Bhopal,Good,44,"PM
+10",3/3,2024-09-04
+Bhopal,Good,46,"PM
+10",3/3,2024-09-05
+Bhopal,Satisfactory,59,"PM
+10",3/3,2024-09-06
+Bhopal,Good,42,"PM , O
+10 3",3/3,2024-09-07
+Bhopal,Satisfactory,54,"PM
+10",3/3,2024-09-08
+Bhopal,Satisfactory,55,"PM , O
+2.5 3",3/3,2024-09-09
+Bhopal,Satisfactory,52,"PM , O
+10 3",3/3,2024-09-10
+Bhopal,Good,44,"PM , O
+10 3",3/3,2024-09-11
+Bhopal,Satisfactory,61,"PM
+10",2/3,2024-09-12
+Bhopal,Satisfactory,93,"PM
+10",3/3,2024-09-13
+Bhopal,Satisfactory,93,"PM
+10",3/3,2024-09-14
+Bhopal,Satisfactory,72,"PM
+10",3/3,2024-09-15
+Bhopal,Satisfactory,93,"PM
+10",3/3,2024-09-16
+Bhopal,Moderate,103,"PM
+10",3/3,2024-09-17
+Bhopal,Satisfactory,55,"O , PM
+3 10",3/3,2024-09-18
+Bhopal,Satisfactory,69,"PM
+10",3/3,2024-09-19
+Bhopal,Satisfactory,96,"PM , PM
+10 2.5",3/3,2024-09-20
+Bhopal,Satisfactory,91,"PM
+10",3/3,2024-09-21
+Bhopal,Satisfactory,97,"PM , PM
+10 2.5",3/3,2024-09-22
+Bhopal,Moderate,109,"PM
+10",2/3,2024-09-23
+Bhopal,Satisfactory,79,"PM
+10",3/3,2024-09-24
+Bhopal,Satisfactory,70,"PM
+10",2/3,2024-09-25
+Bhopal,Satisfactory,57,"PM
+10",3/3,2024-09-26
+Bhopal,Good,42,"PM , O
+10 3",3/3,2024-09-27
+Bhopal,Good,33,"PM , O
+10 3",3/3,2024-09-28
+Bhopal,Good,43,"O
+3",2/3,2024-09-29
+Bhopal,Good,46,"O
+3",3/3,2024-09-30
+Bhopal,Satisfactory,74,"O
+3",3/3,2024-10-01
+Bhopal,Satisfactory,80,"PM
+10",3/3,2024-10-02
+Bhopal,Satisfactory,91,"PM
+10",3/3,2024-10-03
+Bhopal,Satisfactory,100,"PM
+10",2/3,2024-10-04
+Bhopal,Moderate,102,"PM
+10",3/3,2024-10-05
+Bhopal,Moderate,105,"PM
+10",3/3,2024-10-06
+Bhopal,Moderate,125,"PM
+10",3/3,2024-10-07
+Bhopal,Moderate,127,"PM
+10",3/3,2024-10-08
+Bhopal,Moderate,131,"PM , PM
+10 2.5",3/3,2024-10-09
+Bhopal,Moderate,121,"PM
+10",3/3,2024-10-10
+Bhopal,Moderate,128,"PM
+10",3/3,2024-10-11
+Bhopal,Satisfactory,85,"PM
+10",3/3,2024-10-12
+Bhopal,Moderate,105,"PM
+10",3/3,2024-10-13
+Bhopal,Satisfactory,72,"O , PM
+3 2.5",2/3,2024-10-14
+Bhopal,Satisfactory,87,"PM
+10",3/3,2024-10-15
+Bhopal,Moderate,150,"PM , PM
+10 2.5",3/3,2024-10-16
+Bhopal,Moderate,136,"PM , PM
+10 2.5",3/3,2024-10-17
+Bhopal,Moderate,121,"O , PM
+3 10",3/3,2024-10-18
+Bhopal,Moderate,125,"PM
+10",3/3,2024-10-19
+Bhopal,Satisfactory,92,"PM , O
+10 3",2/3,2024-10-20
+Bhopal,Satisfactory,74,"O , PM
+3 10",2/3,2024-10-21
+Bhopal,Moderate,131,"PM , O
+2.5 3",3/3,2024-10-22
+Bhopal,Moderate,200,"PM
+2.5",3/3,2024-10-23
+Bhopal,Moderate,167,"PM , PM
+10 2.5",3/3,2024-10-24
+Bhopal,Moderate,151,"PM , PM
+2.5 10",3/3,2024-10-25
+Bhopal,Moderate,137,"PM
+10",3/3,2024-10-26
+Bhopal,Moderate,171,"PM , O
+10 3",3/3,2024-10-27
+Bhopal,Moderate,147,"PM , PM
+2.5 10",3/3,2024-10-28
+Bhopal,Moderate,135,"PM , O
+10 3",3/3,2024-10-29
+Bhopal,Moderate,157,"PM , PM
+10 2.5",3/3,2024-10-30
+Bhopal,Moderate,159,"PM , PM
+2.5 10",3/3,2024-10-31
+Bhopal,Moderate,194,"PM , O
+10 3",3/3,2024-11-01
+Bhopal,Moderate,200,"O , PM
+3 10",2/3,2024-11-02
+Bhopal,Moderate,196,"PM , PM , O
+10 2.5 3",3/3,2024-11-03
+Bhopal,Moderate,170,"O , PM
+3 10",3/3,2024-11-04
+Bhopal,Moderate,187,"O , PM , PM
+3 10 2.5",3/3,2024-11-05
+Bhopal,Poor,222,"PM
+2.5",3/3,2024-11-06
+Bhopal,Poor,255,"PM
+2.5",3/3,2024-11-07
+Bhopal,Poor,264,"PM
+2.5",3/3,2024-11-08
+Bhopal,Poor,275,"PM
+2.5",3/3,2024-11-09
+Bhopal,Poor,209,"PM
+2.5",3/3,2024-11-10
+Bhopal,Poor,224,"PM , O
+2.5 3",3/3,2024-11-11
+Bhopal,Poor,226,"PM
+2.5",3/3,2024-11-12
+Bhopal,Poor,279,"PM
+2.5",3/3,2024-11-13
+Bhopal,Poor,207,"PM , O
+2.5 3",3/3,2024-11-14
+Bhopal,Poor,231,"O , PM
+3 2.5",3/3,2024-11-15
+Bhopal,Poor,252,"PM , O
+2.5 3",3/3,2024-11-16
+Bhopal,Poor,224,"PM , O
+2.5 3",3/3,2024-11-17
+Bhopal,Poor,214,"PM , O
+2.5 3",3/3,2024-11-18
+Bhopal,Poor,268,"PM , O
+2.5 3",3/3,2024-11-19
+Bhopal,Poor,211,"PM , O
+2.5 3",3/3,2024-11-20
+Bhopal,Poor,265,"PM , O
+2.5 3",3/3,2024-11-21
+Bhopal,Poor,262,"PM , O
+2.5 3",3/3,2024-11-22
+Bhopal,Poor,286,"O , PM
+3 2.5",3/3,2024-11-23
+Bhopal,Poor,202,"PM , O
+2.5 3",3/3,2024-11-24
+Bhopal,Moderate,180,"PM
+2.5",3/3,2024-11-25
+Bhopal,Moderate,153,"PM , O
+2.5 3",3/3,2024-11-26
+Bhopal,Moderate,183,"PM
+2.5",3/3,2024-11-27
+Bhopal,Moderate,179,"O , PM , PM
+3 10 2.5",3/3,2024-11-28
+Bhopal,Moderate,195,"PM , PM , O
+10 2.5 3",3/3,2024-11-29
+Bhopal,Poor,259,"O , PM
+3 2.5",3/3,2024-11-30
+Bhopal,Poor,294,"O , PM
+3 2.5",3/3,2024-12-01
+Bhopal,Poor,260,"PM
+2.5",3/3,2024-12-02
+Bhopal,Poor,234,"PM
+2.5",3/3,2024-12-03
+Bhopal,Moderate,172,"O , PM
+3 2.5",3/3,2024-12-04
+Bhopal,Moderate,166,"PM , PM , O
+10 2.5 3",3/3,2024-12-05
+Bhopal,Moderate,152,"PM , O
+10 3",3/3,2024-12-06
+Bhopal,Moderate,159,"O , PM , PM
+3 2.5 10",3/3,2024-12-07
+Bhopal,Moderate,156,"O , PM , PM
+3 2.5 10",3/3,2024-12-08
+Bhopal,Moderate,104,"PM , O
+10 3",3/3,2024-12-09
+Bhopal,Moderate,130,"PM , O
+10 3",3/3,2024-12-10
+Bhopal,Moderate,152,"PM , O , PM
+10 3 2.5",3/3,2024-12-11
+Bhopal,Moderate,170,"PM , PM , O
+2.5 10 3",3/3,2024-12-12
+Bhopal,Moderate,152,"PM , PM , O
+10 2.5 3",3/3,2024-12-13
+Bhopal,Moderate,147,"PM , O
+2.5 3",3/3,2024-12-14
+Bhopal,Moderate,184,"PM
+2.5",2/3,2024-12-15
+Bhopal,Moderate,169,"PM , PM
+10 2.5",3/3,2024-12-16
+Bhopal,Poor,201,"PM
+2.5",3/3,2024-12-17
+Bhopal,Moderate,162,"PM , PM
+10 2.5",3/3,2024-12-18
+Bhopal,Moderate,188,"PM , O
+2.5 3",3/3,2024-12-19
+Bhopal,Poor,246,"PM
+2.5",3/3,2024-12-20
+Bhopal,Poor,240,"PM
+2.5",3/3,2024-12-21
+Bhopal,Moderate,112,"O , PM , PM
+3 2.5 10",3/3,2024-12-22
+Bhopal,Moderate,162,"PM , PM
+2.5 10",3/3,2024-12-23
+Bhopal,Poor,221,"PM
+2.5",3/3,2024-12-24
+Bhopal,Poor,282,"PM
+2.5",3/3,2024-12-25
+Bhopal,Poor,300,"PM
+2.5",2/3,2024-12-26
+Bhopal,Moderate,183,"PM
+2.5",3/3,2024-12-27
+Bhopal,Satisfactory,64,"PM
+10",1/3,2024-12-28
+Bhopal,Satisfactory,76,"PM , PM
+10 2.5",3/3,2024-12-29
+Bhopal,Moderate,114,"PM , PM
+10 2.5",3/3,2024-12-30
+Bhopal,Moderate,132,"PM , O
+2.5 3",3/3,2024-12-31
+Bhopal,Moderate,143,"PM
+2.5",3/3,2025-01-02
+Bhopal,Moderate,153,"O , PM
+3 2.5",3/3,2025-01-03
+Bhopal,Moderate,153,"PM , PM , O
+2.5 10 3",3/3,2025-01-04
+Bhopal,Moderate,131,"PM , PM
+2.5 10",3/3,2025-01-05
+Bhopal,Moderate,136,"PM , PM
+2.5 10",2/3,2025-01-06
+Bhopal,Moderate,131,"PM , PM
+10 2.5",3/3,2025-01-07
+Bhopal,Moderate,121,"O , PM , PM
+3 10 2.5",3/3,2025-01-08
+Bhopal,Moderate,153,"PM
+2.5",3/3,2025-01-09
+Bhopal,Moderate,131,"O , PM
+3 10",3/3,2025-01-10
+Bhopal,Moderate,113,"PM
+10",1/3,2025-01-11
+Bhopal,Moderate,164,"PM , PM
+2.5 10",3/3,2025-01-12
+Bhopal,Moderate,142,"PM , PM
+2.5 10",3/3,2025-01-13
+Bhopal,Moderate,167,"PM
+2.5",3/3,2025-01-14
+Bhopal,Moderate,116,"PM , PM
+2.5 10",3/3,2025-01-15
+Bhopal,Moderate,144,"PM , PM
+2.5 10",3/3,2025-01-16
+Bhopal,Poor,250,"PM
+2.5",3/3,2025-01-17
+Bhopal,Moderate,154,"PM
+2.5",3/3,2025-01-18
+Bhopal,Moderate,143,"PM , PM
+2.5 10",3/3,2025-01-19
+Bhopal,Moderate,110,"PM , PM
+2.5 10",3/3,2025-01-20
+Bhopal,Moderate,131,"PM , PM , O
+2.5 10 3",3/3,2025-01-21
+Bhopal,Moderate,117,"PM , PM
+10 2.5",3/3,2025-01-22
+Bhopal,Moderate,145,"PM , O
+2.5 3",3/3,2025-01-23
+Bhopal,Moderate,128,"PM
+2.5",3/3,2025-01-24
+Bhopal,Moderate,104,"PM
+10",3/3,2025-01-25
+Bhopal,Moderate,105,"O , PM
+3 10",3/3,2025-01-26
+Bhopal,Satisfactory,96,"PM , O
+10 3",3/3,2025-01-27
+Bhopal,Moderate,103,"PM , O
+10 3",3/3,2025-01-28
+Bhopal,Moderate,128,"O , PM
+3 10",3/3,2025-01-29
+Bhopal,Moderate,133,"PM , PM
+10 2.5",3/3,2025-01-30
+Bhopal,Satisfactory,95,"PM , O
+10 3",3/3,2025-01-31
+Bhopal,Moderate,128,"O , PM , PM
+3 2.5 10",3/3,2025-02-01
+Bhopal,Moderate,114,"O , PM
+3 10",3/3,2025-02-02
+Bhopal,Moderate,126,"PM , O
+10 3",3/3,2025-02-03
+Bhopal,Moderate,128,"O , PM
+3 10",3/3,2025-02-04
+Bhopal,Moderate,112,"PM
+10",3/3,2025-02-05
+Bhopal,Moderate,107,"PM
+10",3/3,2025-02-06
+Bhopal,Satisfactory,93,"PM , O
+10 3",3/3,2025-02-07
+Bhopal,Moderate,110,"O , PM
+3 10",3/3,2025-02-08
+Bhopal,Moderate,131,"O , PM
+3 10",3/3,2025-02-09
+Bhopal,Moderate,123,"PM
+10",3/3,2025-02-10
+Bhopal,Moderate,116,"PM
+10",2/3,2025-02-11
+Bhopal,Moderate,136,"O , PM
+3 10",2/3,2025-02-12
+Bhopal,Moderate,101,"PM , O
+10 3",3/3,2025-02-13
+Bhopal,Satisfactory,97,"PM , O
+10 3",3/3,2025-02-14
+Bhopal,Moderate,109,"O , PM
+3 10",3/3,2025-02-15
+Bhopal,Moderate,113,"PM , O
+10 3",3/3,2025-02-16
+Bhopal,Moderate,129,"PM
+10",2/3,2025-02-17
+Bhopal,Moderate,123,"PM
+10",3/3,2025-02-18
+Bhopal,Moderate,128,"PM , O
+10 3",3/3,2025-02-19
+Bhopal,Moderate,128,"PM
+10",3/3,2025-02-20
+Bhopal,Satisfactory,88,"O , PM
+3 10",3/3,2025-02-21
+Bhopal,Moderate,116,"PM
+10",3/3,2025-02-22
+Bhopal,Moderate,130,"PM , O
+10 3",3/3,2025-02-23
+Bhopal,Moderate,102,"PM
+10",3/3,2025-02-24
+Bhopal,Satisfactory,95,"PM , O
+10 3",3/3,2025-02-25
+Bhopal,Satisfactory,93,"O , PM
+3 10",3/3,2025-02-26
+Bhopal,Moderate,122,"PM , O
+10 3",3/3,2025-02-27
+Bhopal,Moderate,141,"PM , O
+10 3",3/3,2025-02-28
+Bhopal,Moderate,115,"O , PM
+3 10",3/3,2025-03-01
+Bhopal,Moderate,118,"PM
+10",3/3,2025-03-02
+Bhopal,Moderate,114,"PM
+10",3/3,2025-03-03
+Bhopal,Moderate,126,"PM
+10",2/3,2025-03-04
+Bhopal,Moderate,119,"PM
+10",3/3,2025-03-05
+Bhopal,Satisfactory,89,"O , PM
+3 10",3/3,2025-03-06
+Bhopal,Moderate,113,"PM , O
+10 3",3/3,2025-03-07
+Bhopal,Satisfactory,94,"PM , O
+10 3",3/3,2025-03-08
+Bhopal,Satisfactory,95,"PM , O
+10 3",3/3,2025-03-09
+Bhopal,Moderate,114,"PM , O
+10 3",3/3,2025-03-10
+Bhopal,Moderate,127,"PM , O
+10 3",3/3,2025-03-11
+Bhopal,Moderate,139,"PM , O
+10 3",3/3,2025-03-12
+Bhopal,Moderate,108,"O , PM
+3 10",3/3,2025-03-13
+Bhopal,Satisfactory,93,"PM , O
+10 3",3/3,2025-03-14
+Bhopal,Moderate,107,"O , PM
+3 10",3/3,2025-03-15
+Bhopal,Satisfactory,98,"PM , O
+10 3",3/3,2025-03-16
+Bhopal,Moderate,112,"PM , O
+10 3",3/3,2025-03-17
+Bhopal,Moderate,114,"O , PM
+3 10",3/3,2025-03-18
+Bhopal,Moderate,141,"PM , O
+10 3",3/3,2025-03-19
+Bhopal,Moderate,188,"O
+3",2/3,2025-03-20
+Bhopal,Moderate,120,"PM , O
+10 3",3/3,2025-03-21
+Bhopal,Moderate,122,"O , PM
+3 10",3/3,2025-03-22
+Bhopal,Moderate,105,"O , PM
+3 10",3/3,2025-03-23
+Bhopal,Satisfactory,88,"O , PM
+3 10",2/3,2025-03-24
+Bhopal,Moderate,134,"PM , O
+10 3",3/3,2025-03-25
+Bhopal,Moderate,142,"O , PM
+3 10",3/3,2025-03-26
+Bhopal,Moderate,155,"PM , O
+10 3",3/3,2025-03-27
+Bhopal,Moderate,135,"PM , O
+10 3",3/3,2025-03-28
+Bhopal,Moderate,125,"O , PM
+3 10",3/3,2025-03-29
+Bhopal,Moderate,148,"O , PM
+3 10",3/3,2025-03-30
+Bhopal,Moderate,136,"PM , O
+10 3",3/3,2025-03-31
+Bhopal,Moderate,164,"O , PM
+3 10",3/3,2025-04-01
+Bhopal,Moderate,155,"O , PM
+3 10",3/3,2025-04-02
+Bhopal,Moderate,144,"PM , O
+10 3",3/3,2025-04-03
+Bhopal,Moderate,146,"PM , O
+2.5 3",3/3,2025-04-04
+Bhopal,Moderate,115,"PM , O
+10 3",3/3,2025-04-05
+Bhopal,Moderate,114,"PM , O
+10 3",3/3,2025-04-06
+Bhopal,Moderate,111,"O , PM
+3 10",3/3,2025-04-07
+Bhopal,Moderate,141,"O , PM
+3 10",3/3,2025-04-08
+Bhopal,Moderate,142,"PM , O
+10 3",2/3,2025-04-09
+Bhopal,Moderate,132,"PM , O
+10 3",2/3,2025-04-10
+Bhopal,Moderate,124,"PM , O
+10 3",3/3,2025-04-11
+Bhopal,Moderate,109,"PM
+10",3/3,2025-04-12
+Bhopal,Moderate,121,"PM , O
+10 3",3/3,2025-04-13
+Bhopal,Moderate,157,"PM , O , PM
+2.5 3 10",3/3,2025-04-14
+Bhopal,Moderate,150,"O , PM
+3 10",3/3,2025-04-15
+Bhopal,Moderate,133,"O , PM
+3 10",3/3,2025-04-16
+Bhopal,Moderate,112,"O , PM
+3 10",3/3,2025-04-17
+Bhopal,Satisfactory,95,"O , PM
+3 10",3/3,2025-04-18
+Bhopal,Moderate,122,"PM , O
+10 3",3/3,2025-04-19
+Bhopal,Moderate,140,"PM , O
+10 3",3/3,2025-04-20
+Bhopal,Moderate,151,"O , PM
+3 10",3/3,2025-04-21
+Bhopal,Moderate,186,"O , PM
+3 10",2/3,2025-04-22
+Bhopal,Moderate,150,"PM , O
+10 3",3/3,2025-04-23
+Bhopal,Moderate,179,"O , PM
+3 10",2/3,2025-04-24
+Bhopal,Moderate,129,"PM , O
+10 3",3/3,2025-04-25
+Bhopal,Moderate,151,"O , PM
+3 10",3/3,2025-04-26
+Bhopal,Moderate,142,"O , PM
+3 10",2/3,2025-04-27
+Bhopal,Moderate,124,"O , PM
+3 10",3/3,2025-04-28
+Bhopal,Moderate,109,"PM
+10",3/3,2025-04-29
+Bhopal,Moderate,151,"O , PM
+3 10",3/3,2025-04-30
+Bhopal,Moderate,132,"O , PM
+3 10",3/3,2025-05-01
+Bhopal,Moderate,117,"PM , O
+10 3",3/3,2025-05-02
+Bhopal,Moderate,135,"PM , O
+10 3",3/3,2025-05-03
+Bhopal,Moderate,125,"PM , O
+10 3",3/3,2025-05-04
+Bhopal,Satisfactory,87,"O , PM
+3 10",2/3,2025-05-05
+Bhopal,Satisfactory,58,"PM
+10",2/3,2025-05-06
+Bhopal,Satisfactory,90,"O , PM
+3 10",3/3,2025-05-07
+Bhopal,Satisfactory,65,"O , PM
+3 10",3/3,2025-05-08
+Bhopal,Satisfactory,74,"CO, PM , O
+10 3",3/3,2025-05-09
+Bhopal,Moderate,106,"O , PM
+3 10",3/3,2025-05-10
+Bhopal,Satisfactory,92,"PM , O
+10 3",3/3,2025-05-11
+Bhopal,Satisfactory,99,"O , PM
+3 10",3/3,2025-05-12
+Bhopal,Moderate,103,"PM , O
+10 3",3/3,2025-05-13
+Bhopal,Satisfactory,71,"O , PM
+3 10",3/3,2025-05-14
+Bhopal,Moderate,111,"O , PM
+3 10",3/3,2025-05-15
+Bhopal,Moderate,116,"O , PM
+3 10",3/3,2025-05-16
+Bhopal,Moderate,129,"O , PM
+3 10",3/3,2025-05-17
+Bhopal,Moderate,122,"PM , O
+10 3",3/3,2025-05-18
+Bhopal,Moderate,116,"PM , O
+10 3",3/3,2025-05-19
+Bhopal,Moderate,131,"O , PM , CO
+3 10",3/3,2025-05-20
+Bhopal,Moderate,113,"PM , O
+10 3",3/3,2025-05-21
+Bhopal,Satisfactory,86,"PM , O
+10 3",3/3,2025-05-22
+Bhopal,Satisfactory,71,"O , PM
+3 10",3/3,2025-05-23
+Bhopal,Satisfactory,79,"PM , O
+10 3",3/3,2025-05-24
+Bhopal,Satisfactory,85,"PM , O
+10 3",3/3,2025-05-25
+Bhopal,Moderate,109,"O , PM
+3 10",3/3,2025-05-26
+Bhopal,Moderate,120,"O , PM
+3 10",3/3,2025-05-27
+Bhopal,Satisfactory,66,"PM , O
+10 3",2/3,2025-05-28
+Bhopal,Moderate,116,"O
+3",2/3,2025-05-29
+Bhopal,Satisfactory,95,"PM
+10",3/3,2025-05-30
+Bhopal,Satisfactory,97,"PM
+10",2/3,2025-05-31
+Bhopal,Moderate,110,"PM
+10",3/3,2025-06-01
+Bhopal,Satisfactory,88,"PM
+10",3/3,2025-06-02
+Bhopal,Satisfactory,87,"PM
+10",3/3,2025-06-03
+Bhopal,Satisfactory,87,"O , PM
+3 10",3/3,2025-06-04
+Bhopal,Moderate,121,"PM , O
+10 3",3/3,2025-06-05
+Bhopal,Moderate,116,"O , PM
+3 10",3/3,2025-06-06
+Bhopal,Satisfactory,99,"PM , O
+10 3",3/3,2025-06-07
+Bhopal,Moderate,122,"PM
+10",3/3,2025-06-08
+Bhopal,Moderate,108,"PM
+10",2/3,2025-06-09
+Bhopal,Moderate,107,"PM
+10",2/3,2025-06-10
+Bhopal,Moderate,161,"O , PM
+3 10",3/3,2025-06-11
+Bhopal,Satisfactory,97,"PM
+10",2/3,2025-06-12
+Bhopal,Satisfactory,94,"PM
+10",2/3,2025-06-13
+Bhopal,Moderate,116,"O , PM
+3 10",3/3,2025-06-14
+Bhopal,Satisfactory,70,"PM , O
+10 3",2/3,2025-06-15
+Bhopal,Satisfactory,56,"PM , O
+10 3",2/3,2025-06-16
+Bhopal,Good,50,"PM , O
+10 3",2/3,2025-06-17
+Bhopal,Satisfactory,74,"PM
+10",2/3,2025-06-18
+Bhopal,Good,50,"O , PM
+3 10",2/3,2025-06-19
+Bhopal,Satisfactory,62,"PM
+10",3/3,2025-06-20
+Bhopal,Satisfactory,65,"PM
+10",3/3,2025-06-21
+Bhopal,Good,41,"PM , O , CO
+10 3",3/3,2025-06-22
+Bhopal,Good,49,"CO, PM
+10",3/3,2025-06-23
+Bhopal,Satisfactory,55,"CO, PM
+10",2/3,2025-06-24
+Bhopal,Good,47,"O , PM
+3 10",2/3,2025-06-25
+Bhopal,Good,43,"O , PM
+3 10",3/3,2025-06-26
+Bhopal,Good,43,"O , PM
+3 10",3/3,2025-06-27
+Bhopal,Satisfactory,53,"O , PM
+3 10",3/3,2025-06-28
+Bhopal,Good,41,"O , PM
+3 10",3/3,2025-06-29
+Bhopal,Good,49,"PM
+10",3/3,2025-06-30
+Bhopal,Good,48,"PM
+10",3/3,2025-07-01
+Bhopal,Good,44,"PM , O
+10 3",2/3,2025-07-02
+Bhopal,Good,39,"PM , CO
+10",3/3,2025-07-03
+Bhopal,Good,34,"PM
+10",3/3,2025-07-04
+Bhopal,Good,31,"PM , CO
+10",3/3,2025-07-05
+Bhopal,Good,30,"O , PM
+3 10",3/3,2025-07-06
+Bhopal,Good,37,"O , PM , CO
+3 10",3/3,2025-07-07
+Bhopal,Good,50,"PM
+10",3/3,2025-07-08
+Bhopal,Satisfactory,68,"PM
+10",2/3,2025-07-09
+Bhopal,Satisfactory,64,"PM
+10",2/3,2025-07-10
+Bhopal,Satisfactory,77,"PM
+10",3/3,2025-07-11
+Bhopal,Good,49,"PM
+10",3/3,2025-07-12
+Bhopal,Good,41,"PM , O
+10 3",3/3,2025-07-13
+Bhopal,Good,37,"PM
+10",2/3,2025-07-14
+Bhopal,Good,42,"PM
+10",3/3,2025-07-15
+Bhopal,Satisfactory,78,"PM
+10",3/3,2025-07-16
+Bhopal,Satisfactory,61,"PM
+10",3/3,2025-07-17
+Bhopal,Satisfactory,86,"PM
+10",3/3,2025-07-18
+Bhopal,Satisfactory,97,"PM
+10",3/3,2025-07-19
+Bhopal,Satisfactory,80,"PM
+10",3/3,2025-07-20
+Bhopal,Satisfactory,62,"PM
+10",3/3,2025-07-21
+Bhopal,Good,50,"PM
+10",3/3,2025-07-22
+Bhopal,Good,40,"CO, PM
+10",3/3,2025-07-23
+Bhopal,Satisfactory,67,"PM
+10",1/3,2025-07-24
+Bhopal,Satisfactory,65,"PM
+10",3/3,2025-07-25
+Bhopal,Good,42,"O , PM
+3 10",3/3,2025-07-26
+Bhopal,Good,35,"NO , O
+2 3",3/3,2025-07-27
+Bhopal,Good,33,"O , CO, SO
+3 2",3/3,2025-07-28
+Bhopal,Good,36,"NO , O , PM
+2 3 10",3/3,2025-07-29
+Bhopal,Good,48,"PM , O
+10 3",3/3,2025-07-30
+Bhopal,Satisfactory,85,"PM
+10",3/3,2025-07-31
+Bhopal,Satisfactory,89,"PM
+10",3/3,2025-08-01
+Bhopal,Satisfactory,80,"PM
+10",3/3,2025-08-02
+Bhopal,Satisfactory,80,"PM
+10",3/3,2025-08-03
+Bhopal,Satisfactory,58,"PM
+10",2/3,2025-08-04
+Bhopal,Satisfactory,68,"PM , CO
+10",3/3,2025-08-05
+Bhopal,Satisfactory,72,"PM
+10",3/3,2025-08-06
+Bhopal,Satisfactory,67,"PM
+10",3/3,2025-08-07
+Bhopal,Satisfactory,78,"PM
+10",3/3,2025-08-08
+Bhopal,Satisfactory,78,"PM
+10",3/3,2025-08-09
+Bhopal,Satisfactory,53,"PM
+10",3/3,2025-08-10
+Bhopal,Satisfactory,57,"PM
+10",3/3,2025-08-11
+Bhopal,Satisfactory,69,"PM
+10",3/3,2025-08-12
+Bhopal,Satisfactory,61,"PM
+10",2/3,2025-08-13
+Bhopal,Good,47,"O
+3",3/3,2025-08-14
+Bhopal,Satisfactory,59,"PM
+10",3/3,2025-08-15
+Bhopal,Good,45,"O , PM
+3 10",2/3,2025-08-16
+Bhopal,Good,42,"O , NO , PM
+3 2 10",3/3,2025-08-17
+Bhopal,Satisfactory,58,"PM
+10",3/3,2025-08-18
+Bhopal,Good,46,"PM
+10",3/3,2025-08-19
+Bhopal,Good,36,"O , NO , CO
+3 2",3/3,2025-08-20
+Bhopal,Good,32,"CO, O
+3",3/3,2025-08-21
+Bhopal,Good,31,"O , CO, NO
+3 2",3/3,2025-08-22
+Bhopal,Good,35,"CO, O
+3",3/3,2025-08-23
+Bhopal,Good,34,"CO, O
+3",3/3,2025-08-24
+Bhopal,Good,28,CO,2/3,2025-08-25
+Bhopal,Good,35,"O , CO
+3",3/3,2025-08-26
+Bhopal,Good,37,"PM , O
+10 3",3/3,2025-08-27
+Bhopal,Good,41,"PM , O
+10 3",3/3,2025-08-28
+Bhopal,Good,43,"O , PM
+3 10",3/3,2025-08-29
+Bhopal,Satisfactory,52,"PM
+10",2/3,2025-08-30
+Bhopal,Good,37,"PM , O
+10 3",3/3,2025-08-31
+Bhopal,Good,33,"O , PM , CO
+3 10",3/3,2025-09-01
+Bhopal,Good,40,"PM
+10",3/3,2025-09-02
+Bhopal,Good,37,"CO, O
+3",3/3,2025-09-03
+Bhopal,Good,33,"CO, O
+3",3/3,2025-09-04
+Bhopal,Good,30,"O , CO
+3",2/3,2025-09-05
+Bhopal,Good,35,"CO, O
+3",3/3,2025-09-06
+Bhopal,Good,34,"O
+3",3/3,2025-09-07
+Bhopal,Good,36,"O , CO
+3",3/3,2025-09-08
+Bhopal,Satisfactory,58,"PM
+10",3/3,2025-09-09
+Bhopal,Satisfactory,51,"PM
+10",3/3,2025-09-10
+Bhopal,Satisfactory,70,"PM
+10",3/3,2025-09-11
+Bhopal,Satisfactory,72,"PM
+10",3/3,2025-09-12
+Bhopal,Satisfactory,79,"PM
+10",3/3,2025-09-13
+Bhopal,Satisfactory,91,"PM , PM
+10 2.5",3/3,2025-09-14
+Bhopal,Satisfactory,66,"PM
+10",3/3,2025-09-15
+Bhopal,Good,49,"PM
+10",3/3,2025-09-16
+Bhopal,Good,47,"PM
+10",3/3,2025-09-17
+Bhopal,Good,43,"O
+3",2/3,2025-09-18
+Bhopal,Good,44,"PM
+10",3/3,2025-09-19
+Bhopal,Good,46,"PM , O
+10 3",3/3,2025-09-20
+Bhopal,Satisfactory,51,"PM , O
+10 3",3/3,2025-09-21
+Bhopal,Satisfactory,58,"PM , O
+10 3",3/3,2025-09-22
+Bhopal,Satisfactory,72,"PM
+10",3/3,2025-09-23
+Bhopal,Satisfactory,80,"PM
+10",3/3,2025-09-24
+Bhopal,Satisfactory,78,"PM
+10",3/3,2025-09-25
+Bhopal,Satisfactory,85,"PM
+10",3/3,2025-09-26
+Bhopal,Satisfactory,86,"PM
+10",3/3,2025-09-27
+Bhopal,Satisfactory,59,"PM , CO, O
+10 3",3/3,2025-09-28
+Bhopal,Satisfactory,54,"O , PM
+3 10",3/3,2025-09-29
+Bhopal,Good,46,"O , PM
+3 10",3/3,2025-09-30
+Bhopal,Satisfactory,52,"O
+3",2/3,2025-10-01
+Bhopal,Satisfactory,64,"PM
+10",2/3,2025-10-02
+Bhopal,Satisfactory,68,"PM
+10",3/3,2025-10-03
+Bhopal,Satisfactory,58,"O , PM
+3 10",3/3,2025-10-04
+Bhopal,Satisfactory,75,"O , PM
+3 10",3/3,2025-10-05
+Bhopal,Good,37,"PM , O , PM
+10 3 2.5",3/3,2025-10-06
+Bhopal,Good,46,"PM , PM
+10 2.5",3/3,2025-10-07
+Bhopal,Moderate,120,"PM
+10",3/3,2025-10-08
+Bhopal,Moderate,165,"PM
+10",3/3,2025-10-09
+Bhopal,Moderate,160,"PM
+10",3/3,2025-10-10
+Bhopal,Moderate,128,"PM
+10",3/3,2025-10-11
+Bhopal,Moderate,121,"PM
+10",3/3,2025-10-12
+Bhopal,Moderate,106,"PM
+10",3/3,2025-10-13
+Bhopal,Moderate,112,"PM
+10",3/3,2025-10-14
+Bhopal,Moderate,114,"PM
+10",3/3,2025-10-15
+Bhopal,Poor,233,"PM
+2.5",3/3,2025-10-16
+Bhopal,Poor,214,"PM
+2.5",3/3,2025-10-17
+Bhopal,Moderate,170,"PM
+2.5",3/3,2025-10-18
+Bhopal,Moderate,188,"PM
+2.5",3/3,2025-10-19
+Bhopal,Moderate,139,"PM , PM
+2.5 10",3/3,2025-10-20
+Bhopal,Poor,235,"PM
+2.5",3/3,2025-10-21
+Bhopal,Moderate,146,"PM
+2.5",3/3,2025-10-22
+Bhopal,Moderate,152,"PM , PM
+2.5 10",3/3,2025-10-23
+Bhopal,Moderate,127,"PM , PM
+10 2.5",3/3,2025-10-24
+Bhopal,Moderate,182,"PM
+2.5",3/3,2025-10-25
+Bhopal,Satisfactory,68,"PM , PM
+10 2.5",3/3,2025-10-26
+Bhopal,Good,44,"PM , PM
+2.5 10",3/3,2025-10-27
+Bhopal,Satisfactory,98,"PM , PM
+2.5 10",3/3,2025-10-28
+Bhopal,Moderate,138,"PM , PM
+10 2.5",3/3,2025-10-29
+Bhopal,Satisfactory,74,"PM
+10",3/3,2025-10-30
+Bhopal,Good,39,"O , PM , CO
+3 10",3/3,2025-10-31
+Bhopal,Satisfactory,55,"PM
+10",3/3,2025-11-01
+Bhopal,Moderate,117,"PM , PM
+2.5 10",3/3,2025-11-02
+Bhopal,Moderate,112,"PM , O , PM
+2.5 3 10",3/3,2025-11-03
+Bhopal,Moderate,101,"PM
+10",3/3,2025-11-04
+Bhopal,Satisfactory,84,"PM
+10",3/3,2025-11-05
+Bhopal,Moderate,102,"PM
+10",3/3,2025-11-06
+Bhopal,Moderate,141,"O , PM
+3 10",3/3,2025-11-07
+Bhopal,Moderate,124,"O , PM
+3 10",3/3,2025-11-08
+Bhopal,Moderate,117,"O , PM
+3 10",3/3,2025-11-09
+Bhopal,Moderate,164,"PM , O
+10 3",3/3,2025-11-10
+Bhopal,Poor,201,"PM
+2.5",3/3,2025-11-11
+Bhopal,Moderate,156,"PM , O
+10 3",3/3,2025-11-12
+Bhopal,Poor,246,"PM
+2.5",2/3,2025-11-13
+Bhopal,Poor,222,"PM , PM
+10 2.5",3/3,2025-11-14
+Bhopal,Poor,217,"PM , PM
+2.5 10",3/3,2025-11-15
+Bhopal,Poor,215,"PM , PM
+10 2.5",3/3,2025-11-16
+Bhopal,Poor,240,"PM
+2.5",2/3,2025-11-17
+Bhopal,Poor,221,"PM
+2.5",3/3,2025-11-18
+Bhopal,Poor,272,"PM
+2.5",3/3,2025-11-19
+Bhopal,Poor,278,"PM , PM
+10 2.5",2/3,2025-11-20
+Bhopal,Poor,274,"PM , PM
+10 2.5",3/3,2025-11-21
+Bhopal,Poor,287,"PM , PM
+10 2.5",3/3,2025-11-22
+Bhopal,Very Poor,302,"PM , PM
+2.5 10",3/3,2025-11-23
+Bhopal,Poor,292,"PM , PM
+10 2.5",3/3,2025-11-24
+Bhopal,Poor,263,"PM , PM
+10 2.5",3/3,2025-11-25
+Bhopal,Poor,243,"O , PM
+3 2.5",2/3,2025-11-26
+Bhopal,Moderate,172,"PM
+2.5",1/3,2025-11-27
+Bhopal,Moderate,137,"PM
+10",1/3,2025-11-28
+Bhopal,Moderate,149,"PM
+10",1/3,2025-11-29
+Bhopal,Moderate,162,"PM
+10",1/3,2025-11-30
+Bhopal,Moderate,192,"O , PM , PM
+3 10 2.5",3/3,2025-12-01
+Bhopal,Poor,201,"PM , PM
+10 2.5",2/3,2025-12-02
+Bhopal,Moderate,198,"PM , PM
+10 2.5",3/3,2025-12-03
+Bhopal,Moderate,175,"PM , PM , O
+2.5 10 3",3/3,2025-12-04
+Bhopal,Poor,201,"PM , O , PM
+2.5 3 10",3/3,2025-12-05
+Bhopal,Poor,202,"O , PM
+3 2.5",3/3,2025-12-06
+Bhopal,Poor,231,"PM
+2.5",3/3,2025-12-07
+Bhopal,Moderate,197,"PM
+2.5",3/3,2025-12-08
+Bhopal,Moderate,133,"PM , PM
+2.5 10",3/3,2025-12-09
+Bhopal,Moderate,173,"O , PM
+3 10",2/3,2025-12-10
+Bhopal,Moderate,159,"O , PM
+3 10",3/3,2025-12-11
+Bhopal,Moderate,183,"PM , O
+10 3",3/3,2025-12-12
+Bhopal,Moderate,198,"PM , O , PM
+10 3 2.5",3/3,2025-12-13
+Bhopal,Moderate,161,"PM , PM , O
+2.5 10 3",3/3,2025-12-14

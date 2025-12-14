@@ -1,0 +1,6210 @@
+City,Air Quality,Index Value,Prominent Pollutant,No. of Stations Participated / Total Stations (Based on Number of Monitoring Stations),Date
+Howrah,Satisfactory,65,"PM
+10",1#,2016-07-05
+Howrah,Satisfactory,61,"PM
+10",1,2016-07-06
+Howrah,Good,44,"PM
+10",1#,2016-07-13
+Howrah,Satisfactory,63,"PM
+10",1,2016-07-14
+Howrah,Satisfactory,67,"PM
+10",1,2016-07-15
+Howrah,Satisfactory,68,"PM
+10",1#,2016-07-30
+Howrah,Satisfactory,69,"PM
+10",1,2016-07-31
+Howrah,Satisfactory,63,"PM
+10",1,2016-08-01
+Howrah,Moderate,104,"PM
+10",1#,2016-08-05
+Howrah,Good,28,CO,1,2016-08-06
+Howrah,Good,40,"PM
+10",1,2016-08-08
+Howrah,Moderate,105,"PM
+10",1#,2016-08-12
+Howrah,Satisfactory,62,"PM
+10",1,2016-08-13
+Howrah,Satisfactory,88,"PM
+10",1#,2016-08-14
+Howrah,Satisfactory,70,"PM
+10",1#,2016-08-26
+Howrah,Satisfactory,59,"PM
+10",1#,2016-08-30
+Howrah,Satisfactory,93,"PM
+10",1,2016-09-02
+Howrah,Satisfactory,94,"PM
+10",1#,2016-09-04
+Howrah,Satisfactory,74,"PM
+10",1,2016-09-10
+Howrah,Good,35,"PM
+10",1,2016-09-15
+Howrah,Satisfactory,75,"PM
+10",1,2016-09-21
+Howrah,Satisfactory,52,"PM
+10",1,2016-09-22
+Howrah,Satisfactory,62,"PM
+10",1#,2016-09-23
+Howrah,Satisfactory,60,"PM
+10",1#,2016-09-24
+Howrah,Satisfactory,93,"PM
+10",1#,2016-09-28
+Howrah,Satisfactory,51,"PM
+10",1,2016-10-07
+Howrah,Good,27,"O
+3",1,2016-10-10
+Howrah,Satisfactory,87,"PM
+10",1,2016-10-11
+Howrah,Satisfactory,76,"PM
+10",1#,2016-10-28
+Howrah,Satisfactory,65,"PM
+10",1,2016-10-29
+Howrah,Satisfactory,89,"PM
+10",1#,2016-11-04
+Howrah,Good,46,"PM
+10",1,2016-11-05
+Howrah,Moderate,101,"PM
+10",1#,2016-11-07
+Howrah,Good,38,"O
+3",1#,2016-11-12
+Howrah,Good,35,"O
+3",1#,2016-11-16
+Howrah,Good,39,CO,1#,2016-11-18
+Howrah,Satisfactory,63,CO,1,2016-11-21
+Howrah,Moderate,172,"PM
+10",1#,2016-11-22
+Howrah,Moderate,167,"PM
+10",1,2016-11-29
+Howrah,Moderate,146,"PM
+10",1#,2016-11-30
+Howrah,Satisfactory,93,"PM
+10",1,2016-12-01
+Howrah,Moderate,140,"PM
+10",1#,2016-12-02
+Howrah,Moderate,139,"PM
+10",1#,2016-12-03
+Howrah,Moderate,125,"PM
+10",1,2016-12-04
+Howrah,Moderate,106,"PM
+10",1#,2016-12-05
+Howrah,Moderate,116,"PM
+10",1,2016-12-06
+Howrah,Moderate,110,"PM
+10",1,2016-12-09
+Howrah,Moderate,138,"PM
+10",1,2016-12-13
+Howrah,Moderate,161,"PM
+10",1,2016-12-17
+Howrah,Moderate,154,"PM
+10",1,2016-12-18
+Howrah,Moderate,172,"PM
+10",1#,2016-12-19
+Howrah,Moderate,163,"PM
+10",1,2016-12-20
+Howrah,Moderate,169,"PM
+10",1#,2016-12-21
+Howrah,Moderate,171,"PM
+10",1,2016-12-22
+Howrah,Moderate,198,"PM
+10",1#,2016-12-24
+Howrah,Moderate,171,"PM
+10",1,2016-12-25
+Howrah,Moderate,142,"PM
+10",1,2016-12-26
+Howrah,Moderate,159,"PM
+10",1#,2016-12-27
+Howrah,Moderate,152,CO,1,2016-12-28
+Howrah,Moderate,129,"PM
+10",1,2016-12-29
+Howrah,Moderate,147,"PM
+10",1,2016-12-31
+Howrah,Moderate,148,"PM
+10",1#,2017-01-01
+Howrah,Moderate,132,"PM
+10",1,2017-01-02
+Howrah,Moderate,152,"PM
+10",1,2017-01-03
+Howrah,Moderate,128,"PM
+10",1,2017-01-09
+Howrah,Satisfactory,81,"PM
+10",1,2017-01-11
+Howrah,Moderate,108,"PM
+10",1,2017-01-12
+Howrah,Moderate,122,"PM
+10",1#,2017-01-13
+Howrah,Moderate,115,"PM
+10",1#,2017-01-14
+Howrah,Moderate,134,"PM
+10",1#,2017-01-16
+Howrah,Very Poor,311,"O
+3",1#,2017-01-19
+Howrah,Moderate,161,"PM
+10",1#,2017-01-27
+Howrah,Moderate,128,"PM
+10",1,2017-01-31
+Howrah,Moderate,112,"PM
+10",1,2017-02-02
+Howrah,Moderate,144,"PM
+10",1,2017-02-07
+Howrah,Moderate,120,"PM
+10",1,2017-02-08
+Howrah,Moderate,154,"PM
+10",1,2017-02-09
+Howrah,Moderate,124,"PM
+10",1#,2017-02-11
+Howrah,Moderate,107,"PM
+10",1,2017-02-12
+Howrah,Moderate,129,"PM
+10",1,2017-02-13
+Howrah,Moderate,181,"PM
+10",1#,2017-02-14
+Howrah,Moderate,134,"PM
+10",1,2017-02-15
+Howrah,Moderate,123,"PM
+10",1,2017-02-16
+Howrah,Moderate,145,"PM
+10",1#,2017-02-17
+Howrah,Satisfactory,65,"PM
+10",1#,2017-02-22
+Howrah,Moderate,114,"PM
+10",1,2017-02-27
+Howrah,Moderate,101,"PM
+10",1,2017-02-28
+Howrah,Moderate,135,"PM
+10",1#,2017-03-01
+Howrah,Moderate,114,"PM
+10",1,2017-03-02
+Howrah,Satisfactory,66,"PM
+10",1,2017-03-03
+Howrah,Satisfactory,93,"PM
+10",1#,2017-03-04
+Howrah,Satisfactory,63,"PM
+10",1,2017-03-05
+Howrah,Satisfactory,62,"PM
+10",1,2017-03-06
+Howrah,Severe,442,"O
+3",1#,2017-03-07
+Howrah,Satisfactory,88,"PM
+10",1,2017-03-08
+Howrah,Satisfactory,71,"NO
+2",1#,2017-03-09
+Howrah,Satisfactory,72,"PM
+10",1,2017-03-14
+Howrah,Moderate,117,"PM
+10",1,2017-03-15
+Howrah,Satisfactory,92,"PM
+10",1,2017-03-16
+Howrah,Satisfactory,94,"PM
+10",1,2017-03-17
+Howrah,Satisfactory,66,"PM
+10",1#,2017-03-19
+Howrah,Satisfactory,57,"PM
+10",1,2017-03-20
+Howrah,Good,48,CO,1,2017-03-21
+Howrah,Satisfactory,58,"PM
+10",1,2017-03-22
+Howrah,Good,50,CO,1#,2017-03-23
+Howrah,Good,47,"NO
+2",1,2017-03-24
+Howrah,Satisfactory,59,CO,1,2017-03-25
+Howrah,Good,46,"PM
+10",1,2017-03-26
+Howrah,Satisfactory,100,"PM
+10",1#,2017-04-15
+Howrah,Satisfactory,63,"PM
+10",1,2017-04-16
+Howrah,Satisfactory,80,"PM
+10",1,2017-04-17
+Howrah,Satisfactory,82,"PM
+10",1,2017-04-18
+Howrah,Poor,217,"PM
+10",1,2017-04-19
+Howrah,Satisfactory,87,"PM
+10",1#,2017-04-20
+Howrah,Satisfactory,90,"NO
+2",1,2017-04-21
+Howrah,Satisfactory,75,"PM
+10",1,2017-04-22
+Howrah,Satisfactory,68,"NO
+2",1,2017-04-23
+Howrah,Satisfactory,76,"NO
+2",1,2017-04-24
+Howrah,Satisfactory,64,"PM
+10",1,2017-04-25
+Howrah,Satisfactory,65,"PM
+10",1,2017-04-26
+Howrah,Satisfactory,80,"PM
+10",1,2017-04-27
+Howrah,Satisfactory,98,"PM
+10",1#,2017-04-28
+Howrah,Satisfactory,93,"PM
+10",1,2017-04-29
+Howrah,Moderate,140,"PM
+10",1,2017-04-30
+Howrah,Moderate,133,"PM
+10",1,2017-05-01
+Howrah,Moderate,195,"PM
+10",1,2017-05-02
+Howrah,Satisfactory,74,"PM
+10",1,2017-05-03
+Howrah,Satisfactory,91,"PM
+10",1,2017-05-04
+Howrah,Satisfactory,97,"PM
+10",1,2017-05-05
+Howrah,Satisfactory,78,"PM
+10",1,2017-05-06
+Howrah,Satisfactory,74,"PM
+10",1,2017-05-07
+Howrah,Satisfactory,58,"PM
+10",1,2017-05-08
+Howrah,Moderate,107,"PM
+10",1,2017-05-09
+Howrah,Good,45,"PM
+10",1,2017-05-10
+Howrah,Satisfactory,69,"PM
+10",1#,2017-05-11
+Howrah,Satisfactory,94,"PM
+10",1,2017-05-12
+Howrah,Satisfactory,91,"PM
+10",1,2017-05-13
+Howrah,Satisfactory,61,"NO
+2",1,2017-05-14
+Howrah,Satisfactory,60,"PM
+10",1,2017-05-15
+Howrah,Satisfactory,51,"PM
+10",1,2017-05-16
+Howrah,Good,39,"PM
+10",1,2017-05-17
+Howrah,Satisfactory,84,"PM
+10",1,2017-05-18
+Howrah,Satisfactory,63,"PM
+10",1,2017-05-19
+Howrah,Moderate,121,"PM
+10",1#,2017-05-20
+Howrah,Satisfactory,89,"PM
+10",1,2017-05-21
+Howrah,Satisfactory,93,"PM
+10",1,2017-05-22
+Howrah,Moderate,104,"PM
+10",1,2017-05-23
+Howrah,Satisfactory,99,"PM
+10",1,2017-05-24
+Howrah,Satisfactory,95,"PM
+10",1,2017-05-25
+Howrah,Satisfactory,89,"PM
+10",1,2017-05-26
+Howrah,Satisfactory,76,"PM
+10",1,2017-05-27
+Howrah,Satisfactory,62,"PM
+10",1,2017-05-28
+Howrah,Satisfactory,62,"PM
+10",1#,2017-05-29
+Howrah,Very Poor,301,"PM
+10",1,2017-05-30
+Howrah,Satisfactory,65,"PM
+10",1,2017-05-31
+Howrah,Moderate,142,"O
+3",1,2017-06-01
+Howrah,Satisfactory,87,"PM
+10",1,2017-06-02
+Howrah,Satisfactory,97,"PM
+10",1,2017-06-03
+Howrah,Satisfactory,85,"PM
+10",1,2017-06-04
+Howrah,Satisfactory,87,"PM
+10",1,2017-06-05
+Howrah,Satisfactory,89,"PM
+10",1,2017-06-06
+Howrah,Satisfactory,84,"PM
+10",1,2017-06-07
+Howrah,Satisfactory,72,"PM
+10",1,2017-06-09
+Howrah,Satisfactory,72,"PM
+10",1,2017-06-10
+Howrah,Satisfactory,59,"PM
+10",1,2017-06-11
+Howrah,Satisfactory,78,"PM
+10",1,2017-06-12
+Howrah,Satisfactory,78,"PM
+10",1,2017-06-13
+Howrah,Satisfactory,74,"PM
+10",1,2017-06-14
+Howrah,Very Poor,366,"PM
+10",1,2017-06-15
+Howrah,Satisfactory,88,"PM
+10",1,2017-06-16
+Howrah,Moderate,155,"O
+3",1,2017-06-17
+Howrah,Moderate,168,"O
+3",1#,2017-06-19
+Howrah,Satisfactory,100,"PM
+10",1,2017-06-20
+Howrah,Satisfactory,73,"PM
+10",1,2017-06-21
+Howrah,Satisfactory,84,"PM
+10",1,2017-06-22
+Howrah,Satisfactory,91,"PM
+10",1,2017-06-23
+Howrah,Moderate,123,"PM
+10",1,2017-06-24
+Howrah,Moderate,105,"PM
+10",1,2017-06-25
+Howrah,Moderate,121,"PM
+10",1,2017-06-26
+Howrah,Satisfactory,75,"PM
+10",1,2017-06-27
+Howrah,Satisfactory,74,"PM
+10",1,2017-06-28
+Howrah,Satisfactory,86,"PM
+10",1,2017-06-29
+Howrah,Satisfactory,87,"PM
+10",1,2017-06-30
+Howrah,Satisfactory,86,"PM
+10",1,2017-07-01
+Howrah,Severe,451,"O
+3",1#,2017-07-02
+Howrah,Satisfactory,85,"PM
+10",1,2017-07-03
+Howrah,Satisfactory,65,"PM
+10",1,2017-07-04
+Howrah,Moderate,134,"PM
+10",1,2017-07-05
+Howrah,Satisfactory,66,"PM
+10",1,2017-07-06
+Howrah,Moderate,158,"PM
+10",1,2017-07-07
+Howrah,Good,48,"NO
+2",1,2017-07-08
+Howrah,Severe,451,"O
+3",1#,2017-07-09
+Howrah,Moderate,105,"PM
+10",1,2017-07-10
+Howrah,Moderate,126,"PM
+10",1,2017-07-12
+Howrah,Moderate,146,"PM
+10",1,2017-07-13
+Howrah,Poor,205,"PM
+10",1,2017-07-14
+Howrah,Poor,214,"PM
+10",1,2017-07-15
+Howrah,Moderate,102,"PM
+10",1,2017-07-16
+Howrah,Poor,225,"PM
+10",1,2017-07-17
+Howrah,Moderate,132,"PM
+10",1,2017-07-18
+Howrah,Satisfactory,92,"PM
+10",1,2017-07-19
+Howrah,Satisfactory,68,"PM
+10",1,2017-07-20
+Howrah,Satisfactory,89,"PM
+10",1,2017-07-21
+Howrah,Moderate,101,"PM
+10",1,2017-07-22
+Howrah,Satisfactory,63,"PM
+10",1,2017-07-25
+Howrah,Satisfactory,69,"PM
+10",1,2017-07-26
+Howrah,Satisfactory,64,"NO
+2",1,2017-07-27
+Howrah,Satisfactory,78,"PM
+10",1,2017-07-28
+Howrah,Satisfactory,79,"PM
+10",1,2017-07-29
+Howrah,Satisfactory,75,"PM
+10",1,2017-07-30
+Howrah,Satisfactory,83,"PM
+10",1,2017-07-31
+Howrah,Satisfactory,62,"PM
+10",1,2017-08-01
+Howrah,Satisfactory,100,"PM
+10",1,2017-08-02
+Howrah,Satisfactory,86,"PM
+10",1,2017-08-03
+Howrah,Moderate,154,"PM
+10",1,2017-08-04
+Howrah,Severe,451,"O
+3",1#,2017-08-05
+Howrah,Poor,280,"PM
+10",1,2017-08-06
+Howrah,Poor,207,"PM
+10",1,2017-08-07
+Howrah,Poor,275,"PM
+10",1,2017-08-08
+Howrah,Severe,451,"O
+3",1#,2017-08-09
+Howrah,Moderate,188,"PM
+10",1,2017-08-10
+Howrah,Severe,451,"O
+3",1#,2017-08-11
+Howrah,Poor,300,"PM
+10",1,2017-08-12
+Howrah,Poor,270,"PM
+10",1,2017-08-13
+Howrah,Moderate,187,"PM
+10",1,2017-08-14
+Howrah,Good,49,"NO
+2",1,2017-08-15
+Howrah,Good,45,"NO
+2",1,2017-08-16
+Howrah,Satisfactory,81,"PM
+10",1,2017-08-17
+Howrah,Good,41,"NO
+2",1,2017-08-18
+Howrah,Good,35,"NO
+2",1,2017-08-19
+Howrah,Good,39,CO,1,2017-08-20
+Howrah,Good,46,"NO
+2",1,2017-08-21
+Howrah,Good,45,"NO
+2",1,2017-08-22
+Howrah,Severe,451,"O
+3",1#,2017-08-23
+Howrah,Satisfactory,53,"NO
+2",1,2017-08-24
+Howrah,Good,35,"NO
+2",1,2017-08-25
+Howrah,Good,38,"NO
+2",1,2017-08-26
+Howrah,Good,37,"NO
+2",1,2017-08-27
+Howrah,Good,40,"NO
+2",1,2017-08-28
+Howrah,Good,42,"NO
+2",1,2017-08-29
+Howrah,Severe,451,"O
+3",1#,2017-08-30
+Howrah,Severe,451,"O
+3",1#,2017-08-31
+Howrah,Satisfactory,61,"NO
+2",1,2017-09-05
+Howrah,Good,47,"PM
+10",1,2017-09-09
+Howrah,Satisfactory,51,"PM
+10",1,2017-09-10
+Howrah,Good,33,"NO
+2",1,2017-09-11
+Howrah,Good,50,"NO
+2",1,2017-09-12
+Howrah,Good,48,"NO
+2",1,2017-09-13
+Howrah,Satisfactory,53,"NO
+2",1,2017-09-14
+Howrah,Satisfactory,52,"PM
+10",1#,2017-09-20
+Howrah,Satisfactory,70,"PM
+10",1,2017-09-21
+Howrah,Satisfactory,80,"PM
+10",1#,2017-09-22
+Howrah,Moderate,102,"PM
+10",1,2017-09-26
+Howrah,Satisfactory,94,"PM
+10",1,2017-09-27
+Howrah,Satisfactory,70,"PM
+10",1,2017-09-29
+Howrah,Good,33,"PM
+10",1,2017-09-30
+Howrah,Satisfactory,55,"NO
+2",1,2017-10-01
+Howrah,Good,48,"PM
+10",1,2017-10-02
+Howrah,Good,43,"PM
+10",1#,2017-10-04
+Howrah,Moderate,101,"PM
+10",1,2017-10-05
+Howrah,Satisfactory,85,"PM
+10",1,2017-10-06
+Howrah,Satisfactory,63,"PM
+10",1,2017-10-07
+Howrah,Satisfactory,68,"PM
+10",1#,2017-10-08
+Howrah,Good,34,"NO
+2",1,2017-10-09
+Howrah,Satisfactory,65,"PM
+10",1,2017-10-10
+Howrah,Good,50,"PM
+10",1#,2017-10-11
+Howrah,Satisfactory,74,"PM
+10",1,2017-10-12
+Howrah,Satisfactory,56,"PM
+10",1#,2017-10-13
+Howrah,Moderate,145,"PM
+10",1#,2017-10-17
+Howrah,Moderate,121,"PM
+10",1,2017-10-18
+Howrah,Satisfactory,62,"PM
+10",1,2017-10-19
+Howrah,Satisfactory,77,"PM
+10",1,2017-10-20
+Howrah,Satisfactory,69,"PM
+10",1,2017-10-21
+Howrah,Moderate,105,"PM
+10",1,2017-10-22
+Howrah,Satisfactory,88,"PM
+10",1,2017-10-23
+Howrah,Satisfactory,77,"PM
+10",1#,2017-10-24
+Howrah,Good,48,"PM
+10",1,2017-10-25
+Howrah,Moderate,106,"PM
+10",1,2017-10-30
+Howrah,Satisfactory,74,"PM
+10",1,2017-10-31
+Howrah,Moderate,130,"PM
+10",1#,2017-11-01
+Howrah,Severe,451,"O
+3",1#,2017-11-04
+Howrah,Moderate,129,"PM
+10",1,2017-11-05
+Howrah,Moderate,118,"PM
+10",1#,2017-11-06
+Howrah,Severe,451,"O
+3",1#,2017-11-07
+Howrah,Poor,200,"PM
+2.5",1,2018-02-04
+Howrah,Moderate,130,"PM
+2.5",1,2018-02-05
+Howrah,Very Poor,320,"PM
+2.5",1,2018-02-06
+Howrah,Poor,270,"PM
+2.5",1,2018-02-07
+Howrah,Poor,216,"PM
+2.5",1,2018-02-08
+Howrah,Poor,265,"PM
+2.5",1,2018-02-09
+Howrah,Poor,257,"PM
+2.5",1,2018-02-10
+Howrah,Poor,258,"PM
+2.5",1,2018-02-11
+Howrah,Poor,286,"PM
+10",1,2018-02-12
+Howrah,Poor,285,"PM
+2.5",1,2018-02-13
+Howrah,Poor,247,"PM
+2.5",1,2018-02-14
+Howrah,Poor,210,"PM
+2.5",1,2018-02-15
+Howrah,Poor,246,"PM
+2.5",1,2018-02-16
+Howrah,Poor,274,"PM
+2.5",1,2018-02-17
+Howrah,Poor,281,"PM
+2.5",1,2018-02-18
+Howrah,Moderate,194,"PM
+2.5",1,2018-02-19
+Howrah,Moderate,147,"PM
+2.5",1,2018-02-20
+Howrah,Poor,214,"PM
+2.5",1,2018-02-21
+Howrah,Poor,262,"PM
+2.5",1,2018-02-22
+Howrah,Poor,268,"PM
+2.5",1,2018-02-23
+Howrah,Moderate,187,"PM
+2.5",1,2018-02-24
+Howrah,Moderate,184,OZONE,1,2018-02-25
+Howrah,Moderate,185,"PM
+2.5",1,2018-02-26
+Howrah,Moderate,155,OZONE,1,2018-02-27
+Howrah,Poor,270,"PM
+2.5",1,2018-02-28
+Howrah,Poor,288,"PM
+2.5",1,2018-03-01
+Howrah,Poor,265,"PM
+2.5",1,2018-03-02
+Howrah,Moderate,169,OZONE,1,2018-03-03
+Howrah,Moderate,168,"PM
+2.5",1,2018-03-04
+Howrah,Moderate,140,"PM
+2.5",1,2018-03-05
+Howrah,Moderate,161,OZONE,1,2018-03-06
+Howrah,Moderate,163,"PM
+2.5",1,2018-03-07
+Howrah,Poor,220,"PM
+2.5",1,2018-03-08
+Howrah,Poor,242,"PM
+2.5",1,2018-03-09
+Howrah,Poor,230,"PM
+2.5",1,2018-03-10
+Howrah,Poor,234,"PM
+2.5",1,2018-03-11
+Howrah,Moderate,110,"PM
+10",1,2018-03-12
+Howrah,Moderate,115,"PM
+10",1,2018-03-13
+Howrah,Poor,246,"PM
+2.5",1,2018-03-14
+Howrah,Moderate,173,OZONE,1,2018-03-15
+Howrah,Moderate,130,"PM
+2.5",1,2018-03-16
+Howrah,Moderate,134,"PM
+2.5",1,2018-03-17
+Howrah,Moderate,187,OZONE,1,2018-03-18
+Howrah,Poor,225,"PM
+2.5",1,2018-03-19
+Howrah,Poor,243,"PM
+2.5",1,2018-03-20
+Howrah,Moderate,179,OZONE,1,2018-03-21
+Howrah,Moderate,149,"PM
+2.5",1,2018-03-22
+Howrah,Moderate,108,"PM
+10",1,2018-03-23
+Howrah,Moderate,104,"PM
+2.5",1,2018-03-24
+Howrah,Moderate,107,"PM
+10",1,2018-03-25
+Howrah,Moderate,107,"PM
+10",1,2018-03-26
+Howrah,Moderate,161,OZONE,1,2018-03-27
+Howrah,Moderate,149,"PM
+2.5",1,2018-03-28
+Howrah,Satisfactory,96,"PM
+10",1,2018-03-29
+Howrah,Satisfactory,77,"PM
+10",1,2018-03-30
+Howrah,Satisfactory,84,"PM
+10",1,2018-03-31
+Howrah,Satisfactory,96,"PM
+10",1,2018-04-01
+Howrah,Satisfactory,80,OZONE,1,2018-04-02
+Howrah,Moderate,126,"PM
+2.5",1,2018-04-03
+Howrah,Moderate,140,"PM
+2.5",1,2018-04-04
+Howrah,Satisfactory,96,OZONE,1,2018-04-05
+Howrah,Satisfactory,82,"PM
+2.5",1,2018-04-06
+Howrah,Satisfactory,89,"PM
+10",1,2018-04-07
+Howrah,Moderate,159,OZONE,1,2018-04-08
+Howrah,Satisfactory,86,"PM
+2.5",1,2018-04-09
+Howrah,Satisfactory,78,"PM
+2.5",1,2018-04-10
+Howrah,Satisfactory,80,OZONE,1,2018-04-13
+Howrah,Satisfactory,86,OZONE,1,2018-04-14
+Howrah,Moderate,172,OZONE,1,2018-04-15
+Howrah,Moderate,158,OZONE,1,2018-04-16
+Howrah,Satisfactory,81,"PM
+10",1,2018-04-17
+Howrah,Moderate,152,OZONE,1,2018-05-03
+Howrah,Satisfactory,73,OZONE,1,2018-05-04
+Howrah,Satisfactory,65,"PM
+10",1,2018-05-05
+Howrah,Satisfactory,73,"PM
+10",1,2018-05-06
+Howrah,Satisfactory,63,"PM
+10",1,2018-05-07
+Howrah,Satisfactory,68,"PM
+10",1,2018-05-08
+Howrah,Satisfactory,90,"PM
+10",1,2018-05-09
+Howrah,Satisfactory,69,"PM
+10",1,2018-05-10
+Howrah,Satisfactory,61,"PM
+10",1,2018-05-11
+Howrah,Satisfactory,83,OZONE,1,2018-05-12
+Howrah,Satisfactory,50,"PM
+10",1,2018-05-13
+Howrah,Moderate,102,OZONE,1,2018-05-14
+Howrah,Moderate,112,"PM
+2.5",2,2018-05-15
+Howrah,Satisfactory,68,"PM
+10",2,2018-05-16
+Howrah,Moderate,120,OZONE,2,2018-05-17
+Howrah,Satisfactory,76,"PM
+10",2,2018-05-18
+Howrah,Moderate,159,OZONE,2,2018-05-19
+Howrah,Satisfactory,86,"PM
+10",2,2018-05-20
+Howrah,Satisfactory,92,"OZONE, PM
+10",2,2018-05-21
+Howrah,Satisfactory,73,"PM
+10",2,2018-05-22
+Howrah,Satisfactory,59,"PM
+10",2,2018-05-23
+Howrah,Satisfactory,54,"PM
+10",2,2018-05-24
+Howrah,Satisfactory,52,"PM
+10",2,2018-05-25
+Howrah,Satisfactory,52,"PM
+10",2,2018-05-26
+Howrah,Good,46,"PM
+10",2,2018-05-27
+Howrah,Good,41,"PM
+10",2,2018-05-28
+Howrah,Good,41,"PM , OZONE
+10",2,2018-05-29
+Howrah,Satisfactory,58,"PM , OZONE
+10",2,2018-05-30
+Howrah,Satisfactory,75,"PM , PM
+10 2.5",2,2018-05-31
+Howrah,Satisfactory,61,"PM
+10",1,2018-06-01
+Howrah,Satisfactory,64,"PM
+2.5",1,2018-06-02
+Howrah,Satisfactory,60,"PM
+10",1,2018-06-03
+Howrah,Satisfactory,68,"PM
+10",1,2018-06-04
+Howrah,Satisfactory,59,"PM
+10",1,2018-06-05
+Howrah,Satisfactory,56,"PM
+10",2,2018-06-06
+Howrah,Satisfactory,56,"PM
+10",2,2018-06-07
+Howrah,Satisfactory,54,"PM
+10",2,2018-06-08
+Howrah,Satisfactory,60,"PM , PM
+2.5 10",2,2018-06-09
+Howrah,Satisfactory,80,"PM
+10",2,2018-06-10
+Howrah,Satisfactory,92,"PM , PM
+2.5 10",2,2018-06-11
+Howrah,Satisfactory,76,OZONE,2,2018-06-12
+Howrah,Satisfactory,78,OZONE,1,2018-06-13
+Howrah,Satisfactory,97,"PM
+10",1,2018-06-14
+Howrah,Moderate,115,"PM
+10",1,2018-06-15
+Howrah,Moderate,137,"PM
+10",1,2018-06-16
+Howrah,Moderate,126,"PM
+10",1,2018-06-17
+Howrah,Moderate,120,"PM
+10",1,2018-06-18
+Howrah,Moderate,116,"PM
+10",1,2018-06-19
+Howrah,Satisfactory,81,"PM
+10",2,2018-06-20
+Howrah,Satisfactory,80,"PM
+10",2,2018-06-21
+Howrah,Satisfactory,72,OZONE,2,2018-06-22
+Howrah,Satisfactory,82,"PM , PM
+2.5 10",2,2018-06-23
+Howrah,Satisfactory,75,"PM
+10",2,2018-06-24
+Howrah,Satisfactory,78,"PM , PM
+10 2.5",2,2018-06-25
+Howrah,Satisfactory,55,"PM
+2.5",1,2018-06-26
+Howrah,Satisfactory,67,"PM
+2.5",2,2018-06-27
+Howrah,Good,40,"OZONE, PM
+2.5",2,2018-06-28
+Howrah,Satisfactory,54,"PM , OZONE
+10",2,2018-06-29
+Howrah,Satisfactory,70,"PM
+10",2,2018-06-30
+Howrah,Satisfactory,74,"PM
+10",2,2018-07-01
+Howrah,Satisfactory,69,"PM
+10",2,2018-07-02
+Howrah,Satisfactory,73,"PM
+10",2,2018-07-03
+Howrah,Satisfactory,71,"PM , PM
+10 2.5",2,2018-07-04
+Howrah,Satisfactory,70,"PM
+10",2,2018-07-05
+Howrah,Satisfactory,92,"PM
+2.5",2,2018-07-06
+Howrah,Satisfactory,60,"PM
+10",2,2018-07-07
+Howrah,Good,38,"OZONE, CO",2,2018-07-08
+Howrah,Good,36,"PM
+10",2,2018-07-09
+Howrah,Good,44,"PM
+10",2,2018-07-10
+Howrah,Good,46,"OZONE, PM
+10",2,2018-07-11
+Howrah,Good,48,"PM , PM
+2.5 10",2,2018-07-12
+Howrah,Good,40,"PM
+10",2,2018-07-13
+Howrah,Good,33,"PM
+10",2,2018-07-14
+Howrah,Good,28,"OZONE, CO",2,2018-07-15
+Howrah,Good,25,"OZONE, PM
+10",2,2018-07-16
+Howrah,Good,30,"OZONE, PM
+10",2,2018-07-17
+Howrah,Good,44,"PM
+10",2,2018-07-18
+Howrah,Good,40,"PM
+10",2,2018-07-19
+Howrah,Satisfactory,73,"PM
+10",1,2018-07-20
+Howrah,Good,26,"PM , CO
+10",2,2018-07-21
+Howrah,Good,24,"OZONE, CO",2,2018-07-22
+Howrah,Good,28,"PM , PM
+10 2.5",2,2018-07-23
+Howrah,Satisfactory,52,"PM
+10",2,2018-07-24
+Howrah,Satisfactory,72,"PM
+10",1,2018-07-25
+Howrah,Good,48,"PM
+2.5",2,2018-07-26
+Howrah,Satisfactory,55,"PM
+10",2,2018-07-27
+Howrah,Satisfactory,70,"PM , PM
+2.5 10",2,2018-07-28
+Howrah,Satisfactory,78,"PM
+2.5",2,2018-07-29
+Howrah,Satisfactory,74,"PM , PM
+2.5 10",2,2018-07-30
+Howrah,Satisfactory,62,"PM
+10",2,2018-07-31
+Howrah,Satisfactory,66,"PM , PM
+2.5 10",2,2018-08-01
+Howrah,Satisfactory,75,"PM
+10",2,2018-08-02
+Howrah,Satisfactory,92,"PM
+10",2,2018-08-03
+Howrah,Satisfactory,93,"PM , PM
+2.5 10",2,2018-08-04
+Howrah,Satisfactory,82,"PM , PM
+2.5 10",2,2018-08-05
+Howrah,Satisfactory,77,"PM
+2.5",1,2018-08-06
+Howrah,Satisfactory,58,"PM , PM
+2.5 10",2,2018-08-07
+Howrah,Good,44,"PM , PM
+10 2.5",2,2018-08-08
+Howrah,Good,44,"PM
+10",2,2018-08-09
+Howrah,Satisfactory,54,"PM
+10",2,2018-08-10
+Howrah,Satisfactory,58,"PM
+10",2,2018-08-11
+Howrah,Satisfactory,53,"PM
+10",2,2018-08-12
+Howrah,Good,40,"PM
+10",2,2018-08-13
+Howrah,Good,36,"PM
+10",2,2018-08-14
+Howrah,Good,26,"PM
+10",2,2018-08-15
+Howrah,Good,26,"PM , PM
+2.5 10",2,2018-08-16
+Howrah,Good,40,"PM
+10",2,2018-08-17
+Howrah,Satisfactory,54,"PM
+10",2,2018-08-18
+Howrah,Satisfactory,72,"PM
+10",2,2018-08-19
+Howrah,Good,33,"PM , PM
+2.5 10",2,2018-08-20
+Howrah,Good,32,"PM , PM
+2.5 10",2,2018-08-21
+Howrah,Good,42,"PM , CO
+10",2,2018-08-22
+Howrah,Satisfactory,65,"PM
+2.5",2,2018-08-23
+Howrah,Satisfactory,66,"PM
+10",2,2018-08-24
+Howrah,Satisfactory,52,"PM , PM
+10 2.5",2,2018-08-25
+Howrah,Good,30,"PM
+2.5",2,2018-08-26
+Howrah,Good,26,CO,2,2018-08-27
+Howrah,Good,28,"CO, PM
+10",2,2018-08-28
+Howrah,Good,34,"PM
+10",2,2018-08-29
+Howrah,Satisfactory,52,"PM
+10",2,2018-08-30
+Howrah,Satisfactory,74,"PM , PM
+10 2.5",2,2018-08-31
+Howrah,Good,38,"PM , PM
+2.5 10",2,2018-09-01
+Howrah,Good,30,"CO, NO
+2",2,2018-09-02
+Howrah,Satisfactory,53,"PM
+10",1,2018-09-03
+Howrah,Satisfactory,86,"PM
+10",1,2018-09-04
+Howrah,Satisfactory,66,"PM
+10",1,2018-09-05
+Howrah,Good,30,"PM
+10",1,2018-09-06
+Howrah,Good,48,OZONE,1,2018-09-07
+Howrah,Satisfactory,51,"PM
+10",2,2018-09-08
+Howrah,Satisfactory,50,"PM
+10",2,2018-09-09
+Howrah,Satisfactory,70,"PM
+10",2,2018-09-10
+Howrah,Satisfactory,74,"PM
+10",2,2018-09-11
+Howrah,Satisfactory,78,"PM
+10",1,2018-09-12
+Howrah,Moderate,110,"PM
+10",2,2018-09-13
+Howrah,Moderate,108,"PM
+10",2,2018-09-14
+Howrah,Moderate,108,"PM
+10",2,2018-09-15
+Howrah,Moderate,111,"PM
+10",2,2018-09-16
+Howrah,Moderate,110,"PM
+10",2,2018-09-17
+Howrah,Moderate,110,"PM
+10",2,2018-09-18
+Howrah,Moderate,127,"PM
+10",2,2018-09-19
+Howrah,Satisfactory,70,"PM , PM
+10 2.5",2,2018-09-20
+Howrah,Good,38,OZONE,2,2018-09-21
+Howrah,Good,37,"OZONE, NO
+2",2,2018-09-22
+Howrah,Satisfactory,72,"PM
+10",2,2018-09-23
+Howrah,Satisfactory,56,"PM
+10",2,2018-09-24
+Howrah,Satisfactory,80,"PM , OZONE
+10",2,2018-09-25
+Howrah,Moderate,105,"PM
+10",2,2018-09-26
+Howrah,Moderate,116,"PM , PM
+10 2.5",2,2018-09-27
+Howrah,Moderate,106,"PM , PM
+10 2.5",2,2018-09-28
+Howrah,Moderate,112,"PM , PM
+10 2.5",2,2018-09-29
+Howrah,Moderate,132,"PM , PM
+2.5 10",2,2018-09-30
+Howrah,Moderate,160,"PM , PM
+2.5 10",2,2018-10-01
+Howrah,Moderate,131,"PM , PM
+10 2.5",2,2018-10-02
+Howrah,Moderate,140,"OZONE, PM
+10",2,2018-10-03
+Howrah,Moderate,162,"PM , PM
+10 2.5",2,2018-10-04
+Howrah,Poor,216,"PM , PM
+2.5 10",2,2018-10-05
+Howrah,Moderate,200,"PM , PM
+2.5 10",2,2018-10-06
+Howrah,Moderate,198,"PM , PM
+2.5 10",2,2018-10-07
+Howrah,Moderate,200,"PM , PM
+2.5 10",2,2018-10-08
+Howrah,Moderate,134,"PM , PM
+2.5 10",2,2018-10-09
+Howrah,Satisfactory,62,"PM
+10",2,2018-10-10
+Howrah,Good,31,"NO
+2",2,2018-10-11
+Howrah,Good,46,"PM
+10",2,2018-10-12
+Howrah,Good,46,"CO, OZONE",2,2018-10-13
+Howrah,Satisfactory,74,"PM , OZONE
+10",2,2018-10-14
+Howrah,Satisfactory,100,"PM , PM
+10 2.5",2,2018-10-15
+Howrah,Moderate,144,"OZONE, PM
+10",2,2018-10-16
+Howrah,Poor,204,"PM
+2.5",2,2018-10-17
+Howrah,Moderate,146,"OZONE, PM
+10",2,2018-10-18
+Howrah,Moderate,166,"PM , PM
+2.5 10",2,2018-10-19
+Howrah,Moderate,196,"PM
+2.5",2,2018-10-20
+Howrah,Poor,208,"PM
+2.5",2,2018-10-21
+Howrah,Moderate,196,"PM
+2.5",2,2018-10-22
+Howrah,Poor,252,"PM
+2.5",2,2018-10-23
+Howrah,Poor,271,"PM
+2.5",2,2018-10-24
+Howrah,Poor,227,"PM
+2.5",2,2018-10-25
+Howrah,Poor,270,"PM
+2.5",2,2018-10-26
+Howrah,Poor,275,"PM
+2.5",2,2018-10-27
+Howrah,Poor,226,"PM
+2.5",2,2018-10-28
+Howrah,Satisfactory,88,"PM , PM
+2.5 10",2,2018-10-29
+Howrah,Satisfactory,52,"PM
+10",2,2018-10-30
+Howrah,Good,48,"OZONE, PM
+10",2,2018-10-31
+Howrah,Satisfactory,70,"PM
+10",2,2018-11-01
+Howrah,Satisfactory,94,"PM
+10",2,2018-11-02
+Howrah,Moderate,109,"PM
+10",2,2018-11-03
+Howrah,Satisfactory,89,"PM
+10",2,2018-11-04
+Howrah,Satisfactory,84,"PM , PM
+10 2.5",2,2018-11-05
+Howrah,Very Poor,318,"PM
+2.5",2,2018-11-07
+Howrah,Very Poor,334,"PM
+2.5",2,2018-11-08
+Howrah,Poor,298,"PM
+2.5",2,2018-11-09
+Howrah,Very Poor,318,"PM
+2.5",2,2018-11-10
+Howrah,Poor,261,"PM
+2.5",2,2018-11-11
+Howrah,Poor,230,"PM
+2.5",2,2018-11-12
+Howrah,Poor,264,"PM
+2.5",2,2018-11-13
+Howrah,Poor,286,"PM
+2.5",2,2018-11-14
+Howrah,Poor,293,"PM
+2.5",2,2018-11-15
+Howrah,Poor,264,"PM
+2.5",2,2018-11-16
+Howrah,Poor,214,"PM
+2.5",2,2018-11-17
+Howrah,Poor,258,"PM
+2.5",2,2018-11-18
+Howrah,Poor,234,"PM
+2.5",2,2018-11-19
+Howrah,Very Poor,302,"PM
+2.5",2,2018-11-20
+Howrah,Very Poor,312,"PM
+2.5",2,2018-11-21
+Howrah,Very Poor,322,"PM
+2.5",2,2018-11-22
+Howrah,Poor,293,"PM
+2.5",2,2018-11-23
+Howrah,Very Poor,340,"PM
+2.5",2,2018-11-24
+Howrah,Very Poor,352,"PM
+2.5",2,2018-11-25
+Howrah,Very Poor,316,"PM
+2.5",2,2018-11-26
+Howrah,Poor,216,"PM
+2.5",2,2018-11-27
+Howrah,Poor,204,"PM
+2.5",2,2018-11-28
+Howrah,Poor,208,"PM
+2.5",2,2018-11-29
+Howrah,Poor,204,"PM
+2.5",2,2018-11-30
+Howrah,Poor,264,"PM
+2.5",2,2018-12-01
+Howrah,Poor,290,"PM
+2.5",2,2018-12-02
+Howrah,Very Poor,303,"PM
+2.5",2,2018-12-03
+Howrah,Very Poor,325,"PM
+2.5",2,2018-12-04
+Howrah,Very Poor,342,"PM
+2.5",2,2018-12-05
+Howrah,Very Poor,342,"PM
+2.5",2,2018-12-06
+Howrah,Very Poor,368,"PM
+2.5",2,2018-12-07
+Howrah,Very Poor,348,"PM
+2.5",2,2018-12-08
+Howrah,Very Poor,348,"PM
+2.5",1,2018-12-09
+Howrah,Very Poor,306,"PM
+2.5",1,2018-12-10
+Howrah,Poor,281,"PM
+2.5",1,2018-12-11
+Howrah,Poor,298,"PM
+2.5",1,2018-12-12
+Howrah,Poor,223,"PM
+2.5",1,2018-12-13
+Howrah,Poor,264,"PM
+2.5",2,2018-12-14
+Howrah,Poor,268,"PM
+2.5",2,2018-12-15
+Howrah,Poor,230,"PM
+2.5",2,2018-12-16
+Howrah,Poor,230,"PM
+2.5",2,2018-12-17
+Howrah,Moderate,119,"PM , PM
+2.5 10",2,2018-12-18
+Howrah,Satisfactory,85,"PM , PM
+10 2.5",2,2018-12-19
+Howrah,Poor,222,"PM
+2.5",2,2018-12-20
+Howrah,Very Poor,316,"PM
+2.5",2,2018-12-21
+Howrah,Very Poor,362,"PM
+2.5",2,2018-12-22
+Howrah,Very Poor,329,"PM
+2.5",2,2018-12-23
+Howrah,Poor,300,"PM
+2.5",2,2018-12-24
+Howrah,Very Poor,314,"PM
+2.5",2,2018-12-25
+Howrah,Very Poor,342,"PM , PM
+10 2.5",2,2018-12-26
+Howrah,Very Poor,358,"PM
+2.5",2,2018-12-27
+Howrah,Very Poor,342,"PM
+2.5",2,2018-12-28
+Howrah,Very Poor,360,"PM , PM
+2.5 10",2,2018-12-29
+Howrah,Very Poor,326,"PM
+2.5",2,2018-12-30
+Howrah,Poor,272,"PM
+2.5",2,2018-12-31
+Howrah,Very Poor,330,"PM
+2.5",2,2019-01-01
+Howrah,Very Poor,322,"PM
+2.5",2,2019-01-02
+Howrah,Very Poor,336,"PM
+2.5",2,2019-01-03
+Howrah,Very Poor,382,"PM
+2.5",2,2019-01-04
+Howrah,Very Poor,338,"PM
+2.5",2,2019-01-05
+Howrah,Poor,298,"PM
+2.5",2,2019-01-06
+Howrah,Poor,296,"PM
+2.5",2,2019-01-07
+Howrah,Poor,256,"PM
+2.5",1,2019-01-08
+Howrah,Very Poor,306,"PM
+2.5",2,2019-01-09
+Howrah,Very Poor,333,"PM
+2.5",2,2019-01-10
+Howrah,Very Poor,324,"PM
+2.5",2,2019-01-11
+Howrah,Very Poor,339,"PM
+2.5",1,2019-01-12
+Howrah,Very Poor,340,"PM
+2.5",2,2019-01-13
+Howrah,Very Poor,339,"PM
+2.5",1,2019-01-14
+Howrah,Very Poor,313,"PM
+2.5",1,2019-01-15
+Howrah,Poor,294,"PM
+2.5",2,2019-01-16
+Howrah,Very Poor,320,"PM
+10",1,2019-01-17
+Howrah,Very Poor,322,"PM
+2.5",1,2019-01-18
+Howrah,Very Poor,377,"PM
+2.5",2,2019-01-19
+Howrah,Very Poor,365,"PM
+2.5",2,2019-01-20
+Howrah,Very Poor,368,"PM , PM
+2.5 10",2,2019-01-21
+Howrah,Very Poor,388,"PM
+10",1,2019-01-22
+Howrah,Very Poor,373,"PM
+10",1,2019-01-23
+Howrah,Very Poor,344,"PM
+2.5",2,2019-01-24
+Howrah,Very Poor,306,"PM
+2.5",2,2019-01-25
+Howrah,Poor,284,"PM
+2.5",2,2019-01-26
+Howrah,Poor,218,"PM
+2.5",2,2019-01-27
+Howrah,Moderate,198,"PM
+2.5",2,2019-01-28
+Howrah,Moderate,184,"PM , PM
+2.5 10",2,2019-01-29
+Howrah,Poor,234,"PM
+2.5",2,2019-01-30
+Howrah,Poor,269,"PM
+2.5",2,2019-01-31
+Howrah,Very Poor,316,"PM
+2.5",2,2019-02-01
+Howrah,Very Poor,330,"PM
+2.5",2,2019-02-02
+Howrah,Very Poor,327,"PM
+2.5",2,2019-02-03
+Howrah,Poor,262,"PM
+2.5",2,2019-02-04
+Howrah,Poor,292,"PM
+2.5",2,2019-02-05
+Howrah,Very Poor,328,"PM
+2.5",2,2019-02-06
+Howrah,Very Poor,326,"PM
+2.5",2,2019-02-07
+Howrah,Very Poor,312,"PM
+2.5",2,2019-02-08
+Howrah,Poor,244,"PM
+2.5",2,2019-02-09
+Howrah,Moderate,134,"PM , PM
+2.5 10",2,2019-02-10
+Howrah,Moderate,170,"PM
+2.5",2,2019-02-11
+Howrah,Poor,242,"PM
+2.5",2,2019-02-12
+Howrah,Poor,270,"PM
+2.5",1,2019-02-13
+Howrah,Very Poor,320,"PM
+2.5",1,2019-02-14
+Howrah,Very Poor,308,"PM
+2.5",1,2019-02-15
+Howrah,Poor,229,"PM
+2.5",2,2019-02-16
+Howrah,Moderate,162,"PM
+2.5",2,2019-02-17
+Howrah,Moderate,179,"PM
+2.5",1,2019-02-18
+Howrah,Poor,274,"PM
+2.5",2,2019-02-19
+Howrah,Moderate,129,"PM
+10",1,2019-02-20
+Howrah,Poor,270,"PM
+2.5",2,2019-02-21
+Howrah,Moderate,169,"PM
+2.5",2,2019-02-22
+Howrah,Moderate,176,"PM
+2.5",1,2019-02-23
+Howrah,Poor,224,"PM
+2.5",1,2019-02-24
+Howrah,Moderate,164,"PM , PM
+2.5 10",2,2019-02-25
+Howrah,Satisfactory,91,"PM , PM
+10 2.5",2,2019-02-26
+Howrah,Good,46,"NO
+2",2,2019-02-27
+Howrah,Satisfactory,63,"PM
+10",1,2019-02-28
+Howrah,Moderate,115,"PM , PM
+2.5 10",2,2019-03-01
+Howrah,Moderate,168,"PM
+2.5",2,2019-03-02
+Howrah,Poor,246,"PM
+2.5",2,2019-03-03
+Howrah,Poor,234,"PM
+2.5",2,2019-03-04
+Howrah,Satisfactory,99,"PM , PM
+2.5 10",2,2019-03-05
+Howrah,Moderate,119,"PM
+10",1,2019-03-06
+Howrah,Poor,216,"PM
+2.5",2,2019-03-07
+Howrah,Moderate,198,"PM
+2.5",2,2019-03-08
+Howrah,Moderate,189,"PM
+2.5",2,2019-03-09
+Howrah,Moderate,126,"PM
+10",1,2019-03-10
+Howrah,Satisfactory,93,"PM , PM
+10 2.5",2,2019-03-11
+Howrah,Moderate,171,"PM , PM
+2.5 10",2,2019-03-12
+Howrah,Moderate,118,"PM , PM
+2.5 10",2,2019-03-13
+Howrah,Moderate,168,"PM , PM
+2.5 10",2,2019-03-14
+Howrah,Moderate,196,"PM
+2.5",2,2019-03-15
+Howrah,Satisfactory,80,"PM
+2.5",1,2019-03-16
+Howrah,Moderate,126,"PM , PM
+2.5 10",2,2019-03-17
+Howrah,Moderate,101,"PM
+10",1,2019-03-18
+Howrah,Satisfactory,100,"PM
+10",1,2019-03-19
+Howrah,Moderate,114,"PM , PM
+2.5 10",2,2019-03-20
+Howrah,Moderate,119,"PM , PM
+2.5 10",2,2019-03-21
+Howrah,Satisfactory,84,"PM , PM
+2.5 10",2,2019-03-22
+Howrah,Moderate,107,"PM
+10",1,2019-03-23
+Howrah,Moderate,157,"PM
+10",1,2019-03-24
+Howrah,Moderate,148,"PM
+10",1,2019-03-25
+Howrah,Moderate,145,"PM
+10",1,2019-03-26
+Howrah,Moderate,140,"PM
+10",1,2019-03-27
+Howrah,Moderate,111,"PM
+10",1,2019-03-28
+Howrah,Moderate,109,"PM
+10",1,2019-03-29
+Howrah,Moderate,124,"PM , PM
+2.5 10",2,2019-03-30
+Howrah,Moderate,113,"PM
+10",1,2019-03-31
+Howrah,Satisfactory,86,"PM , PM
+2.5 10",2,2019-04-01
+Howrah,Satisfactory,72,"PM , PM
+2.5 10",2,2019-04-02
+Howrah,Satisfactory,70,"PM
+2.5",2,2019-04-03
+Howrah,Satisfactory,64,"PM , PM
+10 2.5",2,2019-04-04
+Howrah,Satisfactory,68,"PM , PM
+10 2.5",2,2019-04-05
+Howrah,Satisfactory,92,"PM , PM
+10 2.5",2,2019-04-06
+Howrah,Satisfactory,62,"PM , OZONE
+10",2,2019-04-07
+Howrah,Satisfactory,68,"PM , PM
+10 2.5",2,2019-04-08
+Howrah,Satisfactory,68,"PM , PM
+10 2.5",2,2019-04-09
+Howrah,Satisfactory,78,"PM
+10",1,2019-04-10
+Howrah,Satisfactory,64,"PM
+10",1,2019-04-11
+Howrah,Satisfactory,74,"PM
+10",1,2019-04-12
+Howrah,Satisfactory,78,"PM , PM
+10 2.5",2,2019-04-13
+Howrah,Satisfactory,70,"PM , PM
+10 2.5",2,2019-04-14
+Howrah,Satisfactory,74,"PM , PM
+10 2.5",2,2019-04-15
+Howrah,Satisfactory,79,"PM , PM
+10 2.5",2,2019-04-16
+Howrah,Moderate,108,"PM , PM
+10 2.5",2,2019-04-17
+Howrah,Moderate,192,"PM
+2.5",2,2019-04-18
+Howrah,Moderate,140,"PM , PM
+2.5 10",2,2019-04-19
+Howrah,Satisfactory,98,"PM , PM
+10 2.5",2,2019-04-20
+Howrah,Satisfactory,85,"PM , PM
+10 2.5",2,2019-04-21
+Howrah,Satisfactory,100,"PM , PM
+2.5 10",2,2019-04-22
+Howrah,Satisfactory,76,"PM , PM
+2.5 10",2,2019-04-23
+Howrah,Satisfactory,62,"PM
+2.5",1,2019-04-24
+Howrah,Satisfactory,71,"PM , OZONE
+10",2,2019-04-25
+Howrah,Satisfactory,80,"PM , PM
+10 2.5",2,2019-04-26
+Howrah,Satisfactory,94,"PM , PM
+10 2.5",2,2019-04-27
+Howrah,Satisfactory,82,"PM , PM
+10 2.5",2,2019-04-28
+Howrah,Satisfactory,74,"PM , PM
+10 2.5",2,2019-04-29
+Howrah,Satisfactory,62,"PM
+10",2,2019-04-30
+Howrah,Satisfactory,54,"PM
+10",2,2019-05-01
+Howrah,Good,44,"PM
+10",2,2019-05-02
+Howrah,Good,50,"PM
+10",2,2019-05-03
+Howrah,Good,43,"PM , OZONE
+10",2,2019-05-04
+Howrah,Satisfactory,98,"PM , PM
+10 2.5",2,2019-05-05
+Howrah,Satisfactory,96,"PM , PM
+10 2.5",2,2019-05-06
+Howrah,Satisfactory,99,"PM , PM
+10 2.5",2,2019-05-07
+Howrah,Moderate,114,"PM , PM
+10 2.5",2,2019-05-08
+Howrah,Moderate,116,"PM , PM
+10 2.5",3,2019-05-09
+Howrah,Moderate,115,"PM , PM
+10 2.5",3,2019-05-10
+Howrah,Moderate,109,"PM
+10",3,2019-05-11
+Howrah,Moderate,101,"PM , PM
+10 2.5",3,2019-05-12
+Howrah,Satisfactory,93,"PM , PM
+10 2.5",3,2019-05-13
+Howrah,Satisfactory,74,"PM , PM
+10 2.5",3,2019-05-14
+Howrah,Satisfactory,83,"PM
+10",3,2019-05-15
+Howrah,Satisfactory,89,"PM
+10",3,2019-05-16
+Howrah,Satisfactory,93,"PM , PM
+10 2.5",3,2019-05-17
+Howrah,Satisfactory,91,"PM , PM
+10 2.5",3,2019-05-18
+Howrah,Satisfactory,92,"PM
+10",3,2019-05-19
+Howrah,Satisfactory,90,"PM
+10",3,2019-05-20
+Howrah,Satisfactory,87,"PM
+10",3,2019-05-21
+Howrah,Satisfactory,85,"PM , PM
+10 2.5",3,2019-05-22
+Howrah,Satisfactory,79,"PM
+10",3,2019-05-23
+Howrah,Satisfactory,78,"PM
+10",3,2019-05-24
+Howrah,Satisfactory,72,"PM
+10",3,2019-05-25
+Howrah,Satisfactory,72,"PM
+10",3,2019-05-26
+Howrah,Satisfactory,81,"PM
+10",3,2019-05-27
+Howrah,Satisfactory,79,"PM
+10",3,2019-05-28
+Howrah,Satisfactory,81,"PM , PM
+10 2.5",3,2019-05-29
+Howrah,Satisfactory,79,"PM
+10",3,2019-05-30
+Howrah,Satisfactory,75,"PM
+10",3,2019-05-31
+Howrah,Satisfactory,77,"PM , PM
+10 2.5",3,2019-06-01
+Howrah,Satisfactory,82,"PM
+10",3,2019-06-02
+Howrah,Satisfactory,68,"OZONE, PM
+10",3,2019-06-03
+Howrah,Satisfactory,74,"PM , PM
+10 2.5",3,2019-06-04
+Howrah,Satisfactory,65,"PM , PM
+10 2.5",3,2019-06-05
+Howrah,Good,44,"PM , OZONE
+10",3,2019-06-06
+Howrah,Satisfactory,60,"OZONE, PM
+10",3,2019-06-07
+Howrah,Satisfactory,58,"OZONE, PM
+10",3,2019-06-08
+Howrah,Satisfactory,66,"OZONE, PM
+10",3,2019-06-09
+Howrah,Satisfactory,81,"OZONE, PM
+10",3,2019-06-10
+Howrah,Satisfactory,74,"OZONE, PM
+10",3,2019-06-11
+Howrah,Satisfactory,71,"PM , PM
+2.5 10",3,2019-06-12
+Howrah,Moderate,137,"OZONE, PM ,
+10
+PM
+2.5",3,2019-06-13
+Howrah,Moderate,123,"OZONE, PM ,
+2.5
+PM
+10",3,2019-06-14
+Howrah,Satisfactory,91,"PM , PM
+10 2.5",3,2019-06-15
+Howrah,Satisfactory,82,"PM , OZONE,
+10
+PM
+2.5",3,2019-06-16
+Howrah,Satisfactory,97,"PM , PM
+10 2.5",3,2019-06-17
+Howrah,Moderate,122,"PM , PM
+2.5 10",3,2019-06-18
+Howrah,Moderate,112,"PM
+10",2,2019-06-19
+Howrah,Moderate,131,"PM , PM
+2.5 10",2,2019-06-20
+Howrah,Satisfactory,55,"PM , PM
+10 2.5",3,2019-06-21
+Howrah,Good,47,"PM , OZONE
+10",3,2019-06-22
+Howrah,Good,46,"PM , PM
+10 2.5",3,2019-06-23
+Howrah,Satisfactory,56,"PM , PM
+10 2.5",3,2019-06-24
+Howrah,Satisfactory,69,"PM , PM
+10 2.5",3,2019-06-25
+Howrah,Satisfactory,63,"PM
+10",3,2019-06-26
+Howrah,Satisfactory,66,"PM
+10",3,2019-06-27
+Howrah,Satisfactory,69,"PM , PM
+10 2.5",3,2019-06-28
+Howrah,Satisfactory,86,"PM , PM
+2.5 10",3,2019-06-29
+Howrah,Moderate,138,"PM
+2.5",2,2019-06-30
+Howrah,Satisfactory,60,"PM , PM
+2.5 10",3,2019-07-01
+Howrah,Good,48,"PM , OZONE
+2.5",3,2019-07-02
+Howrah,Good,50,"PM , OZONE
+2.5",3,2019-07-03
+Howrah,Satisfactory,69,"PM , PM
+10 2.5",3,2019-07-04
+Howrah,Satisfactory,84,"PM , PM
+10 2.5",3,2019-07-05
+Howrah,Satisfactory,79,"PM
+2.5",2,2019-07-06
+Howrah,Satisfactory,61,"PM , PM
+10 2.5",2,2019-07-07
+Howrah,Satisfactory,66,"PM , PM
+10 2.5",2,2019-07-08
+Howrah,Satisfactory,71,"PM , PM
+10 2.5",3,2019-07-09
+Howrah,Satisfactory,83,"PM , PM
+10 2.5",3,2019-07-10
+Howrah,Satisfactory,90,"PM , PM
+10 2.5",3,2019-07-11
+Howrah,Satisfactory,80,"PM , PM
+10 2.5",3,2019-07-12
+Howrah,Satisfactory,91,"PM , PM
+10 2.5",3,2019-07-13
+Howrah,Satisfactory,93,"PM , PM
+10 2.5",3,2019-07-14
+Howrah,Moderate,102,"PM , PM
+10 2.5",3,2019-07-15
+Howrah,Moderate,114,"PM
+10",3,2019-07-16
+Howrah,Moderate,126,"PM
+2.5",2,2019-07-17
+Howrah,Satisfactory,93,"PM , PM
+2.5 10",2,2019-07-18
+Howrah,Good,42,"PM , PM
+10 2.5",2,2019-07-19
+Howrah,Good,46,"PM , PM
+10 2.5",2,2019-07-20
+Howrah,Satisfactory,52,"PM
+10",2,2019-07-21
+Howrah,Good,50,"PM
+10",2,2019-07-22
+Howrah,Satisfactory,55,"PM
+10",3,2019-07-23
+Howrah,Satisfactory,56,"PM
+10",3,2019-07-24
+Howrah,Satisfactory,78,"PM , OZONE
+10",3,2019-07-25
+Howrah,Satisfactory,86,"PM , PM
+2.5 10",3,2019-07-26
+Howrah,Satisfactory,82,"PM , PM
+2.5 10",2,2019-07-27
+Howrah,Good,39,"PM , OZONE
+10",3,2019-07-28
+Howrah,Good,31,"PM , OZONE
+10",3,2019-07-29
+Howrah,Satisfactory,51,"PM , OZONE
+10",3,2019-07-30
+Howrah,Satisfactory,66,"PM
+10",3,2019-07-31
+Howrah,Satisfactory,70,"PM , OZONE
+10",3,2019-08-01
+Howrah,Satisfactory,75,"PM
+10",1,2019-08-02
+Howrah,Satisfactory,52,"PM , PM
+10 2.5",2,2019-08-03
+Howrah,Moderate,102,"PM
+10",2,2019-08-04
+Howrah,Moderate,101,"PM , PM
+2.5 10",2,2019-08-05
+Howrah,Satisfactory,80,"PM
+10",2,2019-08-06
+Howrah,Good,40,OZONE,2,2019-08-07
+Howrah,Good,32,"PM , NO
+10 2",2,2019-08-08
+Howrah,Satisfactory,68,"PM
+10",2,2019-08-09
+Howrah,Satisfactory,82,"PM
+10",2,2019-08-10
+Howrah,Moderate,146,"PM , PM
+2.5 10",2,2019-08-11
+Howrah,Satisfactory,94,"PM , PM
+2.5 10",2,2019-08-12
+Howrah,Good,42,"PM
+2.5",2,2019-08-13
+Howrah,Satisfactory,61,"PM , PM
+10 2.5",2,2019-08-14
+Howrah,Satisfactory,66,"PM
+10",2,2019-08-15
+Howrah,Satisfactory,92,"PM
+10",2,2019-08-16
+Howrah,Satisfactory,80,"PM , NO
+2.5 2",2,2019-08-17
+Howrah,Satisfactory,71,"PM
+2.5",3,2019-08-18
+Howrah,Good,42,"PM , PM ,
+2.5 10
+OZONE",3,2019-08-19
+Howrah,Satisfactory,66,"PM
+10",2,2019-08-20
+Howrah,Satisfactory,84,"PM
+10",2,2019-08-21
+Howrah,Satisfactory,80,"PM
+10",3,2019-08-22
+Howrah,Satisfactory,58,"PM
+10",2,2019-08-23
+Howrah,Satisfactory,62,"PM
+10",2,2019-08-24
+Howrah,Good,47,"OZONE, PM , NO
+10 2",3,2019-08-25
+Howrah,Good,44,OZONE,2,2019-08-26
+Howrah,Good,47,"PM
+10",2,2019-08-27
+Howrah,Satisfactory,66,"PM
+10",2,2019-08-28
+Howrah,Satisfactory,51,"PM
+10",2,2019-08-29
+Howrah,Satisfactory,58,"PM
+10",2,2019-08-30
+Howrah,Satisfactory,58,"PM
+10",2,2019-08-31
+Howrah,Satisfactory,84,"PM
+10",2,2019-09-01
+Howrah,Satisfactory,64,"PM
+10",2,2019-09-02
+Howrah,Good,42,"PM , NO
+10 2",2,2019-09-03
+Howrah,Good,40,"PM
+10",2,2019-09-04
+Howrah,Good,38,"PM
+10",2,2019-09-05
+Howrah,Good,37,"PM , OZONE
+10",3,2019-09-06
+Howrah,Good,40,"PM
+10",2,2019-09-07
+Howrah,Good,45,"PM
+10",2,2019-09-08
+Howrah,Satisfactory,62,"PM , NO
+10 2",2,2019-09-09
+Howrah,Satisfactory,73,"PM
+10",2,2019-09-10
+Howrah,Satisfactory,66,"PM
+10",2,2019-09-11
+Howrah,Satisfactory,79,"NO , PM
+2 10",2,2019-09-12
+Howrah,Satisfactory,76,"PM
+10",2,2019-09-13
+Howrah,Satisfactory,85,"PM
+10",2,2019-09-14
+Howrah,Satisfactory,99,"PM
+10",2,2019-09-15
+Howrah,Satisfactory,88,"PM
+10",2,2019-09-16
+Howrah,Satisfactory,79,"PM
+10",2,2019-09-17
+Howrah,Satisfactory,56,"PM
+10",2,2019-09-18
+Howrah,Good,39,"PM
+10",2,2019-09-19
+Howrah,Satisfactory,69,"PM
+10",2,2019-09-20
+Howrah,Moderate,114,"PM , PM
+2.5 10",2,2019-09-21
+Howrah,Satisfactory,80,"PM
+10",2,2019-09-22
+Howrah,Good,44,"PM
+10",1,2019-09-23
+Howrah,Good,45,"PM
+10",2,2019-09-24
+Howrah,Good,34,"PM , CO
+10",2,2019-09-25
+Howrah,Satisfactory,59,"PM
+2.5",2,2019-09-26
+Howrah,Good,44,"PM
+2.5",1,2019-09-27
+Howrah,Satisfactory,59,"PM
+10",1,2019-09-28
+Howrah,Good,43,"PM
+10",1,2019-09-29
+Howrah,Good,47,"PM
+10",1,2019-09-30
+Howrah,Satisfactory,92,"PM , PM
+2.5 10",2,2019-10-01
+Howrah,Moderate,180,"PM
+2.5",2,2019-10-02
+Howrah,Satisfactory,87,"PM
+2.5",1,2019-10-03
+Howrah,Satisfactory,96,"PM , PM
+2.5 10",2,2019-10-04
+Howrah,Moderate,118,"PM , PM
+2.5 10",2,2019-10-05
+Howrah,Moderate,142,"PM
+2.5",2,2019-10-06
+Howrah,Satisfactory,94,"PM , PM
+2.5 10",2,2019-10-07
+Howrah,Satisfactory,96,"PM
+2.5",2,2019-10-08
+Howrah,Good,42,"PM , OZONE
+10",2,2019-10-09
+Howrah,Good,40,"PM , OZONE
+2.5",2,2019-10-10
+Howrah,Moderate,126,"PM , PM
+2.5 10",2,2019-10-11
+Howrah,Moderate,150,"PM
+2.5",2,2019-10-12
+Howrah,Moderate,179,"PM
+2.5",2,2019-10-13
+Howrah,Poor,202,"PM
+2.5",2,2019-10-14
+Howrah,Poor,212,"PM
+2.5",2,2019-10-15
+Howrah,Poor,204,"PM
+2.5",2,2019-10-16
+Howrah,Moderate,159,"PM
+2.5",2,2019-10-17
+Howrah,Poor,260,"PM
+2.5",2,2019-10-18
+Howrah,Moderate,200,"PM
+2.5",2,2019-10-19
+Howrah,Moderate,189,"PM
+2.5",2,2019-10-20
+Howrah,Poor,254,"PM
+2.5",2,2019-10-21
+Howrah,Poor,222,"PM
+2.5",2,2019-10-22
+Howrah,Poor,262,"PM
+2.5",2,2019-10-23
+Howrah,Moderate,159,"PM
+2.5",2,2019-10-24
+Howrah,Satisfactory,62,"PM
+2.5",2,2019-10-25
+Howrah,Satisfactory,78,"PM , PM
+2.5 10",2,2019-10-26
+Howrah,Moderate,129,"PM , PM
+2.5 10",3,2019-10-27
+Howrah,Moderate,187,"PM
+2.5",3,2019-10-28
+Howrah,Poor,236,"PM
+2.5",3,2019-10-29
+Howrah,Poor,254,"PM
+2.5",3,2019-10-30
+Howrah,Very Poor,307,"PM
+2.5",3,2019-10-31
+Howrah,Poor,267,"PM
+2.5",3,2019-11-01
+Howrah,Poor,241,"PM
+2.5",3,2019-11-02
+Howrah,Moderate,174,"PM , PM
+2.5 10",3,2019-11-03
+Howrah,Moderate,177,"PM , PM
+2.5 10",3,2019-11-04
+Howrah,Poor,261,"PM
+2.5",3,2019-11-05
+Howrah,Very Poor,362,"PM
+2.5",3,2019-11-06
+Howrah,Poor,232,"PM , PM
+10 2.5",3,2019-11-07
+Howrah,Moderate,193,"PM
+2.5",3,2019-11-08
+Howrah,Good,39,"PM , NO , OZONE
+2.5 2",3,2019-11-09
+Howrah,Good,41,"PM , OZONE
+10",3,2019-11-10
+Howrah,Satisfactory,69,"PM
+10",3,2019-11-11
+Howrah,Moderate,155,"PM , PM
+10 2.5",3,2019-11-12
+Howrah,Poor,258,"PM
+2.5",3,2019-11-13
+Howrah,Poor,229,"PM
+2.5",3,2019-11-14
+Howrah,Poor,216,"PM
+2.5",3,2019-11-15
+Howrah,Poor,217,"PM
+2.5",3,2019-11-16
+Howrah,Poor,257,"PM , PM
+10 2.5",3,2019-11-17
+Howrah,Poor,278,"PM
+2.5",3,2019-11-18
+Howrah,Poor,275,"PM
+2.5",3,2019-11-19
+Howrah,Poor,247,"PM
+2.5",3,2019-11-20
+Howrah,Poor,268,"PM
+2.5",2,2019-11-21
+Howrah,Very Poor,310,"PM , PM
+10 2.5",2,2019-11-22
+Howrah,Very Poor,305,"PM , PM
+10 2.5",3,2019-11-23
+Howrah,Very Poor,332,"PM , PM
+10 2.5",3,2019-11-24
+Howrah,Very Poor,329,"PM , PM
+10 2.5",3,2019-11-25
+Howrah,Very Poor,362,"PM , PM
+10 2.5",2,2019-11-26
+Howrah,Very Poor,352,"PM
+2.5",2,2019-11-27
+Howrah,Poor,259,"PM
+2.5",3,2019-11-28
+Howrah,Poor,266,"PM
+2.5",3,2019-11-29
+Howrah,Poor,279,"PM
+2.5",3,2019-11-30
+Howrah,Poor,253,"PM
+2.5",2,2019-12-01
+Howrah,Poor,234,"PM
+2.5",2,2019-12-02
+Howrah,Poor,269,"PM , PM
+10 2.5",3,2019-12-03
+Howrah,Poor,290,"PM
+2.5",3,2019-12-04
+Howrah,Poor,262,"PM
+2.5",3,2019-12-05
+Howrah,Poor,238,"PM
+2.5",3,2019-12-06
+Howrah,Moderate,193,"PM
+2.5",3,2019-12-07
+Howrah,Poor,231,"PM , PM
+10 2.5",3,2019-12-08
+Howrah,Moderate,168,"PM
+2.5",3,2019-12-09
+Howrah,Moderate,186,"PM
+2.5",3,2019-12-10
+Howrah,Poor,205,"PM
+2.5",3,2019-12-11
+Howrah,Moderate,170,"PM
+2.5",3,2019-12-12
+Howrah,Poor,252,"PM
+2.5",3,2019-12-13
+Howrah,Very Poor,312,"PM
+2.5",3,2019-12-14
+Howrah,Poor,274,"PM
+2.5",3,2019-12-15
+Howrah,Moderate,197,"PM
+2.5",3,2019-12-16
+Howrah,Poor,212,"PM
+2.5",2,2019-12-17
+Howrah,Poor,234,"PM
+2.5",2,2019-12-18
+Howrah,Poor,298,"PM
+2.5",1,2019-12-19
+Howrah,Very Poor,328,"PM
+2.5",1,2019-12-20
+Howrah,Very Poor,387,"PM
+2.5",1,2019-12-21
+Howrah,Very Poor,348,"PM
+2.5",1,2019-12-22
+Howrah,Very Poor,330,"PM
+2.5",2,2019-12-23
+Howrah,Very Poor,359,"PM , PM
+10 2.5",3,2019-12-24
+Howrah,Very Poor,329,"PM
+2.5",3,2019-12-25
+Howrah,Very Poor,320,"PM , PM
+10 2.5",3,2019-12-26
+Howrah,Moderate,199,"PM
+2.5",3,2019-12-27
+Howrah,Poor,275,"PM , PM
+2.5 10",3,2019-12-28
+Howrah,Poor,275,"PM
+2.5",3,2019-12-29
+Howrah,Poor,284,"PM
+2.5",3,2019-12-30
+Howrah,Very Poor,311,"PM
+2.5",3,2019-12-31
+Howrah,Very Poor,315,"PM
+2.5",3,2020-01-01
+Howrah,Very Poor,308,"PM
+2.5",3,2020-01-02
+Howrah,Poor,217,"PM
+2.5",3,2020-01-03
+Howrah,Satisfactory,89,"PM
+2.5",3,2020-01-04
+Howrah,Poor,256,"PM
+2.5",3,2020-01-05
+Howrah,Poor,263,"PM
+2.5",3,2020-01-06
+Howrah,Poor,251,"PM , PM
+10 2.5",3,2020-01-07
+Howrah,Very Poor,350,"PM , PM
+10 2.5",3,2020-01-08
+Howrah,Poor,293,"PM , PM
+10 2.5",3,2020-01-09
+Howrah,Poor,239,"PM
+2.5",3,2020-01-10
+Howrah,Moderate,190,"PM
+2.5",3,2020-01-11
+Howrah,Poor,233,"PM
+2.5",3,2020-01-12
+Howrah,Poor,287,"PM , PM
+10 2.5",2,2020-01-13
+Howrah,Very Poor,335,"PM , PM
+2.5 10",3,2020-01-14
+Howrah,Very Poor,340,"PM , PM
+10 2.5",3,2020-01-15
+Howrah,Very Poor,308,"PM , PM
+10 2.5",2,2020-01-16
+Howrah,Poor,285,"PM , PM
+10 2.5",2,2020-01-17
+Howrah,Poor,248,"PM , PM
+10 2.5",3,2020-01-18
+Howrah,Poor,209,"PM , PM
+10 2.5",3,2020-01-19
+Howrah,Moderate,140,"PM , PM
+2.5 10",3,2020-01-20
+Howrah,Moderate,196,"PM
+2.5",3,2020-01-21
+Howrah,Poor,254,"PM
+2.5",3,2020-01-22
+Howrah,Poor,278,"PM
+2.5",3,2020-01-23
+Howrah,Poor,228,"PM
+2.5",3,2020-01-24
+Howrah,Moderate,177,"PM , PM
+2.5 10",3,2020-01-25
+Howrah,Poor,254,"PM
+2.5",3,2020-01-26
+Howrah,Poor,255,"PM
+2.5",3,2020-01-27
+Howrah,Very Poor,306,"PM
+2.5",3,2020-01-28
+Howrah,Moderate,165,"PM , PM
+2.5 10",3,2020-01-29
+Howrah,Moderate,102,"PM , PM
+2.5 10",3,2020-01-30
+Howrah,Poor,202,"PM , PM
+2.5 10",3,2020-01-31
+Howrah,Moderate,164,"PM , PM
+2.5 10",2,2020-02-01
+Howrah,Moderate,178,"PM , PM
+2.5 10",3,2020-02-02
+Howrah,Poor,201,"PM , PM
+10 2.5",3,2020-02-03
+Howrah,Poor,213,"PM , O
+2.5 3",2,2020-02-04
+Howrah,Poor,247,"PM , PM , O
+10 2.5 3",3,2020-02-05
+Howrah,Poor,214,"PM , O
+2.5 3",3,2020-02-06
+Howrah,Moderate,186,"PM , PM
+2.5 10",2,2020-02-07
+Howrah,Poor,222,"PM , PM
+2.5 10",2,2020-02-08
+Howrah,Poor,244,"PM
+2.5",3,2020-02-09
+Howrah,Poor,201,"PM , PM
+2.5 10",3,2020-02-10
+Howrah,Poor,245,"PM
+2.5",3,2020-02-11
+Howrah,Poor,224,"PM , PM
+10 2.5",3,2020-02-12
+Howrah,Poor,239,"PM
+2.5",3,2020-02-13
+Howrah,Poor,263,"PM , PM
+10 2.5",3,2020-02-14
+Howrah,Moderate,182,"PM , PM
+2.5 10",3,2020-02-15
+Howrah,Poor,231,"PM , PM
+10 2.5",3,2020-02-16
+Howrah,Poor,220,"PM , PM
+2.5 10",3,2020-02-17
+Howrah,Poor,221,"PM
+2.5",3,2020-02-18
+Howrah,Poor,211,"PM , O
+2.5 3",3,2020-02-19
+Howrah,Moderate,124,"PM , PM
+2.5 10",3,2020-02-20
+Howrah,Moderate,189,"PM , O
+2.5 3",3,2020-02-21
+Howrah,Poor,230,"PM , PM
+2.5 10",3,2020-02-22
+Howrah,Poor,218,"PM , PM
+2.5 10",3,2020-02-23
+Howrah,Poor,212,"PM , PM
+2.5 10",3,2020-02-24
+Howrah,Moderate,193,"PM , PM
+2.5 10",3,2020-02-25
+Howrah,Moderate,122,"PM , PM
+2.5 10",3,2020-02-26
+Howrah,Satisfactory,85,"PM , O
+10 3",3,2020-02-27
+Howrah,Moderate,158,"PM , O
+2.5 3",3,2020-02-28
+Howrah,Moderate,168,"PM , O
+2.5 3",3,2020-02-29
+Howrah,Poor,208,"PM , O
+2.5 3",3,2020-03-01
+Howrah,Poor,224,"PM , PM
+2.5 10",3,2020-03-02
+Howrah,Moderate,199,"PM , PM
+2.5 10",3,2020-03-03
+Howrah,Moderate,138,"PM
+2.5",2,2020-03-04
+Howrah,Satisfactory,91,"PM , NO , PM
+10 2 2.5",3,2020-03-05
+Howrah,Satisfactory,95,"PM
+10",3,2020-03-06
+Howrah,Satisfactory,65,"PM , PM , NO
+10 2.5 2",3,2020-03-07
+Howrah,Satisfactory,81,"PM
+10",3,2020-03-08
+Howrah,Moderate,141,"PM , PM
+10 2.5",3,2020-03-09
+Howrah,Moderate,158,"PM , PM
+2.5 10",3,2020-03-10
+Howrah,Moderate,107,"PM , PM
+10 2.5",3,2020-03-11
+Howrah,Moderate,123,"PM , PM
+10 2.5",3,2020-03-12
+Howrah,Moderate,112,"PM , O
+10 3",3,2020-03-13
+Howrah,Moderate,129,"PM , PM
+2.5 10",2,2020-03-14
+Howrah,Satisfactory,72,"PM , O , NO
+10 3 2",3,2020-03-15
+Howrah,Moderate,104,"PM , NO
+10 2",3,2020-03-16
+Howrah,Moderate,126,"PM , PM
+10 2.5",3,2020-03-17
+Howrah,Moderate,152,"PM , PM
+10 2.5",3,2020-03-18
+Howrah,Moderate,199,"PM , PM
+2.5 10",3,2020-03-19
+Howrah,Moderate,107,"PM , PM , NO
+10 2.5 2",3,2020-03-20
+Howrah,Moderate,125,"PM , PM
+10 2.5",3,2020-03-21
+Howrah,Satisfactory,65,"O , PM , NO
+3 10 2",3,2020-03-22
+Howrah,Satisfactory,66,"O , PM , NO
+3 10 2",3,2020-03-23
+Howrah,Satisfactory,63,"PM
+10",3,2020-03-24
+Howrah,Satisfactory,85,"PM
+10",3,2020-03-25
+Howrah,Satisfactory,71,"PM , O
+10 3",3,2020-03-26
+Howrah,Satisfactory,100,"PM , O
+10 3",3,2020-03-27
+Howrah,Satisfactory,87,"PM , O
+10 3",3,2020-03-28
+Howrah,Satisfactory,76,"PM
+10",2,2020-03-29
+Howrah,Satisfactory,79,"PM
+10",2,2020-03-30
+Howrah,Satisfactory,84,"PM
+10",2,2020-03-31
+Howrah,Satisfactory,86,"PM
+10",2,2020-04-01
+Howrah,Satisfactory,70,"PM
+10",2,2020-04-02
+Howrah,Satisfactory,70,"PM
+10",2,2020-04-03
+Howrah,Moderate,113,"PM , PM
+2.5 10",2,2020-04-04
+Howrah,Satisfactory,83,"PM
+10",2,2020-04-05
+Howrah,Satisfactory,76,"PM
+10",3,2020-04-06
+Howrah,Satisfactory,81,"PM , PM
+10 2.5",3,2020-04-07
+Howrah,Satisfactory,64,"PM , O
+10 3",3,2020-04-08
+Howrah,Satisfactory,66,"O , PM
+3 10",3,2020-04-09
+Howrah,Satisfactory,53,"PM , O
+10 3",3,2020-04-10
+Howrah,Good,47,"PM , O
+10 3",3,2020-04-11
+Howrah,Satisfactory,65,"PM
+10",3,2020-04-12
+Howrah,Satisfactory,53,"PM
+10",3,2020-04-13
+Howrah,Satisfactory,60,"PM
+10",3,2020-04-14
+Howrah,Satisfactory,57,"PM
+10",3,2020-04-15
+Howrah,Satisfactory,74,"PM
+10",3,2020-04-16
+Howrah,Satisfactory,57,"PM , PM
+10 2.5",3,2020-04-17
+Howrah,Good,41,"PM , PM
+10 2.5",3,2020-04-18
+Howrah,Good,44,"O , PM
+3 10",3,2020-04-19
+Howrah,Good,36,"PM , PM
+10 2.5",3,2020-04-20
+Howrah,Good,35,"O , PM , PM
+3 2.5 10",3,2020-04-21
+Howrah,Good,37,"O , PM , NO
+3 2.5 2",3,2020-04-22
+Howrah,Good,33,"PM , O
+10 3",3,2020-04-23
+Howrah,Good,42,"O , PM
+3 10",2,2020-04-24
+Howrah,Good,44,"O
+3",2,2020-04-25
+Howrah,Satisfactory,58,"O
+3",2,2020-04-26
+Howrah,Good,40,"O
+3",2,2020-04-27
+Howrah,Good,46,"O
+3",2,2020-04-28
+Howrah,Good,48,"O , NO
+3 2",3,2020-04-29
+Howrah,Good,42,"O , PM
+3 10",3,2020-04-30
+Howrah,Good,44,"O , PM
+3 10",3,2020-05-01
+Howrah,Good,43,"O , NO
+3 2",3,2020-05-02
+Howrah,Good,49,"O , PM
+3 10",3,2020-05-03
+Howrah,Satisfactory,55,"PM , PM
+10 2.5",3,2020-05-04
+Howrah,Good,45,"O , PM
+3 10",3,2020-05-05
+Howrah,Satisfactory,63,"O
+3",2,2020-05-06
+Howrah,Satisfactory,63,"O
+3",2,2020-05-07
+Howrah,Satisfactory,56,"O
+3",2,2020-05-08
+Howrah,Satisfactory,72,"O
+3",2,2020-05-09
+Howrah,Satisfactory,62,"O
+3",2,2020-05-10
+Howrah,Satisfactory,80,"O
+3",2,2020-05-11
+Howrah,Satisfactory,94,"O
+3",2,2020-05-12
+Howrah,Satisfactory,52,"PM
+10",2,2020-05-13
+Howrah,Good,45,"PM , O
+10 3",3,2020-05-14
+Howrah,Good,40,"O , PM
+3 10",3,2020-05-15
+Howrah,Good,38,"O , PM
+3 10",3,2020-05-16
+Howrah,Good,40,"O , PM
+3 10",2,2020-05-17
+Howrah,Good,30,"O , NO
+3 2",2,2020-05-18
+Howrah,Good,26,"PM
+10",2,2020-05-19
+Howrah,Good,24,"PM , NO
+10 2",2,2020-05-20
+Howrah,Good,17,CO,1,2020-05-21
+Howrah,Satisfactory,55,"O
+3",1,2020-05-22
+Howrah,Satisfactory,57,"O
+3",1,2020-05-23
+Howrah,Satisfactory,64,"O
+3",1,2020-05-24
+Howrah,Satisfactory,54,"O
+3",1,2020-05-25
+Howrah,Satisfactory,56,"O
+3",1,2020-05-26
+Howrah,Satisfactory,51,"O
+3",1,2020-05-27
+Howrah,Good,42,"O
+3",1,2020-05-28
+Howrah,Satisfactory,52,"O
+3",1,2020-05-29
+Howrah,Satisfactory,62,"O
+3",1,2020-05-30
+Howrah,Satisfactory,54,"O
+3",1,2020-05-31
+Howrah,Satisfactory,53,"O
+3",1,2020-06-01
+Howrah,Satisfactory,58,"O
+3",2,2020-06-02
+Howrah,Satisfactory,66,"O
+3",2,2020-06-03
+Howrah,Satisfactory,57,"PM , O
+10 3",2,2020-06-04
+Howrah,Good,46,"O
+3",1,2020-06-05
+Howrah,Satisfactory,54,"O , PM
+3 10",2,2020-06-06
+Howrah,Satisfactory,68,"PM , NO
+10 2",2,2020-06-07
+Howrah,Satisfactory,80,"O
+3",1,2020-06-08
+Howrah,Satisfactory,60,"PM
+10",2,2020-06-09
+Howrah,Good,46,"PM
+10",2,2020-06-10
+Howrah,Good,19,"NO
+2",1,2020-06-11
+Howrah,Good,20,"NO
+2",1,2020-06-12
+Howrah,Good,30,"O , NO
+3 2",2,2020-06-13
+Howrah,Good,30,"PM
+10",2,2020-06-14
+Howrah,Good,44,"O
+3",1,2020-06-15
+Howrah,Satisfactory,54,"O
+3",2,2020-06-16
+Howrah,Good,44,"PM , NO
+10 2",2,2020-06-17
+Howrah,Satisfactory,52,"PM
+10",2,2020-06-18
+Howrah,Satisfactory,54,"PM , O
+10 3",2,2020-06-19
+Howrah,Satisfactory,52,"PM , O
+10 3",2,2020-06-20
+Howrah,Good,48,"O
+3",2,2020-06-21
+Howrah,Good,48,"O
+3",2,2020-06-22
+Howrah,Satisfactory,51,"PM , O
+10 3",2,2020-06-23
+Howrah,Satisfactory,58,"PM , O
+10 3",2,2020-06-24
+Howrah,Satisfactory,61,"PM , O
+10 3",2,2020-06-25
+Howrah,Good,47,"PM , NO
+10 2",2,2020-06-26
+Howrah,Good,42,"PM , NO
+10 2",2,2020-06-27
+Howrah,Good,43,"PM , O
+10 3",2,2020-06-28
+Howrah,Good,46,"O , PM
+3 10",2,2020-06-29
+Howrah,Good,47,"PM , O
+10 3",3,2020-06-30
+Howrah,Good,41,"PM
+10",3,2020-07-01
+Howrah,Good,40,"O , PM
+3 10",2,2020-07-02
+Howrah,Good,40,"PM , O
+10 3",3,2020-07-03
+Howrah,Good,32,"O , CO
+3",3,2020-07-04
+Howrah,Good,31,"O , CO
+3",3,2020-07-05
+Howrah,Good,33,"O
+3",3,2020-07-06
+Howrah,Good,34,"PM , O
+10 3",3,2020-07-07
+Howrah,Good,49,"PM
+10",2,2020-07-08
+Howrah,Good,47,"NO , O
+2 3",3,2020-07-09
+Howrah,Satisfactory,51,"NO , PM , O
+2 10 3",3,2020-07-10
+Howrah,Satisfactory,53,"PM , O
+10 3",3,2020-07-11
+Howrah,Satisfactory,51,"PM , O
+10 3",2,2020-07-12
+Howrah,Good,47,"PM , PM
+10 2.5",2,2020-07-13
+Howrah,Satisfactory,56,"PM , O
+10 3",3,2020-07-14
+Howrah,Good,33,"O , PM
+3 10",3,2020-07-15
+Howrah,Good,33,"NO , O , PM
+2 3 10",3,2020-07-16
+Howrah,Good,34,"NO , CO
+2",3,2020-07-17
+Howrah,Good,37,"O , PM
+3 10",3,2020-07-18
+Howrah,Good,35,"O
+3",1,2020-07-19
+Howrah,Good,29,"O
+3",1,2020-07-20
+Howrah,Good,41,"PM , PM
+10 2.5",3,2020-07-21
+Howrah,Satisfactory,51,"PM , CO
+10",3,2020-07-22
+Howrah,Good,47,"PM , PM
+10 2.5",3,2020-07-23
+Howrah,Good,48,"PM
+10",2,2020-07-24
+Howrah,Good,45,"O , PM
+3 10",3,2020-07-25
+Howrah,Good,47,"O , PM
+3 10",3,2020-07-26
+Howrah,Satisfactory,66,"PM , PM
+10 2.5",3,2020-07-27
+Howrah,Satisfactory,75,"PM , PM
+10 2.5",3,2020-07-28
+Howrah,Satisfactory,55,"PM , PM , O
+10 2.5 3",3,2020-07-29
+Howrah,Good,38,"O , PM , CO
+3 10",3,2020-07-30
+Howrah,Good,32,"O , PM
+3 10",3,2020-07-31
+Howrah,Good,47,"PM
+10",3,2020-08-01
+Howrah,Good,45,"PM , O
+10 3",3,2020-08-02
+Howrah,Satisfactory,76,"PM , PM
+10 2.5",3,2020-08-03
+Howrah,Satisfactory,78,"PM , PM
+10 2.5",3,2020-08-04
+Howrah,Good,32,"O , NO
+3 2",3,2020-08-05
+Howrah,Good,32,"O , NO
+3 2",3,2020-08-06
+Howrah,Good,38,"O , PM , NO
+3 10 2",3,2020-08-07
+Howrah,Satisfactory,54,"PM
+10",3,2020-08-08
+Howrah,Good,37,"O , PM
+3 10",3,2020-08-09
+Howrah,Good,30,"O , PM , NO
+3 10 2",3,2020-08-10
+Howrah,Good,41,"O , NO
+3 2",3,2020-08-11
+Howrah,Satisfactory,53,"PM
+10",3,2020-08-12
+Howrah,Good,35,"PM , O , NO
+10 3 2",3,2020-08-13
+Howrah,Good,30,"PM , O , NO
+10 3 2",3,2020-08-14
+Howrah,Good,32,"O , NO
+3 2",3,2020-08-15
+Howrah,Good,36,"O , NO
+3 2",3,2020-08-16
+Howrah,Good,33,"PM , CO
+10",3,2020-08-17
+Howrah,Good,41,"PM
+10",3,2020-08-18
+Howrah,Good,34,"PM , NO
+10 2",3,2020-08-19
+Howrah,Good,28,"O , CO
+3",3,2020-08-20
+Howrah,Good,27,"O , PM , CO
+3 10",3,2020-08-21
+Howrah,Good,37,"PM
+10",3,2020-08-22
+Howrah,Satisfactory,62,"PM , NO
+10 2",3,2020-08-23
+Howrah,Satisfactory,57,"PM , CO
+10",3,2020-08-24
+Howrah,Satisfactory,76,"PM , PM
+10 2.5",3,2020-08-25
+Howrah,Good,32,"PM , O , PM
+10 3 2.5",3,2020-08-26
+Howrah,Good,28,"O , PM , CO
+3 10",3,2020-08-27
+Howrah,Good,30,"CO, PM
+2.5",2,2020-08-28
+Howrah,Satisfactory,52,"PM , PM
+10 2.5",3,2020-08-29
+Howrah,Satisfactory,66,"PM , PM
+10 2.5",2,2020-08-30
+Howrah,Satisfactory,74,"PM , PM
+10 2.5",2,2020-08-31
+Howrah,Satisfactory,87,"PM
+10",1,2020-09-01
+Howrah,Satisfactory,75,"PM
+10",1,2020-09-02
+Howrah,Good,40,"PM , O
+10 3",2,2020-09-03
+Howrah,Satisfactory,73,"PM
+10",2,2020-09-04
+Howrah,Satisfactory,92,"PM
+10",2,2020-09-05
+Howrah,Satisfactory,66,"PM
+10",2,2020-09-06
+Howrah,Good,48,"PM
+10",2,2020-09-07
+Howrah,Good,49,"PM
+10",2,2020-09-08
+Howrah,Satisfactory,94,"PM
+10",2,2020-09-09
+Howrah,Satisfactory,90,"PM
+10",2,2020-09-10
+Howrah,Satisfactory,53,"PM
+10",2,2020-09-11
+Howrah,Good,36,"PM
+10",2,2020-09-12
+Howrah,Good,36,"PM
+10",2,2020-09-13
+Howrah,Good,36,"O , PM
+3 10",2,2020-09-14
+Howrah,Good,39,"CO, PM
+10",2,2020-09-15
+Howrah,Good,48,"PM
+10",2,2020-09-16
+Howrah,Good,46,"O , PM
+3 10",2,2020-09-17
+Howrah,Satisfactory,52,"O , PM
+3 10",2,2020-09-18
+Howrah,Satisfactory,56,"O
+3",2,2020-09-19
+Howrah,Satisfactory,76,"PM
+10",2,2020-09-20
+Howrah,Good,38,"O
+3",2,2020-09-21
+Howrah,Good,36,"O
+3",2,2020-09-22
+Howrah,Good,44,"PM
+10",2,2020-09-23
+Howrah,Satisfactory,51,"PM
+10",2,2020-09-24
+Howrah,Satisfactory,74,"PM
+10",2,2020-09-25
+Howrah,Satisfactory,70,"PM
+10",2,2020-09-26
+Howrah,Satisfactory,76,"PM
+10",2,2020-09-27
+Howrah,Moderate,102,"PM
+10",2,2020-09-28
+Howrah,Satisfactory,79,"PM
+10",1,2020-09-29
+Howrah,Satisfactory,81,"PM
+10",1,2020-09-30
+Howrah,Good,46,"PM
+10",1,2020-10-01
+Howrah,Good,38,"PM
+10",1,2020-10-02
+Howrah,Good,40,"PM
+10",1,2020-10-03
+Howrah,Good,49,"PM
+10",1,2020-10-04
+Howrah,Good,50,"PM
+10",1,2020-10-05
+Howrah,Good,42,"PM
+10",1,2020-10-06
+Howrah,Good,44,"PM
+10",1,2020-10-07
+Howrah,Satisfactory,55,"PM
+10",1,2020-10-08
+Howrah,Moderate,105,"PM
+10",1,2020-10-09
+Howrah,Moderate,119,"PM
+2.5",1,2020-10-10
+Howrah,Satisfactory,98,"PM
+10",1,2020-10-11
+Howrah,Satisfactory,93,"PM
+10",1,2020-10-12
+Howrah,Satisfactory,93,"PM
+10",1,2020-10-13
+Howrah,Satisfactory,65,"PM
+10",2,2020-10-14
+Howrah,Satisfactory,66,"PM
+10",2,2020-10-15
+Howrah,Satisfactory,70,"PM
+10",3,2020-10-16
+Howrah,Moderate,131,"PM , PM
+10 2.5",3,2020-10-17
+Howrah,Moderate,144,"PM
+10",2,2020-10-18
+Howrah,Satisfactory,76,"PM , PM
+10 2.5",3,2020-10-19
+Howrah,Moderate,145,"PM , PM
+2.5 10",3,2020-10-20
+Howrah,Satisfactory,52,"PM
+10",3,2020-10-21
+Howrah,Good,31,"NO , PM
+2 10",3,2020-10-22
+Howrah,Good,33,"PM , CO
+10",3,2020-10-23
+Howrah,Good,43,"PM , O
+10 3",3,2020-10-24
+Howrah,Satisfactory,63,"PM , CO
+10",3,2020-10-25
+Howrah,Moderate,126,"O , PM , PM
+3 10 2.5",3,2020-10-26
+Howrah,Moderate,173,"PM , PM
+2.5 10",3,2020-10-27
+Howrah,Poor,206,"PM
+2.5",3,2020-10-28
+Howrah,Moderate,173,"PM
+2.5",3,2020-10-29
+Howrah,Moderate,111,"PM , O
+10 3",3,2020-10-30
+Howrah,Moderate,124,"PM
+10",3,2020-10-31
+Howrah,Satisfactory,56,"PM
+10",3,2020-11-01
+Howrah,Good,45,"O , PM
+3 10",3,2020-11-02
+Howrah,Moderate,133,"PM , PM
+2.5 10",3,2020-11-03
+Howrah,Poor,249,"PM
+2.5",3,2020-11-04
+Howrah,Poor,240,"PM
+2.5",3,2020-11-05
+Howrah,Poor,248,"PM
+2.5",3,2020-11-06
+Howrah,Poor,215,"PM , PM
+2.5 10",3,2020-11-07
+Howrah,Poor,257,"PM
+2.5",3,2020-11-08
+Howrah,Poor,204,"PM
+2.5",2,2020-11-09
+Howrah,Moderate,132,"PM , PM
+2.5 10",3,2020-11-10
+Howrah,Moderate,110,"PM , PM
+10 2.5",3,2020-11-11
+Howrah,Moderate,114,"PM
+10",3,2020-11-12
+Howrah,Moderate,130,"PM
+10",2,2020-11-13
+Howrah,Moderate,131,"PM , PM
+10 2.5",3,2020-11-14
+Howrah,Poor,217,"PM
+2.5",3,2020-11-15
+Howrah,Moderate,194,"PM
+2.5",3,2020-11-16
+Howrah,Poor,240,"PM
+2.5",3,2020-11-17
+Howrah,Poor,285,"PM
+2.5",3,2020-11-18
+Howrah,Moderate,145,"PM , PM
+2.5 10",3,2020-11-19
+Howrah,Moderate,143,"PM , PM
+10 2.5",3,2020-11-20
+Howrah,Poor,208,"PM
+2.5",3,2020-11-21
+Howrah,Poor,233,"PM
+2.5",3,2020-11-22
+Howrah,Moderate,182,"PM
+2.5",3,2020-11-23
+Howrah,Poor,222,"PM , PM
+10 2.5",3,2020-11-24
+Howrah,Moderate,184,"PM , PM
+10 2.5",3,2020-11-25
+Howrah,Poor,203,"PM , PM
+10 2.5",2,2020-11-26
+Howrah,Moderate,173,"PM , PM
+2.5 10",3,2020-11-27
+Howrah,Moderate,136,"PM , PM
+2.5 10",3,2020-11-28
+Howrah,Poor,232,"PM
+2.5",3,2020-11-29
+Howrah,Poor,216,"PM , PM
+2.5 10",3,2020-11-30
+Howrah,Poor,260,"PM , PM
+2.5 10",3,2020-12-01
+Howrah,Poor,292,"PM , PM
+10 2.5",3,2020-12-02
+Howrah,Very Poor,321,"PM , PM
+10 2.5",3,2020-12-03
+Howrah,Very Poor,351,"PM , PM
+10 2.5",3,2020-12-04
+Howrah,Very Poor,321,"PM , PM
+10 2.5",3,2020-12-05
+Howrah,Poor,295,"PM
+2.5",3,2020-12-06
+Howrah,Poor,234,"PM
+2.5",3,2020-12-07
+Howrah,Very Poor,301,"PM
+2.5",3,2020-12-08
+Howrah,Poor,288,"PM
+2.5",3,2020-12-09
+Howrah,Poor,295,"PM
+2.5",3,2020-12-10
+Howrah,Poor,231,"PM
+2.5",3,2020-12-11
+Howrah,Very Poor,303,"PM
+2.5",3,2020-12-12
+Howrah,Poor,279,"PM
+2.5",2,2020-12-13
+Howrah,Poor,290,"PM
+2.5",3,2020-12-14
+Howrah,Poor,254,"PM
+2.5",3,2020-12-15
+Howrah,Poor,239,"PM
+2.5",3,2020-12-16
+Howrah,Poor,260,"PM
+2.5",3,2020-12-17
+Howrah,Poor,231,"PM , PM
+2.5 10",3,2020-12-18
+Howrah,Poor,212,"PM
+2.5",3,2020-12-19
+Howrah,Poor,297,"PM
+2.5",3,2020-12-20
+Howrah,Very Poor,323,"PM , PM
+10 2.5",3,2020-12-21
+Howrah,Very Poor,353,"PM , PM
+10 2.5",3,2020-12-22
+Howrah,Very Poor,314,"PM
+2.5",2,2020-12-23
+Howrah,Poor,294,"PM
+2.5",3,2020-12-24
+Howrah,Poor,292,"PM , PM
+10 2.5",3,2020-12-25
+Howrah,Poor,295,"PM
+2.5",3,2020-12-26
+Howrah,Poor,281,"PM
+2.5",2,2020-12-27
+Howrah,Very Poor,327,"PM , PM
+10 2.5",3,2020-12-28
+Howrah,Very Poor,371,"PM , PM
+10 2.5",3,2020-12-29
+Howrah,Very Poor,328,"PM , PM
+10 2.5",3,2020-12-30
+Howrah,Poor,262,"PM
+2.5",3,2020-12-31
+Howrah,Poor,242,"PM
+2.5",3,2021-01-01
+Howrah,Poor,265,"PM , PM
+2.5 10",3,2021-01-02
+Howrah,Very Poor,332,"PM , PM
+2.5 10",2,2021-01-03
+Howrah,Very Poor,305,"PM
+2.5",2,2021-01-04
+Howrah,Poor,242,"PM
+2.5",3,2021-01-05
+Howrah,Very Poor,303,"PM , PM
+2.5 10",3,2021-01-06
+Howrah,Very Poor,319,"PM , PM
+10 2.5",3,2021-01-07
+Howrah,Poor,295,"PM , PM
+2.5 10",3,2021-01-08
+Howrah,Moderate,184,"PM , PM
+2.5 10",3,2021-01-09
+Howrah,Poor,236,"PM
+2.5",3,2021-01-10
+Howrah,Poor,237,"PM , PM
+2.5 10",3,2021-01-11
+Howrah,Poor,213,"PM
+2.5",3,2021-01-12
+Howrah,Poor,216,"PM
+2.5",2,2021-01-13
+Howrah,Poor,270,"PM
+2.5",2,2021-01-14
+Howrah,Poor,284,"PM
+2.5",2,2021-01-15
+Howrah,Very Poor,314,"PM
+2.5",2,2021-01-16
+Howrah,Very Poor,338,"PM
+2.5",3,2021-01-17
+Howrah,Very Poor,333,"PM
+2.5",3,2021-01-18
+Howrah,Very Poor,351,"PM
+2.5",2,2021-01-19
+Howrah,Poor,231,"PM
+2.5",3,2021-01-20
+Howrah,Very Poor,303,"PM
+2.5",3,2021-01-21
+Howrah,Poor,259,"PM
+2.5",3,2021-01-22
+Howrah,Poor,295,"PM
+2.5",3,2021-01-23
+Howrah,Poor,279,"PM , PM
+2.5 10",3,2021-01-24
+Howrah,Poor,207,"PM , PM
+2.5 10",3,2021-01-25
+Howrah,Poor,276,"PM
+2.5",3,2021-01-26
+Howrah,Poor,289,"PM
+2.5",3,2021-01-27
+Howrah,Poor,253,"PM
+2.5",3,2021-01-28
+Howrah,Poor,280,"PM
+2.5",3,2021-01-29
+Howrah,Poor,291,"PM
+2.5",3,2021-01-30
+Howrah,Poor,293,"PM
+2.5",3,2021-01-31
+Howrah,Poor,293,"PM
+2.5",3,2021-02-01
+Howrah,Very Poor,304,"PM
+2.5",3,2021-02-02
+Howrah,Very Poor,325,"PM , PM
+10 2.5",3,2021-02-03
+Howrah,Very Poor,314,"PM
+2.5",3,2021-02-04
+Howrah,Poor,280,"PM
+2.5",3,2021-02-05
+Howrah,Poor,281,"PM , PM
+10 2.5",3,2021-02-06
+Howrah,Moderate,117,"PM , PM
+10 2.5",3,2021-02-07
+Howrah,Moderate,194,"PM
+2.5",2,2021-02-08
+Howrah,Poor,240,"PM
+2.5",3,2021-02-09
+Howrah,Poor,282,"PM
+2.5",3,2021-02-10
+Howrah,Poor,268,"PM
+2.5",3,2021-02-11
+Howrah,Poor,244,"PM
+2.5",3,2021-02-12
+Howrah,Poor,279,"PM
+2.5",3,2021-02-13
+Howrah,Poor,226,"PM
+2.5",3,2021-02-14
+Howrah,Moderate,157,"PM
+2.5",3,2021-02-15
+Howrah,Poor,254,"PM
+2.5",3,2021-02-16
+Howrah,Poor,286,"PM
+2.5",3,2021-02-17
+Howrah,Poor,282,"PM
+2.5",3,2021-02-18
+Howrah,Poor,247,"PM , PM
+2.5 10",3,2021-02-19
+Howrah,Poor,272,"PM
+2.5",3,2021-02-20
+Howrah,Poor,257,"PM , PM
+2.5 10",3,2021-02-21
+Howrah,Poor,273,"PM
+2.5",3,2021-02-22
+Howrah,Poor,281,"PM
+2.5",3,2021-02-23
+Howrah,Poor,212,"PM
+2.5",3,2021-02-24
+Howrah,Poor,275,"PM
+2.5",3,2021-02-25
+Howrah,Poor,216,"PM
+2.5",1,2021-02-26
+Howrah,Poor,215,"PM
+2.5",3,2021-02-27
+Howrah,Moderate,155,"PM , PM
+10 2.5",3,2021-02-28
+Howrah,Moderate,119,"PM , PM
+10 2.5",3,2021-03-01
+Howrah,Moderate,172,"PM
+2.5",3,2021-03-02
+Howrah,Moderate,123,"PM , PM
+10 2.5",2,2021-03-03
+Howrah,Poor,267,"PM , PM
+10 2.5",3,2021-03-04
+Howrah,Moderate,151,"PM
+2.5",3,2021-03-05
+Howrah,Moderate,142,"PM , PM
+10 2.5",3,2021-03-06
+Howrah,Moderate,191,"PM
+2.5",3,2021-03-07
+Howrah,Moderate,134,"PM , PM
+2.5 10",3,2021-03-08
+Howrah,Satisfactory,94,"PM , PM
+10 2.5",3,2021-03-09
+Howrah,Satisfactory,77,"PM
+10",3,2021-03-10
+Howrah,Satisfactory,81,"PM , PM
+10 2.5",3,2021-03-11
+Howrah,Satisfactory,94,"PM
+10",3,2021-03-12
+Howrah,Moderate,182,"PM , PM
+10 2.5",3,2021-03-13
+Howrah,Moderate,135,"PM , PM
+2.5 10",3,2021-03-14
+Howrah,Moderate,138,"PM , PM
+2.5 10",3,2021-03-15
+Howrah,Moderate,133,"PM , PM
+10 2.5",3,2021-03-16
+Howrah,Poor,243,"PM
+2.5",3,2021-03-17
+Howrah,Moderate,176,"PM , PM
+2.5 10",2,2021-03-18
+Howrah,Poor,247,"PM , PM
+10 2.5",3,2021-03-19
+Howrah,Poor,273,"PM , PM
+10 2.5",3,2021-03-20
+Howrah,Poor,202,"PM
+2.5",3,2021-03-21
+Howrah,Poor,235,"PM
+2.5",3,2021-03-22
+Howrah,Poor,249,"PM
+2.5",3,2021-03-23
+Howrah,Moderate,183,"PM
+2.5",3,2021-03-24
+Howrah,Poor,219,"PM
+2.5",3,2021-03-25
+Howrah,Moderate,192,"PM , PM
+10 2.5",2,2021-03-26
+Howrah,Moderate,175,"PM , PM
+10 2.5",2,2021-03-27
+Howrah,Moderate,199,"PM
+2.5",3,2021-03-28
+Howrah,Moderate,119,"PM
+10",3,2021-03-29
+Howrah,Moderate,115,"PM , PM
+10 2.5",3,2021-03-30
+Howrah,Moderate,134,"PM
+10",3,2021-03-31
+Howrah,Moderate,162,"PM , O , PM
+2.5 3 10",3,2021-04-01
+Howrah,Moderate,136,"PM
+10",3,2021-04-02
+Howrah,Moderate,114,"PM
+10",3,2021-04-03
+Howrah,Moderate,120,"PM
+10",3,2021-04-04
+Howrah,Moderate,118,"PM
+10",3,2021-04-05
+Howrah,Moderate,112,"PM
+10",3,2021-04-06
+Howrah,Satisfactory,94,"PM
+10",3,2021-04-07
+Howrah,Satisfactory,96,"PM
+10",2,2021-04-08
+Howrah,Satisfactory,95,"PM
+10",3,2021-04-09
+Howrah,Satisfactory,91,"PM
+10",3,2021-04-10
+Howrah,Satisfactory,94,"PM
+10",3,2021-04-11
+Howrah,Moderate,103,"PM
+10",3,2021-04-12
+Howrah,Satisfactory,90,"PM
+10",2,2021-04-13
+Howrah,Satisfactory,98,"PM
+10",2,2021-04-14
+Howrah,Satisfactory,89,"PM
+10",3,2021-04-15
+Howrah,Satisfactory,95,"PM
+10",3,2021-04-16
+Howrah,Satisfactory,82,"PM
+10",3,2021-04-17
+Howrah,Satisfactory,66,"PM
+10",2,2021-04-18
+Howrah,Satisfactory,76,"O , PM
+3 10",2,2021-04-19
+Howrah,Satisfactory,72,"PM
+10",3,2021-04-20
+Howrah,Satisfactory,73,"PM
+10",3,2021-04-21
+Howrah,Satisfactory,91,"PM
+10",3,2021-04-22
+Howrah,Moderate,128,"PM , PM
+10 2.5",3,2021-04-23
+Howrah,Moderate,143,"PM , PM
+10 2.5",3,2021-04-24
+Howrah,Satisfactory,99,"PM
+10",3,2021-04-25
+Howrah,Satisfactory,92,"PM
+10",3,2021-04-26
+Howrah,Satisfactory,87,"PM
+10",3,2021-04-27
+Howrah,Satisfactory,90,"PM
+10",3,2021-04-28
+Howrah,Satisfactory,81,"PM
+10",3,2021-04-29
+Howrah,Satisfactory,96,"PM
+10",3,2021-04-30
+Howrah,Satisfactory,83,"PM
+10",3,2021-05-01
+Howrah,Satisfactory,77,"PM
+10",3,2021-05-02
+Howrah,Satisfactory,69,"PM , O
+10 3",3,2021-05-03
+Howrah,Satisfactory,59,"PM
+10",3,2021-05-04
+Howrah,Satisfactory,63,"PM
+10",3,2021-05-05
+Howrah,Satisfactory,51,"PM , O
+10 3",3,2021-05-06
+Howrah,Satisfactory,54,"PM
+10",3,2021-05-07
+Howrah,Satisfactory,55,"PM , O
+10 3",3,2021-05-08
+Howrah,Good,46,"PM , PM
+10 2.5",3,2021-05-09
+Howrah,Good,49,"PM
+10",3,2021-05-10
+Howrah,Good,41,"PM
+10",3,2021-05-11
+Howrah,Good,40,"O
+3",2,2021-05-12
+Howrah,Good,50,"CO, PM
+10",2,2021-05-13
+Howrah,Satisfactory,64,"PM
+10",2,2021-05-14
+Howrah,Satisfactory,54,"PM
+10",2,2021-05-15
+Howrah,Good,37,"PM
+10",3,2021-05-16
+Howrah,Good,31,"CO, PM
+10",3,2021-05-17
+Howrah,Good,34,"O , CO, PM
+3 10",3,2021-05-18
+Howrah,Good,33,"PM , CO, O
+10 3",3,2021-05-19
+Howrah,Good,33,"PM
+10",3,2021-05-20
+Howrah,Good,32,"PM , CO, O
+10 3",3,2021-05-21
+Howrah,Good,37,"PM , O
+10 3",3,2021-05-22
+Howrah,Good,49,"PM
+10",3,2021-05-23
+Howrah,Satisfactory,67,"PM , PM
+10 2.5",3,2021-05-24
+Howrah,Satisfactory,72,"O , CO
+3",3,2021-05-25
+Howrah,Good,50,"O
+3",3,2021-05-26
+Howrah,Good,38,"PM , O , CO
+10 3",3,2021-05-27
+Howrah,Good,41,"PM
+10",3,2021-05-28
+Howrah,Satisfactory,58,"NO , PM
+2 10",3,2021-05-29
+Howrah,Satisfactory,60,"NO , PM
+2 10",3,2021-05-30
+Howrah,Satisfactory,78,"O , PM
+3 10",3,2021-05-31
+Howrah,Satisfactory,80,"O , PM
+3 10",3,2021-06-01
+Howrah,Good,48,"PM
+10",3,2021-06-02
+Howrah,Good,44,"PM , O
+10 3",3,2021-06-03
+Howrah,Satisfactory,59,"O , PM
+3 10",3,2021-06-04
+Howrah,Moderate,114,"O , PM
+3 10",3,2021-06-05
+Howrah,Moderate,102,"O , PM
+3 10",3,2021-06-06
+Howrah,Satisfactory,96,"O , PM
+3 10",3,2021-06-07
+Howrah,Good,44,"O , CO
+3",3,2021-06-08
+Howrah,Good,43,"PM
+10",3,2021-06-09
+Howrah,Satisfactory,64,"PM , PM
+10 2.5",3,2021-06-10
+Howrah,Good,48,"PM , CO
+10",3,2021-06-11
+Howrah,Good,48,"PM , PM
+10 2.5",3,2021-06-12
+Howrah,Good,35,CO,3,2021-06-13
+Howrah,Good,39,"CO, PM
+10",3,2021-06-14
+Howrah,Good,42,CO,3,2021-06-15
+Howrah,Satisfactory,51,"CO, PM
+2.5",3,2021-06-16
+Howrah,Good,43,"CO, PM , PM
+10 2.5",3,2021-06-17
+Howrah,Good,36,"CO, NO
+2",3,2021-06-18
+Howrah,Good,43,CO,3,2021-06-19
+Howrah,Satisfactory,53,"PM , PM
+10 2.5",3,2021-06-20
+Howrah,Good,50,"CO, PM
+10",3,2021-06-21
+Howrah,Satisfactory,55,"PM
+10",3,2021-06-22
+Howrah,Satisfactory,51,"PM
+10",3,2021-06-23
+Howrah,Good,49,"PM
+10",3,2021-06-24
+Howrah,Satisfactory,62,"PM
+10",3,2021-06-25
+Howrah,Satisfactory,56,"PM
+10",3,2021-06-26
+Howrah,Good,47,"PM
+10",3,2021-06-27
+Howrah,Good,48,"PM
+10",3,2021-06-28
+Howrah,Good,44,"PM
+10",3,2021-06-29
+Howrah,Satisfactory,56,"PM
+10",3,2021-06-30
+Howrah,Satisfactory,58,"PM
+10",3,2021-07-01
+Howrah,Good,49,"CO, PM
+10",3,2021-07-02
+Howrah,Satisfactory,58,"PM
+10",3,2021-07-03
+Howrah,Satisfactory,60,"PM
+10",3,2021-07-04
+Howrah,Good,46,"PM
+10",3,2021-07-05
+Howrah,Satisfactory,88,"PM , PM
+10 2.5",3,2021-07-06
+Howrah,Satisfactory,75,"PM
+10",3,2021-07-07
+Howrah,Good,50,"PM , PM
+10 2.5",2,2021-07-08
+Howrah,Satisfactory,52,"PM
+10",2,2021-07-09
+Howrah,Satisfactory,62,"PM
+10",2,2021-07-10
+Howrah,Good,34,"PM
+10",2,2021-07-11
+Howrah,Good,32,"O , CO
+3",2,2021-07-12
+Howrah,Good,28,CO,2,2021-07-13
+Howrah,Good,30,"O , CO
+3",3,2021-07-14
+Howrah,Good,30,"PM , CO
+10",3,2021-07-15
+Howrah,Satisfactory,67,"O , CO, PM
+3 10",3,2021-07-16
+Howrah,Satisfactory,62,"O , PM
+3 10",3,2021-07-17
+Howrah,Good,36,"PM
+10",3,2021-07-18
+Howrah,Good,41,"PM , CO
+10",3,2021-07-19
+Howrah,Good,43,"PM
+10",3,2021-07-20
+Howrah,Satisfactory,77,"PM
+10",3,2021-07-21
+Howrah,Good,34,"CO, PM
+10",3,2021-07-22
+Howrah,Good,33,"PM , CO
+10",3,2021-07-23
+Howrah,Good,35,"CO, PM
+10",3,2021-07-24
+Howrah,Good,46,"PM
+10",2,2021-07-25
+Howrah,Satisfactory,83,"PM
+10",2,2021-07-26
+Howrah,Satisfactory,65,"PM
+10",3,2021-07-27
+Howrah,Satisfactory,53,"PM , CO
+10",3,2021-07-28
+Howrah,Satisfactory,51,"PM , CO
+10",3,2021-07-29
+Howrah,Good,32,"CO, PM
+10",3,2021-07-30
+Howrah,Good,36,"CO, PM
+10",3,2021-07-31
+Howrah,Good,46,"PM
+10",3,2021-08-01
+Howrah,Satisfactory,60,"PM
+10",3,2021-08-02
+Howrah,Satisfactory,67,"PM
+10",3,2021-08-03
+Howrah,Satisfactory,81,"PM , PM
+10 2.5",3,2021-08-04
+Howrah,Satisfactory,65,"PM , CO, PM
+10 2.5",3,2021-08-05
+Howrah,Satisfactory,91,"PM , PM
+2.5 10",3,2021-08-06
+Howrah,Satisfactory,62,"PM
+10",3,2021-08-07
+Howrah,Good,44,"PM
+10",2,2021-08-08
+Howrah,Good,42,"PM
+10",2,2021-08-09
+Howrah,Satisfactory,60,"PM
+10",3,2021-08-10
+Howrah,Satisfactory,58,"PM , PM
+10 2.5",3,2021-08-11
+Howrah,Satisfactory,65,"PM
+10",3,2021-08-12
+Howrah,Satisfactory,67,"PM , PM
+10 2.5",3,2021-08-13
+Howrah,Satisfactory,68,"PM
+10",3,2021-08-14
+Howrah,Good,49,"O , PM
+3 10",3,2021-08-15
+Howrah,Good,37,"O , PM , CO
+3 10",3,2021-08-16
+Howrah,Good,34,"O , CO
+3",3,2021-08-17
+Howrah,Good,35,"O , PM
+3 10",2,2021-08-18
+Howrah,Good,42,"O , PM
+3 10",2,2021-08-19
+Howrah,Good,32,"CO, PM
+10",3,2021-08-20
+Howrah,Good,32,"CO, PM
+10",3,2021-08-21
+Howrah,Good,38,"PM
+10",3,2021-08-22
+Howrah,Good,41,"PM
+10",3,2021-08-23
+Howrah,Satisfactory,62,"PM
+10",3,2021-08-24
+Howrah,Satisfactory,76,"PM
+10",3,2021-08-25
+Howrah,Satisfactory,76,"PM
+10",3,2021-08-26
+Howrah,Satisfactory,59,"PM , CO, PM
+10 2.5",3,2021-08-27
+Howrah,Good,45,"PM , CO
+10",3,2021-08-28
+Howrah,Good,28,"CO, PM
+10",3,2021-08-29
+Howrah,Good,31,"CO, O
+3",3,2021-08-30
+Howrah,Good,40,"CO, PM , NO
+10 2",3,2021-08-31
+Howrah,Good,41,"CO, NO
+2",3,2021-09-01
+Howrah,Satisfactory,55,"PM , CO, NO
+10 2",3,2021-09-02
+Howrah,Satisfactory,64,"PM
+10",3,2021-09-03
+Howrah,Satisfactory,58,"PM , NO
+10 2",3,2021-09-04
+Howrah,Satisfactory,67,"PM , NO
+10 2",3,2021-09-05
+Howrah,Good,46,"NO , CO, PM
+2 10",3,2021-09-06
+Howrah,Good,45,"NO , CO
+2",3,2021-09-07
+Howrah,Good,37,CO,3,2021-09-08
+Howrah,Good,36,"CO, PM
+10",3,2021-09-09
+Howrah,Satisfactory,79,"PM
+10",2,2021-09-10
+Howrah,Good,40,"PM , CO
+10",3,2021-09-11
+Howrah,Good,36,"CO, PM , PM
+10 2.5",3,2021-09-12
+Howrah,Good,36,CO,2,2021-09-13
+Howrah,Good,38,CO,2,2021-09-14
+Howrah,Good,39,CO,2,2021-09-15
+Howrah,Good,42,CO,2,2021-09-16
+Howrah,Satisfactory,53,"PM , CO
+10",2,2021-09-17
+Howrah,Good,50,CO,2,2021-09-18
+Howrah,Satisfactory,61,"PM , CO
+10",3,2021-09-19
+Howrah,Satisfactory,53,"PM
+10",3,2021-09-20
+Howrah,Good,34,CO,3,2021-09-21
+Howrah,Good,44,CO,2,2021-09-22
+Howrah,Satisfactory,57,"CO, PM , PM
+2.5 10",3,2021-09-23
+Howrah,Satisfactory,63,"PM
+10",2,2021-09-24
+Howrah,Moderate,112,"PM
+2.5",3,2021-09-25
+Howrah,Satisfactory,63,"O , PM , PM
+3 10 2.5",3,2021-09-26
+Howrah,Satisfactory,52,"O , CO, PM
+3 2.5",3,2021-09-27
+Howrah,Good,42,"O , PM , CO
+3 10",3,2021-09-28
+Howrah,Good,29,CO,2,2021-09-29
+Howrah,Good,46,CO,2,2021-09-30
+Howrah,Good,39,"CO, PM
+10",3,2021-10-01
+Howrah,Good,42,"CO, PM
+10",3,2021-10-02
+Howrah,Good,41,CO,3,2021-10-03
+Howrah,Good,46,"CO, O
+3",2,2021-10-04
+Howrah,Satisfactory,57,"PM
+10",3,2021-10-05
+Howrah,Satisfactory,66,"PM
+10",3,2021-10-06
+Howrah,Satisfactory,68,"PM
+10",3,2021-10-07
+Howrah,Satisfactory,92,"PM
+10",3,2021-10-08
+Howrah,Moderate,101,"PM , PM
+10 2.5",3,2021-10-09
+Howrah,Moderate,108,"PM , PM
+2.5 10",3,2021-10-10
+Howrah,Moderate,105,"PM
+10",3,2021-10-11
+Howrah,Moderate,118,"PM , PM
+2.5 10",3,2021-10-12
+Howrah,Moderate,118,"PM
+2.5",3,2021-10-13
+Howrah,Satisfactory,69,"PM , CO, PM
+10 2.5",3,2021-10-14
+Howrah,Satisfactory,61,"CO, PM
+10",3,2021-10-15
+Howrah,Good,44,"CO, PM
+10",3,2021-10-16
+Howrah,Good,48,CO,3,2021-10-17
+Howrah,Good,43,CO,3,2021-10-18
+Howrah,Good,44,CO,3,2021-10-19
+Howrah,Good,50,CO,3,2021-10-20
+Howrah,Satisfactory,94,"PM , PM
+2.5 10",3,2021-10-21
+Howrah,Satisfactory,99,"PM
+10",3,2021-10-22
+Howrah,Moderate,170,"PM
+2.5",3,2021-10-23
+Howrah,Moderate,157,"PM
+2.5",3,2021-10-24
+Howrah,Moderate,130,"PM
+2.5",3,2021-10-25
+Howrah,Moderate,157,"PM
+2.5",3,2021-10-26
+Howrah,Moderate,138,"PM
+2.5",3,2021-10-27
+Howrah,Moderate,104,"PM , PM
+2.5 10",3,2021-10-28
+Howrah,Moderate,122,"PM , PM
+10 2.5",3,2021-10-29
+Howrah,Moderate,104,"PM
+10",3,2021-10-30
+Howrah,Moderate,126,"PM
+10",3,2021-10-31
+Howrah,Moderate,146,"PM
+2.5",3,2021-11-01
+Howrah,Moderate,174,"PM
+2.5",3,2021-11-02
+Howrah,Moderate,140,"PM
+2.5",3,2021-11-03
+Howrah,Moderate,183,"PM
+2.5",3,2021-11-04
+Howrah,Poor,265,"PM
+2.5",3,2021-11-05
+Howrah,Poor,216,"PM
+2.5",3,2021-11-06
+Howrah,Poor,231,"PM
+2.5",3,2021-11-07
+Howrah,Moderate,185,"PM
+2.5",3,2021-11-08
+Howrah,Moderate,186,"PM , PM
+2.5 10",3,2021-11-09
+Howrah,Moderate,197,"PM
+2.5",3,2021-11-10
+Howrah,Moderate,172,"PM
+2.5",3,2021-11-11
+Howrah,Moderate,176,"PM , PM
+2.5 10",3,2021-11-12
+Howrah,Moderate,123,"PM , PM
+2.5 10",3,2021-11-13
+Howrah,Moderate,101,"PM , CO, PM
+2.5 10",3,2021-11-14
+Howrah,Satisfactory,90,"PM , CO, PM
+2.5 10",3,2021-11-15
+Howrah,Moderate,125,"PM , PM
+2.5 10",3,2021-11-16
+Howrah,Moderate,194,"PM
+2.5",3,2021-11-17
+Howrah,Moderate,188,"PM
+2.5",3,2021-11-18
+Howrah,Poor,204,"PM
+2.5",3,2021-11-19
+Howrah,Poor,207,"PM
+2.5",3,2021-11-20
+Howrah,Poor,233,"PM
+2.5",3,2021-11-21
+Howrah,Poor,293,"PM
+2.5",3,2021-11-22
+Howrah,Poor,264,"PM
+2.5",3,2021-11-23
+Howrah,Poor,223,"PM
+2.5",3,2021-11-24
+Howrah,Poor,220,"PM
+2.5",3,2021-11-25
+Howrah,Poor,228,"PM
+2.5",3,2021-11-26
+Howrah,Poor,267,"PM
+2.5",3,2021-11-27
+Howrah,Poor,261,"PM
+2.5",3,2021-11-28
+Howrah,Poor,226,"PM
+2.5",3,2021-11-29
+Howrah,Poor,208,"PM
+2.5",3,2021-11-30
+Howrah,Poor,223,"PM
+2.5",3,2021-12-01
+Howrah,Poor,247,"PM
+2.5",3,2021-12-02
+Howrah,Poor,254,"PM , PM
+10 2.5",3,2021-12-03
+Howrah,Poor,268,"PM
+2.5",2,2021-12-04
+Howrah,Moderate,180,"PM
+2.5",2,2021-12-05
+Howrah,Good,37,"PM , CO
+2.5",2,2021-12-06
+Howrah,Satisfactory,61,"CO, PM
+2.5",3,2021-12-07
+Howrah,Moderate,128,"PM , PM
+2.5 10",3,2021-12-08
+Howrah,Moderate,164,"PM , PM
+2.5 10",3,2021-12-09
+Howrah,Satisfactory,92,"PM
+10",2,2021-12-10
+Howrah,Poor,206,"PM
+2.5",2,2021-12-11
+Howrah,Moderate,176,"PM
+2.5",2,2021-12-12
+Howrah,Poor,253,"PM
+2.5",3,2021-12-13
+Howrah,Poor,255,"PM
+2.5",3,2021-12-14
+Howrah,Poor,279,"PM , PM
+10 2.5",3,2021-12-15
+Howrah,Very Poor,313,"PM , PM
+10 2.5",3,2021-12-16
+Howrah,Poor,278,"PM
+2.5",2,2021-12-17
+Howrah,Poor,264,"PM
+2.5",3,2021-12-18
+Howrah,Poor,229,"PM
+2.5",3,2021-12-19
+Howrah,Moderate,178,"PM , PM
+2.5 10",3,2021-12-20
+Howrah,Poor,265,"PM
+2.5",3,2021-12-21
+Howrah,Poor,273,"PM
+2.5",3,2021-12-22
+Howrah,Poor,288,"PM
+2.5",3,2021-12-23
+Howrah,Very Poor,319,"PM
+2.5",3,2021-12-24
+Howrah,Poor,280,"PM
+2.5",3,2021-12-25
+Howrah,Poor,285,"PM
+2.5",3,2021-12-26
+Howrah,Poor,260,"PM
+2.5",3,2021-12-27
+Howrah,Poor,281,"PM
+2.5",3,2021-12-28
+Howrah,Poor,282,"PM
+2.5",2,2021-12-29
+Howrah,Poor,257,"PM
+2.5",3,2021-12-30
+Howrah,Moderate,161,"PM , PM
+2.5 10",3,2021-12-31
+Howrah,Moderate,193,"PM
+2.5",3,2022-01-01
+Howrah,Moderate,178,"PM , PM
+2.5 10",3,2022-01-02
+Howrah,Poor,206,"PM
+2.5",3,2022-01-03
+Howrah,Poor,251,"PM
+2.5",3,2022-01-04
+Howrah,Poor,283,"PM
+2.5",3,2022-01-05
+Howrah,Very Poor,317,"PM
+2.5",2,2022-01-06
+Howrah,Very Poor,308,"PM
+2.5",2,2022-01-07
+Howrah,Poor,230,"PM
+2.5",3,2022-01-08
+Howrah,Poor,250,"PM
+2.5",2,2022-01-09
+Howrah,Poor,245,"PM
+2.5",3,2022-01-10
+Howrah,Poor,282,"PM
+2.5",3,2022-01-11
+Howrah,Moderate,135,"PM , CO, PM
+2.5 10",3,2022-01-12
+Howrah,Moderate,177,"PM , PM
+2.5 10",2,2022-01-13
+Howrah,Moderate,146,"PM , PM
+2.5 10",3,2022-01-14
+Howrah,Moderate,146,"PM , CO
+2.5",3,2022-01-15
+Howrah,Moderate,166,"PM , PM
+2.5 10",3,2022-01-16
+Howrah,Poor,233,"PM
+2.5",2,2022-01-17
+Howrah,Poor,219,"PM , PM
+2.5 10",3,2022-01-18
+Howrah,Poor,260,"PM
+2.5",3,2022-01-19
+Howrah,Poor,257,"PM
+2.5",3,2022-01-20
+Howrah,Very Poor,321,"PM
+2.5",3,2022-01-21
+Howrah,Poor,256,"PM
+2.5",3,2022-01-22
+Howrah,Poor,209,"PM
+2.5",3,2022-01-23
+Howrah,Poor,213,"PM
+2.5",3,2022-01-24
+Howrah,Poor,226,"PM
+2.5",3,2022-01-25
+Howrah,Poor,209,"PM
+2.5",3,2022-01-26
+Howrah,Moderate,192,"PM
+2.5",3,2022-01-27
+Howrah,Poor,212,"PM , PM
+2.5 10",2,2022-01-28
+Howrah,Poor,262,"PM
+2.5",2,2022-01-29
+Howrah,Very Poor,306,"PM
+2.5",2,2022-01-30
+Howrah,Poor,280,"PM
+2.5",2,2022-01-31
+Howrah,Moderate,147,"PM
+2.5",1,2022-02-01
+Howrah,Poor,255,"PM
+2.5",2,2022-02-02
+Howrah,Poor,210,"PM
+2.5",2,2022-02-03
+Howrah,Satisfactory,92,"PM , CO, PM
+2.5 10",3,2022-02-04
+Howrah,Satisfactory,87,"PM , CO
+10",3,2022-02-05
+Howrah,Moderate,155,"PM , PM
+2.5 10",3,2022-02-06
+Howrah,Moderate,156,"PM , PM
+2.5 10",2,2022-02-07
+Howrah,Poor,204,"PM
+2.5",3,2022-02-08
+Howrah,Poor,228,"PM
+2.5",3,2022-02-09
+Howrah,Moderate,184,"PM , PM
+2.5 10",3,2022-02-10
+Howrah,Poor,257,"PM
+2.5",3,2022-02-11
+Howrah,Moderate,178,"PM , PM
+2.5 10",3,2022-02-12
+Howrah,Moderate,130,"PM
+10",1,2022-02-13
+Howrah,Moderate,133,"PM
+10",1,2022-02-14
+Howrah,Poor,204,"PM , PM
+10 2.5",3,2022-02-15
+Howrah,Poor,212,"PM
+2.5",3,2022-02-16
+Howrah,Poor,272,"PM
+2.5",2,2022-02-17
+Howrah,Poor,239,"PM
+2.5",3,2022-02-18
+Howrah,Poor,235,"PM
+2.5",3,2022-02-19
+Howrah,Poor,261,"PM
+2.5",2,2022-02-20
+Howrah,Poor,228,"PM
+2.5",2,2022-02-21
+Howrah,Moderate,159,"PM , PM
+2.5 10",3,2022-02-22
+Howrah,Poor,230,"PM
+2.5",3,2022-02-23
+Howrah,Moderate,134,"PM
+10",2,2022-02-24
+Howrah,Moderate,141,"PM , PM
+2.5 10",3,2022-02-25
+Howrah,Poor,271,"PM
+2.5",3,2022-02-26
+Howrah,Poor,237,"PM
+2.5",3,2022-02-27
+Howrah,Moderate,137,"PM , PM
+2.5 10",3,2022-02-28
+Howrah,Moderate,191,"PM , PM
+2.5 10",3,2022-03-01
+Howrah,Moderate,187,"PM , PM
+2.5 10",3,2022-03-02
+Howrah,Poor,225,"PM
+2.5",3,2022-03-03
+Howrah,Poor,263,"PM
+2.5",3,2022-03-04
+Howrah,Poor,226,"PM , PM
+10 2.5",3,2022-03-05
+Howrah,Poor,201,"PM , PM
+2.5 10",3,2022-03-06
+Howrah,Poor,204,"PM , PM
+10 2.5",3,2022-03-07
+Howrah,Poor,221,"PM
+2.5",3,2022-03-08
+Howrah,Poor,243,"PM
+2.5",3,2022-03-09
+Howrah,Poor,236,"PM
+2.5",3,2022-03-10
+Howrah,Poor,244,"PM , PM
+2.5 10",3,2022-03-11
+Howrah,Poor,231,"PM , PM
+10 2.5",3,2022-03-12
+Howrah,Poor,219,"PM , PM
+10 2.5",3,2022-03-13
+Howrah,Poor,230,"PM
+2.5",3,2022-03-14
+Howrah,Poor,235,"PM
+2.5",3,2022-03-15
+Howrah,Moderate,173,"PM , PM
+2.5 10",3,2022-03-16
+Howrah,Moderate,144,"PM , PM
+2.5 10",3,2022-03-17
+Howrah,Moderate,122,"PM , PM
+2.5 10",2,2022-03-18
+Howrah,Satisfactory,97,"PM , PM
+2.5 10",2,2022-03-19
+Howrah,Satisfactory,77,"PM
+10",1,2022-03-20
+Howrah,Satisfactory,92,"PM , PM
+2.5 10",2,2022-03-21
+Howrah,Satisfactory,88,"PM , PM
+2.5 10",2,2022-03-22
+Howrah,Moderate,105,"PM , PM
+2.5 10",2,2022-03-23
+Howrah,Moderate,110,"PM , PM
+2.5 10",2,2022-03-24
+Howrah,Moderate,104,"PM , PM
+10 2.5",2,2022-03-25
+Howrah,Satisfactory,78,"PM
+10",2,2022-03-26
+Howrah,Satisfactory,90,"PM , PM
+2.5 10",2,2022-03-27
+Howrah,Satisfactory,92,"PM , PM
+2.5 10",2,2022-03-28
+Howrah,Satisfactory,96,"PM
+10",2,2022-03-29
+Howrah,Satisfactory,86,"PM
+10",2,2022-03-30
+Howrah,Satisfactory,82,"PM
+10",2,2022-03-31
+Howrah,Satisfactory,82,"PM
+10",3,2022-04-01
+Howrah,Satisfactory,76,"PM
+10",3,2022-04-02
+Howrah,Satisfactory,60,"PM
+10",3,2022-04-03
+Howrah,Satisfactory,64,"PM
+10",3,2022-04-04
+Howrah,Satisfactory,64,"PM
+10",3,2022-04-05
+Howrah,Satisfactory,62,"PM
+10",3,2022-04-06
+Howrah,Satisfactory,68,"PM
+10",3,2022-04-07
+Howrah,Satisfactory,73,"PM
+10",3,2022-04-08
+Howrah,Satisfactory,58,"PM
+10",3,2022-04-09
+Howrah,Good,46,"PM
+10",2,2022-04-10
+Howrah,Good,48,"PM , CO
+10",2,2022-04-11
+Howrah,Satisfactory,71,"O , PM , CO
+3 10",3,2022-04-12
+Howrah,Satisfactory,92,"O
+3",1,2022-04-13
+Howrah,Moderate,110,"O , PM , CO
+3 10",3,2022-04-14
+Howrah,Satisfactory,80,"PM
+10",2,2022-04-15
+Howrah,Satisfactory,98,"O , PM
+3 10",2,2022-04-16
+Howrah,Satisfactory,62,"PM , O
+10 3",3,2022-04-17
+Howrah,Satisfactory,79,"O , PM
+3 10",3,2022-04-18
+Howrah,Satisfactory,63,"PM
+10",3,2022-04-19
+Howrah,Satisfactory,63,"PM
+10",3,2022-04-20
+Howrah,Satisfactory,64,"PM
+10",3,2022-04-21
+Howrah,Satisfactory,57,"PM
+10",3,2022-04-22
+Howrah,Satisfactory,85,"PM , O
+10 3",3,2022-04-23
+Howrah,Moderate,119,"O , PM
+3 2.5",3,2022-04-24
+Howrah,Moderate,123,"O , PM
+3 2.5",3,2022-04-25
+Howrah,Satisfactory,96,"O , PM
+3 10",3,2022-04-26
+Howrah,Satisfactory,82,"O , PM
+3 10",3,2022-04-27
+Howrah,Satisfactory,84,"O , PM
+3 10",3,2022-04-28
+Howrah,Satisfactory,82,"O , PM
+3 10",3,2022-04-29
+Howrah,Satisfactory,97,"PM
+10",3,2022-04-30
+Howrah,Satisfactory,62,"PM , PM
+10 2.5",3,2022-05-01
+Howrah,Satisfactory,54,"O , PM , PM
+3 2.5 10",3,2022-05-02
+Howrah,Satisfactory,55,"O
+3",3,2022-05-03
+Howrah,Satisfactory,52,"PM , O
+10 3",3,2022-05-04
+Howrah,Satisfactory,61,"PM
+10",3,2022-05-05
+Howrah,Satisfactory,73,"O , PM , PM
+3 2.5 10",3,2022-05-06
+Howrah,Satisfactory,72,"PM , PM
+2.5 10",2,2022-05-07
+Howrah,Satisfactory,81,"PM
+10",3,2022-05-08
+Howrah,Good,39,"PM
+10",3,2022-05-09
+Howrah,Good,39,"PM , CO, O
+10 3",3,2022-05-10
+Howrah,Satisfactory,53,"PM , CO
+10",3,2022-05-11
+Howrah,Satisfactory,65,"PM
+10",3,2022-05-12
+Howrah,Satisfactory,73,"PM
+10",3,2022-05-13
+Howrah,Satisfactory,56,"PM
+10",2,2022-05-14
+Howrah,Good,44,"PM , CO
+10",2,2022-05-15
+Howrah,Good,46,"PM
+10",2,2022-05-16
+Howrah,Satisfactory,52,"PM , CO
+10",3,2022-05-17
+Howrah,Good,48,"PM , CO
+10",3,2022-05-18
+Howrah,Good,43,"O , PM , CO
+3 10",3,2022-05-19
+Howrah,Good,49,"PM , O
+10 3",3,2022-05-20
+Howrah,Satisfactory,61,"PM
+10",3,2022-05-21
+Howrah,Satisfactory,65,"PM , O
+10 3",3,2022-05-22
+Howrah,Moderate,106,"PM , PM
+2.5 10",3,2022-05-23
+Howrah,Satisfactory,62,"PM , PM
+10 2.5",3,2022-05-24
+Howrah,Satisfactory,82,"PM , O
+10 3",3,2022-05-25
+Howrah,Satisfactory,93,"PM
+10",3,2022-05-26
+Howrah,Moderate,109,"PM , PM
+2.5 10",3,2022-05-27
+Howrah,Moderate,124,"PM , PM
+2.5 10",3,2022-05-28
+Howrah,Satisfactory,95,"PM , PM
+2.5 10",3,2022-05-29
+Howrah,Satisfactory,83,"O , PM
+3 10",3,2022-05-30
+Howrah,Satisfactory,72,"PM , PM
+10 2.5",3,2022-05-31
+Howrah,Satisfactory,99,"PM , PM
+2.5 10",3,2022-06-01
+Howrah,Satisfactory,78,"PM
+10",3,2022-06-02
+Howrah,Satisfactory,86,"O , PM
+3 10",3,2022-06-03
+Howrah,Satisfactory,83,"PM
+10",3,2022-06-04
+Howrah,Satisfactory,68,"PM , PM
+10 2.5",3,2022-06-05
+Howrah,Satisfactory,59,"PM , PM
+10 2.5",3,2022-06-06
+Howrah,Satisfactory,70,"PM
+10",3,2022-06-07
+Howrah,Satisfactory,85,"PM
+10",3,2022-06-08
+Howrah,Satisfactory,80,"PM
+10",3,2022-06-09
+Howrah,Satisfactory,68,"PM
+10",3,2022-06-10
+Howrah,Satisfactory,74,"PM
+10",2,2022-06-11
+Howrah,Satisfactory,64,"PM
+10",2,2022-06-12
+Howrah,Satisfactory,64,"PM
+10",2,2022-06-13
+Howrah,Satisfactory,53,"PM , O
+10 3",3,2022-06-14
+Howrah,Good,49,"PM , CO
+2.5",2,2022-06-15
+Howrah,Satisfactory,73,"PM
+10",3,2022-06-16
+Howrah,Satisfactory,60,"PM , CO
+10",3,2022-06-17
+Howrah,Satisfactory,65,"PM , CO
+10",3,2022-06-18
+Howrah,Satisfactory,56,"PM , CO
+10",3,2022-06-19
+Howrah,Good,40,"PM , CO
+10",3,2022-06-20
+Howrah,Satisfactory,54,"PM , O
+10 3",3,2022-06-21
+Howrah,Satisfactory,51,"PM
+10",3,2022-06-22
+Howrah,Good,43,"PM
+10",3,2022-06-23
+Howrah,Good,39,"PM
+10",3,2022-06-24
+Howrah,Good,42,"PM , PM
+2.5 10",3,2022-06-25
+Howrah,Good,32,"O , CO
+3",3,2022-06-26
+Howrah,Good,33,"PM , CO
+10",3,2022-06-27
+Howrah,Good,39,"PM , CO
+10",3,2022-06-28
+Howrah,Good,46,"PM , CO
+10",3,2022-06-29
+Howrah,Good,45,"PM , CO
+10",3,2022-06-30
+Howrah,Satisfactory,59,"PM , CO
+10",3,2022-07-01
+Howrah,Satisfactory,53,"PM , PM , CO
+2.5 10",3,2022-07-02
+Howrah,Good,41,"CO, PM , PM
+10 2.5",3,2022-07-03
+Howrah,Good,39,"CO, PM
+2.5",3,2022-07-04
+Howrah,Good,36,"CO, PM
+2.5",3,2022-07-05
+Howrah,Good,36,CO,2,2022-07-06
+Howrah,Good,38,"PM , CO
+10",3,2022-07-07
+Howrah,Good,32,"CO, PM
+10",3,2022-07-08
+Howrah,Good,37,"PM , CO
+10",3,2022-07-09
+Howrah,Good,31,"CO, PM
+10",3,2022-07-10
+Howrah,Good,30,"CO, PM
+10",3,2022-07-11
+Howrah,Good,40,"CO, PM
+10",2,2022-07-12
+Howrah,Good,43,"CO, PM
+10",3,2022-07-13
+Howrah,Good,40,"CO, PM
+10",2,2022-07-14
+Howrah,Good,42,"CO, PM
+10",3,2022-07-15
+Howrah,Good,40,"CO, PM
+10",3,2022-07-16
+Howrah,Good,41,"CO, PM
+10",3,2022-07-17
+Howrah,Good,43,"CO, PM
+2.5",3,2022-07-18
+Howrah,Satisfactory,62,"CO, PM
+10",3,2022-07-19
+Howrah,Satisfactory,67,"CO, PM
+10",3,2022-07-20
+Howrah,Satisfactory,59,"CO, PM
+10",3,2022-07-21
+Howrah,Good,42,"CO, PM , PM
+2.5 10",3,2022-07-22
+Howrah,Good,31,"PM , CO
+10",3,2022-07-23
+Howrah,Good,30,"PM , CO
+10",3,2022-07-24
+Howrah,Good,30,"CO, PM , PM
+10 2.5",3,2022-07-25
+Howrah,Good,43,"PM , CO
+10",3,2022-07-26
+Howrah,Good,46,"CO, PM
+10",3,2022-07-27
+Howrah,Satisfactory,56,"PM , CO
+10",3,2022-07-28
+Howrah,Satisfactory,62,"PM , CO
+10",3,2022-07-29
+Howrah,Satisfactory,64,"PM , PM , CO
+10 2.5",3,2022-07-30
+Howrah,Satisfactory,62,"PM , CO, PM
+10 2.5",3,2022-07-31
+Howrah,Satisfactory,53,"PM , PM , CO
+10 2.5",3,2022-08-01
+Howrah,Satisfactory,86,"PM
+10",3,2022-08-02
+Howrah,Satisfactory,66,"PM , PM
+2.5 10",3,2022-08-03
+Howrah,Satisfactory,58,"PM , PM , CO
+10 2.5",3,2022-08-04
+Howrah,Good,39,"O , PM , CO
+3 10",3,2022-08-05
+Howrah,Good,40,"CO, PM
+10",3,2022-08-06
+Howrah,Good,28,"CO, PM , O
+10 3",3,2022-08-07
+Howrah,Good,29,"CO, PM , O
+2.5 3",3,2022-08-08
+Howrah,Good,34,"CO, PM , O
+10 3",3,2022-08-09
+Howrah,Good,28,"CO, O , PM
+3 10",3,2022-08-10
+Howrah,Good,45,"CO, PM
+2.5",2,2022-08-11
+Howrah,Good,40,"PM , CO
+10",2,2022-08-12
+Howrah,Satisfactory,67,"PM
+10",3,2022-08-13
+Howrah,Good,28,"CO, PM , O
+10 3",3,2022-08-14
+Howrah,Good,30,"CO, PM , PM
+2.5 10",3,2022-08-15
+Howrah,Good,44,"PM , CO
+10",3,2022-08-16
+Howrah,Satisfactory,71,"PM , PM
+10 2.5",3,2022-08-17
+Howrah,Moderate,113,"PM , PM
+2.5 10",3,2022-08-18
+Howrah,Satisfactory,58,"PM , CO
+10",3,2022-08-19
+Howrah,Good,37,"CO, PM , O
+10 3",3,2022-08-20
+Howrah,Good,43,"PM , CO
+10",3,2022-08-21
+Howrah,Satisfactory,57,"PM , PM
+2.5 10",3,2022-08-22
+Howrah,Satisfactory,95,"PM , PM , CO
+2.5 10",3,2022-08-23
+Howrah,Satisfactory,58,"PM , CO, PM
+2.5 10",3,2022-08-24
+Howrah,Satisfactory,51,"PM , CO
+10",3,2022-08-25
+Howrah,Satisfactory,65,"PM , PM
+10 2.5",3,2022-08-26
+Howrah,Satisfactory,79,"PM
+10",3,2022-08-27
+Howrah,Satisfactory,54,"PM , PM
+2.5 10",3,2022-08-28
+Howrah,Good,40,"PM , CO
+10",3,2022-08-29
+Howrah,Good,48,"PM , CO
+10",3,2022-08-30
+Howrah,Satisfactory,63,"PM , CO
+10",3,2022-08-31
+Howrah,Good,50,"PM , CO
+10",3,2022-09-01
+Howrah,Satisfactory,51,"PM , CO
+10",3,2022-09-02
+Howrah,Satisfactory,51,"PM , CO
+10",3,2022-09-03
+Howrah,Satisfactory,69,"PM , PM , CO
+10 2.5",3,2022-09-04
+Howrah,Satisfactory,64,"PM , PM , CO
+2.5 10",3,2022-09-05
+Howrah,Satisfactory,58,"PM , CO
+10",2,2022-09-06
+Howrah,Satisfactory,81,"PM , PM
+2.5 10",3,2022-09-07
+Howrah,Good,46,"PM , O , CO
+10 3",3,2022-09-08
+Howrah,Satisfactory,53,"PM , O , PM
+2.5 3 10",3,2022-09-09
+Howrah,Good,37,"CO, PM , PM
+2.5 10",3,2022-09-10
+Howrah,Good,32,CO,3,2022-09-11
+Howrah,Good,28,"CO, PM
+10",3,2022-09-12
+Howrah,Good,40,"CO, PM
+10",3,2022-09-13
+Howrah,Good,34,"PM , CO
+10",2,2022-09-14
+Howrah,Satisfactory,53,"PM , PM
+10 2.5",3,2022-09-15
+Howrah,Satisfactory,59,"PM , PM
+10 2.5",3,2022-09-16
+Howrah,Satisfactory,69,"PM
+10",3,2022-09-17
+Howrah,Satisfactory,52,"PM , PM
+2.5 10",3,2022-09-18
+Howrah,Good,47,"PM , PM
+2.5 10",3,2022-09-19
+Howrah,Good,33,"PM , CO, O
+10 3",3,2022-09-20
+Howrah,Good,34,"PM , NO
+10 2",3,2022-09-21
+Howrah,Good,39,"PM , O
+10 3",3,2022-09-22
+Howrah,Good,47,"PM
+10",2,2022-09-23
+Howrah,Satisfactory,55,"PM
+10",2,2022-09-24
+Howrah,Satisfactory,55,"PM , PM
+10 2.5",3,2022-09-25
+Howrah,Satisfactory,60,"PM , PM
+10 2.5",3,2022-09-26
+Howrah,Satisfactory,76,"PM , PM
+10 2.5",3,2022-09-27
+Howrah,Moderate,104,"PM , PM
+2.5 10",3,2022-09-28
+Howrah,Moderate,107,"PM , PM
+2.5 10",3,2022-09-29
+Howrah,Satisfactory,80,"PM , PM
+2.5 10",3,2022-09-30
+Howrah,Satisfactory,80,"PM
+10",2,2022-10-01
+Howrah,Satisfactory,53,"PM , PM
+2.5 10",3,2022-10-02
+Howrah,Good,39,"PM , PM
+2.5 10",3,2022-10-03
+Howrah,Good,25,"PM , NO , CO
+10 2",3,2022-10-04
+Howrah,Good,26,"PM , CO
+10",3,2022-10-05
+Howrah,Good,26,"PM , CO
+10",3,2022-10-06
+Howrah,Good,29,"PM , CO
+10",3,2022-10-07
+Howrah,Good,47,"PM
+10",3,2022-10-08
+Howrah,Good,33,"PM
+10",3,2022-10-09
+Howrah,Good,41,"PM , CO
+10",3,2022-10-10
+Howrah,Good,45,"PM , CO
+10",3,2022-10-11
+Howrah,Good,42,"PM , CO
+10",2,2022-10-12
+Howrah,Satisfactory,53,"PM
+10",2,2022-10-13
+Howrah,Satisfactory,53,"PM
+10",2,2022-10-14
+Howrah,Satisfactory,89,"PM
+10",3,2022-10-15
+Howrah,Satisfactory,83,"PM
+10",3,2022-10-16
+Howrah,Satisfactory,95,"PM
+10",3,2022-10-17
+Howrah,Moderate,128,"PM , PM
+2.5 10",3,2022-10-18
+Howrah,Moderate,109,"PM , PM
+2.5 10",3,2022-10-19
+Howrah,Moderate,137,"PM , PM
+2.5 10",3,2022-10-20
+Howrah,Moderate,133,"PM , PM
+2.5 10",3,2022-10-21
+Howrah,Moderate,120,"PM , PM
+2.5 10",2,2022-10-22
+Howrah,Satisfactory,98,"PM , PM
+2.5 10",3,2022-10-23
+Howrah,Satisfactory,69,"PM , PM
+2.5 10",2,2022-10-24
+Howrah,Good,50,"PM , O
+10 3",3,2022-10-25
+Howrah,Satisfactory,99,"PM , PM
+2.5 10",3,2022-10-26
+Howrah,Moderate,125,"PM , PM
+2.5 10",3,2022-10-27
+Howrah,Moderate,174,"PM
+2.5",2,2022-10-28
+Howrah,Moderate,108,"PM
+10",2,2022-10-29
+Howrah,Satisfactory,98,"PM
+10",1,2022-10-30
+Howrah,Satisfactory,87,"O
+3",1,2022-10-31
+Howrah,Moderate,102,"PM , O
+10 3",2,2022-11-01
+Howrah,Satisfactory,100,"PM , O
+10 3",2,2022-11-02
+Howrah,Moderate,129,"PM , PM
+2.5 10",3,2022-11-03
+Howrah,Poor,211,"PM , O
+2.5 3",3,2022-11-04
+Howrah,Poor,206,"PM
+2.5",3,2022-11-05
+Howrah,Moderate,174,"PM
+2.5",3,2022-11-06
+Howrah,Moderate,168,"PM
+2.5",3,2022-11-07
+Howrah,Moderate,183,"PM , PM
+2.5 10",3,2022-11-08
+Howrah,Moderate,178,"PM , PM
+2.5 10",3,2022-11-09
+Howrah,Moderate,164,"PM
+2.5",3,2022-11-10
+Howrah,Moderate,153,"PM , PM
+2.5 10",3,2022-11-11
+Howrah,Poor,241,"PM
+2.5",3,2022-11-12
+Howrah,Poor,248,"PM
+2.5",3,2022-11-13
+Howrah,Moderate,197,"PM
+2.5",3,2022-11-14
+Howrah,Poor,217,"PM
+2.5",3,2022-11-15
+Howrah,Poor,257,"PM
+2.5",3,2022-11-16
+Howrah,Poor,296,"PM
+2.5",3,2022-11-17
+Howrah,Poor,259,"PM
+2.5",3,2022-11-18
+Howrah,Moderate,153,"PM , PM
+2.5 10",3,2022-11-19
+Howrah,Moderate,193,"PM , PM
+2.5 10",3,2022-11-20
+Howrah,Moderate,191,"PM , O
+2.5 3",3,2022-11-21
+Howrah,Poor,224,"PM , O
+2.5 3",3,2022-11-22
+Howrah,Poor,288,"PM
+2.5",3,2022-11-23
+Howrah,Poor,270,"PM
+2.5",3,2022-11-24
+Howrah,Poor,241,"PM
+2.5",3,2022-11-25
+Howrah,Poor,262,"PM
+2.5",3,2022-11-26
+Howrah,Poor,256,"PM
+2.5",3,2022-11-27
+Howrah,Poor,266,"PM
+2.5",3,2022-11-28
+Howrah,Poor,208,"PM
+2.5",3,2022-11-29
+Howrah,Moderate,149,"PM
+2.5",3,2022-11-30
+Howrah,Poor,202,"PM
+2.5",3,2022-12-01
+Howrah,Poor,237,"PM
+2.5",3,2022-12-02
+Howrah,Poor,256,"PM
+2.5",3,2022-12-03
+Howrah,Poor,267,"PM
+2.5",3,2022-12-04
+Howrah,Poor,253,"PM
+2.5",3,2022-12-05
+Howrah,Poor,224,"PM
+2.5",3,2022-12-06
+Howrah,Poor,252,"PM
+2.5",3,2022-12-07
+Howrah,Poor,266,"PM
+2.5",3,2022-12-08
+Howrah,Poor,277,"PM
+2.5",3,2022-12-09
+Howrah,Poor,271,"PM
+2.5",3,2022-12-10
+Howrah,Poor,272,"PM
+2.5",3,2022-12-11
+Howrah,Poor,298,"PM
+2.5",3,2022-12-12
+Howrah,Very Poor,318,"PM
+2.5",3,2022-12-13
+Howrah,Very Poor,324,"PM
+2.5",3,2022-12-14
+Howrah,Poor,289,"PM
+2.5",3,2022-12-15
+Howrah,Poor,237,"PM , O
+2.5 3",3,2022-12-16
+Howrah,Poor,267,"PM
+2.5",3,2022-12-17
+Howrah,Very Poor,326,"PM
+2.5",3,2022-12-18
+Howrah,Poor,296,"PM
+2.5",2,2022-12-19
+Howrah,Very Poor,305,"PM
+2.5",3,2022-12-20
+Howrah,Very Poor,332,"PM
+2.5",3,2022-12-21
+Howrah,Very Poor,320,"PM
+2.5",3,2022-12-22
+Howrah,Very Poor,305,"PM
+2.5",3,2022-12-23
+Howrah,Very Poor,305,"PM
+2.5",3,2022-12-24
+Howrah,Poor,248,"PM
+2.5",3,2022-12-25
+Howrah,Moderate,114,"PM , PM
+2.5 10",3,2022-12-26
+Howrah,Moderate,119,"PM
+2.5",3,2022-12-27
+Howrah,Poor,247,"PM
+2.5",3,2022-12-28
+Howrah,Poor,234,"PM
+2.5",3,2022-12-29
+Howrah,Poor,273,"PM
+2.5",3,2022-12-30
+Howrah,Very Poor,306,"PM
+2.5",3,2022-12-31
+Howrah,Poor,294,"PM
+2.5",3,2023-01-01
+Howrah,Poor,210,"PM
+2.5",3,2023-01-02
+Howrah,Poor,261,"PM
+2.5",3,2023-01-03
+Howrah,Poor,224,"PM
+2.5",3,2023-01-04
+Howrah,Poor,234,"PM
+2.5",3,2023-01-05
+Howrah,Poor,248,"PM
+2.5",3,2023-01-06
+Howrah,Poor,259,"PM
+2.5",3,2023-01-07
+Howrah,Poor,297,"PM
+2.5",3,2023-01-08
+Howrah,Poor,282,"PM
+2.5",3,2023-01-09
+Howrah,Poor,227,"PM
+2.5",3,2023-01-10
+Howrah,Poor,280,"PM
+2.5",3,2023-01-11
+Howrah,Poor,285,"PM
+2.5",3,2023-01-12
+Howrah,Poor,276,"PM
+2.5",3,2023-01-13
+Howrah,Moderate,132,"PM , PM
+2.5 10",3,2023-01-14
+Howrah,Poor,246,"PM
+2.5",3,2023-01-15
+Howrah,Poor,226,"PM
+2.5",3,2023-01-16
+Howrah,Poor,226,"PM
+2.5",3,2023-01-17
+Howrah,Poor,254,"PM
+2.5",3,2023-01-18
+Howrah,Poor,268,"PM
+2.5",3,2023-01-19
+Howrah,Very Poor,301,"PM
+2.5",3,2023-01-20
+Howrah,Very Poor,333,"PM
+2.5",3,2023-01-21
+Howrah,Very Poor,342,"PM
+2.5",3,2023-01-22
+Howrah,Very Poor,324,"PM
+2.5",3,2023-01-23
+Howrah,Very Poor,311,"PM
+2.5",3,2023-01-24
+Howrah,Poor,297,"PM
+2.5",3,2023-01-25
+Howrah,Poor,271,"PM
+2.5",3,2023-01-26
+Howrah,Poor,227,"PM
+2.5",3,2023-01-27
+Howrah,Moderate,188,"PM
+2.5",3,2023-01-28
+Howrah,Moderate,170,"PM
+2.5",3,2023-01-29
+Howrah,Moderate,162,"PM
+2.5",3,2023-01-30
+Howrah,Poor,278,"PM
+2.5",3,2023-01-31
+Howrah,Moderate,199,"PM
+2.5",3,2023-02-01
+Howrah,Moderate,145,"PM
+2.5",3,2023-02-02
+Howrah,Moderate,180,"PM
+2.5",3,2023-02-03
+Howrah,Poor,238,"PM
+2.5",3,2023-02-04
+Howrah,Poor,211,"PM
+2.5",3,2023-02-05
+Howrah,Poor,221,"PM
+2.5",3,2023-02-06
+Howrah,Moderate,143,"PM , PM
+2.5 10",3,2023-02-07
+Howrah,Moderate,113,"PM
+10",3,2023-02-08
+Howrah,Moderate,158,"PM
+2.5",3,2023-02-09
+Howrah,Poor,232,"PM
+2.5",3,2023-02-10
+Howrah,Moderate,181,"PM
+2.5",3,2023-02-11
+Howrah,Moderate,140,"PM , PM
+2.5 10",3,2023-02-12
+Howrah,Moderate,135,"PM , PM
+2.5 10",3,2023-02-13
+Howrah,Moderate,166,"PM , PM
+2.5 10",3,2023-02-14
+Howrah,Poor,240,"PM
+2.5",3,2023-02-15
+Howrah,Poor,244,"PM
+2.5",3,2023-02-16
+Howrah,Poor,221,"PM
+2.5",3,2023-02-17
+Howrah,Moderate,146,"PM
+2.5",3,2023-02-18
+Howrah,Moderate,113,"PM , PM
+2.5 10",3,2023-02-19
+Howrah,Satisfactory,100,"PM
+10",3,2023-02-20
+Howrah,Satisfactory,91,"PM
+10",3,2023-02-21
+Howrah,Moderate,118,"PM , PM
+2.5 10",3,2023-02-22
+Howrah,Satisfactory,92,"PM
+10",3,2023-02-23
+Howrah,Moderate,104,"PM
+10",3,2023-02-24
+Howrah,Moderate,131,"PM , PM
+10 2.5",3,2023-02-25
+Howrah,Moderate,183,"PM
+2.5",3,2023-02-26
+Howrah,Moderate,129,"PM , PM
+10 2.5",3,2023-02-27
+Howrah,Moderate,127,"PM , PM
+2.5 10",3,2023-02-28
+Howrah,Moderate,134,"PM
+10",3,2023-03-01
+Howrah,Moderate,104,"PM
+10",3,2023-03-02
+Howrah,Moderate,172,"PM
+2.5",3,2023-03-03
+Howrah,Moderate,156,"PM , PM
+2.5 10",3,2023-03-04
+Howrah,Moderate,184,"PM , PM
+10 2.5",3,2023-03-05
+Howrah,Moderate,147,"PM
+2.5",3,2023-03-06
+Howrah,Moderate,128,"PM , PM
+2.5 10",3,2023-03-07
+Howrah,Moderate,114,"PM , PM
+2.5 10",3,2023-03-08
+Howrah,Moderate,137,"PM
+10",3,2023-03-09
+Howrah,Moderate,196,"PM , PM
+10 2.5",3,2023-03-10
+Howrah,Moderate,144,"PM
+10",3,2023-03-11
+Howrah,Moderate,140,"PM
+2.5",2,2023-03-12
+Howrah,Moderate,161,"PM
+2.5",2,2023-03-13
+Howrah,Moderate,139,"PM , PM
+2.5 10",2,2023-03-14
+Howrah,Moderate,116,"PM
+10",2,2023-03-15
+Howrah,Moderate,113,"PM
+10",3,2023-03-16
+Howrah,Satisfactory,90,"PM
+10",2,2023-03-17
+Howrah,Moderate,155,"PM
+2.5",3,2023-03-18
+Howrah,Satisfactory,92,"PM
+2.5",3,2023-03-19
+Howrah,Good,37,"PM
+10",3,2023-03-20
+Howrah,Satisfactory,55,"NO
+2",3,2023-03-21
+Howrah,Moderate,107,"PM
+10",3,2023-03-22
+Howrah,Satisfactory,86,"PM
+10",3,2023-03-23
+Howrah,Satisfactory,82,"PM
+10",2,2023-03-24
+Howrah,Satisfactory,80,"PM
+10",2,2023-03-25
+Howrah,Satisfactory,57,"NO
+2",2,2023-03-26
+Howrah,Satisfactory,82,"PM
+10",1,2023-03-27
+Howrah,Satisfactory,95,"PM
+10",2,2023-03-28
+Howrah,Satisfactory,76,"PM , CO
+10",3,2023-03-29
+Howrah,Satisfactory,65,"PM
+10",3,2023-03-30
+Howrah,Satisfactory,69,"PM , CO
+10",3,2023-03-31
+Howrah,Satisfactory,58,"PM , NO
+10 2",3,2023-04-01
+Howrah,Satisfactory,66,CO,3,2023-04-02
+Howrah,Satisfactory,64,CO,3,2023-04-03
+Howrah,Satisfactory,78,"PM
+10",3,2023-04-04
+Howrah,Satisfactory,66,"PM
+10",3,2023-04-05
+Howrah,Moderate,143,"PM
+10",3,2023-04-06
+Howrah,Moderate,108,"PM
+10",3,2023-04-07
+Howrah,Moderate,130,"NO , PM
+2 2.5",3,2023-04-08
+Howrah,Moderate,111,"PM , PM
+2.5 10",3,2023-04-09
+Howrah,Moderate,116,"PM , PM
+10 2.5",3,2023-04-10
+Howrah,Moderate,133,"PM , PM
+2.5 10",3,2023-04-11
+Howrah,Moderate,134,"PM
+10",3,2023-04-12
+Howrah,Moderate,150,"PM
+10",3,2023-04-13
+Howrah,Moderate,131,"PM
+10",3,2023-04-14
+Howrah,Moderate,138,"PM
+10",3,2023-04-15
+Howrah,Moderate,117,"PM
+10",3,2023-04-16
+Howrah,Moderate,107,"PM
+10",3,2023-04-17
+Howrah,Moderate,114,"PM
+10",3,2023-04-18
+Howrah,Satisfactory,94,"PM , PM
+10 2.5",3,2023-04-19
+Howrah,Moderate,110,"PM
+10",3,2023-04-20
+Howrah,Moderate,111,"PM
+10",3,2023-04-21
+Howrah,Moderate,113,"PM
+10",3,2023-04-22
+Howrah,Satisfactory,72,"PM
+10",3,2023-04-23
+Howrah,Satisfactory,54,"NO
+2",3,2023-04-24
+Howrah,Satisfactory,68,"PM
+10",3,2023-04-25
+Howrah,Satisfactory,95,"PM
+10",3,2023-04-26
+Howrah,Satisfactory,76,"PM , CO
+10",3,2023-04-27
+Howrah,Satisfactory,64,"PM
+10",3,2023-04-28
+Howrah,Satisfactory,75,"PM
+10",3,2023-04-29
+Howrah,Satisfactory,56,"PM
+10",3,2023-04-30
+Howrah,Satisfactory,52,"PM
+10",3,2023-05-01
+Howrah,Satisfactory,62,"PM
+10",2,2023-05-02
+Howrah,Satisfactory,77,"PM
+10",3,2023-05-03
+Howrah,Satisfactory,62,"PM
+10",3,2023-05-04
+Howrah,Satisfactory,65,CO,3,2023-05-05
+Howrah,Satisfactory,72,"PM , CO
+10",3,2023-05-06
+Howrah,Satisfactory,70,"PM , PM
+10 2.5",3,2023-05-07
+Howrah,Satisfactory,73,"PM , CO
+10",3,2023-05-08
+Howrah,Satisfactory,84,"PM
+10",3,2023-05-09
+Howrah,Satisfactory,76,"PM
+10",2,2023-05-10
+Howrah,Satisfactory,74,"PM
+10",2,2023-05-11
+Howrah,Satisfactory,82,"PM
+10",2,2023-05-12
+Howrah,Satisfactory,63,"PM
+10",2,2023-05-13
+Howrah,Satisfactory,74,"PM
+10",2,2023-05-14
+Howrah,Satisfactory,70,"PM
+10",2,2023-05-15
+Howrah,Satisfactory,78,CO,2,2023-05-16
+Howrah,Satisfactory,72,"PM , CO
+10",3,2023-05-17
+Howrah,Satisfactory,58,"PM
+10",3,2023-05-18
+Howrah,Satisfactory,62,"PM
+10",3,2023-05-19
+Howrah,Satisfactory,71,"PM
+10",3,2023-05-20
+Howrah,Satisfactory,72,"PM
+10",3,2023-05-21
+Howrah,Satisfactory,65,"PM
+10",3,2023-05-22
+Howrah,Satisfactory,65,"PM
+10",3,2023-05-23
+Howrah,Satisfactory,83,"PM , CO
+10",3,2023-05-24
+Howrah,Satisfactory,59,"PM
+10",3,2023-05-25
+Howrah,Satisfactory,60,CO,3,2023-05-26
+Howrah,Satisfactory,59,CO,3,2023-05-27
+Howrah,Satisfactory,73,"PM , CO
+10",3,2023-05-28
+Howrah,Satisfactory,78,"PM , CO
+10",3,2023-05-29
+Howrah,Satisfactory,93,"PM
+10",3,2023-05-30
+Howrah,Satisfactory,96,"PM
+10",3,2023-05-31
+Howrah,Satisfactory,87,"PM
+10",3,2023-06-01
+Howrah,Moderate,102,"PM
+10",3,2023-06-02
+Howrah,Satisfactory,87,"PM
+10",3,2023-06-03
+Howrah,Satisfactory,79,"PM
+10",3,2023-06-04
+Howrah,Satisfactory,73,"PM
+10",3,2023-06-05
+Howrah,Satisfactory,86,"PM
+10",3,2023-06-06
+Howrah,Satisfactory,91,"PM , PM
+2.5 10",3,2023-06-07
+Howrah,Satisfactory,97,"PM
+10",3,2023-06-08
+Howrah,Satisfactory,74,"PM
+10",3,2023-06-09
+Howrah,Satisfactory,60,"PM
+10",3,2023-06-10
+Howrah,Satisfactory,55,"PM
+10",3,2023-06-11
+Howrah,Satisfactory,60,"PM
+10",3,2023-06-12
+Howrah,Satisfactory,74,"PM
+10",3,2023-06-13
+Howrah,Satisfactory,74,"PM
+10",3,2023-06-14
+Howrah,Satisfactory,80,"PM
+10",3,2023-06-15
+Howrah,Satisfactory,75,"PM
+10",3,2023-06-16
+Howrah,Satisfactory,73,"PM
+10",3,2023-06-17
+Howrah,Satisfactory,68,"PM
+10",3,2023-06-18
+Howrah,Good,49,"PM
+10",3,2023-06-19
+Howrah,Satisfactory,54,"PM
+10",3,2023-06-20
+Howrah,Satisfactory,51,"PM
+10",3,2023-06-21
+Howrah,Good,50,"NO
+2",3,2023-06-22
+Howrah,Good,42,"NO
+2",3,2023-06-23
+Howrah,Good,47,"NO
+2",3,2023-06-24
+Howrah,Good,47,"NO
+2",3,2023-06-25
+Howrah,Satisfactory,53,"NO
+2",3,2023-06-26
+Howrah,Satisfactory,53,"NO
+2",3,2023-06-27
+Howrah,Good,48,"NO
+2",3,2023-06-28
+Howrah,Good,49,"NO
+2",3,2023-06-29
+Howrah,Satisfactory,56,"NO , PM
+2 10",3,2023-06-30
+Howrah,Satisfactory,58,"NO , PM
+2 10",3,2023-07-01
+Howrah,Satisfactory,60,"NO , PM
+2 10",3,2023-07-02
+Howrah,Satisfactory,60,"NO , PM
+2 10",3,2023-07-03
+Howrah,Satisfactory,62,"NO , PM
+2 10",3,2023-07-04
+Howrah,Good,46,"NO
+2",2,2023-07-05
+Howrah,Good,46,"NO
+2",2,2023-07-06
+Howrah,Good,45,"NO
+2",2,2023-07-07
+Howrah,Good,39,"NO
+2",3,2023-07-08
+Howrah,Good,46,"NO
+2",3,2023-07-09
+Howrah,Good,50,"NO
+2",2,2023-07-10
+Howrah,Good,50,"PM
+10",3,2023-07-11
+Howrah,Good,43,"NO , PM
+2 10",3,2023-07-12
+Howrah,Good,44,"NO , PM
+2 10",3,2023-07-13
+Howrah,Good,48,"NO , PM
+2 10",2,2023-07-14
+Howrah,Good,44,"NO , PM
+2 10",3,2023-07-15
+Howrah,Good,44,"NO
+2",3,2023-07-16
+Howrah,Good,42,"NO
+2",3,2023-07-17
+Howrah,Good,43,"NO
+2",3,2023-07-18
+Howrah,Good,45,"NO
+2",3,2023-07-19
+Howrah,Good,42,"NO
+2",3,2023-07-20
+Howrah,Good,37,"NO , PM
+2 10",3,2023-07-21
+Howrah,Good,37,"NO , PM
+2 10",3,2023-07-22
+Howrah,Good,37,"NO , PM
+2 10",3,2023-07-23
+Howrah,Good,40,"NO , PM
+2 10",3,2023-07-24
+Howrah,Good,44,"NO , PM
+2 10",2,2023-07-25
+Howrah,Good,39,"NO , PM
+2 10",3,2023-07-26
+Howrah,Good,39,"NO , PM
+2 10",3,2023-07-27
+Howrah,Good,38,"NO , PM
+2 10",3,2023-07-28
+Howrah,Good,39,"NO , PM
+2 10",3,2023-07-29
+Howrah,Good,44,"NO , PM
+2 10",3,2023-07-30
+Howrah,Good,48,"NO , PM
+2 10",2,2023-07-31
+Howrah,Good,43,"NO , PM
+2 10",3,2023-08-01
+Howrah,Good,38,"NO , CO
+2",3,2023-08-02
+Howrah,Good,41,"NO , PM
+2 10",3,2023-08-03
+Howrah,Satisfactory,58,"PM
+10",2,2023-08-04
+Howrah,Satisfactory,62,"PM
+10",3,2023-08-05
+Howrah,Satisfactory,61,"PM
+10",3,2023-08-06
+Howrah,Satisfactory,54,"PM
+10",3,2023-08-07
+Howrah,Satisfactory,60,"PM
+10",3,2023-08-08
+Howrah,Satisfactory,88,"PM
+10",3,2023-08-09
+Howrah,Moderate,117,"PM
+10",3,2023-08-10
+Howrah,Satisfactory,94,"PM
+10",3,2023-08-11
+Howrah,Satisfactory,70,"PM , PM
+10 2.5",3,2023-08-12
+Howrah,Satisfactory,57,"PM , PM
+2.5 10",3,2023-08-13
+Howrah,Satisfactory,63,"PM
+10",3,2023-08-14
+Howrah,Satisfactory,88,"CO, PM
+10",3,2023-08-15
+Howrah,Satisfactory,78,"PM
+10",3,2023-08-16
+Howrah,Satisfactory,72,"PM , PM
+2.5 10",3,2023-08-17
+Howrah,Good,49,"PM
+10",3,2023-08-18
+Howrah,Good,31,"O
+3",3,2023-08-19
+Howrah,Good,47,"PM
+10",3,2023-08-20
+Howrah,Satisfactory,59,"PM
+10",3,2023-08-21
+Howrah,Satisfactory,57,"PM
+10",3,2023-08-22
+Howrah,Satisfactory,57,"PM
+10",3,2023-08-23
+Howrah,Good,40,"PM , PM
+10 2.5",3,2023-08-24
+Howrah,Good,48,"PM
+10",3,2023-08-25
+Howrah,Satisfactory,52,"PM
+10",3,2023-08-26
+Howrah,Satisfactory,90,"PM
+10",3,2023-08-27
+Howrah,Moderate,127,"PM
+10",3,2023-08-28
+Howrah,Moderate,184,"PM
+10",3,2023-08-29
+Howrah,Moderate,144,"PM , PM
+2.5 10",3,2023-08-30
+Howrah,Moderate,150,"PM
+10",3,2023-08-31
+Howrah,Moderate,108,"PM
+10",3,2023-09-01
+Howrah,Moderate,120,"PM
+10",3,2023-09-02
+Howrah,Satisfactory,72,"PM
+10",3,2023-09-03
+Howrah,Satisfactory,51,"PM
+10",3,2023-09-04
+Howrah,Good,32,"PM
+10",3,2023-09-05
+Howrah,Good,33,"PM
+10",3,2023-09-06
+Howrah,Good,31,"PM
+10",3,2023-09-07
+Howrah,Good,32,"PM
+10",3,2023-09-08
+Howrah,Good,40,"PM
+10",3,2023-09-09
+Howrah,Good,46,"PM
+10",3,2023-09-10
+Howrah,Good,45,"PM
+10",3,2023-09-11
+Howrah,Good,44,"PM
+10",3,2023-09-12
+Howrah,Good,45,"PM
+10",3,2023-09-13
+Howrah,Good,27,CO,3,2023-09-14
+Howrah,Good,42,"PM
+10",3,2023-09-15
+Howrah,Good,44,"PM
+10",3,2023-09-16
+Howrah,Satisfactory,60,"PM
+10",3,2023-09-17
+Howrah,Satisfactory,54,"PM
+10",3,2023-09-18
+Howrah,Good,35,"PM
+10",3,2023-09-19
+Howrah,Good,32,"PM
+10",3,2023-09-20
+Howrah,Good,38,"PM
+10",3,2023-09-21
+Howrah,Good,46,"PM
+10",3,2023-09-22
+Howrah,Good,41,"PM
+10",3,2023-09-23
+Howrah,Good,45,"PM
+10",3,2023-09-24
+Howrah,Good,46,"PM
+10",3,2023-09-25
+Howrah,Satisfactory,55,"PM
+10",3,2023-09-26
+Howrah,Good,49,"PM
+10",3,2023-09-27
+Howrah,Satisfactory,78,"PM
+10",3,2023-09-28
+Howrah,Moderate,101,"PM
+10",3,2023-09-29
+Howrah,Satisfactory,75,"PM
+10",3,2023-09-30
+Howrah,Satisfactory,57,"PM
+10",3,2023-10-01
+Howrah,Good,40,"PM
+10",3,2023-10-02
+Howrah,Good,35,"PM
+10",3,2023-10-03
+Howrah,Good,34,"PM
+10",2/3,2023-10-04
+Howrah,Satisfactory,56,"PM
+10",2/3,2023-10-05
+Howrah,Satisfactory,71,"PM
+10",2/3,2023-10-06
+Howrah,Satisfactory,77,"PM
+10",2/3,2023-10-07
+Howrah,Satisfactory,94,"PM
+10",2/3,2023-10-08
+Howrah,Satisfactory,84,"PM
+10",1/3,2023-10-09
+Howrah,Moderate,143,"PM
+10",2/3,2023-10-10
+Howrah,Moderate,140,"PM , PM
+2.5 10",3/3,2023-10-11
+Howrah,Moderate,146,"PM , PM
+2.5 10",3/3,2023-10-12
+Howrah,Moderate,145,"PM
+10",3/3,2023-10-13
+Howrah,Moderate,149,"PM
+10",2/3,2023-10-14
+Howrah,Moderate,120,"PM
+10",1/3,2023-10-15
+Howrah,Moderate,146,"PM
+2.5",2/3,2023-10-16
+Howrah,Moderate,186,"PM
+2.5",2/3,2023-10-17
+Howrah,Moderate,166,"PM , PM
+2.5 10",2/3,2023-10-18
+Howrah,Moderate,115,"PM
+10",3/3,2023-10-19
+Howrah,Satisfactory,98,"PM
+10",3/3,2023-10-20
+Howrah,Moderate,103,"PM
+10",3/3,2023-10-21
+Howrah,Satisfactory,90,"PM
+10",3/3,2023-10-22
+Howrah,Satisfactory,83,"PM
+10",3/3,2023-10-23
+Howrah,Good,44,"PM
+10",3/3,2023-10-24
+Howrah,Satisfactory,53,"PM
+10",3/3,2023-10-25
+Howrah,Satisfactory,90,"PM , PM
+2.5 10",3/3,2023-10-26
+Howrah,Satisfactory,100,"PM , PM
+2.5 10",3/3,2023-10-27
+Howrah,Moderate,129,"PM , PM
+2.5 10",3/3,2023-10-28
+Howrah,Moderate,168,"PM , PM
+2.5 10",2/3,2023-10-29
+Howrah,Moderate,146,"PM , PM
+2.5 10",2/3,2023-10-30
+Howrah,Moderate,131,"PM , PM
+2.5 10",2/3,2023-10-31
+Howrah,Moderate,129,"PM
+10",3/3,2023-11-01
+Howrah,Moderate,113,"PM , PM
+2.5 10",3/3,2023-11-02
+Howrah,Moderate,186,"PM
+2.5",2/3,2023-11-03
+Howrah,Satisfactory,99,"PM , PM
+2.5 10",3/3,2023-11-04
+Howrah,Moderate,155,"PM , PM
+2.5 10",2/3,2023-11-05
+Howrah,Moderate,140,"PM , PM
+2.5 10",2/3,2023-11-06
+Howrah,Moderate,183,"PM
+2.5",3/3,2023-11-07
+Howrah,Poor,226,"PM
+2.5",2/3,2023-11-08
+Howrah,Poor,278,"PM
+2.5",2/3,2023-11-09
+Howrah,Poor,246,"PM
+2.5",3/3,2023-11-10
+Howrah,Poor,250,"PM
+2.5",3/3,2023-11-11
+Howrah,Poor,237,"PM
+2.5",3/3,2023-11-12
+Howrah,Poor,248,"PM
+2.5",3/3,2023-11-13
+Howrah,Moderate,152,"PM
+2.5",3/3,2023-11-14
+Howrah,Moderate,131,"PM , PM
+2.5 10",3/3,2023-11-15
+Howrah,Moderate,110,"PM
+2.5",2/3,2023-11-16
+Howrah,Satisfactory,60,"PM
+10",3/3,2023-11-17
+Howrah,Satisfactory,60,"PM
+10",3/3,2023-11-18
+Howrah,Satisfactory,93,"PM , PM
+2.5 10",3/3,2023-11-19
+Howrah,Moderate,108,"PM , PM
+2.5 10",3/3,2023-11-20
+Howrah,Moderate,161,"PM , PM
+2.5 10",2/3,2023-11-21
+Howrah,Poor,246,"PM
+2.5",2/3,2023-11-22
+Howrah,Very Poor,306,"PM
+2.5",2/3,2023-11-23
+Howrah,Very Poor,306,"PM
+2.5",2/3,2023-11-24
+Howrah,Poor,257,"PM
+2.5",2/3,2023-11-25
+Howrah,Moderate,180,"PM
+2.5",2/3,2023-11-26
+Howrah,Poor,202,"PM , PM
+2.5 10",2/3,2023-11-27
+Howrah,Poor,205,"PM , PM
+2.5 10",2/3,2023-11-28
+Howrah,Poor,216,"PM
+2.5",3/3,2023-11-29
+Howrah,Poor,285,"PM
+2.5",3/3,2023-11-30
+Howrah,Moderate,175,"PM
+2.5",3/3,2023-12-01
+Howrah,Moderate,158,"PM , PM
+10 2.5",3/3,2023-12-02
+Howrah,Poor,255,"PM
+2.5",3/3,2023-12-03
+Howrah,Moderate,198,"PM , PM
+10 2.5",2/3,2023-12-04
+Howrah,Moderate,184,"PM
+2.5",3/3,2023-12-05
+Howrah,Satisfactory,85,"PM , PM
+10 2.5",3/3,2023-12-06
+Howrah,Satisfactory,67,"PM
+2.5",2/3,2023-12-07
+Howrah,Good,48,"PM , O
+10 3",3/3,2023-12-08
+Howrah,Moderate,136,"O , PM
+3 2.5",3/3,2023-12-09
+Howrah,Poor,228,"PM
+2.5",2/3,2023-12-10
+Howrah,Poor,219,"PM
+2.5",2/3,2023-12-11
+Howrah,Poor,214,"PM
+2.5",3/3,2023-12-12
+Howrah,Poor,221,"PM
+2.5",3/3,2023-12-13
+Howrah,Poor,242,"PM
+2.5",3/3,2023-12-14
+Howrah,Poor,273,"PM
+2.5",3/3,2023-12-15
+Howrah,Poor,262,"PM
+2.5",3/3,2023-12-16
+Howrah,Poor,255,"PM
+2.5",3/3,2023-12-17
+Howrah,Poor,250,"PM
+2.5",3/3,2023-12-18
+Howrah,Poor,228,"PM
+2.5",3/3,2023-12-19
+Howrah,Poor,244,"PM
+2.5",3/3,2023-12-20
+Howrah,Moderate,171,"PM , PM
+10 2.5",3/3,2023-12-21
+Howrah,Poor,213,"PM
+2.5",3/3,2023-12-22
+Howrah,Poor,225,"PM
+2.5",3/3,2023-12-23
+Howrah,Moderate,165,"PM
+2.5",2/3,2023-12-24
+Howrah,Poor,210,"PM
+2.5",2/3,2023-12-25
+Howrah,Poor,247,"PM , PM
+10 2.5",3/3,2023-12-26
+Howrah,Poor,240,"PM
+2.5",3/3,2023-12-27
+Howrah,Poor,216,"PM
+2.5",3/3,2023-12-28
+Howrah,Poor,207,"PM
+2.5",3/3,2023-12-29
+Howrah,Poor,216,"PM
+2.5",3/3,2023-12-30
+Howrah,Moderate,192,"PM
+2.5",3/3,2023-12-31
+Howrah,Poor,215,"PM
+2.5",3/3,2024-01-01
+Howrah,Poor,241,"PM
+2.5",3/3,2024-01-02
+Howrah,Poor,220,"PM
+2.5",3/3,2024-01-03
+Howrah,Moderate,183,"PM
+2.5",2/3,2024-01-04
+Howrah,Poor,268,"PM
+2.5",3/3,2024-01-05
+Howrah,Poor,263,"PM
+2.5",3/3,2024-01-06
+Howrah,Poor,264,"PM
+2.5",3/3,2024-01-07
+Howrah,Poor,287,"PM
+2.5",3/3,2024-01-08
+Howrah,Poor,258,"PM
+2.5",3/3,2024-01-09
+Howrah,Poor,274,"PM
+2.5",3/3,2024-01-10
+Howrah,Poor,230,"PM
+2.5",2/3,2024-01-11
+Howrah,Poor,243,"PM
+2.5",3/3,2024-01-12
+Howrah,Poor,245,"PM
+2.5",3/3,2024-01-13
+Howrah,Poor,289,"PM
+2.5",3/3,2024-01-14
+Howrah,Poor,288,"PM
+2.5",3/3,2024-01-15
+Howrah,Poor,267,"PM
+2.5",3/3,2024-01-16
+Howrah,Poor,247,"PM
+2.5",3/3,2024-01-17
+Howrah,Poor,211,"PM
+2.5",3/3,2024-01-18
+Howrah,Moderate,193,"PM
+2.5",3/3,2024-01-19
+Howrah,Poor,229,"PM
+2.5",3/3,2024-01-20
+Howrah,Poor,298,"PM
+2.5",3/3,2024-01-21
+Howrah,Poor,278,"PM
+2.5",2/3,2024-01-22
+Howrah,Poor,274,"PM
+2.5",3/3,2024-01-23
+Howrah,Poor,275,"PM
+2.5",3/3,2024-01-24
+Howrah,Poor,252,"PM
+2.5",3/3,2024-01-25
+Howrah,Poor,276,"PM
+2.5",3/3,2024-01-26
+Howrah,Poor,234,"PM
+2.5",3/3,2024-01-27
+Howrah,Poor,241,"PM
+2.5",3/3,2024-01-28
+Howrah,Moderate,200,"PM
+2.5",2/3,2024-01-29
+Howrah,Poor,232,"PM
+2.5",3/3,2024-01-30
+Howrah,Moderate,123,"PM , PM
+10 2.5",3/3,2024-01-31
+Howrah,Moderate,144,"PM , PM
+10 2.5",3/3,2024-02-01
+Howrah,Moderate,155,"PM , PM
+10 2.5",3/3,2024-02-02
+Howrah,Moderate,178,"PM , PM
+10 2.5",2/3,2024-02-03
+Howrah,Poor,225,"PM
+2.5",3/3,2024-02-04
+Howrah,Moderate,188,"PM
+2.5",3/3,2024-02-05
+Howrah,Moderate,149,"PM , PM
+10 2.5",3/3,2024-02-06
+Howrah,Moderate,155,"PM
+2.5",3/3,2024-02-07
+Howrah,Moderate,136,"PM , PM
+10 2.5",3/3,2024-02-08
+Howrah,Moderate,140,"PM , PM
+10 2.5",3/3,2024-02-09
+Howrah,Moderate,169,"PM
+2.5",3/3,2024-02-10
+Howrah,Poor,219,"PM
+2.5",3/3,2024-02-11
+Howrah,Poor,218,"PM
+2.5",2/3,2024-02-12
+Howrah,Poor,240,"PM , PM
+10 2.5",3/3,2024-02-13
+Howrah,Poor,212,"PM , PM
+10 2.5",3/3,2024-02-14
+Howrah,Poor,208,"PM
+2.5",3/3,2024-02-15
+Howrah,Moderate,164,"PM , PM
+10 2.5",3/3,2024-02-16
+Howrah,Poor,213,"PM , PM
+10 2.5",3/3,2024-02-17
+Howrah,Moderate,163,"PM , PM
+10 2.5",2/3,2024-02-18
+Howrah,Moderate,127,"PM , PM
+10 2.5",3/3,2024-02-19
+Howrah,Moderate,107,"PM
+10",3/3,2024-02-20
+Howrah,Moderate,105,"PM , PM
+10 2.5",3/3,2024-02-21
+Howrah,Moderate,147,"PM , PM
+10 2.5",3/3,2024-02-22
+Howrah,Moderate,122,"PM , PM
+10 2.5",3/3,2024-02-23
+Howrah,Moderate,115,"PM , PM
+10 2.5",3/3,2024-02-24
+Howrah,Moderate,116,"PM , PM
+10 2.5",3/3,2024-02-25
+Howrah,Satisfactory,99,"PM , PM
+10 2.5",3/3,2024-02-26
+Howrah,Moderate,142,"PM , PM
+10 2.5",3/3,2024-02-27
+Howrah,Moderate,147,"PM , PM
+10 2.5",3/3,2024-02-28
+Howrah,Moderate,170,"PM , PM
+10 2.5",3/3,2024-02-29
+Howrah,Moderate,170,"PM , PM
+10 2.5",3/3,2024-03-01
+Howrah,Moderate,157,"PM , PM
+10 2.5",3/3,2024-03-02
+Howrah,Moderate,154,"PM , PM
+10 2.5",3/3,2024-03-03
+Howrah,Moderate,141,"PM , PM
+10 2.5",3/3,2024-03-04
+Howrah,Moderate,116,"PM , PM
+10 2.5",3/3,2024-03-05
+Howrah,Moderate,138,"PM , PM
+10 2.5",3/3,2024-03-06
+Howrah,Moderate,156,"PM
+2.5",2/3,2024-03-07
+Howrah,Moderate,177,"PM , PM
+10 2.5",3/3,2024-03-08
+Howrah,Moderate,171,"PM , PM
+10 2.5",3/3,2024-03-09
+Howrah,Moderate,181,"PM , PM
+10 2.5",3/3,2024-03-10
+Howrah,Moderate,152,"PM , PM
+10 2.5",3/3,2024-03-11
+Howrah,Moderate,126,"PM , PM
+10 2.5",3/3,2024-03-12
+Howrah,Moderate,118,"PM , PM
+10 2.5",3/3,2024-03-13
+Howrah,Satisfactory,86,"PM
+10",3/3,2024-03-14
+Howrah,Moderate,107,"PM , PM
+10 2.5",3/3,2024-03-15
+Howrah,Satisfactory,95,"PM
+10",3/3,2024-03-16
+Howrah,Satisfactory,88,"PM
+10",3/3,2024-03-17
+Howrah,Moderate,123,"PM , PM
+10 2.5",3/3,2024-03-18
+Howrah,Moderate,129,"PM , PM
+10 2.5",3/3,2024-03-19
+Howrah,Satisfactory,70,"PM , PM
+10 2.5",2/3,2024-03-20
+Howrah,Satisfactory,75,"PM , PM
+10 2.5",3/3,2024-03-21
+Howrah,Satisfactory,95,"PM , PM
+10 2.5",3/3,2024-03-22
+Howrah,Moderate,128,"PM , PM
+10 2.5",3/3,2024-03-23
+Howrah,Satisfactory,72,"PM
+10",3/3,2024-03-24
+Howrah,Satisfactory,68,"PM , PM
+10 2.5",3/3,2024-03-25
+Howrah,Satisfactory,54,"PM , O
+2.5 3",3/3,2024-03-26
+Howrah,Satisfactory,64,"PM
+10",3/3,2024-03-27
+Howrah,Satisfactory,81,"PM
+10",3/3,2024-03-28
+Howrah,Satisfactory,95,"PM , PM
+10 2.5",3/3,2024-03-29
+Howrah,Satisfactory,75,"PM , PM
+10 2.5",3/3,2024-03-30
+Howrah,Satisfactory,92,"PM
+10",3/3,2024-03-31
+Howrah,Satisfactory,91,"PM
+10",3/3,2024-04-01
+Howrah,Moderate,115,"PM , PM
+2.5 10",3/3,2024-04-02
+Howrah,Moderate,112,"PM
+10",3/3,2024-04-03
+Howrah,Satisfactory,93,"PM
+10",3/3,2024-04-04
+Howrah,Satisfactory,81,"PM
+10",3/3,2024-04-05
+Howrah,Moderate,118,"PM , PM
+2.5 10",2/3,2024-04-06
+Howrah,Satisfactory,96,"PM
+10",2/3,2024-04-07
+Howrah,Moderate,116,"PM , PM
+2.5 10",2/3,2024-04-08
+Howrah,Moderate,108,"PM , PM
+2.5 10",2/3,2024-04-09
+Howrah,Moderate,160,"PM , PM
+2.5 10",3/3,2024-04-10
+Howrah,Poor,219,"PM
+2.5",3/3,2024-04-11
+Howrah,Moderate,124,"PM , PM
+2.5 10",3/3,2024-04-12
+Howrah,Moderate,131,"PM , PM
+2.5 10",3/3,2024-04-13
+Howrah,Moderate,120,"PM , PM
+2.5 10",3/3,2024-04-14
+Howrah,Moderate,103,"PM
+10",1/3,2024-04-15
+Howrah,Satisfactory,92,"PM , PM
+2.5 10",3/3,2024-04-16
+Howrah,Moderate,124,"PM , PM
+2.5 10",2/3,2024-04-17
+Howrah,Moderate,114,"PM , PM
+2.5 10",3/3,2024-04-18
+Howrah,Moderate,137,"PM , PM
+2.5 10",3/3,2024-04-19
+Howrah,Moderate,105,"PM , PM
+2.5 10",3/3,2024-04-20
+Howrah,Satisfactory,82,"PM
+10",3/3,2024-04-21
+Howrah,Moderate,105,"PM , PM
+2.5 10",3/3,2024-04-22
+Howrah,Moderate,130,"PM , PM
+10 2.5",3/3,2024-04-23
+Howrah,Moderate,108,"PM , PM
+10 2.5",3/3,2024-04-24
+Howrah,Satisfactory,99,"PM , PM
+10 2.5",3/3,2024-04-25
+Howrah,Moderate,108,"PM , PM
+10 2.5",3/3,2024-04-26
+Howrah,Satisfactory,81,"PM , PM
+10 2.5",3/3,2024-04-27
+Howrah,Satisfactory,93,"PM , PM
+10 2.5",3/3,2024-04-28
+Howrah,Moderate,122,"PM , PM
+10 2.5",3/3,2024-04-29
+Howrah,Moderate,119,"PM , PM
+10 2.5",3/3,2024-04-30
+Howrah,Moderate,105,"PM , O
+10 3",3/3,2024-05-01
+Howrah,Satisfactory,88,"PM , PM
+10 2.5",3/3,2024-05-02
+Howrah,Satisfactory,99,"PM
+10",3/3,2024-05-03
+Howrah,Satisfactory,91,"PM
+10",3/3,2024-05-04
+Howrah,Satisfactory,69,"PM
+10",3/3,2024-05-05
+Howrah,Satisfactory,72,"PM
+10",3/3,2024-05-06
+Howrah,Good,50,"PM , O
+10 3",2/3,2024-05-07
+Howrah,Good,47,"PM , PM
+10 2.5",3/3,2024-05-08
+Howrah,Good,36,"PM , O
+10 3",2/3,2024-05-09
+Howrah,Good,50,"O , PM
+3 2.5",2/3,2024-05-10
+Howrah,Good,50,"PM , PM
+10 2.5",3/3,2024-05-11
+Howrah,Satisfactory,56,"PM , O
+10 3",2/3,2024-05-12
+Howrah,Satisfactory,60,"PM , PM
+10 2.5",3/3,2024-05-13
+Howrah,Satisfactory,70,"PM
+10",3/3,2024-05-14
+Howrah,Satisfactory,66,"PM
+10",3/3,2024-05-15
+Howrah,Satisfactory,66,"PM
+10",3/3,2024-05-16
+Howrah,Satisfactory,67,"PM , O
+10 3",3/3,2024-05-17
+Howrah,Satisfactory,67,"PM , O
+10 3",3/3,2024-05-18
+Howrah,Satisfactory,71,"PM , O
+10 3",3/3,2024-05-19
+Howrah,Satisfactory,54,"PM , O , PM
+10 3 2.5",3/3,2024-05-20
+Howrah,Good,50,"PM
+10",2/3,2024-05-21
+Howrah,Good,46,"PM
+10",3/3,2024-05-22
+Howrah,Good,50,"PM
+10",3/3,2024-05-23
+Howrah,Good,50,"PM
+10",3/3,2024-05-24
+Howrah,Satisfactory,62,"PM
+10",3/3,2024-05-25
+Howrah,Good,32,"PM
+10",2/3,2024-05-26
+Howrah,Good,20,"NO , O
+2 3",2/3,2024-05-27
+Howrah,Good,45,"PM , PM
+10 2.5",3/3,2024-05-28
+Howrah,Satisfactory,85,"PM
+10",3/3,2024-05-29
+Howrah,Satisfactory,79,"PM
+10",3/3,2024-05-30
+Howrah,Satisfactory,63,"PM
+10",3/3,2024-05-31
+Howrah,Satisfactory,69,"PM
+10",3/3,2024-06-01
+Howrah,Satisfactory,74,"PM
+10",2/3,2024-06-02
+Howrah,Satisfactory,65,"PM
+10",2/3,2024-06-03
+Howrah,Satisfactory,64,"PM
+10",2/3,2024-06-04
+Howrah,Satisfactory,68,"PM
+10",2/3,2024-06-05
+Howrah,Satisfactory,86,"PM
+10",3/3,2024-06-06
+Howrah,Satisfactory,92,"PM
+10",2/3,2024-06-07
+Howrah,Satisfactory,80,"PM
+10",3/3,2024-06-08
+Howrah,Satisfactory,65,"PM
+10",3/3,2024-06-09
+Howrah,Satisfactory,69,"PM , PM
+2.5 10",3/3,2024-06-10
+Howrah,Satisfactory,70,"PM
+10",3/3,2024-06-11
+Howrah,Satisfactory,70,"PM
+10",3/3,2024-06-12
+Howrah,Satisfactory,67,"PM
+10",3/3,2024-06-13
+Howrah,Satisfactory,76,"PM
+10",3/4,2024-06-14
+Howrah,Satisfactory,86,"PM , CO
+10",3/4,2024-06-15
+Howrah,Satisfactory,77,"PM , CO
+10",3/4,2024-06-16
+Howrah,Satisfactory,75,"PM , CO, PM
+10 2.5",3/4,2024-06-17
+Howrah,Moderate,104,"CO, PM , O
+10 3",4/4,2024-06-18
+Howrah,Satisfactory,76,"PM , CO
+10",4/4,2024-06-19
+Howrah,Satisfactory,71,"CO, PM
+10",3/4,2024-06-20
+Howrah,Satisfactory,66,"PM , PM , CO
+2.5 10",4/4,2024-06-21
+Howrah,Satisfactory,64,"CO, PM
+10",4/4,2024-06-22
+Howrah,Good,44,"PM
+10",4/4,2024-06-23
+Howrah,Good,45,"PM
+10",4/4,2024-06-24
+Howrah,Satisfactory,60,"PM
+10",3/4,2024-06-25
+Howrah,Satisfactory,53,"PM
+10",3/4,2024-06-26
+Howrah,Good,30,"PM
+10",4/4,2024-06-27
+Howrah,Good,30,"PM , NO
+10 2",3/4,2024-06-28
+Howrah,Good,33,"PM
+10",3/4,2024-06-29
+Howrah,Good,47,"PM , PM
+2.5 10",4/4,2024-06-30
+Howrah,Satisfactory,64,"PM , PM
+10 2.5",4/4,2024-07-01
+Howrah,Satisfactory,52,"PM
+10",4/4,2024-07-02
+Howrah,Good,48,"PM
+10",4/4,2024-07-03
+Howrah,Satisfactory,58,"PM
+10",4/4,2024-07-04
+Howrah,Satisfactory,73,"PM
+10",4/4,2024-07-05
+Howrah,Satisfactory,64,"PM
+10",4/4,2024-07-06
+Howrah,Good,47,"PM
+10",4/4,2024-07-07
+Howrah,Good,44,"PM , NO
+10 2",4/4,2024-07-08
+Howrah,Good,42,"PM , NO
+10 2",4/4,2024-07-09
+Howrah,Satisfactory,55,"PM
+10",4/4,2024-07-10
+Howrah,Satisfactory,53,"NO , PM
+2 10",3/4,2024-07-11
+Howrah,Satisfactory,59,"PM , PM
+2.5 10",3/4,2024-07-12
+Howrah,Good,50,"PM , PM
+2.5 10",4/4,2024-07-13
+Howrah,Good,50,"NO , PM , PM
+2 10 2.5",4/4,2024-07-14
+Howrah,Good,35,"PM , NO
+10 2",4/4,2024-07-15
+Howrah,Good,35,"NO , PM
+2 10",4/4,2024-07-16
+Howrah,Good,35,"PM , NO
+10 2",4/4,2024-07-17
+Howrah,Good,38,"PM , NO
+10 2",4/4,2024-07-18
+Howrah,Good,38,"PM , NO
+10 2",4/4,2024-07-19
+Howrah,Good,40,"PM , NO
+10 2",4/4,2024-07-20
+Howrah,Good,38,"PM , NO
+10 2",4/4,2024-07-21
+Howrah,Good,36,"PM , NO
+10 2",4/4,2024-07-22
+Howrah,Good,36,"PM , NO
+10 2",4/4,2024-07-23
+Howrah,Good,47,"PM
+10",4/4,2024-07-24
+Howrah,Satisfactory,56,"PM
+10",4/4,2024-07-25
+Howrah,Satisfactory,51,"PM
+10",4/4,2024-07-26
+Howrah,Good,36,"PM , NO , CO
+10 2",4/4,2024-07-27
+Howrah,Good,35,"PM , CO, PM
+10 2.5",4/4,2024-07-28
+Howrah,Good,34,"PM , CO, NO
+10 2",4/4,2024-07-29
+Howrah,Good,46,"PM , NO
+10 2",4/4,2024-07-30
+Howrah,Satisfactory,62,"PM
+10",4/4,2024-07-31
+Howrah,Good,50,"PM
+10",4/4,2024-08-01
+Howrah,Good,46,"NO , PM
+2 10",4/4,2024-08-02
+Howrah,Good,38,"NO , PM
+2 10",4/4,2024-08-03
+Howrah,Good,45,"PM , NO
+10 2",4/4,2024-08-04
+Howrah,Good,49,"PM
+10",4/4,2024-08-05
+Howrah,Satisfactory,58,"PM
+10",4/4,2024-08-06
+Howrah,Good,46,"PM
+10",4/4,2024-08-07
+Howrah,Good,38,"PM , NO
+10 2",3/4,2024-08-08
+Howrah,Good,48,"PM
+10",4/4,2024-08-09
+Howrah,Satisfactory,64,"PM
+10",4/4,2024-08-10
+Howrah,Satisfactory,59,"PM , PM
+2.5 10",4/4,2024-08-11
+Howrah,Satisfactory,77,"PM
+10",3/4,2024-08-12
+Howrah,Satisfactory,70,"PM
+10",4/4,2024-08-13
+Howrah,Satisfactory,73,"PM , PM
+2.5 10",3/4,2024-08-14
+Howrah,Satisfactory,75,"PM , PM
+10 2.5",4/4,2024-08-15
+Howrah,Satisfactory,56,"PM , PM
+2.5 10",4/4,2024-08-16
+Howrah,Satisfactory,68,"PM , PM
+10 2.5",4/4,2024-08-17
+Howrah,Satisfactory,52,"PM
+10",4/4,2024-08-18
+Howrah,Satisfactory,53,"PM
+10",3/4,2024-08-19
+Howrah,Satisfactory,82,"PM
+10",4/4,2024-08-20
+Howrah,Satisfactory,61,"PM , PM
+2.5 10",4/4,2024-08-21
+Howrah,Satisfactory,69,"PM , PM
+10 2.5",4/4,2024-08-22
+Howrah,Satisfactory,56,"PM
+2.5",4/4,2024-08-23
+Howrah,Good,42,"NO , PM , PM
+2 2.5 10",4/4,2024-08-24
+Howrah,Satisfactory,53,"PM , NO
+2.5 2",3/4,2024-08-25
+Howrah,Good,44,"NO , PM , PM
+2 2.5 10",3/4,2024-08-26
+Howrah,Good,35,"NO , PM
+2 2.5",3/4,2024-08-27
+Howrah,Good,41,"PM , PM , NO
+2.5 10 2",4/4,2024-08-28
+Howrah,Good,45,"PM
+10",4/4,2024-08-29
+Howrah,Satisfactory,51,"PM
+10",3/4,2024-08-30
+Howrah,Good,36,"PM , NO
+10 2",4/4,2024-08-31
+Howrah,Good,42,"NO , PM
+2 10",3/4,2024-09-01
+Howrah,Good,43,"PM , NO
+10 2",3/4,2024-09-02
+Howrah,Satisfactory,56,"PM
+10",3/4,2024-09-03
+Howrah,Satisfactory,64,"PM
+10",4/4,2024-09-04
+Howrah,Satisfactory,66,"PM
+10",4/4,2024-09-05
+Howrah,Satisfactory,52,"PM
+10",4/4,2024-09-06
+Howrah,Satisfactory,58,"PM
+10",4/4,2024-09-07
+Howrah,Satisfactory,54,"PM , PM
+10 2.5",3/4,2024-09-08
+Howrah,Good,32,"PM , NO
+10 2",4/4,2024-09-09
+Howrah,Good,44,"NO , PM
+2 10",4/4,2024-09-10
+Howrah,Good,48,"PM
+10",4/4,2024-09-11
+Howrah,Satisfactory,79,"PM , PM
+10 2.5",4/4,2024-09-12
+Howrah,Moderate,109,"PM , PM
+10 2.5",3/4,2024-09-13
+Howrah,Good,44,"PM , CO
+10",4/4,2024-09-14
+Howrah,Good,32,"PM , NO
+2.5 2",4/4,2024-09-15
+Howrah,Good,38,"PM , NO
+2.5 2",4/4,2024-09-16
+Howrah,Satisfactory,55,"PM
+10",4/4,2024-09-17
+Howrah,Satisfactory,59,"PM
+10",4/4,2024-09-18
+Howrah,Satisfactory,97,"PM , PM
+2.5 10",4/4,2024-09-19
+Howrah,Moderate,125,"PM , PM
+10 2.5",4/4,2024-09-20
+Howrah,Satisfactory,96,"PM , PM
+2.5 10",4/4,2024-09-21
+Howrah,Satisfactory,77,"PM , PM
+10 2.5",4/4,2024-09-22
+Howrah,Satisfactory,94,"PM , PM
+2.5 10",4/4,2024-09-23
+Howrah,Satisfactory,55,"PM
+10",4/4,2024-09-24
+Howrah,Good,32,"PM
+10",4/4,2024-09-25
+Howrah,Good,34,"NO , PM , CO
+2 2.5",4/4,2024-09-26
+Howrah,Good,33,"PM , PM , NO
+10 2.5 2",4/4,2024-09-27
+Howrah,Good,41,"PM , NO
+10 2",4/4,2024-09-28
+Howrah,Satisfactory,61,"PM
+10",4/4,2024-09-29
+Howrah,Satisfactory,76,"PM , PM
+10 2.5",4/4,2024-09-30
+Howrah,Moderate,121,"PM , PM
+2.5 10",4/4,2024-10-01
+Howrah,Moderate,121,"PM
+2.5",4/4,2024-10-02
+Howrah,Moderate,146,"PM , PM
+10 2.5",4/4,2024-10-03
+Howrah,Satisfactory,99,"PM
+2.5",4/4,2024-10-04
+Howrah,Satisfactory,76,"PM
+10",3/4,2024-10-05
+Howrah,Satisfactory,69,"PM , PM
+10 2.5",4/4,2024-10-06
+Howrah,Satisfactory,64,"PM , PM
+10 2.5",4/4,2024-10-07
+Howrah,Satisfactory,61,"PM
+10",4/4,2024-10-08
+Howrah,Satisfactory,65,"PM
+10",4/4,2024-10-09
+Howrah,Satisfactory,55,"PM
+10",4/4,2024-10-10
+Howrah,Good,50,"PM
+10",4/4,2024-10-11
+Howrah,Good,48,"PM
+10",4/4,2024-10-12
+Howrah,Satisfactory,70,"PM , PM
+2.5 10",4/4,2024-10-13
+Howrah,Moderate,138,"PM
+2.5",4/4,2024-10-14
+Howrah,Moderate,190,"PM
+2.5",4/4,2024-10-15
+Howrah,Moderate,185,"PM
+2.5",5/5,2024-10-16
+Howrah,Moderate,102,"PM
+2.5",5/5,2024-10-17
+Howrah,Satisfactory,69,"PM , PM
+2.5 10",5/5,2024-10-18
+Howrah,Satisfactory,55,"PM
+10",5/5,2024-10-19
+Howrah,Moderate,102,"PM
+2.5",5/5,2024-10-20
+Howrah,Moderate,151,"PM
+2.5",5/5,2024-10-21
+Howrah,Moderate,111,"PM , PM
+10 2.5",5/5,2024-10-22
+Howrah,Satisfactory,98,"PM , PM
+2.5 10",5/5,2024-10-23
+Howrah,Good,43,"PM
+10",5/5,2024-10-24
+Howrah,Satisfactory,51,"PM , PM , CO
+2.5 10",5/5,2024-10-25
+Howrah,Satisfactory,68,"PM , CO
+2.5",4/5,2024-10-26
+Howrah,Satisfactory,76,"PM
+2.5",4/5,2024-10-27
+Howrah,Moderate,101,"O , PM
+3 10",4/5,2024-10-28
+Howrah,Satisfactory,95,"PM , PM
+2.5 10",5/5,2024-10-29
+Howrah,Satisfactory,74,"PM , CO, PM
+10 2.5",5/5,2024-10-30
+Howrah,Satisfactory,63,"O , PM , PM
+3 2.5 10",5/5,2024-10-31
+Howrah,Moderate,127,"PM
+2.5",5/5,2024-11-01
+Howrah,Poor,288,"PM
+2.5",5/5,2024-11-02
+Howrah,Poor,222,"PM
+2.5",5/5,2024-11-03
+Howrah,Poor,231,"PM
+2.5",4/5,2024-11-04
+Howrah,Poor,216,"PM
+2.5",5/5,2024-11-05
+Howrah,Moderate,177,"PM
+2.5",5/5,2024-11-06
+Howrah,Moderate,170,"PM
+2.5",5/5,2024-11-07
+Howrah,Moderate,137,"PM
+2.5",5/5,2024-11-08
+Howrah,Moderate,109,"PM
+2.5",5/5,2024-11-09
+Howrah,Moderate,106,"PM
+2.5",5/5,2024-11-10
+Howrah,Satisfactory,85,"PM , PM
+2.5 10",5/5,2024-11-11
+Howrah,Moderate,134,"PM , PM
+10 2.5",5/5,2024-11-12
+Howrah,Moderate,149,"O , PM
+3 2.5",5/5,2024-11-13
+Howrah,Poor,293,"PM
+2.5",5/5,2024-11-14
+Howrah,Poor,258,"PM
+2.5",3/5,2024-11-15
+Howrah,Poor,240,"PM
+2.5",5/5,2024-11-16
+Howrah,Poor,272,"PM
+2.5",5/5,2024-11-17
+Howrah,Poor,251,"PM
+2.5",5/5,2024-11-18
+Howrah,Poor,266,"PM
+2.5",5/5,2024-11-19
+Howrah,Poor,270,"PM
+2.5",5/5,2024-11-20
+Howrah,Poor,248,"PM
+2.5",5/5,2024-11-21
+Howrah,Poor,261,"PM
+2.5",5/5,2024-11-22
+Howrah,Poor,292,"PM
+2.5",5/5,2024-11-23
+Howrah,Very Poor,313,"PM
+2.5",4/5,2024-11-24
+Howrah,Very Poor,318,"PM
+2.5",4/5,2024-11-25
+Howrah,Very Poor,350,"PM
+2.5",4/5,2024-11-26
+Howrah,Very Poor,303,"PM
+2.5",4/5,2024-11-27
+Howrah,Poor,228,"PM
+2.5",4/5,2024-11-28
+Howrah,Moderate,182,"PM
+2.5",4/5,2024-11-29
+Howrah,Moderate,177,"PM
+2.5",4/5,2024-11-30
+Howrah,Moderate,115,"PM
+2.5",4/5,2024-12-01
+Howrah,Moderate,174,"PM
+2.5",4/5,2024-12-02
+Howrah,Poor,267,"PM
+2.5",4/5,2024-12-03
+Howrah,Poor,286,"PM
+2.5",4/5,2024-12-04
+Howrah,Very Poor,335,"PM
+2.5",4/5,2024-12-05
+Howrah,Very Poor,308,"PM , PM
+2.5 10",4/5,2024-12-06
+Howrah,Poor,256,"PM
+2.5",4/5,2024-12-07
+Howrah,Poor,246,"O , PM , PM
+3 2.5 10",3/5,2024-12-08
+Howrah,Poor,274,"PM , PM
+2.5 10",3/5,2024-12-09
+Howrah,Poor,272,"PM
+2.5",4/5,2024-12-10
+Howrah,Poor,256,"PM
+2.5",4/5,2024-12-11
+Howrah,Poor,281,"PM
+2.5",4/5,2024-12-12
+Howrah,Poor,294,"PM
+2.5",5/5,2024-12-13
+Howrah,Poor,295,"PM
+2.5",5/5,2024-12-14
+Howrah,Poor,253,"PM
+2.5",5/5,2024-12-15
+Howrah,Poor,288,"PM
+2.5",4/5,2024-12-16
+Howrah,Poor,278,"PM , PM
+10 2.5",4/5,2024-12-17
+Howrah,Poor,269,"PM
+2.5",5/5,2024-12-18
+Howrah,Poor,275,"PM
+2.5",5/5,2024-12-19
+Howrah,Poor,272,"PM
+2.5",5/5,2024-12-20
+Howrah,Poor,238,"PM
+2.5",5/5,2024-12-21
+Howrah,Moderate,112,"PM
+2.5",5/5,2024-12-22
+Howrah,Poor,204,"PM
+2.5",4/5,2024-12-23
+Howrah,Poor,243,"PM
+2.5",5/5,2024-12-24
+Howrah,Poor,250,"PM
+2.5",5/5,2024-12-25
+Howrah,Poor,242,"PM
+2.5",5/5,2024-12-26
+Howrah,Poor,257,"PM
+2.5",5/5,2024-12-27
+Howrah,Poor,255,"PM
+2.5",5/5,2024-12-28
+Howrah,Poor,244,"PM
+2.5",5/5,2024-12-29
+Howrah,Poor,255,"PM
+2.5",5/5,2024-12-30
+Howrah,Poor,214,"PM
+2.5",5/5,2024-12-31
+Howrah,Poor,229,"PM
+2.5",5/5,2025-01-02
+Howrah,Poor,275,"PM
+2.5",5/5,2025-01-03
+Howrah,Poor,298,"PM
+2.5",5/5,2025-01-04
+Howrah,Poor,271,"PM
+2.5",5/5,2025-01-05
+Howrah,Poor,251,"PM
+2.5",5/5,2025-01-06
+Howrah,Poor,248,"PM , PM
+10 2.5",5/5,2025-01-07
+Howrah,Poor,233,"PM
+2.5",5/5,2025-01-08
+Howrah,Moderate,162,"PM
+2.5",5/5,2025-01-09
+Howrah,Poor,261,"PM
+2.5",5/5,2025-01-10
+Howrah,Poor,280,"PM
+2.5",5/5,2025-01-11
+Howrah,Very Poor,305,"PM
+2.5",4/5,2025-01-12
+Howrah,Poor,278,"PM , PM
+2.5 10",3/5,2025-01-13
+Howrah,Poor,300,"PM
+2.5",5/5,2025-01-14
+Howrah,Poor,252,"PM , PM
+2.5 10",3/5,2025-01-15
+Howrah,Poor,231,"PM
+2.5",5/5,2025-01-16
+Howrah,Poor,226,"PM
+2.5",5/5,2025-01-17
+Howrah,Poor,227,"PM
+2.5",5/5,2025-01-18
+Howrah,Poor,230,"PM
+2.5",5/5,2025-01-19
+Howrah,Poor,220,"PM
+2.5",5/5,2025-01-20
+Howrah,Poor,256,"PM , PM
+2.5 10",3/5,2025-01-21
+Howrah,Poor,257,"PM
+2.5",5/5,2025-01-22
+Howrah,Poor,290,"PM , PM
+2.5 10",5/5,2025-01-23
+Howrah,Poor,252,"PM , PM
+2.5 10",4/5,2025-01-24
+Howrah,Poor,268,"PM
+2.5",5/5,2025-01-25
+Howrah,Poor,217,"PM
+2.5",5/5,2025-01-26
+Howrah,Poor,214,"PM , PM
+2.5 10",5/5,2025-01-27
+Howrah,Poor,282,"PM , PM
+10 2.5",5/5,2025-01-28
+Howrah,Poor,202,"PM
+2.5",4/5,2025-01-29
+Howrah,Moderate,146,"PM , PM
+10 2.5",5/5,2025-01-30
+Howrah,Moderate,126,"PM , PM
+10 2.5",4/5,2025-01-31
+Howrah,Satisfactory,98,"PM
+10",1/5,2025-02-01
+Howrah,Moderate,123,"PM
+10",1/5,2025-02-02
+Howrah,Moderate,195,"PM , PM
+10 2.5",3/5,2025-02-03
+Howrah,Moderate,184,"PM , PM
+2.5 10",2/5,2025-02-04
+Howrah,Poor,242,"PM , PM
+10 2.5",5/5,2025-02-05
+Howrah,Moderate,171,"PM , PM
+10 2.5",5/5,2025-02-06
+Howrah,Moderate,181,"PM , O
+2.5 3",5/5,2025-02-07
+Howrah,Poor,222,"PM , PM
+2.5 10",5/5,2025-02-08
+Howrah,Poor,219,"PM , PM
+10 2.5",5/5,2025-02-09
+Howrah,Poor,226,"PM , PM
+10 2.5",4/5,2025-02-10
+Howrah,Moderate,151,"PM , O , PM
+2.5 3 10",5/5,2025-02-11
+Howrah,Moderate,126,"PM , PM
+2.5 10",5/5,2025-02-12
+Howrah,Moderate,137,"O , PM
+3 2.5",5/5,2025-02-13
+Howrah,Moderate,184,"PM , PM
+10 2.5",5/5,2025-02-14
+Howrah,Poor,222,"PM , PM
+10 2.5",5/5,2025-02-15
+Howrah,Moderate,174,"PM , PM
+2.5 10",4/5,2025-02-16
+Howrah,Moderate,113,"PM , PM
+2.5 10",5/5,2025-02-17
+Howrah,Satisfactory,93,"PM
+10",5/5,2025-02-18
+Howrah,Moderate,129,"PM , PM
+10 2.5",3/5,2025-02-19
+Howrah,Moderate,102,"PM
+10",5/5,2025-02-20
+Howrah,Moderate,103,"PM , PM
+2.5 10",5/5,2025-02-21
+Howrah,Moderate,145,"PM , PM
+10 2.5",5/5,2025-02-22
+Howrah,Moderate,127,"PM , PM
+2.5 10",5/5,2025-02-23
+Howrah,Moderate,138,"O , PM
+3 2.5",5/5,2025-02-24
+Howrah,Moderate,168,"PM , PM
+10 2.5",5/5,2025-02-25
+Howrah,Moderate,185,"PM , O
+2.5 3",5/5,2025-02-26
+Howrah,Poor,211,"PM
+2.5",5/5,2025-02-27
+Howrah,Moderate,184,"PM , PM
+10 2.5",5/5,2025-02-28
+Howrah,Moderate,143,"PM , PM
+2.5 10",5/5,2025-03-01
+Howrah,Moderate,133,"PM , PM , O
+10 2.5 3",5/5,2025-03-02
+Howrah,Moderate,137,"PM , PM
+2.5 10",5/5,2025-03-03
+Howrah,Moderate,125,"PM , PM
+10 2.5",5/5,2025-03-04
+Howrah,Moderate,161,"PM , O , PM
+2.5 3 10",5/5,2025-03-05
+Howrah,Moderate,159,"PM , PM
+2.5 10",5/5,2025-03-06
+Howrah,Moderate,178,"PM , O
+2.5 3",4/5,2025-03-07
+Howrah,Moderate,144,"PM , PM
+10 2.5",5/5,2025-03-08
+Howrah,Moderate,107,"PM , O
+10 3",5/5,2025-03-09
+Howrah,Moderate,114,"PM , PM
+2.5 10",4/5,2025-03-10
+Howrah,Moderate,110,"PM
+10",4/5,2025-03-11
+Howrah,Moderate,138,"PM , PM , O
+2.5 10 3",5/5,2025-03-12
+Howrah,Moderate,116,"O , PM , PM
+3 2.5 10",5/5,2025-03-13
+Howrah,Moderate,113,"PM , O
+10 3",5/5,2025-03-14
+Howrah,Satisfactory,73,"PM , PM
+2.5 10",3/5,2025-03-15
+Howrah,Satisfactory,73,"PM , O , CO
+10 3",5/5,2025-03-16
+Howrah,Satisfactory,93,"CO, PM
+10",5/5,2025-03-17
+Howrah,Moderate,108,"O , PM
+3 10",5/5,2025-03-18
+Howrah,Moderate,160,"PM , PM , O
+10 2.5 3",5/5,2025-03-19
+Howrah,Satisfactory,97,"O , CO, PM
+3 10",5/5,2025-03-20
+Howrah,Moderate,104,"PM , O , PM
+10 3 2.5",5/5,2025-03-21
+Howrah,Satisfactory,72,"PM , CO, O
+10 3",5/5,2025-03-22
+Howrah,Moderate,111,"O , CO, PM
+3 10",5/5,2025-03-23
+Howrah,Moderate,150,"O , PM
+3 2.5",5/5,2025-03-24
+Howrah,Moderate,172,"PM , PM
+10 2.5",5/5,2025-03-25
+Howrah,Moderate,124,"O , PM
+3 10",5/5,2025-03-26
+Howrah,Moderate,111,"PM , CO, O
+10 3",5/5,2025-03-27
+Howrah,Moderate,132,"PM , PM , O
+2.5 10 3",5/5,2025-03-28
+Howrah,Moderate,149,"O , PM
+3 10",5/5,2025-03-29
+Howrah,Moderate,134,"O , PM , PM
+3 10 2.5",5/5,2025-03-30
+Howrah,Satisfactory,86,"PM
+10",5/5,2025-03-31
+Howrah,Satisfactory,81,"PM , PM
+2.5 10",5/5,2025-04-01
+Howrah,Satisfactory,66,"PM , NO
+10 2",5/5,2025-04-02
+Howrah,Satisfactory,68,"PM , PM
+10 2.5",5/5,2025-04-03
+Howrah,Moderate,127,"PM , O
+10 3",5/5,2025-04-04
+Howrah,Moderate,130,"PM , O
+2.5 3",5/5,2025-04-05
+Howrah,Moderate,101,"PM , O
+10 3",4/5,2025-04-06
+Howrah,Satisfactory,61,"O , PM , PM
+3 2.5 10",5/5,2025-04-07
+Howrah,Satisfactory,54,"O , CO, PM
+3 10",5/5,2025-04-08
+Howrah,Satisfactory,56,"PM , CO, O
+10 3",5/5,2025-04-09
+Howrah,Satisfactory,57,"PM , O
+10 3",5/5,2025-04-10
+Howrah,Satisfactory,62,"PM , O
+10 3",5/5,2025-04-11
+Howrah,Satisfactory,73,"O , PM
+3 10",5/5,2025-04-12
+Howrah,Moderate,101,"O
+3",5/5,2025-04-13
+Howrah,Moderate,104,"PM , O , PM
+2.5 3 10",4/5,2025-04-14
+Howrah,Moderate,115,"O , PM
+3 10",5/5,2025-04-15
+Howrah,Satisfactory,81,"PM , O
+2.5 3",5/5,2025-04-16
+Howrah,Satisfactory,69,"O , PM
+3 10",5/5,2025-04-17
+Howrah,Satisfactory,84,"PM , O
+10 3",5/5,2025-04-18
+Howrah,Satisfactory,66,"PM , O
+2.5 3",5/5,2025-04-19
+Howrah,Satisfactory,70,"PM , O , PM
+10 3 2.5",5/5,2025-04-20
+Howrah,Satisfactory,71,"O , PM
+3 10",2/5,2025-04-21
+Howrah,Satisfactory,80,"PM , O
+10 3",5/5,2025-04-22
+Howrah,Satisfactory,94,"PM , PM , O
+10 2.5 3",5/5,2025-04-23
+Howrah,Satisfactory,83,"PM
+10",5/5,2025-04-24
+Howrah,Satisfactory,70,"PM , O
+10 3",5/5,2025-04-25
+Howrah,Satisfactory,63,"O , PM
+3 10",5/5,2025-04-26
+Howrah,Satisfactory,89,"O , PM
+3 10",5/5,2025-04-27
+Howrah,Satisfactory,98,"O , PM
+3 2.5",5/5,2025-04-28
+Howrah,Satisfactory,88,"PM , PM , O
+10 2.5 3",5/5,2025-04-29
+Howrah,Satisfactory,74,"CO, PM
+10",5/5,2025-04-30
+Howrah,Satisfactory,82,"O , PM
+3 2.5",5/5,2025-05-01
+Howrah,Satisfactory,76,"CO, PM , O
+2.5 3",5/5,2025-05-02
+Howrah,Satisfactory,92,"PM , O , PM
+10 3 2.5",5/5,2025-05-03
+Howrah,Satisfactory,81,"PM , O
+10 3",5/5,2025-05-04
+Howrah,Satisfactory,88,"CO, O
+3",5/5,2025-05-05
+Howrah,Satisfactory,84,"O , PM
+3 10",4/5,2025-05-06
+Howrah,Moderate,105,"O , PM , PM
+3 10 2.5",5/5,2025-05-07
+Howrah,Moderate,103,"O , PM
+3 10",5/5,2025-05-08
+Howrah,Satisfactory,97,"PM , O
+10 3",5/5,2025-05-09
+Howrah,Moderate,118,"O , PM , PM
+3 10 2.5",5/5,2025-05-10
+Howrah,Moderate,118,"PM , O
+2.5 3",5/5,2025-05-11
+Howrah,Moderate,109,"O , PM
+3 2.5",5/5,2025-05-12
+Howrah,Satisfactory,82,"PM , O
+10 3",5/5,2025-05-13
+Howrah,Satisfactory,67,"O , PM , PM
+3 2.5 10",5/5,2025-05-14
+Howrah,Satisfactory,70,"O , PM
+3 10",4/5,2025-05-15
+Howrah,Satisfactory,63,"O , CO, PM
+3 10",5/5,2025-05-16
+Howrah,Satisfactory,59,"O , CO, PM
+3 10",5/5,2025-05-17
+Howrah,Satisfactory,58,"PM , CO, NO
+10 2",5/5,2025-05-18
+Howrah,Good,50,"PM , CO, NO
+10 2",5/5,2025-05-19
+Howrah,Good,49,"PM , O , CO
+10 3",5/5,2025-05-20
+Howrah,Satisfactory,64,"PM , CO, O
+10 3",5/5,2025-05-21
+Howrah,Satisfactory,53,"PM , CO
+10",4/5,2025-05-22
+Howrah,Satisfactory,55,"O , CO, PM
+3 10",5/5,2025-05-23
+Howrah,Satisfactory,61,"CO, PM , O
+10 3",5/5,2025-05-24
+Howrah,Satisfactory,52,"NO , PM , CO
+2 10",5/5,2025-05-25
+Howrah,Good,47,"NO , CO, O
+2 3",5/5,2025-05-26
+Howrah,Satisfactory,53,"O , CO, NO
+3 2",5/5,2025-05-27
+Howrah,Satisfactory,52,"PM , CO, O
+10 3",5/5,2025-05-28
+Howrah,Good,49,"CO, PM , O
+10 3",5/5,2025-05-29
+Howrah,Satisfactory,54,"O , PM , CO
+3 10",5/5,2025-05-30
+Howrah,Satisfactory,72,"O , PM , CO
+3 10",5/5,2025-05-31
+Howrah,Satisfactory,98,"O , PM , CO
+3 10",5/5,2025-06-01
+Howrah,Moderate,106,"PM , O
+10 3",5/5,2025-06-02
+Howrah,Moderate,113,"PM , O
+10 3",5/5,2025-06-03
+Howrah,Satisfactory,73,"CO, O , PM
+3 10",5/5,2025-06-04
+Howrah,Satisfactory,71,"PM , O
+10 3",4/5,2025-06-05
+Howrah,Satisfactory,85,"CO, O , PM
+3 2.5",4/5,2025-06-06
+Howrah,Satisfactory,99,"CO, PM , O
+2.5 3",5/5,2025-06-07
+Howrah,Satisfactory,92,"PM , CO, O
+2.5 3",5/5,2025-06-08
+Howrah,Satisfactory,96,"PM , PM , O
+2.5 10 3",5/5,2025-06-09
+Howrah,Satisfactory,86,"PM , O , PM
+10 3 2.5",5/5,2025-06-10
+Howrah,Satisfactory,76,"NO , PM , CO
+2 2.5",5/5,2025-06-11
+Howrah,Satisfactory,53,"PM , CO
+10",4/5,2025-06-12
+Howrah,Satisfactory,64,"CO, PM , O
+10 3",5/5,2025-06-13
+Howrah,Satisfactory,71,"O , CO, PM
+3 10",5/5,2025-06-14
+Howrah,Satisfactory,61,"NO , PM
+2 10",5/5,2025-06-15
+Howrah,Good,41,"O , CO
+3",5/5,2025-06-16
+Howrah,Satisfactory,56,"PM , NO
+10 2",5/5,2025-06-17
+Howrah,Good,47,"PM , CO, NO
+10 2",5/5,2025-06-18
+Howrah,Good,46,"O , CO
+3",5/5,2025-06-19
+Howrah,Good,44,"CO, PM
+10",4/5,2025-06-20
+Howrah,Satisfactory,74,"PM , O
+10 3",5/5,2025-06-21
+Howrah,Satisfactory,73,"PM , O
+10 3",5/5,2025-06-22
+Howrah,Satisfactory,52,"PM , O
+10 3",5/5,2025-06-23
+Howrah,Satisfactory,57,"CO, PM , O
+10 3",5/5,2025-06-24
+Howrah,Good,48,"NO , PM
+2 10",5/5,2025-06-25
+Howrah,Good,43,"CO, NO
+2",5/5,2025-06-26
+Howrah,Good,43,"O , CO
+3",5/5,2025-06-27
+Howrah,Satisfactory,53,"NO , PM
+2 10",5/5,2025-06-28
+Howrah,Good,50,"O , PM
+3 10",5/5,2025-06-29
+Howrah,Good,47,"CO, O
+3",5/5,2025-06-30
+Howrah,Good,47,"O , PM , CO
+3 10",5/5,2025-07-01
+Howrah,Good,45,"PM , CO, O
+10 3",5/5,2025-07-02
+Howrah,Good,45,"O , CO
+3",5/5,2025-07-03
+Howrah,Satisfactory,52,"PM , O
+10 3",5/5,2025-07-04
+Howrah,Satisfactory,51,"PM , O
+10 3",5/5,2025-07-05
+Howrah,Satisfactory,56,"PM , NO
+10 2",5/5,2025-07-06
+Howrah,Good,45,"O , CO, PM
+3 10",5/5,2025-07-07
+Howrah,Satisfactory,55,"PM , CO, O
+10 3",5/5,2025-07-08
+Howrah,Good,48,"PM , CO
+10",4/5,2025-07-09
+Howrah,Good,48,"CO, PM
+10",5/5,2025-07-10
+Howrah,Good,41,"CO, PM
+10",4/5,2025-07-11
+Howrah,Satisfactory,55,"CO, PM
+10",5/5,2025-07-12
+Howrah,Satisfactory,55,"PM , NO
+10 2",5/5,2025-07-13
+Howrah,Satisfactory,76,"NO , CO, PM
+2 10",4/5,2025-07-14
+Howrah,Satisfactory,51,"PM , NO
+10 2",5/5,2025-07-15
+Howrah,Satisfactory,52,"PM , NO
+10 2",5/5,2025-07-16
+Howrah,Satisfactory,56,"NO , PM
+2 10",5/5,2025-07-17
+Howrah,Satisfactory,64,"NO , PM
+2 10",5/5,2025-07-18
+Howrah,Satisfactory,65,"NO , PM
+2 10",5/5,2025-07-19
+Howrah,Satisfactory,66,"NO , PM
+2 10",5/5,2025-07-20
+Howrah,Satisfactory,66,"PM , NO
+10 2",5/5,2025-07-21
+Howrah,Satisfactory,66,"NO , PM
+2 10",5/5,2025-07-22
+Howrah,Satisfactory,59,"CO, O , PM
+3 10",4/5,2025-07-23
+Howrah,Satisfactory,56,"PM , NO , CO
+10 2",5/5,2025-07-24
+Howrah,Satisfactory,56,"CO, PM , NO
+10 2",5/5,2025-07-25
+Howrah,Good,49,"CO, PM , NO
+10 2",5/5,2025-07-26
+Howrah,Satisfactory,53,"NO , PM , CO
+2 10",5/5,2025-07-27
+Howrah,Satisfactory,73,"NO , PM
+2 10",5/5,2025-07-28
+Howrah,Good,44,"CO, PM
+10",5/5,2025-07-29
+Howrah,Good,39,"CO, NO , PM
+2 10",5/5,2025-07-30
+Howrah,Good,43,"PM , CO
+10",5/5,2025-07-31
+Howrah,Good,50,"PM , CO, PM
+10 2.5",4/5,2025-08-01
+Howrah,Satisfactory,79,"O , PM
+3 10",5/5,2025-08-02
+Howrah,Satisfactory,66,"PM
+10",4/5,2025-08-03
+Howrah,Satisfactory,63,"PM , PM
+2.5 10",5/5,2025-08-04
+Howrah,Satisfactory,56,"PM
+10",3/5,2025-08-05
+Howrah,Good,50,"PM , CO
+10",4/5,2025-08-06
+Howrah,Satisfactory,70,"PM
+10",4/5,2025-08-07
+Howrah,Satisfactory,60,"PM , CO
+10",4/5,2025-08-08
+Howrah,Satisfactory,51,"PM
+10",5/5,2025-08-09
+Howrah,Good,42,"PM , CO, PM
+2.5 10",5/5,2025-08-10
+Howrah,Satisfactory,52,"PM , NO
+10 2",5/5,2025-08-11
+Howrah,Satisfactory,57,"PM , O
+10 3",5/5,2025-08-12
+Howrah,Good,48,"CO, PM
+10",4/5,2025-08-13
+Howrah,Good,36,"CO, PM , O
+10 3",4/5,2025-08-14
+Howrah,Good,38,"PM , CO
+10",5/5,2025-08-15
+Howrah,Good,41,"NO , PM
+2 10",5/5,2025-08-16
+Howrah,Satisfactory,51,"NO , PM
+2 10",5/5,2025-08-17
+Howrah,Good,42,"PM , CO
+10",5/5,2025-08-18
+Howrah,Good,42,"CO, PM
+10",5/5,2025-08-19
+Howrah,Good,41,"PM , CO
+10",5/5,2025-08-20
+Howrah,Good,41,"CO, PM
+10",5/5,2025-08-21
+Howrah,Good,48,"CO, PM
+10",5/5,2025-08-22
+Howrah,Good,46,"PM , CO
+10",5/5,2025-08-23
+Howrah,Satisfactory,51,"PM , CO
+10",5/5,2025-08-24
+Howrah,Good,47,"PM , CO
+10",5/5,2025-08-25
+Howrah,Good,50,"CO, PM
+10",5/5,2025-08-26
+Howrah,Good,48,"PM , CO
+10",5/5,2025-08-27
+Howrah,Good,43,"CO, PM
+10",5/5,2025-08-28
+Howrah,Good,45,"PM , CO
+10",5/5,2025-08-29
+Howrah,Good,46,"PM , CO
+10",4/5,2025-08-30
+Howrah,Good,48,"PM , CO
+10",4/5,2025-08-31
+Howrah,Satisfactory,63,"PM , CO
+10",4/5,2025-09-01
+Howrah,Satisfactory,56,"CO, PM
+10",4/5,2025-09-02
+Howrah,Good,46,"CO, PM
+10",4/5,2025-09-03
+Howrah,Good,42,"CO, PM
+10",5/5,2025-09-04
+Howrah,Satisfactory,53,"CO, PM
+10",5/5,2025-09-05
+Howrah,Satisfactory,77,"PM
+10",5/5,2025-09-06
+Howrah,Satisfactory,78,"PM
+10",4/5,2025-09-07
+Howrah,Satisfactory,80,"PM
+10",5/5,2025-09-08
+Howrah,Satisfactory,72,"PM
+10",5/5,2025-09-09
+Howrah,Satisfactory,70,"PM
+10",5/5,2025-09-10
+Howrah,Satisfactory,74,"PM
+10",5/5,2025-09-11
+Howrah,Satisfactory,66,"PM , CO
+10",5/5,2025-09-12
+Howrah,Satisfactory,58,"PM , CO
+10",5/5,2025-09-13
+Howrah,Satisfactory,57,"PM , CO
+10",5/5,2025-09-14
+Howrah,Good,48,"PM , NO
+10 2",5/5,2025-09-15
+Howrah,Good,50,"PM , CO
+10",5/5,2025-09-16
+Howrah,Satisfactory,52,"CO, PM
+10",5/5,2025-09-17
+Howrah,Satisfactory,56,"PM , CO
+10",5/5,2025-09-18
+Howrah,Satisfactory,74,"CO, PM
+10",5/5,2025-09-19
+Howrah,Satisfactory,90,"PM , PM
+10 2.5",5/5,2025-09-20
+Howrah,Satisfactory,94,"PM , PM
+10 2.5",5/5,2025-09-21
+Howrah,Satisfactory,88,"PM , PM
+10 2.5",5/5,2025-09-22
+Howrah,Satisfactory,53,"CO, PM
+10",5/5,2025-09-23
+Howrah,Satisfactory,54,"CO, PM
+10",5/5,2025-09-24
+Howrah,Satisfactory,56,"PM , CO
+10",5/5,2025-09-25
+Howrah,Satisfactory,56,"CO, PM
+10",5/5,2025-09-26
+Howrah,Satisfactory,75,"CO, PM , O
+2.5 3",5/5,2025-09-27
+Howrah,Satisfactory,83,"PM , CO, O
+10 3",5/5,2025-09-28
+Howrah,Satisfactory,86,"O , PM , CO
+3 10",5/5,2025-09-29
+Howrah,Satisfactory,62,"PM , CO
+10",5/5,2025-09-30
+Howrah,Satisfactory,52,"PM , CO
+2.5",5/5,2025-10-01
+Howrah,Good,40,"CO, O
+3",5/5,2025-10-02
+Howrah,Good,41,"O , CO
+3",5/5,2025-10-03
+Howrah,Good,48,"PM , CO, PM
+2.5 10",5/5,2025-10-04
+Howrah,Good,46,"CO, PM
+10",5/5,2025-10-05
+Howrah,Satisfactory,63,"PM , CO
+10",4/5,2025-10-06
+Howrah,Satisfactory,80,"PM , CO, PM
+10 2.5",4/5,2025-10-07
+Howrah,Satisfactory,73,"PM , PM
+10 2.5",3/5,2025-10-08
+Howrah,Satisfactory,89,"PM , PM , CO
+2.5 10",5/5,2025-10-09
+Howrah,Satisfactory,88,"PM
+10",5/5,2025-10-10
+Howrah,Satisfactory,73,"PM , PM , CO
+10 2.5",5/5,2025-10-11
+Howrah,Satisfactory,98,"PM , PM
+2.5 10",5/5,2025-10-12
+Howrah,Moderate,108,"PM
+2.5",5/5,2025-10-13
+Howrah,Moderate,129,"PM
+2.5",5/5,2025-10-14
+Howrah,Moderate,119,"PM , PM
+10 2.5",5/5,2025-10-15
+Howrah,Moderate,169,"PM
+2.5",4/5,2025-10-16
+Howrah,Poor,206,"PM
+2.5",5/5,2025-10-17
+Howrah,Moderate,181,"PM
+2.5",4/5,2025-10-18
+Howrah,Moderate,118,"PM
+2.5",4/5,2025-10-19
+Howrah,Satisfactory,82,"PM , PM
+2.5 10",5/5,2025-10-20
+Howrah,Poor,205,"PM
+2.5",5/5,2025-10-21
+Howrah,Moderate,187,"PM
+2.5",5/5,2025-10-22
+Howrah,Moderate,149,"PM
+2.5",5/5,2025-10-23
+Howrah,Moderate,158,"PM
+2.5",5/5,2025-10-24
+Howrah,Moderate,166,"PM
+2.5",5/5,2025-10-25
+Howrah,Satisfactory,94,"PM , O , PM
+10 3 2.5",5/5,2025-10-26
+Howrah,Moderate,135,"PM
+2.5",5/5,2025-10-27
+Howrah,Moderate,112,"PM
+2.5",5/5,2025-10-28
+Howrah,Satisfactory,53,"CO, PM
+10",5/5,2025-10-29
+Howrah,Good,45,"NO , CO, PM
+2 10",5/5,2025-10-30
+Howrah,Satisfactory,51,"PM , PM
+2.5 10",5/5,2025-10-31
+Howrah,Satisfactory,53,"PM , O
+10 3",5/5,2025-11-01
+Howrah,Satisfactory,54,"PM
+10",5/5,2025-11-02
+Howrah,Satisfactory,85,"O , PM
+3 10",4/5,2025-11-03
+Howrah,Poor,217,"PM
+2.5",4/5,2025-11-04
+Howrah,Poor,239,"PM
+2.5",5/5,2025-11-05
+Howrah,Moderate,174,"PM
+2.5",4/5,2025-11-06
+Howrah,Moderate,148,"PM
+2.5",5/5,2025-11-07
+Howrah,Moderate,121,"PM
+2.5",5/5,2025-11-08
+Howrah,Moderate,111,"PM , PM
+2.5 10",5/5,2025-11-09
+Howrah,Moderate,128,"PM , PM
+10 2.5",5/5,2025-11-10
+Howrah,Moderate,173,"PM
+2.5",5/5,2025-11-11
+Howrah,Poor,206,"PM
+2.5",5/5,2025-11-12
+Howrah,Poor,228,"PM
+2.5",5/5,2025-11-13
+Howrah,Moderate,196,"PM
+2.5",4/5,2025-11-14
+Howrah,Moderate,182,"PM
+2.5",5/5,2025-11-15
+Howrah,Moderate,180,"PM
+2.5",5/5,2025-11-16
+Howrah,Moderate,147,"PM
+2.5",4/5,2025-11-17
+Howrah,Moderate,153,"PM
+2.5",5/5,2025-11-18
+Howrah,Moderate,193,"PM
+2.5",5/5,2025-11-19
+Howrah,Moderate,158,"PM
+2.5",4/5,2025-11-20
+Howrah,Poor,222,"PM
+2.5",4/5,2025-11-21
+Howrah,Poor,249,"PM
+2.5",4/5,2025-11-22
+Howrah,Poor,274,"PM
+2.5",4/5,2025-11-23
+Howrah,Moderate,200,"PM
+2.5",4/5,2025-11-24
+Howrah,Poor,257,"PM
+2.5",5/5,2025-11-25
+Howrah,Poor,237,"PM
+2.5",5/5,2025-11-26
+Howrah,Moderate,189,"PM
+2.5",5/5,2025-11-27
+Howrah,Moderate,189,"PM
+2.5",5/5,2025-11-28
+Howrah,Moderate,198,"PM
+2.5",4/5,2025-11-29
+Howrah,Moderate,160,"O , PM
+3 2.5",3/5,2025-11-30
+Howrah,Poor,264,"PM
+2.5",2/5,2025-12-01
+Howrah,Poor,226,"PM
+2.5",5/5,2025-12-02
+Howrah,Moderate,191,"PM
+2.5",4/5,2025-12-03
+Howrah,Poor,217,"PM
+2.5",4/5,2025-12-04
+Howrah,Poor,213,"PM
+2.5",5/5,2025-12-05
+Howrah,Moderate,169,"PM
+2.5",5/5,2025-12-06
+Howrah,Moderate,196,"PM
+2.5",5/5,2025-12-07
+Howrah,Poor,213,"PM
+2.5",5/5,2025-12-08
+Howrah,Poor,262,"PM
+2.5",4/5,2025-12-09
+Howrah,Poor,280,"PM
+2.5",4/5,2025-12-10
+Howrah,Poor,280,"PM
+2.5",5/5,2025-12-11
+Howrah,Very Poor,306,"PM
+2.5",4/5,2025-12-12
+Howrah,Poor,249,"PM
+2.5",5/5,2025-12-13
+Howrah,Poor,212,"PM
+2.5",5/5,2025-12-14

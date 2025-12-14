@@ -1,0 +1,6211 @@
+City,Air Quality,Index Value,Prominent Pollutant,No. of Stations Participated / Total Stations (Based on Number of Monitoring Stations),Date
+Noida,Poor,255,"PM
+10",1#,2017-05-04
+Noida,Very Poor,339,"PM
+10",1,2017-05-05
+Noida,Poor,281,"PM
+10",1#,2017-05-06
+Noida,Very Poor,338,"PM
+10",1#,2017-05-07
+Noida,Very Poor,312,"PM
+10",1,2017-05-08
+Noida,Very Poor,339,"PM
+10",1,2017-05-09
+Noida,Moderate,180,"PM
+10",1,2017-05-10
+Noida,Very Poor,385,"PM
+10",1#,2017-05-12
+Noida,Very Poor,342,"PM
+10",1,2017-05-13
+Noida,Poor,283,"PM
+10",1,2017-05-14
+Noida,Poor,275,"PM
+10",1,2017-05-15
+Noida,Very Poor,330,"PM
+10",1,2017-05-16
+Noida,Moderate,198,"PM
+10",1,2017-05-17
+Noida,Poor,213,"PM
+10",1,2017-05-18
+Noida,Poor,207,"PM
+10",1,2017-05-19
+Noida,Poor,294,"PM
+10",1,2017-05-20
+Noida,Very Poor,378,"PM
+10",1,2017-05-21
+Noida,Poor,242,"PM
+10",1,2017-05-22
+Noida,Very Poor,307,"PM
+10",1#,2017-05-23
+Noida,Moderate,197,"PM
+10",1,2017-05-24
+Noida,Poor,257,"O
+3",1,2017-05-25
+Noida,Poor,229,"PM
+10",1,2017-05-26
+Noida,Poor,233,"PM
+10",1,2017-05-27
+Noida,Moderate,124,"PM
+10",1#,2017-05-28
+Noida,Satisfactory,89,"PM
+10",1,2017-05-29
+Noida,Moderate,115,"O
+3",1,2017-05-30
+Noida,Poor,283,"PM
+10",1,2017-06-06
+Noida,Moderate,163,"PM
+10",1,2017-06-07
+Noida,Moderate,104,"O
+3",1,2017-06-08
+Noida,Poor,206,"O
+3",1,2017-06-09
+Noida,Moderate,195,"PM
+10",1,2017-06-10
+Noida,Very Poor,332,"PM
+10",1,2017-06-15
+Noida,Poor,231,"PM
+10",1,2017-06-16
+Noida,Satisfactory,94,"PM
+10",1,2017-06-17
+Noida,Poor,295,"PM
+10",1,2017-06-19
+Noida,Satisfactory,99,"PM
+10",1,2017-06-20
+Noida,Poor,204,"O
+3",1,2017-06-21
+Noida,Moderate,137,"PM
+10",1,2017-06-22
+Noida,Moderate,139,"PM
+10",1,2017-06-23
+Noida,Moderate,139,"PM
+10",1,2017-06-24
+Noida,Moderate,166,"PM
+2.5",1#,2017-06-25
+Noida,Moderate,119,"PM
+10",1,2017-06-26
+Noida,Satisfactory,100,"PM
+10",1,2017-06-27
+Noida,Satisfactory,89,"PM
+10",1#,2017-06-28
+Noida,Satisfactory,66,"O
+3",1,2017-06-29
+Noida,Satisfactory,73,"O
+3",1,2017-07-01
+Noida,Satisfactory,57,"O
+3",1,2017-07-02
+Noida,Satisfactory,73,"O
+3",1,2017-07-03
+Noida,Moderate,124,"PM
+10",1,2017-07-04
+Noida,Moderate,191,"PM
+10",1,2017-07-05
+Noida,Moderate,168,"PM
+10",1,2017-07-06
+Noida,Moderate,120,"PM
+10",1,2017-07-07
+Noida,Moderate,114,"PM
+10",1,2017-07-08
+Noida,Moderate,192,"PM
+10",1,2017-07-09
+Noida,Moderate,145,"PM
+10",1,2017-07-10
+Noida,Moderate,106,"PM
+10",1,2017-07-11
+Noida,Satisfactory,60,"O
+3",1,2017-07-12
+Noida,Satisfactory,69,"PM
+10",1,2017-07-13
+Noida,Satisfactory,82,"PM
+10",1,2017-07-14
+Noida,Satisfactory,78,"PM
+10",1,2017-07-15
+Noida,Satisfactory,80,"PM
+10",1#,2017-07-16
+Noida,Satisfactory,83,"PM
+10",1,2017-07-17
+Noida,Satisfactory,79,"O
+3",1,2017-07-18
+Noida,Moderate,114,"PM
+10",1,2017-07-19
+Noida,Satisfactory,65,"O
+3",1,2017-07-21
+Noida,Moderate,105,"O
+3",1,2017-07-22
+Noida,Satisfactory,75,"O
+3",1,2017-07-23
+Noida,Satisfactory,63,"O
+3",1,2017-07-24
+Noida,Satisfactory,64,"O
+3",1,2017-07-25
+Noida,Satisfactory,68,"O
+3",1,2017-07-26
+Noida,Satisfactory,84,"PM
+10",1,2017-07-27
+Noida,Satisfactory,81,"PM
+10",1,2017-07-28
+Noida,Satisfactory,72,"O
+3",1,2017-07-29
+Noida,Satisfactory,74,"O
+3",1,2017-07-30
+Noida,Satisfactory,71,"PM
+10",1,2017-07-31
+Noida,Satisfactory,55,"O
+3",1,2017-08-01
+Noida,Satisfactory,89,"PM
+10",1,2017-08-02
+Noida,Moderate,116,"PM
+10",1,2017-08-03
+Noida,Moderate,138,"PM
+10",1,2017-08-04
+Noida,Moderate,163,"PM
+10",1,2017-08-05
+Noida,Poor,216,"PM
+10",1,2017-08-06
+Noida,Moderate,134,"PM
+10",1,2017-08-07
+Noida,Satisfactory,80,CO,1,2017-08-08
+Noida,Satisfactory,82,"PM
+10",1,2017-08-09
+Noida,Moderate,113,"PM
+10",1,2017-08-10
+Noida,Moderate,125,"PM
+10",1,2017-08-14
+Noida,Moderate,126,"PM
+10",1,2017-08-15
+Noida,Moderate,127,"PM
+10",1,2017-08-16
+Noida,Moderate,158,"PM
+10",1,2017-08-17
+Noida,Moderate,163,"PM
+10",1,2017-08-18
+Noida,Satisfactory,93,"PM
+10",1,2017-08-19
+Noida,Satisfactory,84,"PM
+10",1,2017-08-23
+Noida,Satisfactory,73,"O
+3",1,2017-08-24
+Noida,Moderate,107,"PM
+10",1,2017-08-25
+Noida,Moderate,107,"PM
+10",1,2017-08-26
+Noida,Satisfactory,87,"O
+3",1,2017-08-27
+Noida,Satisfactory,63,"PM
+10",1,2017-08-28
+Noida,Satisfactory,53,"PM
+10",1,2017-08-29
+Noida,Satisfactory,67,"O
+3",1,2017-08-30
+Noida,Satisfactory,58,"O
+3",1,2017-08-31
+Noida,Satisfactory,59,"O
+3",1,2017-09-01
+Noida,Satisfactory,63,"PM
+10",1,2017-09-02
+Noida,Satisfactory,76,"PM
+10",1,2017-09-03
+Noida,Moderate,113,"PM
+10",1,2017-09-04
+Noida,Satisfactory,98,"PM
+10",1,2017-09-05
+Noida,Moderate,114,"PM
+10",1,2017-09-06
+Noida,Satisfactory,73,"PM
+10",1,2017-09-07
+Noida,Moderate,180,"PM
+2.5",1,2017-09-08
+Noida,Moderate,141,"PM
+10",1,2017-09-09
+Noida,Moderate,178,"PM
+2.5",1,2017-09-10
+Noida,Moderate,171,"PM
+10",1,2017-09-11
+Noida,Moderate,147,"PM
+10",1,2017-09-12
+Noida,Moderate,156,"PM
+10",1#,2017-09-13
+Noida,Moderate,189,"PM
+2.5",1,2017-09-14
+Noida,Poor,211,"PM
+2.5",1,2017-09-15
+Noida,Moderate,138,"PM , PM
+10 2.5",2,2017-09-16
+Noida,Moderate,124,"PM , PM
+10 2.5",2#,2017-09-17
+Noida,Very Poor,320,"O
+3",1,2017-09-18
+Noida,Moderate,173,"PM
+2.5",1,2017-09-19
+Noida,Moderate,164,"O , PM
+3 2.5",2,2017-09-20
+Noida,Moderate,198,"PM
+2.5",1,2017-09-21
+Noida,Good,49,"PM
+10",1,2017-09-22
+Noida,Good,43,"NO
+2",1,2017-09-23
+Noida,Satisfactory,58,"PM , PM
+2.5 10",2,2017-09-24
+Noida,Moderate,151,"PM , PM
+10 2.5",2,2017-09-25
+Noida,Moderate,159,"PM , PM
+10 2.5",2,2017-09-26
+Noida,Moderate,191,"O , PM
+3 2.5",2,2017-09-27
+Noida,Moderate,192,"PM , PM
+10 2.5",2,2017-09-28
+Noida,Moderate,145,"PM , CO
+2.5",2,2017-09-29
+Noida,Moderate,144,"PM , CO
+10",2#,2017-09-30
+Noida,Moderate,199,"PM
+10",1,2017-10-01
+Noida,Moderate,165,"PM
+10",1,2017-10-02
+Noida,Moderate,123,"PM
+2.5",1#,2017-10-03
+Noida,Moderate,189,"PM , PM
+10 2.5",2#,2017-10-04
+Noida,Moderate,137,"PM , CO
+10",2#,2017-10-05
+Noida,Moderate,126,"PM , O
+2.5 3",2,2017-10-06
+Noida,Moderate,127,"PM , O
+10 3",2,2017-10-07
+Noida,Satisfactory,62,"O
+3",1#,2017-10-08
+Noida,Satisfactory,62,CO,1,2017-10-09
+Noida,Moderate,170,"PM , CO
+2.5",2#,2017-10-10
+Noida,Moderate,171,"PM , CO
+2.5",2,2017-10-11
+Noida,Moderate,187,"PM , O
+2.5 3",2#,2017-10-12
+Noida,Satisfactory,64,CO,1,2017-10-13
+Noida,Poor,267,"PM
+2.5",1#,2017-10-15
+Noida,Poor,268,"PM
+2.5",1,2017-10-16
+Noida,Poor,295,"PM , PM
+10 2.5",2,2017-10-17
+Noida,Very Poor,315,"PM , PM
+10 2.5",2#,2017-10-18
+Noida,Poor,266,"PM
+2.5",2,2017-10-19
+Noida,Severe,402,"PM
+2.5",2,2017-10-20
+Noida,Severe,402,"PM
+2.5",2#,2017-10-21
+Noida,Very Poor,342,"PM
+2.5",2#,2017-10-22
+Noida,Very Poor,323,"PM , PM
+10 2.5",2#,2017-10-23
+Noida,Very Poor,345,"PM , PM
+10 2.5",2#,2017-10-24
+Noida,Very Poor,363,"PM , PM
+10 2.5",2,2017-10-25
+Noida,Very Poor,386,"PM , PM
+10 2.5",2#,2017-10-26
+Noida,Very Poor,345,"PM
+2.5",2,2017-10-27
+Noida,Very Poor,367,"PM , PM
+10 2.5",2,2017-10-28
+Noida,Very Poor,332,"PM
+2.5",1#,2017-10-30
+Noida,Very Poor,348,"PM
+2.5",1#,2017-10-31
+Noida,Very Poor,344,"PM
+2.5",1,2017-11-01
+Noida,Very Poor,321,"PM
+2.5",2,2017-11-02
+Noida,Very Poor,349,"PM
+2.5",2,2017-11-03
+Noida,Very Poor,365,"PM
+2.5",2,2017-11-04
+Noida,Severe,423,"PM
+2.5",1,2017-11-05
+Noida,Severe,407,"PM
+2.5",1,2017-11-06
+Noida,Severe,468,"PM
+2.5",1,2017-11-07
+Noida,Severe,469,"PM
+2.5",1#,2017-11-08
+Noida,Severe,487,"PM
+2.5",2,2017-11-09
+Noida,Severe,470,"PM
+2.5",2,2017-11-10
+Noida,Severe,429,"PM
+2.5",2,2017-11-11
+Noida,Severe,492,"PM
+2.5",2,2017-11-12
+Noida,Severe,466,"PM
+2.5",2#,2017-11-13
+Noida,Severe,410,"PM
+2.5",2#,2017-11-14
+Noida,Very Poor,367,"PM
+2.5",2,2017-11-15
+Noida,Very Poor,366,"PM
+2.5",2#,2017-11-16
+Noida,Poor,286,"PM
+2.5",2,2017-11-17
+Noida,Poor,288,"PM
+2.5",2,2017-11-18
+Noida,Poor,259,"PM
+2.5",2,2017-11-19
+Noida,Poor,299,"PM
+2.5",2,2017-11-20
+Noida,Poor,300,"PM
+2.5",2,2017-11-21
+Noida,Very Poor,340,"PM
+2.5",2,2017-11-22
+Noida,Very Poor,307,"PM
+2.5",2,2017-11-23
+Noida,Very Poor,331,"PM
+2.5",2,2017-11-24
+Noida,Very Poor,336,"PM
+2.5",2,2017-11-25
+Noida,Very Poor,387,"PM
+2.5",2,2017-11-26
+Noida,Very Poor,347,"PM
+2.5",2,2017-11-27
+Noida,Very Poor,340,"PM
+2.5",2,2017-11-28
+Noida,Poor,206,"PM , CO
+10",2,2017-11-29
+Noida,Very Poor,359,"PM , PM
+10 2.5",2,2017-11-30
+Noida,Very Poor,372,"PM
+2.5",2,2017-12-01
+Noida,Very Poor,365,"PM
+2.5",2,2017-12-02
+Noida,Very Poor,381,"PM
+2.5",2,2017-12-03
+Noida,Severe,415,"PM
+2.5",2,2017-12-04
+Noida,Severe,411,"PM
+2.5",2,2017-12-05
+Noida,Very Poor,303,"PM
+2.5",2,2017-12-06
+Noida,Moderate,143,"PM , PM
+2.5 10",2,2017-12-07
+Noida,Moderate,191,"PM
+2.5",2,2017-12-08
+Noida,Very Poor,326,"PM
+2.5",2,2017-12-09
+Noida,Severe,415,"PM
+2.5",1,2017-12-10
+Noida,Severe,408,"PM
+2.5",2,2017-12-11
+Noida,Poor,224,"PM
+2.5",2,2017-12-12
+Noida,Poor,264,"PM
+2.5",2,2017-12-13
+Noida,Poor,293,"PM
+2.5",2,2017-12-14
+Noida,Poor,299,"PM
+2.5",2,2017-12-15
+Noida,Poor,227,"PM
+2.5",2,2017-12-16
+Noida,Poor,216,"PM
+2.5",2,2017-12-17
+Noida,Poor,220,"PM
+2.5",2#,2017-12-18
+Noida,Poor,300,"PM
+2.5",2,2017-12-19
+Noida,Very Poor,378,"PM
+2.5",2,2017-12-20
+Noida,Severe,500,"PM
+2.5",1#,2017-12-21
+Noida,Very Poor,356,"PM , PM
+2.5 10",2#,2017-12-22
+Noida,Poor,228,"PM , PM
+2.5 10",2,2017-12-23
+Noida,Very Poor,391,"PM
+2.5",1,2017-12-24
+Noida,Severe,476,"PM
+2.5",1,2017-12-25
+Noida,Severe,476,"PM
+2.5",1#,2017-12-26
+Noida,Severe,408,"PM , PM
+2.5 10",2,2017-12-27
+Noida,Severe,412,"PM , PM
+2.5 10",2,2017-12-28
+Noida,Very Poor,369,"PM , PM
+2.5 10",2,2017-12-29
+Noida,Very Poor,399,"PM , PM
+2.5 10",2,2017-12-30
+Noida,Severe,486,"PM
+2.5",1,2017-12-31
+Noida,Severe,483,"PM
+2.5",1,2018-01-01
+Noida,Severe,411,"PM , PM
+2.5 10",2,2018-01-02
+Noida,Severe,431,"PM
+2.5",1,2018-01-03
+Noida,Very Poor,387,"PM , PM
+2.5 10",2,2018-01-04
+Noida,Very Poor,351,"PM , PM
+2.5 10",2,2018-01-05
+Noida,Very Poor,395,"PM , PM
+2.5 10",2,2018-01-06
+Noida,Very Poor,360,"PM , PM
+2.5 10",2,2018-01-07
+Noida,Moderate,183,"PM , CO
+2.5",2,2018-01-08
+Noida,Very Poor,393,"PM , PM
+2.5 10",2,2018-01-09
+Noida,Poor,205,"PM
+2.5",1,2018-01-10
+Noida,Poor,253,"PM
+2.5",2,2018-01-11
+Noida,Poor,265,"PM
+2.5",2,2018-01-12
+Noida,Very Poor,342,"PM
+2.5",2,2018-01-13
+Noida,Poor,287,"PM
+2.5",2,2018-01-14
+Noida,Very Poor,315,"PM
+2.5",2,2018-01-15
+Noida,Poor,214,"PM
+2.5",2,2018-01-16
+Noida,Very Poor,329,"PM
+2.5",2,2018-01-17
+Noida,Very Poor,381,"PM
+2.5",2,2018-01-18
+Noida,Severe,409,"PM
+2.5",2,2018-01-19
+Noida,Very Poor,317,"PM
+2.5",2,2018-01-20
+Noida,Poor,287,"PM
+2.5",2,2018-01-21
+Noida,Very Poor,314,"PM
+2.5",2,2018-01-22
+Noida,Very Poor,303,"PM
+2.5",2,2018-01-23
+Noida,Poor,242,"PM
+2.5",2,2018-01-24
+Noida,Very Poor,340,"PM
+2.5",1,2018-01-25
+Noida,Very Poor,360,"PM
+2.5",1,2018-01-26
+Noida,Poor,287,"PM
+2.5",2,2018-01-27
+Noida,Poor,280,"PM
+2.5",2,2018-01-28
+Noida,Poor,284,PM2.5,2,2018-01-29
+Noida,Poor,204,PM2.5,2,2018-01-30
+Noida,Poor,201,"PM
+2.5",2,2018-01-31
+Noida,Poor,236,"PM
+2.5",2,2018-02-01
+Noida,Poor,245,"PM
+2.5",2,2018-02-02
+Noida,Moderate,180,"PM
+2.5",2,2018-02-03
+Noida,Moderate,192,"PM , CO
+2.5",2,2018-02-04
+Noida,Poor,216,"PM
+2.5",2,2018-02-05
+Noida,Poor,202,"PM
+2.5",2,2018-02-06
+Noida,Moderate,178,"PM , CO
+2.5",2,2018-02-07
+Noida,Poor,250,"PM , PM
+10 2.5",2,2018-02-08
+Noida,Poor,254,"PM
+2.5",2,2018-02-09
+Noida,Poor,299,"PM , PM
+10 2.5",2,2018-02-10
+Noida,Moderate,101,CO,1,2018-02-12
+Noida,Moderate,168,"PM , CO
+2.5",2,2018-02-13
+Noida,Moderate,152,"PM , CO
+2.5",2,2018-02-14
+Noida,Moderate,136,"PM , CO
+2.5",2,2018-02-15
+Noida,Poor,204,"PM
+2.5",2,2018-02-16
+Noida,Poor,227,"PM
+2.5",2,2018-02-17
+Noida,Poor,220,"PM
+2.5",2,2018-02-18
+Noida,Poor,274,"PM , PM
+10 2.5",2,2018-02-19
+Noida,Poor,280,"PM , PM
+10 2.5",2,2018-02-20
+Noida,Very Poor,332,"PM , PM
+10 2.5",2,2018-02-21
+Noida,Very Poor,308,"PM , PM
+10 2.5",2,2018-02-22
+Noida,Very Poor,327,"PM , PM
+10 2.5",2,2018-02-23
+Noida,Very Poor,326,"PM , PM
+10 2.5",2,2018-02-24
+Noida,Poor,248,"PM , PM
+10 2.5",2,2018-02-25
+Noida,Moderate,122,"PM
+2.5",2,2018-02-26
+Noida,Moderate,134,"PM , PM
+10 2.5",2,2018-02-27
+Noida,Poor,260,"PM
+2.5",2,2018-02-28
+Noida,Moderate,180,"PM
+2.5",2,2018-03-01
+Noida,Poor,251,"PM
+2.5",2,2018-03-02
+Noida,Moderate,142,"PM
+2.5",2,2018-03-03
+Noida,Moderate,154,"PM , PM
+10 2.5",2,2018-03-04
+Noida,Moderate,130,"PM
+2.5",2,2018-03-05
+Noida,Moderate,126,"PM
+2.5",2,2018-03-06
+Noida,Moderate,138,"PM
+2.5",2,2018-03-07
+Noida,Poor,214,"PM , PM
+10 2.5",2,2018-03-08
+Noida,Poor,262,"PM , PM
+10 2.5",2,2018-03-09
+Noida,Moderate,140,"PM , PM
+10 2.5",2,2018-03-10
+Noida,Moderate,138,"PM , PM
+10 2.5",2,2018-03-11
+Noida,Moderate,180,"PM
+2.5",2,2018-03-12
+Noida,Moderate,180,"PM , PM
+10 2.5",2,2018-03-13
+Noida,Poor,252,"PM , PM
+10 2.5",2,2018-03-14
+Noida,Poor,251,"PM , PM
+10 2.5",2,2018-03-15
+Noida,Poor,265,"PM
+10",1,2018-03-16
+Noida,Moderate,175,"PM
+10",1,2018-03-17
+Noida,Moderate,156,"PM , PM
+10 2.5",2,2018-03-18
+Noida,Moderate,137,"PM , PM
+10 2.5",2,2018-03-19
+Noida,Moderate,173,"PM , PM
+10 2.5",2,2018-03-20
+Noida,Poor,248,"PM , PM
+10 2.5",2,2018-03-21
+Noida,Moderate,109,"PM
+2.5",1,2018-03-22
+Noida,Moderate,150,"PM
+10",2,2018-03-23
+Noida,Moderate,185,"PM
+10",2,2018-03-24
+Noida,Poor,207,"PM
+10",1,2018-03-25
+Noida,Moderate,195,"PM
+10",1,2018-03-26
+Noida,Poor,266,"PM
+10",2,2018-03-27
+Noida,Very Poor,340,"PM
+10",2,2018-03-28
+Noida,Moderate,196,"PM
+10",1,2018-03-29
+Noida,Poor,210,"PM
+10",1,2018-03-30
+Noida,Poor,218,"PM
+10",1,2018-03-31
+Noida,Moderate,180,"PM
+10",1,2018-04-01
+Noida,Moderate,198,"PM
+10",1,2018-04-02
+Noida,Poor,217,"PM
+10",1,2018-04-03
+Noida,Poor,235,"PM
+10",1,2018-04-04
+Noida,Very Poor,314,"PM
+10",1,2018-04-05
+Noida,Poor,232,"PM
+10",1,2018-04-06
+Noida,Moderate,122,"PM
+10",2,2018-04-07
+Noida,Moderate,124,"PM
+10",2,2018-04-08
+Noida,Moderate,125,"PM
+10",2,2018-04-09
+Noida,Moderate,191,"PM , PM
+2.5 10",2,2018-04-10
+Noida,Moderate,144,"PM
+10",2,2018-04-11
+Noida,Moderate,100,"OZONE, PM
+10",2,2018-04-12
+Noida,Moderate,170,"PM , PM
+10 2.5",2,2018-04-13
+Noida,Poor,220,"PM
+10",2,2018-04-14
+Noida,Poor,230,"PM
+10",2,2018-04-15
+Noida,Very Poor,321,"PM
+10",1,2018-04-16
+Noida,Poor,254,"PM
+10",1,2018-04-17
+Noida,Poor,216,"PM
+10",1,2018-04-18
+Noida,Poor,252,"PM
+10",1,2018-04-19
+Noida,Poor,262,"PM
+10",2,2018-04-20
+Noida,Severe,434,"PM
+10",2,2018-04-21
+Noida,Poor,246,"PM
+10",2,2018-04-22
+Noida,Moderate,176,"PM
+10",2,2018-04-23
+Noida,Poor,253,"PM
+10",1,2018-04-24
+Noida,Poor,298,"PM
+10",2,2018-04-25
+Noida,Very Poor,349,"PM
+10",2,2018-04-26
+Noida,Very Poor,330,"PM
+10",2,2018-04-27
+Noida,Very Poor,324,"PM
+10",1,2018-04-28
+Noida,Poor,239,"PM
+10",1,2018-04-29
+Noida,Poor,204,"PM
+10",1,2018-04-30
+Noida,Moderate,164,"PM
+10",1,2018-05-01
+Noida,Moderate,138,"PM
+10",2,2018-05-02
+Noida,Moderate,160,"PM
+10",2,2018-05-03
+Noida,Moderate,113,"PM
+10",2,2018-05-04
+Noida,Poor,200,OZONE,2,2018-05-05
+Noida,Poor,268,"PM
+10",2,2018-05-06
+Noida,Poor,209,"OZONE, PM
+10",2,2018-05-07
+Noida,Poor,235,"PM
+10",2,2018-05-08
+Noida,Moderate,159,"OZONE, PM
+10",2,2018-05-09
+Noida,Moderate,199,"OZONE, PM
+10",2,2018-05-10
+Noida,Poor,278,"PM
+10",2,2018-05-11
+Noida,Very Poor,327,"PM
+10",2,2018-05-12
+Noida,Poor,222,"PM
+10",2,2018-05-13
+Noida,Moderate,141,"PM
+10",2,2018-05-14
+Noida,Moderate,144,"OZONE, PM
+10",2,2018-05-15
+Noida,Moderate,192,"PM
+10",2,2018-05-16
+Noida,Poor,278,"PM
+10",2,2018-05-17
+Noida,Poor,256,"PM
+10",1,2018-05-18
+Noida,Poor,259,"PM
+10",1,2018-05-19
+Noida,Poor,220,"PM
+10",1,2018-05-20
+Noida,Moderate,185,"PM
+10",1,2018-05-21
+Noida,Poor,223,"PM
+10",2,2018-05-22
+Noida,Very Poor,346,"PM
+10",2,2018-05-23
+Noida,Poor,298,"PM
+10",1,2018-05-24
+Noida,Poor,285,"PM
+10",1,2018-05-25
+Noida,Poor,224,"PM
+10",1,2018-05-26
+Noida,Very Poor,312,"PM
+10",1,2018-05-27
+Noida,Poor,257,"PM
+10",1,2018-05-28
+Noida,Very Poor,333,"PM
+10",1,2018-05-29
+Noida,Poor,283,"PM
+10",1,2018-05-30
+Noida,Poor,212,"PM
+10",2,2018-05-31
+Noida,Moderate,199,"PM
+10",2,2018-06-01
+Noida,Moderate,169,"PM
+10",1,2018-06-02
+Noida,Moderate,127,"PM
+10",1,2018-06-03
+Noida,Moderate,154,"PM
+10",1,2018-06-04
+Noida,Moderate,160,"PM
+10",1,2018-06-05
+Noida,Moderate,152,"PM
+10",2,2018-06-06
+Noida,Moderate,134,"PM
+10",2,2018-06-07
+Noida,Moderate,198,"PM
+10",1,2018-06-08
+Noida,Moderate,138,"PM
+10",1,2018-06-09
+Noida,Moderate,142,"OZONE, PM
+10",2,2018-06-10
+Noida,Moderate,179,"PM
+10",2,2018-06-11
+Noida,Very Poor,342,"PM
+10",1,2018-06-12
+Noida,Very Poor,340,"PM
+2.5",1,2018-06-13
+Noida,Very Poor,390,"PM
+2.5",2,2018-06-14
+Noida,Very Poor,382,"PM , PM
+10 2.5",2,2018-06-15
+Noida,Severe,452,"PM
+10",2,2018-06-16
+Noida,Very Poor,335,"PM
+10",1,2018-06-17
+Noida,Moderate,166,"PM
+10",1,2018-06-18
+Noida,Moderate,135,"PM
+10",2,2018-06-19
+Noida,Moderate,185,"PM
+10",2,2018-06-20
+Noida,Poor,221,"PM
+10",1,2018-06-21
+Noida,Poor,270,"PM
+10",2,2018-06-22
+Noida,Poor,202,"PM
+10",2,2018-06-23
+Noida,Moderate,199,"PM
+10",1,2018-06-24
+Noida,Poor,284,"PM
+10",2,2018-06-25
+Noida,Moderate,166,"PM
+10",1,2018-06-26
+Noida,Moderate,134,"PM
+10",2,2018-06-27
+Noida,Satisfactory,82,"NO , PM
+2 10",2,2018-06-28
+Noida,Satisfactory,68,"PM
+10",1,2018-06-29
+Noida,Satisfactory,76,"PM
+10",2,2018-06-30
+Noida,Satisfactory,84,"PM
+10",2,2018-07-01
+Noida,Satisfactory,86,"PM
+10",1,2018-07-02
+Noida,Moderate,108,"PM
+10",2,2018-07-03
+Noida,Satisfactory,96,"OZONE, PM
+10",2,2018-07-04
+Noida,Moderate,124,"PM
+10",2,2018-07-05
+Noida,Moderate,158,"PM
+10",2,2018-07-06
+Noida,Moderate,146,"PM
+10",2,2018-07-07
+Noida,Moderate,158,"PM
+10",2,2018-07-08
+Noida,Moderate,150,"PM
+10",2,2018-07-09
+Noida,Moderate,104,"OZONE, PM
+10",2,2018-07-10
+Noida,Satisfactory,97,"PM , PM
+2.5 10",2,2018-07-11
+Noida,Moderate,147,"OZONE, PM
+10",2,2018-07-12
+Noida,Moderate,103,"PM
+2.5",1,2018-07-13
+Noida,Satisfactory,55,"PM
+10",2,2018-07-14
+Noida,Satisfactory,62,"PM
+10",2,2018-07-15
+Noida,Satisfactory,79,"PM
+10",2,2018-07-16
+Noida,Satisfactory,84,"PM
+10",2,2018-07-17
+Noida,Moderate,101,"PM
+10",2,2018-07-18
+Noida,Satisfactory,89,"PM
+10",1,2018-07-19
+Noida,Satisfactory,90,"PM
+10",1,2018-07-20
+Noida,Moderate,112,"PM
+10",2,2018-07-21
+Noida,Good,44,"NO , PM
+2 10",2,2018-07-22
+Noida,Satisfactory,54,OZONE,1,2018-07-23
+Noida,Satisfactory,74,"PM
+10",2,2018-07-24
+Noida,Satisfactory,72,"PM
+10",2,2018-07-25
+Noida,Satisfactory,89,"PM
+10",2,2018-07-26
+Noida,Satisfactory,59,"CO, NO
+2",2,2018-07-27
+Noida,Satisfactory,51,"CO, PM
+2.5",2,2018-07-28
+Noida,Moderate,107,"PM
+10",2,2018-07-29
+Noida,Moderate,140,"PM
+10",1,2018-07-30
+Noida,Moderate,170,"PM
+10",2,2018-07-31
+Noida,Moderate,182,"PM
+10",2,2018-08-01
+Noida,Poor,282,"PM
+10",2,2018-08-02
+Noida,Poor,280,"PM
+10",2,2018-08-03
+Noida,Poor,254,"PM
+10",2,2018-08-04
+Noida,Poor,276,"PM
+10",2,2018-08-05
+Noida,Moderate,138,"PM
+10",2,2018-08-06
+Noida,Moderate,106,"PM
+10",2,2018-08-07
+Noida,Satisfactory,69,"PM
+10",2,2018-08-08
+Noida,Satisfactory,80,"PM
+10",2,2018-08-09
+Noida,Satisfactory,98,"PM
+10",2,2018-08-10
+Noida,Moderate,117,"PM , PM
+2.5 10",2,2018-08-11
+Noida,Satisfactory,91,"PM
+10",2,2018-08-12
+Noida,Moderate,100,"PM
+10",2,2018-08-13
+Noida,Moderate,109,"PM
+10",2,2018-08-14
+Noida,Moderate,126,"PM
+10",2,2018-08-15
+Noida,Satisfactory,76,"PM
+10",1,2018-08-16
+Noida,Satisfactory,86,"PM
+10",2,2018-08-17
+Noida,Satisfactory,76,"PM
+10",2,2018-08-18
+Noida,Satisfactory,82,"PM
+10",1,2018-08-19
+Noida,Moderate,126,"PM , PM
+2.5 10",2,2018-08-20
+Noida,Satisfactory,68,"PM
+10",2,2018-08-21
+Noida,Satisfactory,70,"PM
+10",1,2018-08-22
+Noida,Satisfactory,62,"PM , CO
+10",2,2018-08-23
+Noida,Satisfactory,79,"PM
+10",2,2018-08-24
+Noida,Satisfactory,89,"PM
+10",2,2018-08-25
+Noida,Satisfactory,88,"PM
+10",2,2018-08-26
+Noida,Satisfactory,52,"PM
+10",1,2018-08-27
+Noida,Satisfactory,72,"PM
+10",2,2018-08-28
+Noida,Good,42,"PM , CO
+10",2,2018-08-29
+Noida,Satisfactory,74,"PM
+10",2,2018-08-30
+Noida,Moderate,122,"PM
+10",2,2018-08-31
+Noida,Moderate,107,"PM
+10",2,2018-09-01
+Noida,Moderate,106,"PM
+10",2,2018-09-02
+Noida,Moderate,114,"PM , PM
+2.5 10",2,2018-09-03
+Noida,Very Poor,304,"PM
+2.5",2,2018-09-04
+Noida,Satisfactory,92,"PM
+10",2,2018-09-05
+Noida,Moderate,154,"PM
+10",2,2018-09-06
+Noida,Satisfactory,87,"PM , PM
+2.5 10",2,2018-09-07
+Noida,Satisfactory,76,"PM
+10",2,2018-09-08
+Noida,Poor,264,"PM , PM
+2.5 10",2,2018-09-09
+Noida,Poor,274,"PM , PM
+2.5 10",2,2018-09-10
+Noida,Satisfactory,62,"PM
+10",1,2018-09-11
+Noida,Satisfactory,90,"PM
+10",2,2018-09-12
+Noida,Moderate,110,"PM
+10",2,2018-09-13
+Noida,Moderate,111,"PM
+10",2,2018-09-14
+Noida,Moderate,121,"PM
+10",2,2018-09-15
+Noida,Moderate,116,"PM
+10",2,2018-09-16
+Noida,Moderate,130,"PM
+10",2,2018-09-17
+Noida,Moderate,144,"PM
+10",2,2018-09-18
+Noida,Moderate,152,"PM
+10",2,2018-09-19
+Noida,Moderate,176,"PM , PM
+10 2.5",2,2018-09-20
+Noida,Moderate,136,"PM , PM
+10 2.5",2,2018-09-21
+Noida,Good,42,"PM
+10",1,2018-09-22
+Noida,Satisfactory,56,"PM
+10",1,2018-09-23
+Noida,Good,48,"PM
+2.5",1,2018-09-24
+Noida,Good,47,CO,1,2018-09-25
+Noida,Satisfactory,98,"PM
+10",1,2018-09-26
+Noida,Moderate,180,"PM
+10",1,2018-09-27
+Noida,Poor,219,"PM
+10",1,2018-09-28
+Noida,Poor,258,"PM
+10",1,2018-09-29
+Noida,Moderate,150,"PM
+10",1,2018-09-30
+Noida,Moderate,149,"PM
+10",1,2018-10-01
+Noida,Moderate,199,"PM
+10",1,2018-10-02
+Noida,Poor,218,"PM , PM
+2.5 10",2,2018-10-03
+Noida,Poor,257,"PM , PM
+2.5 10",2,2018-10-04
+Noida,Poor,278,"PM , PM
+2.5 10",2,2018-10-05
+Noida,Poor,232,"PM , PM
+2.5 10",2,2018-10-06
+Noida,Moderate,198,"PM , PM
+2.5 10",2,2018-10-07
+Noida,Poor,280,"PM
+2.5",2,2018-10-08
+Noida,Poor,266,"PM
+2.5",2,2018-10-09
+Noida,Poor,243,"PM , PM
+2.5 10",2,2018-10-10
+Noida,Moderate,198,"PM
+10",2,2018-10-11
+Noida,Moderate,132,"PM
+10",1,2018-10-12
+Noida,Poor,257,"PM
+2.5",2,2018-10-13
+Noida,Moderate,194,"PM
+2.5",2,2018-10-14
+Noida,Poor,248,"PM , PM
+10 2.5",2,2018-10-15
+Noida,Very Poor,311,"PM
+10",2,2018-10-16
+Noida,Very Poor,302,"PM
+10",2,2018-10-17
+Noida,Very Poor,316,"PM
+10",2,2018-10-18
+Noida,Poor,289,"PM
+10",2,2018-10-19
+Noida,Very Poor,319,"PM
+2.5",2,2018-10-20
+Noida,Poor,276,"PM
+2.5",2,2018-10-21
+Noida,Poor,266,"PM
+2.5",2,2018-10-22
+Noida,Very Poor,340,"PM
+10",2,2018-10-24
+Noida,Very Poor,316,"PM , PM
+10 2.5",2,2018-10-25
+Noida,Very Poor,352,"PM
+2.5",2,2018-10-26
+Noida,Very Poor,385,"PM
+10",2,2018-10-27
+Noida,Very Poor,385,"PM
+2.5",1,2018-10-28
+Noida,Very Poor,374,"PM
+10",1,2018-10-29
+Noida,Severe,408,"PM
+10",2,2018-10-30
+Noida,Very Poor,347,"PM
+2.5",2,2018-10-31
+Noida,Severe,407,"PM
+10",1,2018-11-01
+Noida,Very Poor,366,"PM
+2.5",2,2018-11-02
+Noida,Very Poor,333,"PM
+2.5",2,2018-11-03
+Noida,Moderate,154,"PM
+2.5",2,2018-11-04
+Noida,Severe,433,"PM
+2.5",1,2018-11-05
+Noida,Very Poor,347,"PM
+2.5",2,2018-11-06
+Noida,Poor,288,"PM
+2.5",2,2018-11-07
+Noida,Severe,432,"PM
+2.5",1,2018-11-08
+Noida,Severe,442,"PM
+2.5",2,2018-11-09
+Noida,Very Poor,386,"PM
+2.5",2,2018-11-10
+Noida,Severe,445,"PM
+2.5",2,2018-11-11
+Noida,Severe,411,"PM
+2.5",2,2018-11-12
+Noida,Severe,426,"PM , PM
+10 2.5",2,2018-11-13
+Noida,Very Poor,332,"PM
+2.5",2,2018-11-14
+Noida,Poor,229,"PM
+2.5",2,2018-11-15
+Noida,Poor,267,"PM
+2.5",2,2018-11-16
+Noida,Poor,275,"PM
+2.5",2,2018-11-17
+Noida,Very Poor,336,"PM
+2.5",2,2018-11-18
+Noida,Very Poor,348,"PM
+2.5",2,2018-11-19
+Noida,Very Poor,386,"PM
+2.5",1,2018-11-20
+Noida,Very Poor,377,"PM
+2.5",2,2018-11-21
+Noida,Poor,272,"PM
+2.5",2,2018-11-22
+Noida,Very Poor,362,"PM
+10",2,2018-11-23
+Noida,Poor,228,"PM
+2.5",2,2018-11-24
+Noida,Poor,268,"PM
+2.5",1,2018-11-25
+Noida,Very Poor,356,"PM , PM
+10 2.5",2,2018-11-26
+Noida,Very Poor,383,"PM , PM
+2.5 10",2,2018-11-27
+Noida,Very Poor,308,"PM
+2.5",2,2018-11-28
+Noida,Very Poor,366,"PM
+2.5",2,2018-11-29
+Noida,Very Poor,380,"PM
+2.5",1,2018-11-30
+Noida,Very Poor,309,"PM
+2.5",2,2018-12-01
+Noida,Very Poor,368,"PM
+2.5",1,2018-12-03
+Noida,Very Poor,388,"PM
+2.5",2,2018-12-04
+Noida,Very Poor,352,"PM , PM
+10 2.5",2,2018-12-05
+Noida,Very Poor,394,"PM
+2.5",2,2018-12-06
+Noida,Very Poor,372,"PM , PM
+2.5 10",2,2018-12-07
+Noida,Very Poor,379,"PM
+2.5",1,2018-12-08
+Noida,Severe,424,"PM
+2.5",1,2018-12-09
+Noida,Severe,452,"PM
+2.5",1,2018-12-10
+Noida,Severe,420,"PM
+2.5",2,2018-12-11
+Noida,Very Poor,390,"PM
+2.5",2,2018-12-12
+Noida,Moderate,188,"PM
+2.5",2,2018-12-13
+Noida,Poor,230,"PM
+2.5",2,2018-12-14
+Noida,Poor,237,"PM
+2.5",2,2018-12-15
+Noida,Poor,272,"PM
+2.5",2,2018-12-16
+Noida,Very Poor,334,"PM
+2.5",2,2018-12-17
+Noida,Very Poor,323,"PM
+2.5",2,2018-12-18
+Noida,Very Poor,324,"PM , PM
+2.5 10",2,2018-12-19
+Noida,Severe,404,"PM
+2.5",2,2018-12-20
+Noida,Very Poor,394,"PM
+2.5",2,2018-12-21
+Noida,Severe,434,"PM
+2.5",2,2018-12-22
+Noida,Severe,466,"PM , PM
+2.5 10",2,2018-12-23
+Noida,Severe,464,"PM
+2.5",2,2018-12-24
+Noida,Very Poor,394,"PM
+2.5",2,2018-12-25
+Noida,Very Poor,386,"PM
+2.5",2,2018-12-26
+Noida,Very Poor,388,"PM
+2.5",2,2018-12-27
+Noida,Very Poor,368,"PM
+2.5",2,2018-12-28
+Noida,Very Poor,370,"PM , PM
+2.5 10",2,2018-12-29
+Noida,Severe,426,"PM , PM
+2.5 10",2,2018-12-30
+Noida,Severe,422,"PM
+2.5",2,2018-12-31
+Noida,Severe,408,"PM , PM
+2.5 10",2,2019-01-01
+Noida,Severe,412,"PM
+2.5",1,2019-01-02
+Noida,Severe,447,"PM
+2.5",2,2019-01-03
+Noida,Very Poor,385,"PM
+2.5",2,2019-01-04
+Noida,Severe,403,"PM
+2.5",2,2019-01-05
+Noida,Very Poor,332,"PM
+2.5",2,2019-01-06
+Noida,Very Poor,334,"PM
+2.5",1,2019-01-07
+Noida,Poor,292,"PM
+2.5",2,2019-01-08
+Noida,Poor,264,"PM
+2.5",2,2019-01-09
+Noida,Poor,290,"PM
+2.5",2,2019-01-10
+Noida,Very Poor,362,"PM
+2.5",2,2019-01-11
+Noida,Severe,441,"PM
+2.5",2,2019-01-12
+Noida,Severe,425,"PM
+2.5",1,2019-01-13
+Noida,Poor,236,"PM
+2.5",2,2019-01-14
+Noida,Poor,206,"PM
+2.5",2,2019-01-15
+Noida,Very Poor,356,"PM
+2.5",2,2019-01-16
+Noida,Severe,440,"PM , PM
+2.5 10",2,2019-01-17
+Noida,Severe,405,"PM
+2.5",1,2019-01-18
+Noida,Severe,403,"PM , PM
+10 2.5",2,2019-01-19
+Noida,Severe,433,"PM , PM
+10 2.5",2,2019-01-20
+Noida,Very Poor,352,"PM
+2.5",2,2019-01-21
+Noida,Satisfactory,95,"PM
+2.5",2,2019-01-22
+Noida,Poor,224,"PM
+2.5",2,2019-01-23
+Noida,Poor,292,"PM
+2.5",2,2019-01-24
+Noida,Moderate,134,"PM
+2.5",2,2019-01-25
+Noida,Moderate,198,"PM
+2.5",2,2019-01-26
+Noida,Poor,220,"PM
+2.5",2,2019-01-27
+Noida,Poor,254,"PM
+2.5",1,2019-01-28
+Noida,Poor,238,"PM
+2.5",2,2019-01-29
+Noida,Very Poor,302,"PM
+2.5",2,2019-01-30
+Noida,Very Poor,334,"PM , PM
+2.5 10",2,2019-01-31
+Noida,Poor,281,"PM
+2.5",2,2019-02-01
+Noida,Very Poor,346,"PM
+2.5",2,2019-02-02
+Noida,Poor,274,"PM , PM
+2.5 10",2,2019-02-03
+Noida,Very Poor,316,"PM
+2.5",2,2019-02-04
+Noida,Very Poor,377,"PM , PM
+10 2.5",2,2019-02-05
+Noida,Very Poor,369,"PM
+2.5",1,2019-02-06
+Noida,Moderate,159,"PM , PM
+2.5 10",2,2019-02-07
+Noida,Moderate,140,"PM , PM
+2.5 10",2,2019-02-08
+Noida,Moderate,130,"PM , PM
+2.5 10",2,2019-02-09
+Noida,Poor,265,"PM
+2.5",1,2019-02-10
+Noida,Very Poor,304,"PM
+2.5",2,2019-02-11
+Noida,Very Poor,336,"PM
+2.5",2,2019-02-12
+Noida,Severe,402,"PM
+2.5",1,2019-02-13
+Noida,Very Poor,331,"PM
+2.5",2,2019-02-14
+Noida,Poor,229,"PM
+2.5",2,2019-02-15
+Noida,Poor,269,"PM
+2.5",2,2019-02-16
+Noida,Poor,228,"PM
+2.5",2,2019-02-17
+Noida,Poor,275,"PM
+2.5",1,2019-02-18
+Noida,Poor,257,"PM
+2.5",1,2019-02-19
+Noida,Poor,276,"PM
+2.5",1,2019-02-20
+Noida,Moderate,126,"PM
+2.5",1,2019-02-21
+Noida,Poor,208,"PM , PM
+2.5 10",2,2019-02-22
+Noida,Satisfactory,92,"PM
+10",2,2019-02-23
+Noida,Moderate,173,"PM
+2.5",1,2019-02-24
+Noida,Poor,202,"PM
+2.5",2,2019-02-25
+Noida,Moderate,101,"PM , PM
+2.5 10",2,2019-02-26
+Noida,Satisfactory,82,"PM , PM
+2.5 10",2,2019-02-27
+Noida,Moderate,183,"PM
+2.5",2,2019-02-28
+Noida,Poor,209,"PM
+2.5",1,2019-03-01
+Noida,Poor,250,"PM
+2.5",2,2019-03-02
+Noida,Moderate,115,"PM
+2.5",2,2019-03-03
+Noida,Poor,240,"PM
+2.5",2,2019-03-04
+Noida,Moderate,136,"PM , PM
+2.5 10",2,2019-03-05
+Noida,Poor,203,"PM
+2.5",1,2019-03-06
+Noida,Poor,206,"PM
+2.5",2,2019-03-07
+Noida,Moderate,200,"PM
+2.5",2,2019-03-08
+Noida,Moderate,186,"PM
+2.5",1,2019-03-09
+Noida,Moderate,138,"PM
+2.5",1,2019-03-10
+Noida,Moderate,177,"PM , PM
+2.5 10",2,2019-03-11
+Noida,Moderate,122,"PM , PM
+2.5 10",2,2019-03-12
+Noida,Moderate,171,"PM
+10",2,2019-03-13
+Noida,Poor,270,"PM
+2.5",2,2019-03-14
+Noida,Moderate,133,"PM , PM
+2.5 10",2,2019-03-15
+Noida,Moderate,120,"PM , PM
+2.5 10",2,2019-03-16
+Noida,Moderate,182,"PM
+2.5",2,2019-03-17
+Noida,Moderate,185,"PM
+2.5",2,2019-03-18
+Noida,Poor,204,"PM
+2.5",2,2019-03-19
+Noida,Poor,208,"PM , PM
+2.5 10",2,2019-03-20
+Noida,Poor,237,"PM
+2.5",1,2019-03-21
+Noida,Moderate,104,"PM
+10",1,2019-03-22
+Noida,Moderate,112,"PM
+10",2,2019-03-23
+Noida,Moderate,121,"PM
+10",2,2019-03-24
+Noida,Moderate,134,"PM , PM
+2.5 10",2,2019-03-25
+Noida,Moderate,143,"PM , PM
+2.5 10",2,2019-03-26
+Noida,Moderate,145,"PM
+10",2,2019-03-27
+Noida,Poor,222,"PM , PM
+10 2.5",2,2019-03-28
+Noida,Poor,259,"PM
+10",2,2019-03-29
+Noida,Poor,247,"PM
+2.5",2,2019-03-30
+Noida,Moderate,180,"PM
+10",2,2019-03-31
+Noida,Moderate,145,"PM
+10",2,2019-04-01
+Noida,Moderate,196,"PM
+10",2,2019-04-02
+Noida,Moderate,166,"PM
+10",2,2019-04-03
+Noida,Poor,256,"PM , PM
+10 2.5",2,2019-04-04
+Noida,Poor,282,"PM , PM
+10 2.5",2,2019-04-05
+Noida,Poor,292,"PM
+10",2,2019-04-06
+Noida,Poor,292,"PM
+10",2,2019-04-07
+Noida,Poor,270,"PM
+10",2,2019-04-08
+Noida,Moderate,179,"PM
+10",2,2019-04-09
+Noida,Poor,264,"PM
+10",2,2019-04-10
+Noida,Moderate,183,"PM
+10",2,2019-04-11
+Noida,Moderate,194,"PM
+10",1,2019-04-12
+Noida,Moderate,170,"PM
+10",1,2019-04-13
+Noida,Moderate,132,"PM
+10",1,2019-04-14
+Noida,Moderate,160,"PM
+10",2,2019-04-15
+Noida,Moderate,186,"PM
+10",2,2019-04-16
+Noida,Satisfactory,95,"PM
+10",1,2019-04-17
+Noida,Satisfactory,65,"PM
+10",1,2019-04-18
+Noida,Moderate,158,"PM
+2.5",2,2019-04-19
+Noida,Moderate,168,"PM , PM
+2.5 10",2,2019-04-20
+Noida,Poor,223,"PM
+10",2,2019-04-21
+Noida,Poor,223,"PM
+2.5",1,2019-04-22
+Noida,Poor,257,"PM
+10",1,2019-04-23
+Noida,Poor,210,"PM
+10",2,2019-04-24
+Noida,Poor,237,"PM
+10",1,2019-04-25
+Noida,Poor,232,"PM
+10",2,2019-04-26
+Noida,Poor,252,"PM
+10",2,2019-04-27
+Noida,Poor,239,"PM
+10",2,2019-04-28
+Noida,Poor,232,"PM
+10",2,2019-04-29
+Noida,Poor,265,"PM
+10",1,2019-04-30
+Noida,Very Poor,325,"PM
+10",1,2019-05-01
+Noida,Poor,268,"PM
+10",2,2019-05-02
+Noida,Moderate,170,"PM
+10",2,2019-05-03
+Noida,Moderate,185,"PM
+10",1,2019-05-04
+Noida,Moderate,200,"PM
+10",1,2019-05-05
+Noida,Poor,265,"PM
+10",1,2019-05-06
+Noida,Very Poor,312,"PM
+10",1,2019-05-07
+Noida,Very Poor,396,"PM
+10",2,2019-05-08
+Noida,Very Poor,372,"PM
+10",2,2019-05-09
+Noida,Very Poor,308,"PM
+10",2,2019-05-10
+Noida,Poor,292,"PM , PM
+10 2.5",2,2019-05-11
+Noida,Very Poor,338,"PM
+10",2,2019-05-12
+Noida,Very Poor,347,"PM
+10",2,2019-05-13
+Noida,Moderate,140,"PM , PM
+10 2.5",2,2019-05-14
+Noida,Moderate,182,"PM
+2.5",2,2019-05-15
+Noida,Moderate,199,"PM
+10",2,2019-05-16
+Noida,Poor,274,"PM
+10",2,2019-05-17
+Noida,Satisfactory,94,"PM
+10",2,2019-05-18
+Noida,Moderate,154,"PM , PM
+2.5 10",2,2019-05-19
+Noida,Poor,214,"PM
+10",2,2019-05-20
+Noida,Moderate,171,"PM , PM
+10 2.5",2,2019-05-21
+Noida,Moderate,172,"PM
+10",2,2019-05-22
+Noida,Poor,224,"PM
+10",2,2019-05-23
+Noida,Moderate,137,"CO, PM
+10",2,2019-05-24
+Noida,Moderate,116,"PM
+10",2,2019-05-25
+Noida,Moderate,126,"PM
+10",2,2019-05-26
+Noida,Moderate,162,"PM
+10",2,2019-05-27
+Noida,Moderate,164,"PM
+10",2,2019-05-28
+Noida,Moderate,151,"PM , PM
+10 2.5",2,2019-05-29
+Noida,Moderate,199,"PM , PM
+10 2.5",2,2019-05-30
+Noida,Very Poor,320,"PM
+10",2,2019-05-31
+Noida,Poor,262,"PM
+10",2,2019-06-01
+Noida,Poor,204,"PM
+10",2,2019-06-02
+Noida,Poor,289,"PM
+10",1,2019-06-03
+Noida,Moderate,151,"PM
+10",2,2019-06-04
+Noida,Moderate,171,"PM
+10",2,2019-06-05
+Noida,Poor,214,"PM
+10",2,2019-06-06
+Noida,Moderate,165,"PM
+10",2,2019-06-07
+Noida,Moderate,165,"PM , PM
+2.5 10",2,2019-06-08
+Noida,Poor,274,"PM
+10",2,2019-06-09
+Noida,Poor,223,"PM
+10",2,2019-06-10
+Noida,Very Poor,319,"PM
+10",1,2019-06-11
+Noida,Poor,272,"PM
+10",1,2019-06-12
+Noida,Poor,217,"PM
+10",2,2019-06-13
+Noida,Moderate,168,"PM
+10",2,2019-06-14
+Noida,Poor,252,"PM
+10",2,2019-06-15
+Noida,Poor,214,"PM
+10",2,2019-06-16
+Noida,Moderate,140,"PM
+10",2,2019-06-17
+Noida,Moderate,132,"CO, PM
+10",2,2019-06-18
+Noida,Moderate,200,"PM
+10",2,2019-06-19
+Noida,Moderate,122,"PM
+10",2,2019-06-20
+Noida,Moderate,170,"PM
+10",2,2019-06-21
+Noida,Moderate,171,"PM , PM
+10 2.5",2,2019-06-22
+Noida,Moderate,120,"PM
+10",2,2019-06-23
+Noida,Moderate,111,"PM
+10",2,2019-06-24
+Noida,Satisfactory,90,"PM
+10",2,2019-06-25
+Noida,Moderate,156,"PM , PM
+2.5 10",2,2019-06-26
+Noida,Moderate,198,"PM
+10",2,2019-06-27
+Noida,Poor,208,"PM
+10",4,2019-06-28
+Noida,Poor,255,"PM
+10",3,2019-06-29
+Noida,Poor,289,"PM
+10",4,2019-06-30
+Noida,Poor,213,"PM
+10",4,2019-07-01
+Noida,Poor,243,"PM
+10",4,2019-07-02
+Noida,Moderate,128,"PM , PM
+10 2.5",4,2019-07-03
+Noida,Moderate,104,"PM
+10",4,2019-07-04
+Noida,Moderate,110,"PM
+10",2,2019-07-05
+Noida,Satisfactory,75,"OZONE, PM
+10",4,2019-07-06
+Noida,Satisfactory,95,"OZONE, PM
+10",4,2019-07-07
+Noida,Moderate,177,"OZONE, PM
+10",2,2019-07-08
+Noida,Moderate,128,"PM
+10",4,2019-07-09
+Noida,Moderate,154,"PM
+10",4,2019-07-10
+Noida,Very Poor,388,"PM
+10",4,2019-07-11
+Noida,Poor,294,"PM
+10",4,2019-07-12
+Noida,Very Poor,346,"PM
+10",4,2019-07-13
+Noida,Poor,258,"PM
+10",3,2019-07-14
+Noida,Moderate,182,"PM
+10",3,2019-07-15
+Noida,Satisfactory,86,"PM
+10",3,2019-07-16
+Noida,Moderate,120,"OZONE, CO, PM
+10",4,2019-07-17
+Noida,Satisfactory,87,"PM , PM
+2.5 10",4,2019-07-18
+Noida,Moderate,169,"OZONE, PM
+10",4,2019-07-19
+Noida,Moderate,116,"PM
+10",4,2019-07-20
+Noida,Moderate,116,"PM
+10",4,2019-07-21
+Noida,Moderate,111,"PM , PM
+2.5 10",4,2019-07-22
+Noida,Moderate,142,"PM , PM ,
+2.5 10
+OZONE",4,2019-07-23
+Noida,Moderate,178,"PM , OZONE,
+2.5
+PM
+10",4,2019-07-24
+Noida,Satisfactory,67,"PM
+10",4,2019-07-25
+Noida,Satisfactory,60,"PM
+10",4,2019-07-26
+Noida,Good,39,"OZONE, NO , PM
+2 10",4,2019-07-27
+Noida,Good,41,"OZONE, PM ,
+2.5
+PM
+10",4,2019-07-28
+Noida,Good,48,"PM , OZONE
+10",4,2019-07-29
+Noida,Satisfactory,63,"PM
+10",4,2019-07-30
+Noida,Satisfactory,69,"PM
+10",4,2019-07-31
+Noida,Satisfactory,82,"PM , OZONE
+10",4,2019-08-01
+Noida,Satisfactory,74,"PM
+10",4,2019-08-02
+Noida,Satisfactory,80,"PM
+10",4,2019-08-03
+Noida,Satisfactory,79,"PM
+10",3,2019-08-04
+Noida,Satisfactory,95,"PM
+10",3,2019-08-05
+Noida,Satisfactory,71,"PM , PM
+10 2.5",3,2019-08-06
+Noida,Satisfactory,76,"PM
+10",4,2019-08-07
+Noida,Satisfactory,66,"PM
+10",4,2019-08-08
+Noida,Satisfactory,51,"PM , CO
+10",3,2019-08-09
+Noida,Good,39,"PM , OZONE, CO
+10",3,2019-08-10
+Noida,Satisfactory,57,"PM
+10",4,2019-08-11
+Noida,Satisfactory,58,"PM
+10",4,2019-08-12
+Noida,Satisfactory,77,"PM
+10",3,2019-08-13
+Noida,Satisfactory,52,"OZONE, PM , CO
+10",3,2019-08-14
+Noida,Satisfactory,83,"PM , PM
+2.5 10",4,2019-08-15
+Noida,Good,37,"OZONE, PM
+10",4,2019-08-16
+Noida,Good,30,"NO , CO, OZONE
+2",4,2019-08-17
+Noida,Good,38,"PM , CO, OZONE
+10",3,2019-08-18
+Noida,Satisfactory,91,"OZONE, PM
+10",4,2019-08-19
+Noida,Moderate,102,"PM
+10",4,2019-08-20
+Noida,Moderate,120,"PM
+10",4,2019-08-21
+Noida,Moderate,139,"PM
+10",4,2019-08-22
+Noida,Moderate,129,"PM
+10",4,2019-08-23
+Noida,Moderate,142,"PM
+10",4,2019-08-24
+Noida,Satisfactory,79,"PM , PM
+10 2.5",4,2019-08-25
+Noida,Good,42,"OZONE, PM ,
+10
+PM
+2.5",4,2019-08-26
+Noida,Satisfactory,77,"PM , OZONE
+10",4,2019-08-27
+Noida,Satisfactory,96,"PM
+10",4,2019-08-28
+Noida,Satisfactory,87,"PM , OZONE
+10",4,2019-08-29
+Noida,Satisfactory,81,"PM
+10",4,2019-08-30
+Noida,Moderate,134,"OZONE, PM
+10",4,2019-08-31
+Noida,Satisfactory,80,"PM , PM
+2.5 10",4,2019-09-01
+Noida,Moderate,126,"OZONE, PM ,
+10
+PM
+2.5",4,2019-09-02
+Noida,Moderate,163,"PM , OZONE,
+2.5
+PM
+10",3,2019-09-03
+Noida,Moderate,157,"PM , PM
+2.5 10",3,2019-09-04
+Noida,Satisfactory,86,"PM
+10",4,2019-09-05
+Noida,Satisfactory,78,"PM
+10",4,2019-09-06
+Noida,Satisfactory,76,"PM
+10",4,2019-09-07
+Noida,Satisfactory,83,"OZONE, PM
+10",3,2019-09-08
+Noida,Moderate,126,"OZONE, PM
+10",3,2019-09-09
+Noida,Moderate,180,"OZONE, PM
+10",4,2019-09-10
+Noida,Moderate,189,"OZONE, PM ,
+2.5
+PM
+10",4,2019-09-11
+Noida,Moderate,127,"PM , PM
+10 2.5",3,2019-09-12
+Noida,Satisfactory,79,"PM
+10",4,2019-09-13
+Noida,Satisfactory,68,"PM , OZONE
+10",4,2019-09-14
+Noida,Satisfactory,61,"PM
+10",4,2019-09-15
+Noida,Moderate,151,"OZONE, PM
+10",4,2019-09-16
+Noida,Moderate,181,"OZONE, PM ,
+10
+PM
+2.5",4,2019-09-17
+Noida,Satisfactory,91,"PM
+10",1,2019-09-18
+Noida,Satisfactory,51,"PM , OZONE
+10",3,2019-09-19
+Noida,Satisfactory,72,"PM
+10",3,2019-09-20
+Noida,Satisfactory,86,"PM
+10",3,2019-09-21
+Noida,Satisfactory,67,"PM
+10",3,2019-09-22
+Noida,Satisfactory,100,"OZONE, PM
+10",3,2019-09-23
+Noida,Satisfactory,82,"PM
+10",4,2019-09-24
+Noida,Satisfactory,74,"PM
+10",3,2019-09-25
+Noida,Satisfactory,52,"PM
+10",3,2019-09-26
+Noida,Good,50,"PM , CO
+10",4,2019-09-27
+Noida,Good,50,"PM
+10",4,2019-09-28
+Noida,Good,40,"PM
+10",4,2019-09-29
+Noida,Good,48,"PM
+10",4,2019-09-30
+Noida,Satisfactory,82,"PM
+10",4,2019-10-01
+Noida,Moderate,118,"OZONE, PM
+10",4,2019-10-02
+Noida,Moderate,177,"OZONE, PM
+10",4,2019-10-03
+Noida,Moderate,116,"PM , PM
+10 2.5",4,2019-10-04
+Noida,Moderate,102,"PM
+10",4,2019-10-05
+Noida,Moderate,136,"OZONE, PM
+10",4,2019-10-06
+Noida,Moderate,144,"PM
+10",4,2019-10-07
+Noida,Moderate,114,"PM
+10",4,2019-10-08
+Noida,Moderate,175,"OZONE, PM ,
+2.5
+PM
+10",4,2019-10-09
+Noida,Moderate,193,"OZONE, PM ,
+2.5
+PM
+10",4,2019-10-10
+Noida,Poor,262,"PM
+2.5",3,2019-10-11
+Noida,Poor,252,"PM
+2.5",4,2019-10-12
+Noida,Very Poor,310,"PM , PM
+10 2.5",4,2019-10-13
+Noida,Poor,273,"PM
+2.5",4,2019-10-14
+Noida,Poor,297,"PM , PM
+2.5 10",4,2019-10-15
+Noida,Very Poor,326,"PM
+2.5",4,2019-10-16
+Noida,Poor,283,"PM
+2.5",4,2019-10-17
+Noida,Poor,243,"PM
+2.5",4,2019-10-18
+Noida,Moderate,167,"PM
+10",4,2019-10-19
+Noida,Poor,250,"PM
+2.5",4,2019-10-20
+Noida,Poor,260,"PM
+2.5",4,2019-10-21
+Noida,Poor,210,"PM
+2.5",4,2019-10-22
+Noida,Poor,246,"PM , PM
+10 2.5",4,2019-10-23
+Noida,Very Poor,319,"PM , PM
+2.5 10",4,2019-10-24
+Noida,Poor,284,"PM
+2.5",4,2019-10-25
+Noida,Poor,280,"PM
+2.5",4,2019-10-26
+Noida,Very Poor,358,"PM
+2.5",4,2019-10-27
+Noida,Very Poor,397,"PM
+2.5",4,2019-10-28
+Noida,Severe,439,"PM
+2.5",4,2019-10-29
+Noida,Severe,450,"PM
+2.5",4,2019-10-30
+Noida,Severe,452,"PM
+2.5",4,2019-10-31
+Noida,Severe,499,"PM
+2.5",4,2019-11-01
+Noida,Severe,432,"PM
+2.5",4,2019-11-02
+Noida,Severe,495,"PM
+2.5",4,2019-11-03
+Noida,Severe,430,"PM
+2.5",3,2019-11-04
+Noida,Very Poor,351,"PM
+2.5",4,2019-11-05
+Noida,Poor,237,"PM
+2.5",4,2019-11-06
+Noida,Very Poor,328,"PM
+2.5",4,2019-11-07
+Noida,Very Poor,366,"PM
+2.5",4,2019-11-08
+Noida,Very Poor,302,"PM
+2.5",4,2019-11-09
+Noida,Very Poor,344,"PM
+2.5",4,2019-11-10
+Noida,Very Poor,381,"PM
+2.5",4,2019-11-11
+Noida,Severe,440,"PM
+2.5",4,2019-11-12
+Noida,Severe,470,"PM
+2.5",4,2019-11-13
+Noida,Severe,486,"PM
+2.5",4,2019-11-14
+Noida,Severe,469,"PM , PM
+2.5 10",4,2019-11-15
+Noida,Very Poor,338,"PM
+2.5",4,2019-11-16
+Noida,Poor,203,"PM
+2.5",4,2019-11-17
+Noida,Poor,227,"PM
+2.5",3,2019-11-18
+Noida,Poor,256,"PM , PM
+2.5 10",4,2019-11-19
+Noida,Very Poor,320,"PM
+2.5",4,2019-11-20
+Noida,Severe,402,"PM
+2.5",3,2019-11-21
+Noida,Very Poor,380,"PM
+2.5",4,2019-11-22
+Noida,Very Poor,322,"PM
+2.5",4,2019-11-23
+Noida,Poor,225,"PM
+2.5",4,2019-11-24
+Noida,Poor,236,"PM
+2.5",3,2019-11-25
+Noida,Poor,259,"PM
+2.5",4,2019-11-26
+Noida,Moderate,115,"PM , PM
+10 2.5",4,2019-11-27
+Noida,Moderate,101,"PM
+2.5",4,2019-11-28
+Noida,Satisfactory,83,"PM , CO, PM
+2.5 10",4,2019-11-29
+Noida,Poor,203,"PM
+2.5",4,2019-11-30
+Noida,Poor,241,"PM
+2.5",4,2019-12-01
+Noida,Poor,275,"PM
+2.5",4,2019-12-02
+Noida,Poor,273,"PM
+2.5",4,2019-12-03
+Noida,Very Poor,304,"PM
+2.5",4,2019-12-04
+Noida,Severe,414,"PM
+2.5",4,2019-12-05
+Noida,Severe,413,"PM
+2.5",3,2019-12-06
+Noida,Very Poor,388,"PM
+2.5",4,2019-12-07
+Noida,Severe,414,"PM
+2.5",3,2019-12-08
+Noida,Very Poor,372,"PM
+2.5",3,2019-12-09
+Noida,Very Poor,395,"PM
+2.5",4,2019-12-10
+Noida,Severe,426,"PM , PM
+2.5 10",4,2019-12-11
+Noida,Severe,434,"PM , PM
+2.5 10",4,2019-12-12
+Noida,Poor,254,"PM
+2.5",3,2019-12-13
+Noida,Moderate,171,"PM
+2.5",4,2019-12-14
+Noida,Poor,237,"PM
+2.5",3,2019-12-15
+Noida,Poor,227,"PM
+2.5",3,2019-12-16
+Noida,Poor,211,"PM
+2.5",4,2019-12-17
+Noida,Very Poor,318,"PM
+2.5",2,2019-12-18
+Noida,Very Poor,378,"PM
+2.5",4,2019-12-19
+Noida,Severe,463,"PM
+2.5",3,2019-12-20
+Noida,Severe,474,"PM
+2.5",3,2019-12-21
+Noida,Very Poor,352,"PM
+2.5",3,2019-12-22
+Noida,Very Poor,351,"PM
+2.5",4,2019-12-23
+Noida,Severe,413,"PM
+2.5",4,2019-12-24
+Noida,Very Poor,383,"PM
+2.5",3,2019-12-25
+Noida,Very Poor,370,"PM
+2.5",3,2019-12-26
+Noida,Very Poor,396,"PM
+2.5",3,2019-12-27
+Noida,Severe,442,"PM , PM
+2.5 10",4,2019-12-28
+Noida,Severe,456,"PM
+2.5",4,2019-12-29
+Noida,Severe,464,"PM
+2.5",4,2019-12-30
+Noida,Very Poor,375,"PM
+2.5",4,2019-12-31
+Noida,Severe,438,"PM
+2.5",4,2020-01-01
+Noida,Severe,410,"PM
+2.5",4,2020-01-02
+Noida,Very Poor,340,"PM
+2.5",4,2020-01-03
+Noida,Very Poor,357,"PM
+2.5",4,2020-01-04
+Noida,Very Poor,342,"PM
+2.5",4,2020-01-05
+Noida,Very Poor,340,"PM
+2.5",4,2020-01-06
+Noida,Poor,274,"PM
+2.5",4,2020-01-07
+Noida,Very Poor,313,"PM
+2.5",4,2020-01-08
+Noida,Poor,238,"PM
+2.5",3,2020-01-09
+Noida,Poor,275,"PM
+2.5",4,2020-01-10
+Noida,Poor,294,"PM
+2.5",4,2020-01-11
+Noida,Very Poor,370,"PM
+2.5",3,2020-01-12
+Noida,Very Poor,387,"PM
+2.5",4,2020-01-13
+Noida,Very Poor,358,"PM
+2.5",4,2020-01-14
+Noida,Poor,264,"PM
+2.5",4,2020-01-15
+Noida,Very Poor,316,"PM
+2.5",4,2020-01-16
+Noida,Poor,225,"PM
+2.5",4,2020-01-17
+Noida,Poor,287,"PM
+2.5",4,2020-01-18
+Noida,Very Poor,326,"PM
+2.5",4,2020-01-19
+Noida,Very Poor,308,"PM
+2.5",4,2020-01-20
+Noida,Very Poor,361,"PM
+2.5",4,2020-01-21
+Noida,Very Poor,387,"PM
+2.5",4,2020-01-22
+Noida,Poor,211,"PM
+2.5",4,2020-01-23
+Noida,Moderate,137,"PM
+2.5",4,2020-01-24
+Noida,Poor,267,"PM
+2.5",4,2020-01-25
+Noida,Very Poor,351,"PM
+2.5",4,2020-01-26
+Noida,Very Poor,368,"PM
+2.5",4,2020-01-27
+Noida,Poor,288,"PM
+2.5",4,2020-01-28
+Noida,Poor,211,"PM
+2.5",4,2020-01-29
+Noida,Moderate,192,"PM
+2.5",4,2020-01-30
+Noida,Moderate,184,"PM
+2.5",4,2020-01-31
+Noida,Poor,235,"PM
+2.5",4,2020-02-01
+Noida,Poor,248,"PM
+2.5",4,2020-02-02
+Noida,Poor,280,"PM
+2.5",4,2020-02-03
+Noida,Very Poor,324,"PM
+2.5",4,2020-02-04
+Noida,Very Poor,311,"PM
+2.5",4,2020-02-05
+Noida,Poor,223,"PM
+2.5",4,2020-02-06
+Noida,Very Poor,313,"PM
+2.5",4,2020-02-07
+Noida,Poor,290,"PM
+2.5",4,2020-02-08
+Noida,Poor,290,"PM
+2.5",4,2020-02-09
+Noida,Very Poor,323,"PM
+2.5",4,2020-02-10
+Noida,Very Poor,337,"PM
+2.5",4,2020-02-11
+Noida,Very Poor,322,"PM , PM
+2.5 10",4,2020-02-12
+Noida,Poor,226,"PM
+2.5",4,2020-02-13
+Noida,Moderate,156,"PM , PM
+2.5 10",4,2020-02-14
+Noida,Moderate,153,"O , PM
+3 10",4,2020-02-15
+Noida,Poor,242,"PM
+2.5",4,2020-02-16
+Noida,Poor,279,"PM , PM
+2.5 10",4,2020-02-17
+Noida,Poor,232,"PM , PM
+2.5 10",4,2020-02-18
+Noida,Poor,277,"PM , PM
+2.5 10",4,2020-02-19
+Noida,Poor,253,"PM
+2.5",4,2020-02-20
+Noida,Moderate,156,"PM
+2.5",4,2020-02-21
+Noida,Satisfactory,78,"PM , PM
+2.5 10",4,2020-02-22
+Noida,Poor,232,"PM
+2.5",4,2020-02-23
+Noida,Moderate,116,"PM , PM
+2.5 10",3,2020-02-24
+Noida,Poor,254,"PM
+2.5",4,2020-02-25
+Noida,Poor,272,"PM
+2.5",4,2020-02-26
+Noida,Poor,249,"PM
+2.5",3,2020-02-27
+Noida,Poor,218,"PM
+2.5",4,2020-02-28
+Noida,Moderate,154,"PM , PM
+2.5 10",4,2020-02-29
+Noida,Satisfactory,70,"PM , O
+10 3",4,2020-03-01
+Noida,Poor,213,"PM
+2.5",4,2020-03-02
+Noida,Poor,242,"PM
+2.5",4,2020-03-03
+Noida,Moderate,197,"PM , PM
+2.5 10",4,2020-03-04
+Noida,Satisfactory,74,"PM , CO
+10",4,2020-03-05
+Noida,Good,49,"CO, O , PM
+3 10",3,2020-03-06
+Noida,Satisfactory,53,"CO, O , PM
+3 2.5",4,2020-03-07
+Noida,Moderate,167,"PM
+2.5",2,2020-03-08
+Noida,Moderate,102,"PM
+10",3,2020-03-09
+Noida,Moderate,172,"PM
+2.5",3,2020-03-10
+Noida,Moderate,110,"PM , PM
+10 2.5",4,2020-03-11
+Noida,Moderate,124,"PM , PM
+10 2.5",4,2020-03-12
+Noida,Moderate,152,"PM
+10",4,2020-03-13
+Noida,Satisfactory,82,"CO, PM
+10",4,2020-03-14
+Noida,Moderate,106,"PM , PM
+2.5 10",4,2020-03-15
+Noida,Moderate,118,"PM
+10",3,2020-03-16
+Noida,Moderate,140,"PM , PM
+2.5 10",4,2020-03-17
+Noida,Moderate,137,"PM , PM
+2.5 10",4,2020-03-18
+Noida,Moderate,184,"PM , PM
+2.5 10",4,2020-03-19
+Noida,Moderate,195,"PM
+2.5",4,2020-03-20
+Noida,Moderate,161,"O , PM , PM
+3 2.5 10",4,2020-03-21
+Noida,Moderate,176,"PM
+2.5",4,2020-03-22
+Noida,Moderate,123,"O , PM , PM
+3 2.5 10",3,2020-03-23
+Noida,Moderate,130,"PM
+2.5",3,2020-03-24
+Noida,Satisfactory,80,"PM , PM
+10 2.5",4,2020-03-25
+Noida,Satisfactory,72,"PM
+10",4,2020-03-26
+Noida,Satisfactory,60,"CO, PM
+10",4,2020-03-27
+Noida,Good,38,"CO, PM , PM
+10 2.5",4,2020-03-28
+Noida,Satisfactory,58,"CO, PM
+10",4,2020-03-29
+Noida,Satisfactory,61,"CO, PM , O
+10 3",4,2020-03-30
+Noida,Satisfactory,67,"O , CO, PM
+3 10",4,2020-03-31
+Noida,Satisfactory,73,"CO, PM
+10",3,2020-04-01
+Noida,Satisfactory,62,"CO, PM , O
+10 3",4,2020-04-02
+Noida,Satisfactory,72,"O , PM , PM
+3 2.5 10",4,2020-04-03
+Noida,Satisfactory,70,"O , CO, PM
+3 10",4,2020-04-04
+Noida,Satisfactory,84,"O , PM , CO
+3 10",4,2020-04-05
+Noida,Moderate,120,"PM , PM
+2.5 10",4,2020-04-06
+Noida,Satisfactory,78,"PM , CO, O
+10 3",3,2020-04-07
+Noida,Satisfactory,85,"PM , O , CO
+10 3",4,2020-04-08
+Noida,Satisfactory,80,"O , CO, PM
+3 10",4,2020-04-09
+Noida,Satisfactory,93,"O , PM , CO
+3 10",4,2020-04-10
+Noida,Moderate,146,"PM , PM
+2.5 10",4,2020-04-11
+Noida,Satisfactory,87,"PM , O
+10 3",4,2020-04-12
+Noida,Moderate,120,"PM , PM
+2.5 10",4,2020-04-13
+Noida,Moderate,123,"CO, PM , O
+10 3",4,2020-04-14
+Noida,Moderate,184,"PM , PM
+10 2.5",4,2020-04-15
+Noida,Poor,205,"PM , PM
+10 2.5",3,2020-04-16
+Noida,Satisfactory,100,"PM
+10",3,2020-04-17
+Noida,Satisfactory,95,"PM , PM
+10 2.5",3,2020-04-18
+Noida,Satisfactory,87,"PM , PM
+10 2.5",3,2020-04-19
+Noida,Satisfactory,88,"PM
+2.5",3,2020-04-20
+Noida,Satisfactory,90,"PM , PM
+10 2.5",3,2020-04-21
+Noida,Moderate,104,"PM
+2.5",3,2020-04-22
+Noida,Moderate,128,"PM , PM
+2.5 10",3,2020-04-23
+Noida,Moderate,116,"PM , PM
+2.5 10",3,2020-04-24
+Noida,Moderate,103,"PM , PM
+10 2.5",3,2020-04-25
+Noida,Moderate,136,"PM
+10",4,2020-04-26
+Noida,Satisfactory,92,"CO, O , PM
+3 10",4,2020-04-27
+Noida,Satisfactory,74,"PM , O , PM
+2.5 3 10",4,2020-04-28
+Noida,Moderate,132,"PM , CO
+2.5",3,2020-04-29
+Noida,Moderate,114,"PM , PM
+2.5 10",4,2020-04-30
+Noida,Moderate,138,"O , PM , PM
+3 2.5 10",4,2020-05-01
+Noida,Moderate,105,"PM , PM
+10 2.5",4,2020-05-02
+Noida,Satisfactory,88,"PM
+10",4,2020-05-03
+Noida,Satisfactory,67,"PM , CO
+10",4,2020-05-04
+Noida,Moderate,110,"PM , PM
+2.5 10",4,2020-05-05
+Noida,Moderate,120,"PM , PM
+10 2.5",4,2020-05-06
+Noida,Moderate,102,"PM
+10",4,2020-05-07
+Noida,Moderate,108,"PM , PM
+2.5 10",3,2020-05-08
+Noida,Moderate,125,"PM , PM
+10 2.5",4,2020-05-09
+Noida,Moderate,120,"PM
+10",3,2020-05-10
+Noida,Moderate,124,"O , CO
+3",3,2020-05-11
+Noida,Satisfactory,94,"CO, PM
+10",2,2020-05-12
+Noida,Moderate,132,"PM
+10",3,2020-05-13
+Noida,Moderate,124,"PM
+10",3,2020-05-14
+Noida,Satisfactory,97,"O , PM
+3 10",2,2020-05-15
+Noida,Moderate,158,"O , PM
+3 10",2,2020-05-16
+Noida,Moderate,160,"O , PM
+3 2.5",3,2020-05-17
+Noida,Moderate,184,"PM
+2.5",3,2020-05-18
+Noida,Moderate,176,"O , PM
+3 2.5",3,2020-05-19
+Noida,Moderate,156,"O , PM
+3 10",3,2020-05-20
+Noida,Moderate,136,"O , PM
+3 10",4,2020-05-21
+Noida,Moderate,185,"PM , O , PM
+2.5 3 10",4,2020-05-22
+Noida,Moderate,196,"PM , PM
+10 2.5",4,2020-05-23
+Noida,Moderate,179,"PM
+10",4,2020-05-24
+Noida,Moderate,147,"PM
+10",4,2020-05-25
+Noida,Moderate,145,"PM
+10",4,2020-05-26
+Noida,Moderate,184,"O , PM
+3 10",4,2020-05-27
+Noida,Poor,208,"PM
+10",4,2020-05-28
+Noida,Satisfactory,96,"PM
+10",4,2020-05-29
+Noida,Moderate,101,"CO, PM
+10",3,2020-05-30
+Noida,Satisfactory,61,"CO, PM
+10",3,2020-05-31
+Noida,Satisfactory,98,"O , CO, PM
+3 10",4,2020-06-01
+Noida,Moderate,128,"O , PM
+3 2.5",4,2020-06-02
+Noida,Moderate,118,"O , PM , PM
+3 2.5 10",4,2020-06-03
+Noida,Moderate,141,"PM
+10",4,2020-06-04
+Noida,Moderate,104,"O , PM
+3 10",4,2020-06-05
+Noida,Satisfactory,76,"O , CO, PM
+3 10",4,2020-06-06
+Noida,Satisfactory,88,"PM , CO
+10",3,2020-06-07
+Noida,Satisfactory,100,"O , PM , CO
+3 10",4,2020-06-08
+Noida,Moderate,124,"PM , PM
+10 2.5",4,2020-06-09
+Noida,Moderate,168,"O , PM , PM
+3 2.5 10",4,2020-06-10
+Noida,Moderate,126,"PM , PM
+2.5 10",2,2020-06-11
+Noida,Moderate,151,"PM , PM
+2.5 10",3,2020-06-12
+Noida,Moderate,139,"PM , PM
+2.5 10",4,2020-06-13
+Noida,Moderate,188,"PM , PM
+2.5 10",4,2020-06-14
+Noida,Moderate,149,"O , PM , PM
+3 2.5 10",4,2020-06-15
+Noida,Moderate,126,"O , PM , PM
+3 2.5 10",4,2020-06-16
+Noida,Satisfactory,86,"PM , PM , CO
+10 2.5",3,2020-06-17
+Noida,Moderate,129,"O , PM , PM
+3 10 2.5",4,2020-06-18
+Noida,Moderate,148,"O , PM , PM
+3 2.5 10",4,2020-06-19
+Noida,Moderate,140,"PM , O , PM
+2.5 3 10",4,2020-06-20
+Noida,Moderate,102,"PM
+10",2,2020-06-21
+Noida,Moderate,127,"O , CO, PM
+3 10",3,2020-06-22
+Noida,Satisfactory,69,"CO, PM
+10",3,2020-06-23
+Noida,Satisfactory,63,"CO, PM
+10",3,2020-06-24
+Noida,Satisfactory,89,"CO, PM
+10",3,2020-06-25
+Noida,Moderate,106,"PM
+10",3,2020-06-26
+Noida,Moderate,112,"PM
+10",3,2020-06-27
+Noida,Poor,215,"PM
+10",3,2020-06-28
+Noida,Poor,272,"PM
+10",3,2020-06-29
+Noida,Satisfactory,98,"PM
+10",3,2020-06-30
+Noida,Moderate,101,"PM
+10",3,2020-07-01
+Noida,Moderate,127,"PM , O , PM
+2.5 3 10",3,2020-07-02
+Noida,Moderate,160,"PM , PM
+2.5 10",3,2020-07-03
+Noida,Satisfactory,95,"PM , CO
+10",3,2020-07-04
+Noida,Satisfactory,72,"CO, PM
+10",3,2020-07-05
+Noida,Satisfactory,86,"CO, PM
+10",3,2020-07-06
+Noida,Satisfactory,68,"CO, PM , PM
+2.5 10",4,2020-07-07
+Noida,Satisfactory,62,"CO, PM , PM
+2.5 10",4,2020-07-08
+Noida,Satisfactory,83,"CO, PM , PM
+2.5 10",4,2020-07-09
+Noida,Satisfactory,84,"CO, PM , PM
+2.5 10",4,2020-07-10
+Noida,Satisfactory,80,"CO, PM
+10",3,2020-07-11
+Noida,Satisfactory,94,"CO, O
+3",3,2020-07-12
+Noida,Satisfactory,88,"O , CO, PM
+3 10",3,2020-07-13
+Noida,Moderate,150,"O , PM
+3 10",3,2020-07-14
+Noida,Moderate,115,"PM
+10",3,2020-07-15
+Noida,Satisfactory,70,"CO, PM
+10",3,2020-07-16
+Noida,Satisfactory,78,"CO, PM
+10",3,2020-07-17
+Noida,Satisfactory,84,"CO, PM
+10",3,2020-07-18
+Noida,Satisfactory,75,"CO, PM
+10",3,2020-07-19
+Noida,Satisfactory,80,"CO, PM
+10",3,2020-07-20
+Noida,Satisfactory,79,"CO, PM
+10",3,2020-07-21
+Noida,Satisfactory,77,CO,3,2020-07-22
+Noida,Satisfactory,77,"CO, O , PM
+3 10",4,2020-07-23
+Noida,Satisfactory,92,"PM , CO
+10",4,2020-07-24
+Noida,Satisfactory,58,"PM , CO
+10",3,2020-07-25
+Noida,Satisfactory,75,"CO, PM
+10",4,2020-07-26
+Noida,Moderate,102,"PM , CO
+10",4,2020-07-27
+Noida,Satisfactory,82,"CO, PM
+10",4,2020-07-28
+Noida,Satisfactory,87,"PM , CO, PM
+2.5 10",4,2020-07-29
+Noida,Moderate,110,CO,3,2020-07-30
+Noida,Satisfactory,84,"CO, PM
+10",4,2020-07-31
+Noida,Satisfactory,98,"CO, PM
+10",4,2020-08-01
+Noida,Satisfactory,78,"CO, PM
+10",3,2020-08-02
+Noida,Satisfactory,83,"CO, PM
+10",3,2020-08-03
+Noida,Satisfactory,76,"CO, PM
+10",3,2020-08-04
+Noida,Satisfactory,84,"CO, PM
+10",4,2020-08-05
+Noida,Satisfactory,73,"CO, PM
+10",3,2020-08-06
+Noida,Satisfactory,98,CO,3,2020-08-07
+Noida,Moderate,113,"CO, PM
+10",3,2020-08-08
+Noida,Moderate,119,CO,3,2020-08-09
+Noida,Satisfactory,88,CO,3,2020-08-10
+Noida,Satisfactory,76,"CO, PM
+10",4,2020-08-11
+Noida,Satisfactory,95,"PM , CO, PM
+2.5 10",4,2020-08-12
+Noida,Satisfactory,62,"CO, PM
+10",4,2020-08-13
+Noida,Satisfactory,54,"CO, PM
+10",4,2020-08-14
+Noida,Satisfactory,62,"CO, PM
+10",4,2020-08-15
+Noida,Satisfactory,53,"CO, PM
+10",4,2020-08-16
+Noida,Satisfactory,65,"CO, PM
+10",4,2020-08-17
+Noida,Satisfactory,75,"CO, PM
+10",4,2020-08-18
+Noida,Satisfactory,57,"CO, PM
+10",4,2020-08-19
+Noida,Satisfactory,95,"CO, O
+3",4,2020-08-20
+Noida,Satisfactory,84,"CO, PM
+10",4,2020-08-21
+Noida,Good,50,CO,4,2020-08-22
+Noida,Satisfactory,58,"CO, PM
+10",4,2020-08-23
+Noida,Good,47,"CO, SO
+2",3,2020-08-24
+Noida,Good,47,"PM , PM , SO
+2.5 10 2",3,2020-08-25
+Noida,Good,50,"CO, PM
+10",3,2020-08-26
+Noida,Satisfactory,82,"CO, PM
+10",4,2020-08-27
+Noida,Satisfactory,76,"PM , CO
+10",4,2020-08-28
+Noida,Satisfactory,78,"CO, PM
+10",3,2020-08-29
+Noida,Satisfactory,62,"PM
+10",2,2020-08-30
+Noida,Good,44,CO,2,2020-08-31
+Noida,Satisfactory,52,CO,2,2020-09-01
+Noida,Satisfactory,57,"PM
+10",3,2020-09-02
+Noida,Satisfactory,85,"PM
+10",3,2020-09-03
+Noida,Satisfactory,79,"PM
+10",3,2020-09-04
+Noida,Satisfactory,94,"CO, PM
+10",3,2020-09-05
+Noida,Satisfactory,64,"CO, PM
+10",4,2020-09-06
+Noida,Moderate,103,"PM , PM
+2.5 10",4,2020-09-07
+Noida,Satisfactory,78,"PM
+10",4,2020-09-08
+Noida,Moderate,106,"PM
+10",4,2020-09-09
+Noida,Moderate,110,"PM
+10",4,2020-09-10
+Noida,Moderate,136,"PM
+10",4,2020-09-11
+Noida,Moderate,144,"PM
+10",4,2020-09-12
+Noida,Moderate,150,"PM
+10",4,2020-09-13
+Noida,Moderate,184,"PM
+2.5",4,2020-09-14
+Noida,Moderate,154,"PM , PM
+2.5 10",4,2020-09-15
+Noida,Moderate,161,"PM , PM
+2.5 10",4,2020-09-16
+Noida,Moderate,130,"PM
+10",4,2020-09-17
+Noida,Moderate,116,"PM
+10",4,2020-09-18
+Noida,Moderate,128,"PM
+10",4,2020-09-19
+Noida,Moderate,157,"PM , PM
+2.5 10",3,2020-09-20
+Noida,Moderate,148,"PM , PM
+2.5 10",3,2020-09-21
+Noida,Moderate,118,"PM
+10",4,2020-09-22
+Noida,Satisfactory,72,"PM , CO
+10",4,2020-09-23
+Noida,Satisfactory,71,"CO, PM
+10",3,2020-09-24
+Noida,Moderate,105,"CO, PM , PM
+10 2.5",4,2020-09-25
+Noida,Moderate,191,"PM
+10",4,2020-09-26
+Noida,Moderate,116,"PM
+10",4,2020-09-27
+Noida,Moderate,171,"PM
+10",4,2020-09-28
+Noida,Moderate,180,"PM
+10",3,2020-09-29
+Noida,Moderate,159,"PM
+10",3,2020-09-30
+Noida,Moderate,158,"PM
+10",4,2020-10-01
+Noida,Moderate,179,"PM
+10",4,2020-10-02
+Noida,Moderate,184,"PM , PM
+2.5 10",4,2020-10-03
+Noida,Moderate,176,"PM , PM
+2.5 10",4,2020-10-04
+Noida,Moderate,173,"PM
+10",3,2020-10-05
+Noida,Moderate,176,"PM
+10",4,2020-10-06
+Noida,Poor,207,"PM , PM
+2.5 10",4,2020-10-07
+Noida,Poor,226,"PM , PM
+2.5 10",3,2020-10-08
+Noida,Poor,206,"PM , PM
+2.5 10",4,2020-10-09
+Noida,Poor,212,"PM , PM
+2.5 10",4,2020-10-10
+Noida,Poor,204,"PM , PM
+2.5 10",4,2020-10-11
+Noida,Poor,274,"PM
+2.5",4,2020-10-12
+Noida,Poor,286,"PM , PM
+2.5 10",4,2020-10-13
+Noida,Poor,273,"PM
+2.5",4,2020-10-14
+Noida,Very Poor,321,"PM , PM
+2.5 10",3,2020-10-15
+Noida,Poor,247,"PM , O
+2.5 3",3,2020-10-16
+Noida,Very Poor,309,"PM , PM
+2.5 10",3,2020-10-17
+Noida,Poor,252,"PM , PM
+2.5 10",2,2020-10-18
+Noida,Poor,236,"PM
+2.5",2,2020-10-19
+Noida,Poor,219,"PM , PM
+2.5 10",3,2020-10-20
+Noida,Poor,264,"PM
+10",3,2020-10-21
+Noida,Very Poor,308,"PM
+10",3,2020-10-22
+Noida,Very Poor,369,"PM , PM
+2.5 10",3,2020-10-23
+Noida,Very Poor,347,"PM
+2.5",2,2020-10-24
+Noida,Very Poor,362,"PM , PM
+10 2.5",3,2020-10-25
+Noida,Very Poor,376,"PM , PM
+10 2.5",3,2020-10-26
+Noida,Very Poor,320,"PM
+2.5",3,2020-10-27
+Noida,Very Poor,301,"PM
+2.5",3,2020-10-28
+Noida,Very Poor,383,"PM , PM
+10 2.5",3,2020-10-29
+Noida,Very Poor,379,"PM , PM
+2.5 10",3,2020-10-30
+Noida,Very Poor,356,"PM , PM
+2.5 10",3,2020-10-31
+Noida,Very Poor,384,"PM
+2.5",3,2020-11-01
+Noida,Poor,299,"PM
+2.5",3,2020-11-02
+Noida,Very Poor,321,"PM , PM
+2.5 10",3,2020-11-03
+Noida,Very Poor,345,"PM , PM
+10 2.5",3,2020-11-04
+Noida,Severe,450,"PM
+2.5",4,2020-11-05
+Noida,Severe,406,"PM , PM
+10 2.5",4,2020-11-06
+Noida,Severe,426,"PM
+2.5",4,2020-11-07
+Noida,Severe,428,"PM , PM
+10 2.5",4,2020-11-08
+Noida,Severe,477,"PM
+10",3,2020-11-09
+Noida,Severe,455,"PM
+2.5",1,2020-11-10
+Noida,Very Poor,309,"PM , PM
+2.5 10",3,2020-11-11
+Noida,Very Poor,305,"PM , PM
+10 2.5",4,2020-11-12
+Noida,Very Poor,337,"PM
+2.5",4,2020-11-13
+Noida,Severe,425,"PM , PM
+10 2.5",4,2020-11-14
+Noida,Severe,441,"PM
+2.5",4,2020-11-15
+Noida,Poor,243,"PM
+2.5",4,2020-11-16
+Noida,Moderate,178,"PM
+2.5",4,2020-11-17
+Noida,Poor,207,"PM
+2.5",4,2020-11-18
+Noida,Poor,284,"PM
+2.5",3,2020-11-19
+Noida,Very Poor,306,"PM
+2.5",4,2020-11-20
+Noida,Poor,231,"PM
+2.5",4,2020-11-21
+Noida,Poor,273,"PM
+2.5",4,2020-11-22
+Noida,Very Poor,301,"PM
+2.5",4,2020-11-23
+Noida,Very Poor,396,"PM , PM
+2.5 10",4,2020-11-24
+Noida,Severe,414,"PM
+2.5",3,2020-11-25
+Noida,Very Poor,301,"PM
+2.5",4,2020-11-26
+Noida,Moderate,125,"PM , PM
+2.5 10",4,2020-11-27
+Noida,Poor,233,"PM
+2.5",4,2020-11-28
+Noida,Poor,268,"PM
+2.5",4,2020-11-29
+Noida,Very Poor,346,"PM
+2.5",4,2020-11-30
+Noida,Very Poor,387,"PM
+2.5",3,2020-12-01
+Noida,Very Poor,394,"PM , PM
+10 2.5",3,2020-12-02
+Noida,Very Poor,360,"PM
+2.5",4,2020-12-03
+Noida,Severe,414,"PM , PM
+2.5 10",4,2020-12-04
+Noida,Severe,414,"PM
+2.5",4,2020-12-05
+Noida,Severe,402,"PM
+2.5",4,2020-12-06
+Noida,Severe,422,"PM , PM
+2.5 10",4,2020-12-07
+Noida,Severe,407,"PM
+2.5",4,2020-12-08
+Noida,Very Poor,394,"PM
+2.5",4,2020-12-09
+Noida,Very Poor,310,"PM
+2.5",4,2020-12-10
+Noida,Very Poor,324,"PM
+2.5",4,2020-12-11
+Noida,Very Poor,393,"PM
+2.5",4,2020-12-12
+Noida,Very Poor,322,"PM
+2.5",4,2020-12-13
+Noida,Moderate,176,"PM , PM
+2.5 10",4,2020-12-14
+Noida,Poor,243,"PM
+2.5",3,2020-12-15
+Noida,Poor,280,"PM
+2.5",3,2020-12-16
+Noida,Poor,267,"PM
+2.5",3,2020-12-17
+Noida,Poor,288,"PM
+2.5",3,2020-12-18
+Noida,Very Poor,301,"PM
+2.5",3,2020-12-19
+Noida,Very Poor,333,"PM , PM
+2.5 10",3,2020-12-20
+Noida,Very Poor,363,"PM
+2.5",3,2020-12-21
+Noida,Severe,437,"PM
+2.5",2,2020-12-22
+Noida,Severe,462,"PM
+2.5",3,2020-12-23
+Noida,Severe,441,"PM
+2.5",3,2020-12-24
+Noida,Very Poor,386,"PM
+2.5",2,2020-12-25
+Noida,Very Poor,344,"PM
+2.5",3,2020-12-26
+Noida,Severe,405,"PM
+2.5",3,2020-12-27
+Noida,Poor,225,"PM
+2.5",3,2020-12-28
+Noida,Poor,258,"PM
+2.5",3,2020-12-29
+Noida,Very Poor,302,"PM
+2.5",2,2020-12-30
+Noida,Very Poor,369,"PM
+2.5",3,2020-12-31
+Noida,Severe,455,"PM
+2.5",3,2021-01-01
+Noida,Severe,448,"PM
+2.5",3,2021-01-02
+Noida,Very Poor,364,"PM
+2.5",2,2021-01-03
+Noida,Moderate,152,"PM
+2.5",2,2021-01-04
+Noida,Moderate,149,"PM
+2.5",4,2021-01-05
+Noida,Moderate,200,"PM , PM
+2.5 10",4,2021-01-06
+Noida,Poor,236,"PM , PM
+2.5 10",4,2021-01-07
+Noida,Poor,261,"PM , PM
+2.5 10",4,2021-01-08
+Noida,Very Poor,346,"PM
+2.5",4,2021-01-09
+Noida,Poor,239,"PM , PM
+2.5 10",4,2021-01-10
+Noida,Poor,264,"PM
+2.5",4,2021-01-11
+Noida,Poor,278,"PM , PM
+2.5 10",4,2021-01-12
+Noida,Very Poor,348,"PM , PM
+2.5 10",4,2021-01-13
+Noida,Severe,412,"PM , PM
+2.5 10",4,2021-01-14
+Noida,Severe,475,"PM
+2.5",4,2021-01-15
+Noida,Severe,434,"PM
+2.5",4,2021-01-16
+Noida,Very Poor,383,"PM
+2.5",3,2021-01-17
+Noida,Very Poor,363,"PM
+2.5",3,2021-01-18
+Noida,Severe,432,"PM
+2.5",4,2021-01-19
+Noida,Very Poor,310,"PM
+2.5",4,2021-01-20
+Noida,Very Poor,306,"PM
+2.5",4,2021-01-21
+Noida,Very Poor,361,"PM
+2.5",4,2021-01-22
+Noida,Very Poor,325,"PM
+2.5",4,2021-01-23
+Noida,Very Poor,322,"PM , PM
+2.5 10",2,2021-01-24
+Noida,Very Poor,352,"PM
+2.5",3,2021-01-25
+Noida,Very Poor,370,"PM
+2.5",3,2021-01-26
+Noida,Very Poor,342,"PM
+2.5",3,2021-01-27
+Noida,Very Poor,338,"PM , PM
+2.5 10",4,2021-01-28
+Noida,Severe,415,"PM
+2.5",3,2021-01-29
+Noida,Very Poor,302,"PM , PM
+2.5 10",4,2021-01-30
+Noida,Very Poor,331,"PM
+2.5",4,2021-01-31
+Noida,Very Poor,369,"PM , PM
+10 2.5",4,2021-02-01
+Noida,Very Poor,372,"PM
+2.5",4,2021-02-02
+Noida,Very Poor,339,"PM
+2.5",4,2021-02-03
+Noida,Very Poor,322,"PM
+2.5",4,2021-02-04
+Noida,Moderate,114,"PM , PM
+2.5 10",4,2021-02-05
+Noida,Moderate,167,"PM
+2.5",4,2021-02-06
+Noida,Poor,238,"PM
+2.5",4,2021-02-07
+Noida,Very Poor,310,"PM
+2.5",4,2021-02-08
+Noida,Very Poor,347,"PM
+2.5",4,2021-02-09
+Noida,Very Poor,311,"PM
+2.5",4,2021-02-10
+Noida,Very Poor,313,"PM , PM
+2.5 10",4,2021-02-11
+Noida,Very Poor,363,"PM
+2.5",3,2021-02-12
+Noida,Very Poor,386,"PM
+2.5",2,2021-02-13
+Noida,Severe,416,"PM
+2.5",2,2021-02-14
+Noida,Very Poor,368,"PM
+2.5",2,2021-02-15
+Noida,Very Poor,335,"PM
+2.5",3,2021-02-16
+Noida,Very Poor,322,"PM
+2.5",3,2021-02-17
+Noida,Very Poor,315,"PM
+2.5",3,2021-02-18
+Noida,Very Poor,324,"PM
+2.5",3,2021-02-19
+Noida,Poor,269,"PM , PM
+2.5 10",3,2021-02-20
+Noida,Poor,251,"PM , PM
+2.5 10",3,2021-02-21
+Noida,Poor,290,"PM
+2.5",2,2021-02-22
+Noida,Poor,214,"PM , PM
+2.5 10",3,2021-02-23
+Noida,Poor,292,"PM
+10",3,2021-02-24
+Noida,Poor,292,"PM , PM
+10 2.5",4,2021-02-25
+Noida,Poor,201,"PM , PM
+10 2.5",3,2021-02-26
+Noida,Poor,215,"PM
+10",3,2021-02-27
+Noida,Moderate,199,"PM , PM
+10 2.5",4,2021-02-28
+Noida,Moderate,169,"PM
+10",4,2021-03-01
+Noida,Moderate,153,"PM
+10",4,2021-03-02
+Noida,Moderate,168,"PM , PM
+2.5 10",4,2021-03-03
+Noida,Very Poor,302,"PM
+10",3,2021-03-04
+Noida,Poor,250,"PM , PM
+10 2.5",2,2021-03-05
+Noida,Moderate,182,"PM , PM
+2.5 10",4,2021-03-06
+Noida,Poor,278,"PM
+10",4,2021-03-07
+Noida,Moderate,192,"PM , PM
+2.5 10",4,2021-03-08
+Noida,Poor,293,"PM , PM
+10 2.5",4,2021-03-09
+Noida,Moderate,152,"PM
+10",3,2021-03-10
+Noida,Poor,260,"PM
+2.5",2,2021-03-11
+Noida,Moderate,199,"PM
+10",2,2021-03-12
+Noida,Moderate,167,"PM , PM
+2.5 10",2,2021-03-13
+Noida,Moderate,174,"PM
+2.5",2,2021-03-14
+Noida,Moderate,182,"PM , PM
+2.5 10",2,2021-03-15
+Noida,Poor,259,"PM
+10",3,2021-03-16
+Noida,Very Poor,328,"PM
+10",2,2021-03-17
+Noida,Very Poor,336,"PM
+10",2,2021-03-18
+Noida,Very Poor,302,"PM
+10",3,2021-03-19
+Noida,Poor,227,"PM
+10",3,2021-03-20
+Noida,Poor,260,"PM
+10",3,2021-03-21
+Noida,Poor,207,"PM
+10",3,2021-03-22
+Noida,Poor,279,"PM
+10",3,2021-03-23
+Noida,Moderate,183,"PM
+10",3,2021-03-24
+Noida,Moderate,146,"PM
+10",3,2021-03-25
+Noida,Moderate,135,"PM
+10",3,2021-03-26
+Noida,Moderate,179,"PM
+10",3,2021-03-27
+Noida,Poor,227,"PM , PM
+10 2.5",3,2021-03-28
+Noida,Poor,232,"PM
+2.5",3,2021-03-29
+Noida,Poor,282,"PM
+10",3,2021-03-30
+Noida,Poor,226,"PM
+10",3,2021-03-31
+Noida,Moderate,187,"PM
+10",2,2021-04-01
+Noida,Moderate,153,"PM , PM
+10 2.5",3,2021-04-02
+Noida,Moderate,132,"PM
+10",2,2021-04-03
+Noida,Moderate,142,"PM
+10",2,2021-04-04
+Noida,Moderate,184,"PM
+10",2,2021-04-05
+Noida,Poor,267,"PM
+10",3,2021-04-06
+Noida,Poor,270,"PM
+10",2,2021-04-07
+Noida,Moderate,143,"PM
+10",3,2021-04-08
+Noida,Moderate,144,"PM
+10",3,2021-04-09
+Noida,Moderate,161,"PM
+10",3,2021-04-10
+Noida,Moderate,163,"PM
+10",3,2021-04-11
+Noida,Poor,223,"PM
+10",3,2021-04-12
+Noida,Poor,208,"PM
+10",3,2021-04-13
+Noida,Moderate,184,"PM
+10",3,2021-04-14
+Noida,Poor,234,"PM
+10",3,2021-04-15
+Noida,Poor,249,"PM
+10",3,2021-04-16
+Noida,Moderate,114,"PM , O
+10 3",3,2021-04-17
+Noida,Moderate,115,"PM , PM
+10 2.5",3,2021-04-18
+Noida,Moderate,163,"PM , PM
+10 2.5",3,2021-04-19
+Noida,Moderate,181,"PM
+10",3,2021-04-20
+Noida,Moderate,158,"PM
+10",3,2021-04-21
+Noida,Moderate,116,"PM
+10",3,2021-04-22
+Noida,Moderate,137,"PM
+10",3,2021-04-23
+Noida,Satisfactory,97,"PM
+10",3,2021-04-24
+Noida,Moderate,165,"PM , PM
+10 2.5",3,2021-04-25
+Noida,Poor,248,"PM
+10",3,2021-04-26
+Noida,Poor,296,"PM
+10",3,2021-04-27
+Noida,Very Poor,339,"PM
+10",3,2021-04-28
+Noida,Very Poor,319,"PM
+10",3,2021-04-29
+Noida,Very Poor,320,"PM
+10",3,2021-04-30
+Noida,Poor,295,"PM
+10",3,2021-05-01
+Noida,Moderate,185,"PM
+10",2,2021-05-02
+Noida,Poor,237,"PM
+10",3,2021-05-03
+Noida,Moderate,179,"PM
+10",3,2021-05-04
+Noida,Moderate,171,"PM
+10",3,2021-05-05
+Noida,Moderate,154,"PM
+10",3,2021-05-06
+Noida,Moderate,143,"PM , PM
+2.5 10",3,2021-05-07
+Noida,Moderate,124,"PM
+10",3,2021-05-08
+Noida,Moderate,131,"PM
+10",3,2021-05-09
+Noida,Moderate,117,"PM
+10",3,2021-05-10
+Noida,Moderate,147,"PM , PM
+2.5 10",3,2021-05-11
+Noida,Moderate,112,"PM
+10",3,2021-05-12
+Noida,Moderate,119,"PM
+10",3,2021-05-13
+Noida,Moderate,113,"PM , PM
+2.5 10",3,2021-05-14
+Noida,Moderate,153,"PM
+10",3,2021-05-15
+Noida,Moderate,158,"PM
+10",3,2021-05-16
+Noida,Moderate,177,"PM
+10",3,2021-05-17
+Noida,Moderate,108,"PM
+10",3,2021-05-18
+Noida,Satisfactory,78,"PM
+2.5",1,2021-05-19
+Noida,Satisfactory,82,"PM , PM
+10 2.5",2,2021-05-21
+Noida,Satisfactory,60,"PM , PM
+10 2.5",3,2021-05-22
+Noida,Poor,241,"PM
+10",3,2021-05-23
+Noida,Moderate,183,"PM
+10",3,2021-05-24
+Noida,Moderate,133,"PM
+10",3,2021-05-25
+Noida,Moderate,123,"PM , NO
+10 2",3,2021-05-26
+Noida,Moderate,153,"PM
+10",2,2021-05-27
+Noida,Moderate,118,"PM
+10",3,2021-05-28
+Noida,Satisfactory,92,"CO, PM
+10",3,2021-05-29
+Noida,Satisfactory,100,"PM
+10",3,2021-05-30
+Noida,Moderate,156,"PM
+10",3,2021-05-31
+Noida,Moderate,127,"PM
+10",2,2021-06-01
+Noida,Moderate,132,"PM
+10",3,2021-06-02
+Noida,Moderate,122,"PM
+10",3,2021-06-03
+Noida,Moderate,156,"PM
+10",3,2021-06-04
+Noida,Moderate,132,"PM
+10",3,2021-06-05
+Noida,Moderate,135,"PM
+10",3,2021-06-06
+Noida,Moderate,160,"PM
+10",3,2021-06-07
+Noida,Poor,223,"PM
+10",3,2021-06-08
+Noida,Very Poor,347,"PM
+10",3,2021-06-09
+Noida,Poor,242,"PM
+10",2,2021-06-10
+Noida,Moderate,132,"PM
+10",2,2021-06-11
+Noida,Moderate,132,"PM
+10",2,2021-06-12
+Noida,Satisfactory,79,"PM
+10",3,2021-06-13
+Noida,Moderate,101,"PM
+10",3,2021-06-14
+Noida,Satisfactory,97,"PM
+10",3,2021-06-15
+Noida,Moderate,107,"PM
+10",3,2021-06-16
+Noida,Satisfactory,100,"PM
+10",3,2021-06-17
+Noida,Satisfactory,66,"PM
+10",2,2021-06-18
+Noida,Satisfactory,55,"PM
+10",3,2021-06-19
+Noida,Satisfactory,52,"CO, O , PM
+3 10",4,2021-06-20
+Noida,Satisfactory,70,"CO, O , PM
+3 10",4,2021-06-21
+Noida,Moderate,127,"PM , O
+10 3",4,2021-06-22
+Noida,Poor,227,"PM
+10",4,2021-06-23
+Noida,Moderate,153,"O , PM
+3 10",4,2021-06-24
+Noida,Moderate,162,"PM , O
+10 3",4,2021-06-25
+Noida,Moderate,152,"O , PM
+3 10",4,2021-06-26
+Noida,Moderate,167,"PM
+10",4,2021-06-27
+Noida,Moderate,157,"O , PM
+3 10",4,2021-06-28
+Noida,Moderate,200,"PM , PM
+10 2.5",4,2021-06-29
+Noida,Poor,252,"PM
+10",4,2021-06-30
+Noida,Very Poor,303,"PM
+10",4,2021-07-01
+Noida,Poor,283,"PM
+10",4,2021-07-02
+Noida,Moderate,186,"O , PM
+3 10",4,2021-07-03
+Noida,Moderate,147,"PM
+10",4,2021-07-04
+Noida,Moderate,168,"PM
+10",4,2021-07-05
+Noida,Moderate,146,"PM , CO
+10",3,2021-07-06
+Noida,Moderate,189,"PM
+10",3,2021-07-07
+Noida,Moderate,183,"PM
+10",3,2021-07-08
+Noida,Moderate,142,"PM
+10",3,2021-07-09
+Noida,Satisfactory,94,"CO, PM
+10",2,2021-07-10
+Noida,Moderate,110,"O , PM
+3 10",4,2021-07-11
+Noida,Satisfactory,82,"PM , O
+10 3",3,2021-07-12
+Noida,Satisfactory,63,"CO, PM
+10",4,2021-07-13
+Noida,Satisfactory,65,"PM
+10",3,2021-07-14
+Noida,Satisfactory,70,"CO, PM
+10",4,2021-07-15
+Noida,Satisfactory,92,"O
+3",3,2021-07-16
+Noida,Moderate,169,"O , PM
+3 10",3,2021-07-17
+Noida,Moderate,115,"O , PM
+3 10",4,2021-07-18
+Noida,Satisfactory,51,"CO, PM , O
+10 3",3,2021-07-19
+Noida,Satisfactory,83,"O , PM
+3 2.5",3,2021-07-20
+Noida,Moderate,165,"O
+3",3,2021-07-21
+Noida,Satisfactory,76,"PM , O
+10 3",4,2021-07-22
+Noida,Satisfactory,64,"O , PM
+3 10",4,2021-07-23
+Noida,Satisfactory,82,"PM
+10",4,2021-07-24
+Noida,Satisfactory,92,"PM , PM
+10 2.5",4,2021-07-25
+Noida,Satisfactory,75,"PM
+10",3,2021-07-26
+Noida,Satisfactory,92,"PM , PM
+10 2.5",3,2021-07-27
+Noida,Satisfactory,54,"CO, PM
+10",3,2021-07-28
+Noida,Satisfactory,59,"CO, O , PM
+3 10",4,2021-07-29
+Noida,Satisfactory,66,"PM , CO, PM
+10 2.5",4,2021-07-30
+Noida,Good,50,"CO, O , SO
+3 2",4,2021-07-31
+Noida,Satisfactory,68,"CO, PM
+10",4,2021-08-01
+Noida,Satisfactory,93,"PM , PM
+2.5 10",3,2021-08-02
+Noida,Satisfactory,63,"CO, PM
+10",4,2021-08-03
+Noida,Satisfactory,60,"SO , CO, O
+2 3",4,2021-08-04
+Noida,Satisfactory,81,"PM , O
+10 3",4,2021-08-05
+Noida,Moderate,102,"CO, PM
+10",4,2021-08-06
+Noida,Satisfactory,91,"PM
+10",4,2021-08-07
+Noida,Moderate,110,"PM , PM
+2.5 10",4,2021-08-08
+Noida,Satisfactory,81,"CO, PM , PM
+2.5 10",3,2021-08-09
+Noida,Satisfactory,99,"PM
+10",3,2021-08-10
+Noida,Moderate,140,"PM
+10",3,2021-08-11
+Noida,Moderate,125,"PM
+10",4,2021-08-12
+Noida,Moderate,137,"PM
+10",4,2021-08-13
+Noida,Moderate,124,"PM
+10",4,2021-08-14
+Noida,Moderate,132,"PM
+10",4,2021-08-15
+Noida,Moderate,143,"PM
+10",3,2021-08-16
+Noida,Moderate,153,"PM , O
+10 3",4,2021-08-17
+Noida,Moderate,168,"PM
+10",4,2021-08-18
+Noida,Moderate,178,"PM
+10",4,2021-08-19
+Noida,Moderate,103,"PM
+10",3,2021-08-20
+Noida,Good,38,"O , NO
+3 2",2,2021-08-21
+Noida,Satisfactory,56,"CO, O , PM
+3 2.5",3,2021-08-22
+Noida,Moderate,117,"O , CO, PM
+3 10",3,2021-08-23
+Noida,Moderate,102,"PM , CO
+10",3,2021-08-24
+Noida,Moderate,115,"PM
+10",4,2021-08-25
+Noida,Moderate,127,"PM
+10",4,2021-08-26
+Noida,Moderate,162,"PM
+10",2,2021-08-27
+Noida,Moderate,160,"PM
+10",3,2021-08-28
+Noida,Moderate,115,"PM
+10",3,2021-08-29
+Noida,Satisfactory,69,"CO, PM
+10",3,2021-08-30
+Noida,Satisfactory,58,"CO, SO , PM
+2 10",3,2021-08-31
+Noida,Good,42,"PM , CO
+10",2,2021-09-01
+Noida,Satisfactory,58,"CO, PM
+10",3,2021-09-02
+Noida,Satisfactory,73,"CO, PM
+10",3,2021-09-03
+Noida,Satisfactory,52,"O , PM
+3 10",2,2021-09-04
+Noida,Satisfactory,82,"CO, PM
+10",2,2021-09-05
+Noida,Moderate,119,"PM , PM
+10 2.5",3,2021-09-06
+Noida,Satisfactory,88,"PM , NO
+10 2",4,2021-09-07
+Noida,Satisfactory,71,"NO , PM
+2 10",3,2021-09-08
+Noida,Satisfactory,60,"PM
+10",3,2021-09-09
+Noida,Satisfactory,71,"CO, PM
+10",4,2021-09-10
+Noida,Satisfactory,59,"CO, NO , O
+2 3",4,2021-09-11
+Noida,Satisfactory,70,"CO, NO , O
+2 3",3,2021-09-12
+Noida,Satisfactory,95,"CO, PM , NO
+2.5 2",3,2021-09-13
+Noida,Satisfactory,70,"CO, NO , PM
+2 10",4,2021-09-14
+Noida,Satisfactory,66,"CO, NO , PM
+2 10",4,2021-09-15
+Noida,Satisfactory,69,"CO, PM
+10",4,2021-09-16
+Noida,Satisfactory,57,"CO, NO , SO
+2 2",4,2021-09-17
+Noida,Satisfactory,64,"CO, SO , PM
+2 10",4,2021-09-18
+Noida,Satisfactory,67,"PM , SO
+10 2",3,2021-09-19
+Noida,Satisfactory,59,"PM
+10",3,2021-09-20
+Noida,Satisfactory,74,"CO, PM
+10",4,2021-09-21
+Noida,Satisfactory,62,"CO, PM , NO
+10 2",4,2021-09-22
+Noida,Satisfactory,60,"CO, PM , SO
+10 2",4,2021-09-23
+Noida,Satisfactory,60,"CO, PM , NO
+10 2",4,2021-09-24
+Noida,Satisfactory,73,"CO, PM , O
+10 3",4,2021-09-25
+Noida,Satisfactory,67,"CO, SO , O
+2 3",4,2021-09-26
+Noida,Satisfactory,92,"PM
+10",4,2021-09-27
+Noida,Moderate,107,"PM
+10",4,2021-09-28
+Noida,Satisfactory,79,"SO , CO, PM
+2 10",4,2021-09-29
+Noida,Satisfactory,82,"PM , CO
+10",4,2021-09-30
+Noida,Moderate,111,"PM , PM
+10 2.5",4,2021-10-01
+Noida,Moderate,121,"PM , PM
+10 2.5",4,2021-10-02
+Noida,Moderate,105,"PM , PM
+10 2.5",4,2021-10-03
+Noida,Satisfactory,94,"PM
+10",3,2021-10-04
+Noida,Moderate,150,"O , PM
+3 10",4,2021-10-05
+Noida,Moderate,113,"PM , PM
+10 2.5",4,2021-10-06
+Noida,Moderate,122,"PM , PM
+10 2.5",3,2021-10-07
+Noida,Moderate,168,"PM
+10",3,2021-10-08
+Noida,Moderate,188,"PM
+10",3,2021-10-09
+Noida,Moderate,168,"PM , PM
+10 2.5",4,2021-10-10
+Noida,Moderate,188,"PM , O
+10 3",4,2021-10-11
+Noida,Moderate,170,"PM , PM
+10 2.5",4,2021-10-12
+Noida,Moderate,192,"PM
+10",4,2021-10-13
+Noida,Moderate,188,"O , PM
+3 10",2,2021-10-14
+Noida,Moderate,192,"PM , PM
+10 2.5",4,2021-10-15
+Noida,Very Poor,312,"PM , PM
+10 2.5",2,2021-10-16
+Noida,Poor,288,"PM , PM
+2.5 10",4,2021-10-17
+Noida,Good,45,"CO, O
+3",3,2021-10-18
+Noida,Satisfactory,79,"CO, O , PM
+3 10",3,2021-10-19
+Noida,Poor,240,"PM
+2.5",4,2021-10-20
+Noida,Poor,209,"PM
+10",4,2021-10-21
+Noida,Moderate,192,"PM
+10",4,2021-10-22
+Noida,Moderate,190,"PM , PM
+10 2.5",4,2021-10-23
+Noida,Moderate,174,"PM , PM
+2.5 10",4,2021-10-24
+Noida,Moderate,150,"O
+3",2,2021-10-25
+Noida,Moderate,154,"O , PM , PM
+3 2.5 10",4,2021-10-26
+Noida,Poor,228,"PM , PM
+2.5 10",4,2021-10-27
+Noida,Poor,267,"PM , PM
+2.5 10",4,2021-10-28
+Noida,Poor,282,"PM , PM
+2.5 10",4,2021-10-29
+Noida,Poor,260,"PM , PM
+2.5 10",4,2021-10-30
+Noida,Poor,292,"PM , PM
+10 2.5",4,2021-10-31
+Noida,Very Poor,301,"PM
+2.5",3,2021-11-01
+Noida,Very Poor,303,"PM
+2.5",4,2021-11-02
+Noida,Very Poor,327,"PM
+2.5",3,2021-11-03
+Noida,Severe,404,"PM , PM
+10 2.5",4,2021-11-04
+Noida,Severe,475,"PM
+2.5",3,2021-11-05
+Noida,Severe,461,"PM , PM
+2.5 10",4,2021-11-06
+Noida,Severe,446,"PM , PM
+10 2.5",4,2021-11-07
+Noida,Severe,412,"PM , PM
+10 2.5",4,2021-11-08
+Noida,Severe,426,"PM , PM
+10 2.5",4,2021-11-09
+Noida,Very Poor,374,"PM
+2.5",3,2021-11-10
+Noida,Severe,434,"PM , PM
+10 2.5",4,2021-11-11
+Noida,Severe,488,"PM , PM
+10 2.5",4,2021-11-12
+Noida,Severe,464,"PM , PM
+2.5 10",4,2021-11-13
+Noida,Very Poor,321,"PM , PM
+10 2.5",4,2021-11-14
+Noida,Very Poor,338,"PM , PM
+2.5 10",4,2021-11-15
+Noida,Very Poor,397,"PM , PM
+10 2.5",4,2021-11-16
+Noida,Very Poor,356,"PM , PM
+10 2.5",4,2021-11-17
+Noida,Very Poor,336,"PM , PM
+2.5 10",4,2021-11-18
+Noida,Very Poor,376,"PM , PM
+10 2.5",4,2021-11-19
+Noida,Very Poor,356,"PM , PM
+10 2.5",3,2021-11-20
+Noida,Very Poor,322,"PM , PM
+10 2.5",3,2021-11-21
+Noida,Poor,270,"PM , PM
+10 2.5",4,2021-11-22
+Noida,Poor,252,"PM , PM
+10 2.5",4,2021-11-23
+Noida,Very Poor,325,"PM , PM
+10 2.5",4,2021-11-24
+Noida,Very Poor,345,"PM , PM
+10 2.5",4,2021-11-25
+Noida,Very Poor,394,"PM , PM
+10 2.5",4,2021-11-26
+Noida,Very Poor,381,"PM , PM
+10 2.5",4,2021-11-27
+Noida,Very Poor,362,"PM
+2.5",3,2021-11-28
+Noida,Very Poor,356,"PM
+2.5",3,2021-11-29
+Noida,Poor,291,"PM , PM
+10 2.5",4,2021-11-30
+Noida,Very Poor,360,"PM , PM
+10 2.5",4,2021-12-01
+Noida,Severe,408,"PM , PM
+10 2.5",3,2021-12-02
+Noida,Very Poor,312,"PM
+2.5",3,2021-12-03
+Noida,Very Poor,355,"PM , PM
+10 2.5",4,2021-12-04
+Noida,Poor,286,"PM
+2.5",3,2021-12-05
+Noida,Very Poor,317,"PM
+2.5",3,2021-12-06
+Noida,Poor,212,"PM
+2.5",3,2021-12-07
+Noida,Moderate,186,"PM
+2.5",3,2021-12-08
+Noida,Poor,277,"PM , PM
+2.5 10",4,2021-12-09
+Noida,Poor,296,"PM , PM
+2.5 10",4,2021-12-10
+Noida,Poor,218,"PM
+2.5",3,2021-12-11
+Noida,Poor,214,"PM , PM
+2.5 10",4,2021-12-12
+Noida,Very Poor,312,"PM , PM
+2.5 10",4,2021-12-13
+Noida,Very Poor,332,"PM , PM
+2.5 10",4,2021-12-14
+Noida,Very Poor,309,"PM
+2.5",4,2021-12-15
+Noida,Very Poor,314,"PM , PM
+10 2.5",4,2021-12-16
+Noida,Poor,255,"PM
+2.5",4,2021-12-17
+Noida,Poor,256,"PM
+2.5",4,2021-12-18
+Noida,Poor,203,"PM
+2.5",4,2021-12-19
+Noida,Very Poor,303,"PM
+2.5",4,2021-12-20
+Noida,Very Poor,382,"PM , PM
+2.5 10",4,2021-12-21
+Noida,Very Poor,395,"PM , PM
+10 2.5",4,2021-12-22
+Noida,Severe,432,"PM , PM
+10 2.5",4,2021-12-23
+Noida,Very Poor,397,"PM , PM
+10 2.5",4,2021-12-24
+Noida,Severe,414,"PM , PM
+2.5 10",3,2021-12-25
+Noida,Severe,435,"PM
+2.5",3,2021-12-26
+Noida,Poor,226,"PM
+2.5",3,2021-12-27
+Noida,Poor,274,"PM
+2.5",3,2021-12-28
+Noida,Poor,276,"PM
+2.5",3,2021-12-29
+Noida,Poor,222,"PM
+2.5",3,2021-12-30
+Noida,Poor,276,"PM
+2.5",3,2021-12-31
+Noida,Very Poor,321,"PM
+2.5",3,2022-01-01
+Noida,Very Poor,380,"PM
+2.5",3,2022-01-02
+Noida,Very Poor,346,"PM
+2.5",2,2022-01-03
+Noida,Very Poor,362,"PM , PM
+10 2.5",4,2022-01-04
+Noida,Severe,404,"PM , PM
+2.5 10",4,2022-01-05
+Noida,Poor,252,"PM
+2.5",3,2022-01-06
+Noida,Moderate,133,"PM , PM
+2.5 10",3,2022-01-07
+Noida,Satisfactory,84,"PM , PM
+10 2.5",4,2022-01-08
+Noida,Satisfactory,60,"PM , CO
+2.5",3,2022-01-09
+Noida,Moderate,135,"PM
+2.5",3,2022-01-10
+Noida,Moderate,192,"PM , PM
+2.5 10",4,2022-01-11
+Noida,Moderate,152,"PM , PM
+2.5 10",4,2022-01-12
+Noida,Poor,297,"PM
+2.5",4,2022-01-13
+Noida,Very Poor,319,"PM
+2.5",4,2022-01-14
+Noida,Poor,250,"PM
+2.5",3,2022-01-15
+Noida,Poor,238,"PM
+2.5",4,2022-01-16
+Noida,Very Poor,327,"PM
+2.5",4,2022-01-17
+Noida,Very Poor,334,"PM , PM
+2.5 10",4,2022-01-18
+Noida,Very Poor,310,"PM , PM
+2.5 10",4,2022-01-19
+Noida,Very Poor,357,"PM , PM
+10 2.5",4,2022-01-20
+Noida,Very Poor,338,"PM , PM
+2.5 10",4,2022-01-21
+Noida,Poor,277,"PM
+2.5",4,2022-01-22
+Noida,Moderate,151,"PM
+2.5",4,2022-01-23
+Noida,Poor,243,"PM
+2.5",4,2022-01-24
+Noida,Poor,224,"PM , PM
+2.5 10",4,2022-01-25
+Noida,Poor,218,"PM
+2.5",4,2022-01-26
+Noida,Poor,239,"PM
+2.5",3,2022-01-27
+Noida,Moderate,164,"PM , PM
+2.5 10",4,2022-01-28
+Noida,Poor,215,"PM , PM
+10 2.5",4,2022-01-29
+Noida,Poor,234,"PM
+2.5",3,2022-01-30
+Noida,Very Poor,304,"PM
+2.5",3,2022-01-31
+Noida,Very Poor,330,"PM
+2.5",1,2022-02-01
+Noida,Poor,300,"PM
+2.5",4,2022-02-02
+Noida,Poor,295,"PM
+2.5",4,2022-02-03
+Noida,Moderate,117,"PM , PM
+2.5 10",3,2022-02-04
+Noida,Moderate,187,"PM , PM
+2.5 10",4,2022-02-05
+Noida,Poor,260,"PM , PM
+2.5 10",4,2022-02-06
+Noida,Poor,222,"PM , PM
+2.5 10",4,2022-02-07
+Noida,Poor,211,"PM , PM
+2.5 10",3,2022-02-08
+Noida,Moderate,194,"PM , PM
+10 2.5",4,2022-02-09
+Noida,Moderate,131,"PM
+10",3,2022-02-10
+Noida,Moderate,143,"PM
+10",3,2022-02-11
+Noida,Moderate,153,"PM , PM
+2.5 10",4,2022-02-12
+Noida,Poor,232,"PM , PM
+2.5 10",4,2022-02-13
+Noida,Poor,232,"PM , PM
+2.5 10",4,2022-02-14
+Noida,Poor,202,"PM , PM
+10 2.5",4,2022-02-15
+Noida,Poor,277,"PM , PM
+10 2.5",4,2022-02-16
+Noida,Poor,208,"PM , PM
+2.5 10",4,2022-02-17
+Noida,Poor,237,"PM , PM
+10 2.5",4,2022-02-18
+Noida,Moderate,160,"PM , PM
+10 2.5",4,2022-02-19
+Noida,Moderate,142,"PM , PM
+2.5 10",4,2022-02-20
+Noida,Moderate,139,"PM , PM
+10 2.5",3,2022-02-21
+Noida,Poor,227,"PM , PM
+10 2.5",4,2022-02-22
+Noida,Moderate,174,"PM , PM
+2.5 10",4,2022-02-23
+Noida,Poor,294,"PM
+2.5",3,2022-02-24
+Noida,Poor,268,"PM
+2.5",4,2022-02-25
+Noida,Satisfactory,70,"PM
+10",3,2022-02-26
+Noida,Satisfactory,64,"PM
+10",2,2022-02-27
+Noida,Satisfactory,83,"PM , CO
+10",3,2022-02-28
+Noida,Moderate,120,"PM , PM
+10 2.5",4,2022-03-01
+Noida,Poor,210,"PM , PM
+2.5 10",4,2022-03-02
+Noida,Moderate,160,"PM
+10",4,2022-03-03
+Noida,Moderate,174,"PM
+2.5",3,2022-03-04
+Noida,Moderate,104,"PM
+10",4,2022-03-05
+Noida,Moderate,200,"O , PM
+3 10",2,2022-03-06
+Noida,Moderate,169,"PM
+2.5",1,2022-03-07
+Noida,Poor,242,"PM , PM
+2.5 10",4,2022-03-08
+Noida,Moderate,136,"PM
+10",4,2022-03-09
+Noida,Moderate,111,"PM , CO
+10",3,2022-03-10
+Noida,Moderate,135,"PM , PM
+10 2.5",3,2022-03-11
+Noida,Moderate,137,"PM
+10",3,2022-03-12
+Noida,Moderate,164,"PM
+10",3,2022-03-13
+Noida,Poor,209,"PM , PM
+10 2.5",3,2022-03-14
+Noida,Poor,220,"PM , PM
+2.5 10",3,2022-03-15
+Noida,Moderate,180,"PM , PM
+2.5 10",4,2022-03-16
+Noida,Moderate,181,"PM , PM , O
+2.5 10 3",3,2022-03-17
+Noida,Poor,268,"PM
+2.5",3,2022-03-18
+Noida,Moderate,193,"PM
+2.5",2,2022-03-19
+Noida,Poor,230,"PM
+2.5",4,2022-03-20
+Noida,Poor,274,"PM
+10",3,2022-03-21
+Noida,Moderate,148,"PM
+10",4,2022-03-22
+Noida,Moderate,172,"PM , PM
+10 2.5",4,2022-03-23
+Noida,Poor,298,"PM
+10",3,2022-03-24
+Noida,Moderate,190,"PM
+10",4,2022-03-25
+Noida,Moderate,176,"PM
+10",3,2022-03-26
+Noida,Moderate,172,"PM
+10",4,2022-03-27
+Noida,Poor,238,"PM
+10",1,2022-03-28
+Noida,Poor,217,"PM
+10",3,2022-03-29
+Noida,Poor,277,"PM
+10",4,2022-03-30
+Noida,Poor,293,"PM
+10",4,2022-03-31
+Noida,Poor,219,"PM
+10",3,2022-04-01
+Noida,Poor,243,"PM
+10",4,2022-04-02
+Noida,Poor,247,"PM
+10",4,2022-04-03
+Noida,Poor,273,"PM
+10",4,2022-04-04
+Noida,Poor,236,"PM
+10",4,2022-04-05
+Noida,Poor,237,"PM
+10",4,2022-04-06
+Noida,Poor,270,"PM
+10",4,2022-04-07
+Noida,Poor,250,"PM
+10",4,2022-04-08
+Noida,Poor,258,"PM , PM
+10 2.5",3,2022-04-09
+Noida,Poor,245,"PM , PM
+10 2.5",4,2022-04-10
+Noida,Poor,274,"PM
+10",4,2022-04-11
+Noida,Poor,263,"PM
+10",4,2022-04-12
+Noida,Very Poor,309,"PM , PM
+10 2.5",3,2022-04-13
+Noida,Poor,297,"PM
+10",3,2022-04-14
+Noida,Poor,231,"PM
+10",4,2022-04-15
+Noida,Poor,271,"PM
+10",4,2022-04-16
+Noida,Poor,269,"PM
+10",4,2022-04-17
+Noida,Poor,276,"PM
+10",4,2022-04-18
+Noida,Very Poor,370,"PM
+10",3,2022-04-19
+Noida,Poor,300,"PM
+10",3,2022-04-20
+Noida,Very Poor,320,"PM
+10",4,2022-04-21
+Noida,Poor,241,"PM
+10",3,2022-04-22
+Noida,Poor,242,"PM
+10",2,2022-04-23
+Noida,Poor,283,"PM
+10",3,2022-04-24
+Noida,Poor,229,"PM
+10",2,2022-04-25
+Noida,Poor,209,"PM
+10",3,2022-04-26
+Noida,Very Poor,317,"PM
+10",4,2022-04-27
+Noida,Very Poor,322,"PM
+10",4,2022-04-28
+Noida,Very Poor,337,"PM
+10",4,2022-04-29
+Noida,Poor,285,"PM
+10",3,2022-04-30
+Noida,Poor,270,"PM
+10",3,2022-05-01
+Noida,Poor,240,"PM
+10",4,2022-05-02
+Noida,Poor,233,"PM
+10",4,2022-05-03
+Noida,Poor,254,"PM
+10",3,2022-05-04
+Noida,Moderate,183,"O , PM
+3 10",3,2022-05-05
+Noida,Poor,261,"PM , PM
+10 2.5",4,2022-05-06
+Noida,Poor,224,"PM , O
+10 3",4,2022-05-07
+Noida,Poor,216,"O , PM
+3 10",4,2022-05-08
+Noida,Moderate,178,"NO , PM , O
+2 10 3",4,2022-05-09
+Noida,Moderate,146,"PM
+10",4,2022-05-10
+Noida,Moderate,147,"PM
+10",4,2022-05-11
+Noida,Moderate,158,"PM , O
+10 3",4,2022-05-12
+Noida,Moderate,186,"O , PM
+3 10",4,2022-05-13
+Noida,Very Poor,306,"PM
+10",3,2022-05-14
+Noida,Poor,275,"PM
+10",4,2022-05-15
+Noida,Very Poor,343,"PM
+10",4,2022-05-16
+Noida,Poor,264,"PM , O
+10 3",4,2022-05-17
+Noida,Poor,243,"PM
+10",3,2022-05-18
+Noida,Poor,203,"PM
+10",3,2022-05-19
+Noida,Very Poor,306,"PM
+10",4,2022-05-20
+Noida,Very Poor,312,"PM
+10",3,2022-05-21
+Noida,Poor,209,"PM
+10",4,2022-05-22
+Noida,Moderate,146,"PM
+10",4,2022-05-23
+Noida,Satisfactory,60,"O , PM
+3 10",3,2022-05-24
+Noida,Moderate,190,"O , PM , PM
+3 2.5 10",4,2022-05-25
+Noida,Moderate,185,"PM , PM
+2.5 10",4,2022-05-26
+Noida,Poor,220,"PM , PM
+2.5 10",4,2022-05-27
+Noida,Poor,223,"PM
+10",4,2022-05-28
+Noida,Very Poor,304,"PM
+10",4,2022-05-29
+Noida,Poor,201,"PM
+10",4,2022-05-30
+Noida,Poor,228,"PM
+10",3,2022-05-31
+Noida,Very Poor,386,"PM
+10",4,2022-06-01
+Noida,Poor,217,"PM
+10",4,2022-06-02
+Noida,Poor,293,"PM
+10",4,2022-06-03
+Noida,Poor,239,"PM
+10",4,2022-06-04
+Noida,Poor,234,"PM
+10",4,2022-06-05
+Noida,Poor,225,"PM
+10",4,2022-06-06
+Noida,Very Poor,316,"PM
+10",3,2022-06-07
+Noida,Very Poor,399,"PM
+10",4,2022-06-08
+Noida,Poor,258,"PM
+10",4,2022-06-09
+Noida,Very Poor,342,"PM
+10",4,2022-06-10
+Noida,Very Poor,336,"PM
+10",4,2022-06-11
+Noida,Poor,298,"PM
+10",4,2022-06-12
+Noida,Poor,235,"PM
+10",4,2022-06-13
+Noida,Poor,249,"PM
+10",4,2022-06-14
+Noida,Moderate,175,"CO, PM
+10",4,2022-06-15
+Noida,Moderate,136,"PM
+10",4,2022-06-16
+Noida,Moderate,103,"PM , CO
+10",4,2022-06-17
+Noida,Satisfactory,80,"CO, PM
+10",4,2022-06-18
+Noida,Moderate,114,"O , CO, PM
+3 10",4,2022-06-19
+Noida,Moderate,119,"PM
+10",4,2022-06-20
+Noida,Moderate,151,"PM , PM
+10 2.5",4,2022-06-21
+Noida,Moderate,125,"O , PM , CO
+3 10",4,2022-06-22
+Noida,Moderate,145,"PM
+10",4,2022-06-23
+Noida,Moderate,188,"PM
+10",4,2022-06-24
+Noida,Poor,273,"PM
+10",4,2022-06-25
+Noida,Moderate,164,"PM
+10",4,2022-06-26
+Noida,Moderate,126,"PM
+10",4,2022-06-27
+Noida,Moderate,140,"PM
+10",2,2022-06-28
+Noida,Moderate,157,"PM , PM
+10 2.5",3,2022-06-29
+Noida,Satisfactory,88,"PM
+10",2,2022-06-30
+Noida,Good,50,"NO , PM
+2 10",2,2022-07-01
+Noida,Satisfactory,79,"CO, PM , PM
+2.5 10",3,2022-07-02
+Noida,Satisfactory,91,"O , CO, PM
+3 10",3,2022-07-03
+Noida,Satisfactory,76,"PM , O
+10 3",2,2022-07-04
+Noida,Moderate,145,"PM , PM
+2.5 10",3,2022-07-05
+Noida,Satisfactory,93,"CO, PM
+10",3,2022-07-06
+Noida,Satisfactory,94,"PM
+10",3,2022-07-07
+Noida,Satisfactory,89,"CO, PM
+10",3,2022-07-08
+Noida,Moderate,103,"PM
+10",2,2022-07-09
+Noida,Satisfactory,72,"CO, PM
+10",3,2022-07-10
+Noida,Satisfactory,99,"PM
+10",3,2022-07-11
+Noida,Satisfactory,79,"CO, PM
+10",3,2022-07-12
+Noida,Satisfactory,79,"CO, NO , PM
+2 10",3,2022-07-13
+Noida,Satisfactory,79,"CO, PM
+10",3,2022-07-14
+Noida,Satisfactory,77,"CO, PM
+10",3,2022-07-15
+Noida,Satisfactory,72,"CO, PM
+10",3,2022-07-16
+Noida,Satisfactory,69,"CO, PM
+10",4,2022-07-17
+Noida,Satisfactory,96,"CO, PM
+10",4,2022-07-18
+Noida,Satisfactory,93,"CO, PM
+10",4,2022-07-19
+Noida,Satisfactory,90,"CO, PM
+10",4,2022-07-20
+Noida,Satisfactory,71,"CO, O , NO
+3 2",4,2022-07-21
+Noida,Moderate,109,"CO, PM
+2.5",3,2022-07-22
+Noida,Satisfactory,58,"CO, SO , PM
+2 10",4,2022-07-23
+Noida,Satisfactory,68,"CO, SO
+2",3,2022-07-24
+Noida,Satisfactory,63,"CO, SO , PM
+2 10",4,2022-07-25
+Noida,Satisfactory,64,"CO, NO , PM
+2 10",4,2022-07-26
+Noida,Moderate,101,"CO, PM
+10",3,2022-07-27
+Noida,Satisfactory,72,"CO, PM
+10",2,2022-07-28
+Noida,Satisfactory,62,"CO, PM , NO
+10 2",4,2022-07-29
+Noida,Moderate,110,CO,2,2022-07-30
+Noida,Satisfactory,67,"CO, PM
+10",3,2022-07-31
+Noida,Satisfactory,68,"CO, PM
+10",4,2022-08-01
+Noida,Satisfactory,82,"PM , CO
+10",4,2022-08-02
+Noida,Moderate,133,"PM
+10",4,2022-08-03
+Noida,Moderate,101,"PM
+10",4,2022-08-04
+Noida,Satisfactory,94,"CO, PM
+10",4,2022-08-05
+Noida,Satisfactory,80,"PM
+10",2,2022-08-06
+Noida,Satisfactory,94,"PM , PM , CO
+2.5 10",4,2022-08-07
+Noida,Satisfactory,74,"CO, PM
+10",4,2022-08-08
+Noida,Satisfactory,92,"CO, PM
+10",4,2022-08-09
+Noida,Satisfactory,70,"CO, PM
+10",4,2022-08-10
+Noida,Satisfactory,65,"CO, PM
+10",4,2022-08-11
+Noida,Satisfactory,73,"CO, PM
+10",4,2022-08-12
+Noida,Satisfactory,59,"CO, PM
+10",4,2022-08-13
+Noida,Satisfactory,76,"CO, PM
+10",4,2022-08-14
+Noida,Satisfactory,51,"CO, SO , PM
+2 10",3,2022-08-15
+Noida,Good,50,"PM
+10",2,2022-08-16
+Noida,Good,32,"CO, O , SO
+3 2",3,2022-08-17
+Noida,Satisfactory,54,"CO, PM
+10",4,2022-08-18
+Noida,Satisfactory,71,"CO, PM
+10",4,2022-08-19
+Noida,Satisfactory,78,"CO, PM
+10",4,2022-08-20
+Noida,Moderate,116,"PM
+10",3,2022-08-21
+Noida,Moderate,102,"PM
+10",3,2022-08-22
+Noida,Satisfactory,75,"CO, PM
+10",4,2022-08-23
+Noida,Good,40,"CO, PM
+10",3,2022-08-24
+Noida,Satisfactory,77,"PM
+10",3,2022-08-25
+Noida,Moderate,111,"PM , CO
+10",4,2022-08-26
+Noida,Moderate,101,"PM
+10",4,2022-08-27
+Noida,Moderate,120,"PM
+10",4,2022-08-28
+Noida,Moderate,144,"PM
+10",4,2022-08-29
+Noida,Satisfactory,90,"CO, PM
+10",4,2022-08-30
+Noida,Moderate,124,"PM
+10",3,2022-08-31
+Noida,Moderate,124,"PM
+10",4,2022-09-01
+Noida,Moderate,112,"PM
+10",4,2022-09-02
+Noida,Moderate,117,"PM
+10",3,2022-09-03
+Noida,Satisfactory,93,"PM
+10",4,2022-09-04
+Noida,Satisfactory,99,"PM
+10",3,2022-09-05
+Noida,Moderate,123,"PM
+10",4,2022-09-06
+Noida,Moderate,124,"PM
+10",4,2022-09-07
+Noida,Moderate,133,"PM
+10",4,2022-09-08
+Noida,Moderate,129,"PM
+10",4,2022-09-09
+Noida,Moderate,106,"PM , PM
+2.5 10",4,2022-09-10
+Noida,Satisfactory,77,"PM , CO
+10",4,2022-09-11
+Noida,Satisfactory,73,"PM , CO
+10",4,2022-09-12
+Noida,Satisfactory,83,"CO, PM
+10",3,2022-09-13
+Noida,Satisfactory,55,"CO, PM
+10",3,2022-09-14
+Noida,Satisfactory,62,"CO, PM
+10",4,2022-09-15
+Noida,Good,47,"CO, PM
+10",4,2022-09-16
+Noida,Satisfactory,67,"CO, PM
+10",4,2022-09-17
+Noida,Satisfactory,81,"PM , CO
+10",4,2022-09-18
+Noida,Moderate,165,"PM
+10",4,2022-09-19
+Noida,Moderate,111,"PM , PM
+10 2.5",4,2022-09-20
+Noida,Satisfactory,96,"PM
+10",4,2022-09-21
+Noida,Satisfactory,66,"CO, SO , PM
+2 10",4,2022-09-22
+Noida,Satisfactory,64,"CO, SO , PM
+2 2.5",4,2022-09-23
+Noida,Satisfactory,54,"CO, SO , PM
+2 2.5",4,2022-09-24
+Noida,Satisfactory,72,"CO, SO
+2",4,2022-09-25
+Noida,Moderate,101,"PM , PM
+10 2.5",4,2022-09-26
+Noida,Moderate,110,"PM , PM
+2.5 10",4,2022-09-27
+Noida,Moderate,151,"PM , PM
+2.5 10",4,2022-09-28
+Noida,Moderate,147,"PM , PM
+10 2.5",4,2022-09-29
+Noida,Moderate,160,"PM , PM
+2.5 10",4,2022-09-30
+Noida,Moderate,172,"PM , PM
+2.5 10",4,2022-10-01
+Noida,Moderate,169,"PM
+10",4,2022-10-02
+Noida,Moderate,130,"PM , PM
+10 2.5",4,2022-10-03
+Noida,Moderate,154,"O , PM , PM
+3 10 2.5",4,2022-10-04
+Noida,Poor,215,"PM , PM
+2.5 10",4,2022-10-05
+Noida,Satisfactory,59,"CO, PM
+10",3,2022-10-06
+Noida,Good,50,"CO, SO , PM
+2 10",3,2022-10-07
+Noida,Good,48,"CO, SO , PM
+2 10",4,2022-10-08
+Noida,Satisfactory,55,"CO, SO
+2",3,2022-10-09
+Noida,Good,49,"CO, NO , O
+2 3",4,2022-10-10
+Noida,Satisfactory,60,"CO, O
+3",4,2022-10-11
+Noida,Moderate,188,"O , PM
+3 10",4,2022-10-12
+Noida,Moderate,147,"CO, PM
+10",4,2022-10-13
+Noida,Moderate,157,"PM , PM
+10 2.5",4,2022-10-14
+Noida,Moderate,188,"O , PM , PM
+3 2.5 10",4,2022-10-15
+Noida,Poor,258,"PM , PM
+10 2.5",4,2022-10-16
+Noida,Poor,254,"PM , O
+10 3",4,2022-10-17
+Noida,Poor,242,"PM , PM
+10 2.5",3,2022-10-18
+Noida,Poor,269,"PM , PM
+10 2.5",4,2022-10-19
+Noida,Poor,231,"PM , O
+10 3",4,2022-10-20
+Noida,Poor,258,"PM , PM
+10 2.5",4,2022-10-21
+Noida,Poor,290,"PM , PM
+10 2.5",4,2022-10-22
+Noida,Poor,236,"PM , PM
+2.5 10",3,2022-10-23
+Noida,Very Poor,305,"PM , PM
+2.5 10",4,2022-10-24
+Noida,Poor,299,"PM , PM
+2.5 10",4,2022-10-25
+Noida,Poor,262,"PM , PM
+2.5 10",4,2022-10-26
+Noida,Very Poor,354,"PM , PM
+2.5 10",3,2022-10-27
+Noida,Very Poor,371,"PM , PM
+2.5 10",4,2022-10-28
+Noida,Very Poor,381,"PM , PM
+10 2.5",4,2022-10-29
+Noida,Very Poor,321,"PM , PM
+2.5 10",4,2022-10-30
+Noida,Very Poor,374,"PM , PM
+10 2.5",4,2022-10-31
+Noida,Very Poor,398,"PM , PM
+2.5 10",4,2022-11-01
+Noida,Very Poor,339,"PM , PM
+2.5 10",4,2022-11-02
+Noida,Severe,423,"PM , PM
+2.5 10",4,2022-11-03
+Noida,Severe,406,"PM
+2.5",4,2022-11-04
+Noida,Very Poor,357,"PM
+2.5",4,2022-11-05
+Noida,Very Poor,330,"PM
+2.5",4,2022-11-06
+Noida,Very Poor,328,"PM
+2.5",4,2022-11-07
+Noida,Very Poor,331,"PM
+2.5",4,2022-11-08
+Noida,Moderate,186,"PM , PM
+2.5 10",4,2022-11-09
+Noida,Poor,256,"PM , PM
+2.5 10",4,2022-11-10
+Noida,Poor,286,"PM
+2.5",4,2022-11-11
+Noida,Poor,233,"PM
+2.5",4,2022-11-12
+Noida,Poor,231,"PM
+2.5",4,2022-11-13
+Noida,Poor,250,"PM , PM
+2.5 10",4,2022-11-14
+Noida,Moderate,169,"PM
+2.5",4,2022-11-15
+Noida,Poor,220,"PM
+2.5",4,2022-11-16
+Noida,Moderate,199,"PM
+2.5",4,2022-11-17
+Noida,Poor,223,"PM
+2.5",4,2022-11-18
+Noida,Poor,235,"PM
+2.5",4,2022-11-19
+Noida,Poor,254,"PM
+2.5",4,2022-11-20
+Noida,Poor,256,"PM
+2.5",4,2022-11-21
+Noida,Moderate,195,"PM
+2.5",4,2022-11-22
+Noida,Moderate,182,"PM
+2.5",4,2022-11-23
+Noida,Moderate,169,"PM
+2.5",4,2022-11-24
+Noida,Poor,259,"PM
+2.5",4,2022-11-25
+Noida,Poor,286,"PM
+2.5",4,2022-11-26
+Noida,Poor,293,"PM
+2.5",4,2022-11-27
+Noida,Very Poor,330,"PM
+2.5",4,2022-11-28
+Noida,Very Poor,344,"PM
+2.5",4,2022-11-29
+Noida,Very Poor,326,"PM
+2.5",4,2022-11-30
+Noida,Very Poor,301,"PM , PM
+2.5 10",4,2022-12-01
+Noida,Very Poor,316,"PM
+2.5",4,2022-12-02
+Noida,Very Poor,355,"PM
+2.5",4,2022-12-03
+Noida,Very Poor,371,"PM
+2.5",4,2022-12-04
+Noida,Very Poor,305,"PM
+2.5",4,2022-12-05
+Noida,Poor,300,"PM
+2.5",4,2022-12-06
+Noida,Poor,241,"PM
+2.5",4,2022-12-07
+Noida,Poor,239,"PM
+2.5",4,2022-12-08
+Noida,Poor,281,"PM
+10",4,2022-12-09
+Noida,Very Poor,350,"PM
+10",4,2022-12-10
+Noida,Poor,268,"PM
+2.5",4,2022-12-11
+Noida,Moderate,153,"PM
+2.5",4,2022-12-12
+Noida,Moderate,136,"PM
+2.5",4,2022-12-13
+Noida,Moderate,125,"PM
+10",4,2022-12-14
+Noida,Moderate,137,"PM
+2.5",4,2022-12-15
+Noida,Moderate,154,"PM
+10",4,2022-12-16
+Noida,Poor,288,"PM
+2.5",4,2022-12-17
+Noida,Very Poor,328,"PM
+2.5",4,2022-12-18
+Noida,Very Poor,377,"PM , PM
+2.5 10",4,2022-12-19
+Noida,Very Poor,324,"PM
+2.5",4,2022-12-20
+Noida,Very Poor,312,"PM
+2.5",4,2022-12-21
+Noida,Very Poor,332,"PM
+2.5",4,2022-12-22
+Noida,Very Poor,319,"PM , PM
+2.5 10",4,2022-12-23
+Noida,Poor,280,"PM , PM
+2.5 10",4,2022-12-24
+Noida,Poor,270,"PM
+2.5",4,2022-12-25
+Noida,Very Poor,303,"PM
+2.5",4,2022-12-26
+Noida,Very Poor,315,"PM
+2.5",4,2022-12-27
+Noida,Poor,264,"PM
+2.5",4,2022-12-28
+Noida,Poor,296,"PM
+2.5",4,2022-12-29
+Noida,Very Poor,344,"PM
+2.5",4,2022-12-30
+Noida,Very Poor,324,"PM
+2.5",4,2022-12-31
+Noida,Poor,213,"PM
+2.5",4,2023-01-01
+Noida,Poor,299,"PM
+2.5",4,2023-01-02
+Noida,Very Poor,332,"PM
+2.5",4,2023-01-03
+Noida,Very Poor,304,"PM
+2.5",4,2023-01-04
+Noida,Very Poor,349,"PM
+2.5",4,2023-01-05
+Noida,Very Poor,398,"PM
+2.5",4,2023-01-06
+Noida,Very Poor,375,"PM
+2.5",4,2023-01-07
+Noida,Very Poor,364,"PM
+2.5",4,2023-01-08
+Noida,Severe,434,"PM
+2.5",4,2023-01-09
+Noida,Very Poor,393,"PM
+2.5",4,2023-01-10
+Noida,Poor,272,"PM
+2.5",4,2023-01-11
+Noida,Very Poor,322,"PM
+2.5",4,2023-01-12
+Noida,Very Poor,324,"PM
+2.5",4,2023-01-13
+Noida,Poor,300,"PM
+2.5",3,2023-01-14
+Noida,Moderate,157,"PM
+2.5",4,2023-01-15
+Noida,Poor,234,"O , PM
+3 2.5",4,2023-01-16
+Noida,Poor,250,"PM
+2.5",4,2023-01-17
+Noida,Poor,269,"PM
+2.5",4,2023-01-18
+Noida,Very Poor,315,"PM
+2.5",4,2023-01-19
+Noida,Poor,202,"PM
+2.5",4,2023-01-20
+Noida,Poor,228,"PM
+2.5",4,2023-01-21
+Noida,Very Poor,352,"PM
+2.5",4,2023-01-22
+Noida,Poor,293,"PM
+2.5",4,2023-01-23
+Noida,Poor,203,"PM , PM
+10 2.5",4,2023-01-24
+Noida,Moderate,122,"PM
+2.5",4,2023-01-25
+Noida,Poor,283,"PM
+2.5",4,2023-01-26
+Noida,Moderate,172,"PM
+2.5",4,2023-01-27
+Noida,Moderate,169,"PM
+2.5",4,2023-01-28
+Noida,Very Poor,302,"PM
+2.5",4,2023-01-29
+Noida,Moderate,170,"PM
+2.5",4,2023-01-30
+Noida,Moderate,164,"PM
+2.5",4,2023-01-31
+Noida,Moderate,111,"PM
+2.5",4,2023-02-01
+Noida,Moderate,124,"PM
+2.5",4,2023-02-02
+Noida,Moderate,123,"PM
+10",4,2023-02-03
+Noida,Moderate,175,"PM
+10",4,2023-02-04
+Noida,Moderate,170,"PM
+2.5",4,2023-02-05
+Noida,Poor,226,"PM
+2.5",4,2023-02-06
+Noida,Poor,242,"PM
+2.5",4,2023-02-07
+Noida,Moderate,117,"PM
+10",4,2023-02-08
+Noida,Moderate,150,"PM
+2.5",4,2023-02-09
+Noida,Moderate,122,"PM
+2.5",4,2023-02-10
+Noida,Poor,235,"PM
+2.5",4,2023-02-11
+Noida,Moderate,138,"PM
+10",4,2023-02-12
+Noida,Moderate,115,"PM
+10",3,2023-02-13
+Noida,Moderate,114,"PM
+10",4,2023-02-14
+Noida,Moderate,158,"PM
+2.5",4,2023-02-15
+Noida,Poor,244,"PM
+2.5",4,2023-02-16
+Noida,Very Poor,353,"PM
+2.5",4,2023-02-17
+Noida,Very Poor,336,"PM
+2.5",4,2023-02-18
+Noida,Very Poor,321,"PM
+2.5",4,2023-02-19
+Noida,Poor,298,"PM
+2.5",4,2023-02-20
+Noida,Moderate,199,"PM
+2.5",4,2023-02-21
+Noida,Very Poor,302,"PM
+2.5",4,2023-02-22
+Noida,Moderate,169,"PM
+2.5",4,2023-02-23
+Noida,Moderate,142,"PM
+10",4,2023-02-24
+Noida,Poor,220,"O , PM
+3 2.5",4,2023-02-25
+Noida,Poor,279,"PM , PM
+10 2.5",4,2023-02-26
+Noida,Poor,203,"PM , PM
+2.5 10",4,2023-02-27
+Noida,Poor,201,"PM , PM
+10 2.5",4,2023-02-28
+Noida,Moderate,165,"PM
+10",4,2023-03-01
+Noida,Poor,212,"PM , PM
+10 2.5",4,2023-03-02
+Noida,Moderate,134,"PM
+10",4,2023-03-03
+Noida,Moderate,115,"PM
+10",4,2023-03-04
+Noida,Moderate,121,"PM
+10",4,2023-03-05
+Noida,Moderate,122,"PM
+10",4,2023-03-06
+Noida,Moderate,144,"PM
+10",4,2023-03-07
+Noida,Poor,214,"PM
+2.5",4,2023-03-08
+Noida,Satisfactory,90,"CO, PM
+10",4,2023-03-09
+Noida,Moderate,160,"PM
+10",4,2023-03-10
+Noida,Moderate,159,"PM , PM
+10 2.5",4,2023-03-11
+Noida,Poor,229,"PM , PM
+10 2.5",4,2023-03-12
+Noida,Poor,212,"PM , PM
+10 2.5",4,2023-03-13
+Noida,Moderate,173,"PM
+2.5",4,2023-03-14
+Noida,Poor,211,"PM , PM
+10 2.5",4,2023-03-15
+Noida,Poor,247,"PM , PM
+10 2.5",4,2023-03-16
+Noida,Poor,214,"PM
+2.5",4,2023-03-17
+Noida,Moderate,153,"PM
+2.5",4,2023-03-18
+Noida,Moderate,135,"PM
+2.5",4,2023-03-19
+Noida,Moderate,177,"PM
+2.5",4,2023-03-20
+Noida,Satisfactory,72,"PM , CO
+2.5",4,2023-03-21
+Noida,Moderate,142,"PM
+2.5",4,2023-03-22
+Noida,Moderate,135,"O , PM
+3 10",4,2023-03-23
+Noida,Moderate,196,"PM , PM
+10 2.5",4,2023-03-24
+Noida,Satisfactory,74,"NO , CO
+2",4,2023-03-25
+Noida,Moderate,166,"PM , PM
+10 2.5",4,2023-03-26
+Noida,Moderate,125,"PM
+10",4,2023-03-27
+Noida,Moderate,124,"PM , PM
+10 2.5",4,2023-03-28
+Noida,Moderate,158,"PM , PM
+10 2.5",4,2023-03-29
+Noida,Moderate,138,"NO , PM
+2 2.5",4,2023-03-30
+Noida,Satisfactory,82,"NO , CO
+2",4,2023-03-31
+Noida,Satisfactory,98,"NO , CO
+2",4,2023-04-01
+Noida,Moderate,107,"NO , PM
+2 10",4,2023-04-02
+Noida,Moderate,170,"PM , PM
+10 2.5",4,2023-04-03
+Noida,Moderate,120,"NO , PM
+2 10",4,2023-04-04
+Noida,Moderate,137,"NO , PM
+2 10",4,2023-04-05
+Noida,Moderate,153,"NO , PM
+2 10",4,2023-04-06
+Noida,Moderate,153,"NO , PM
+2 10",4,2023-04-07
+Noida,Moderate,156,"NO , PM
+2 10",4,2023-04-08
+Noida,Moderate,197,"PM , PM
+10 2.5",4,2023-04-09
+Noida,Moderate,187,"PM , PM
+10 2.5",4,2023-04-10
+Noida,Poor,237,"PM
+10",4,2023-04-11
+Noida,Moderate,196,"PM
+10",4,2023-04-12
+Noida,Moderate,196,"PM
+10",4,2023-04-13
+Noida,Poor,252,"PM , PM
+10 2.5",4,2023-04-14
+Noida,Poor,231,"PM
+10",4,2023-04-15
+Noida,Poor,261,"PM
+10",4,2023-04-16
+Noida,Poor,218,"PM
+10",4,2023-04-17
+Noida,Poor,233,"PM , PM
+10 2.5",4,2023-04-18
+Noida,Poor,230,"PM
+10",4,2023-04-19
+Noida,Moderate,165,"PM
+10",4,2023-04-20
+Noida,Moderate,162,"O , NO
+3 2",4,2023-04-21
+Noida,Moderate,146,"NO , PM
+2 10",4,2023-04-22
+Noida,Moderate,147,"NO , PM
+2 10",4,2023-04-23
+Noida,Moderate,150,"PM
+10",4,2023-04-24
+Noida,Moderate,166,"O , NO
+3 2",4,2023-04-25
+Noida,Moderate,199,"PM
+10",4,2023-04-26
+Noida,Poor,224,"PM
+10",4,2023-04-27
+Noida,Moderate,155,"NO , PM
+2 10",4,2023-04-28
+Noida,Moderate,194,"PM
+10",4,2023-04-29
+Noida,Moderate,123,"NO , PM
+2 10",4,2023-04-30
+Noida,Satisfactory,100,"NO , CO
+2",4,2023-05-01
+Noida,Satisfactory,66,CO,4,2023-05-02
+Noida,Moderate,110,"NO , CO
+2",4,2023-05-03
+Noida,Satisfactory,84,CO,4,2023-05-04
+Noida,Moderate,158,"PM
+10",4,2023-05-05
+Noida,Poor,220,"PM , PM
+10 2.5",4,2023-05-06
+Noida,Moderate,154,"PM
+10",4,2023-05-07
+Noida,Moderate,122,"NO , PM
+2 10",4,2023-05-08
+Noida,Moderate,189,"PM
+10",4,2023-05-09
+Noida,Moderate,187,"NO , PM
+2 10",4,2023-05-10
+Noida,Poor,270,"PM
+10",4,2023-05-11
+Noida,Poor,241,"PM , PM
+10 2.5",4,2023-05-12
+Noida,Moderate,189,"PM
+10",4,2023-05-13
+Noida,Poor,258,"PM
+10",4,2023-05-14
+Noida,Moderate,186,"NO , PM
+2 10",4,2023-05-15
+Noida,Poor,292,"PM
+10",4,2023-05-16
+Noida,Very Poor,324,"PM , PM
+10 2.5",4,2023-05-17
+Noida,Moderate,144,"NO , PM
+2 10",4,2023-05-18
+Noida,Moderate,146,"NO , PM
+2 10",4,2023-05-19
+Noida,Moderate,172,"NO , PM
+2 10",4,2023-05-20
+Noida,Poor,234,"PM
+10",4,2023-05-21
+Noida,Poor,256,"PM
+10",4,2023-05-22
+Noida,Moderate,193,"PM
+10",4,2023-05-23
+Noida,Moderate,182,"NO , PM
+2 10",4,2023-05-24
+Noida,Moderate,120,"O , NO
+3 2",4,2023-05-25
+Noida,Moderate,113,"NO , PM
+2 10",4,2023-05-26
+Noida,Moderate,113,"PM
+10",4,2023-05-27
+Noida,Moderate,107,"PM
+10",4,2023-05-28
+Noida,Moderate,137,"PM
+10",4,2023-05-29
+Noida,Moderate,110,"NO , PM
+2 10",4,2023-05-30
+Noida,Satisfactory,78,"CO, PM
+10",4,2023-05-31
+Noida,Satisfactory,96,"CO, PM
+10",4,2023-06-01
+Noida,Moderate,122,"NO , PM
+2 10",4,2023-06-02
+Noida,Moderate,115,"PM
+10",4,2023-06-03
+Noida,Moderate,137,"PM
+10",4,2023-06-04
+Noida,Moderate,153,"NO , PM
+2 10",4,2023-06-05
+Noida,Moderate,106,"PM
+10",4,2023-06-06
+Noida,Poor,226,"NO
+2",4,2023-06-07
+Noida,Moderate,155,"PM
+10",3,2023-06-08
+Noida,Moderate,150,"PM
+10",4,2023-06-09
+Noida,Moderate,165,"NO , PM
+2 10",4,2023-06-10
+Noida,Moderate,166,"NO , PM
+2 10",4,2023-06-11
+Noida,Moderate,200,"NO
+2",3,2023-06-12
+Noida,Poor,210,"PM
+10",3,2023-06-13
+Noida,Poor,225,"NO , PM
+2 10",4,2023-06-14
+Noida,Moderate,193,"NO , PM
+2 10",4,2023-06-15
+Noida,Moderate,117,"PM
+10",4,2023-06-16
+Noida,Moderate,110,"PM
+10",3,2023-06-17
+Noida,Moderate,123,"NO
+2",4,2023-06-18
+Noida,Moderate,119,"NO
+2",3,2023-06-19
+Noida,Satisfactory,83,"PM
+10",4,2023-06-20
+Noida,Moderate,110,CO,4,2023-06-21
+Noida,Moderate,110,"PM
+10",4,2023-06-22
+Noida,Moderate,146,"NO
+2",3,2023-06-23
+Noida,Moderate,137,"PM
+10",3,2023-06-24
+Noida,Satisfactory,55,"O
+3",4,2023-06-25
+Noida,Satisfactory,94,"NO , CO
+2",4,2023-06-26
+Noida,Satisfactory,88,"NO , PM
+2 10",4,2023-06-27
+Noida,Satisfactory,98,"PM
+10",4,2023-06-28
+Noida,Satisfactory,94,"PM , CO
+10",4,2023-06-29
+Noida,Satisfactory,74,"O
+3",4,2023-06-30
+Noida,Satisfactory,90,"O
+3",4,2023-07-01
+Noida,Satisfactory,69,CO,4,2023-07-02
+Noida,Moderate,105,"PM , CO
+10",4,2023-07-03
+Noida,Moderate,121,"PM
+10",4,2023-07-04
+Noida,Moderate,112,"CO, NO
+2",4,2023-07-05
+Noida,Satisfactory,84,"NO , PM
+2 10",4,2023-07-06
+Noida,Satisfactory,78,CO,4,2023-07-07
+Noida,Satisfactory,55,CO,4,2023-07-08
+Noida,Satisfactory,65,CO,4,2023-07-09
+Noida,Satisfactory,"64
+* AQ","CO
+I is not calculated for today's bullet","4
+in for Ahmednagar, Asansol,",2023-07-10
+Noida,Satisfactory,67,CO,4,2023-07-11
+Noida,Satisfactory,64,CO,4,2023-07-12
+Noida,Satisfactory,66,CO,3,2023-07-13
+Noida,Moderate,150,"PM
+10",3,2023-07-14
+Noida,Satisfactory,95,"PM
+10",4,2023-07-15
+Noida,Satisfactory,68,"PM
+2.5",4,2023-07-16
+Noida,Moderate,118,"NO , PM
+2 2.5",4,2023-07-17
+Noida,Satisfactory,94,"PM
+2.5",4,2023-07-18
+Noida,Satisfactory,59,"PM
+10",4,2023-07-19
+Noida,Satisfactory,92,"PM
+2.5",4,2023-07-20
+Noida,Moderate,110,"PM
+2.5",4,2023-07-21
+Noida,Satisfactory,92,CO,4,2023-07-22
+Noida,Satisfactory,81,CO,3,2023-07-23
+Noida,Satisfactory,71,"PM
+10",3,2023-07-24
+Noida,Satisfactory,85,CO,4,2023-07-25
+Noida,Satisfactory,59,"PM
+10",4,2023-07-26
+Noida,Satisfactory,81,"PM
+2.5",4,2023-07-27
+Noida,Satisfactory,89,"PM
+2.5",4,2023-07-28
+Noida,Satisfactory,60,"NO , CO
+2",4,2023-07-29
+Noida,Satisfactory,61,CO,4,2023-07-30
+Noida,Satisfactory,95,"PM
+10",4,2023-07-31
+Noida,Satisfactory,89,"PM
+10",3,2023-08-01
+Noida,Satisfactory,94,"PM
+10",3,2023-08-02
+Noida,Satisfactory,83,"PM
+10",3,2023-08-03
+Noida,Satisfactory,98,CO,4,2023-08-04
+Noida,Satisfactory,88,"PM
+2.5",4,2023-08-05
+Noida,Satisfactory,98,"PM , PM
+10 2.5",4,2023-08-06
+Noida,Moderate,120,CO,4,2023-08-07
+Noida,Moderate,130,CO,3,2023-08-08
+Noida,Moderate,140,CO,3,2023-08-09
+Noida,Moderate,146,"PM , CO
+10",4,2023-08-10
+Noida,Moderate,124,"PM , PM
+10 2.5",4,2023-08-11
+Noida,Moderate,131,"PM , PM
+10 2.5",4,2023-08-12
+Noida,Moderate,108,"PM , CO
+10",4,2023-08-13
+Noida,Moderate,106,"PM , CO
+10",4,2023-08-14
+Noida,Moderate,102,"PM , PM
+10 2.5",4,2023-08-15
+Noida,Moderate,111,"PM , CO
+10",4,2023-08-16
+Noida,Moderate,132,"PM , PM
+10 2.5",4,2023-08-17
+Noida,Moderate,147,"PM , PM
+10 2.5",4,2023-08-18
+Noida,Moderate,103,"PM , PM
+10 2.5",4,2023-08-19
+Noida,Satisfactory,86,"PM
+10",3,2023-08-20
+Noida,Moderate,113,"O , CO
+3",3,2023-08-21
+Noida,Satisfactory,92,"PM , CO
+10",4,2023-08-22
+Noida,Satisfactory,64,CO,4,2023-08-23
+Noida,Satisfactory,76,CO,4,2023-08-24
+Noida,Moderate,119,"PM , CO
+10",4,2023-08-25
+Noida,Moderate,143,"PM , CO
+10",4,2023-08-26
+Noida,Moderate,167,"PM , CO
+10",4,2023-08-27
+Noida,Moderate,144,"PM , CO
+10",4,2023-08-28
+Noida,Moderate,122,"PM , CO
+10",4,2023-08-29
+Noida,Moderate,144,"PM , CO
+10",4,2023-08-30
+Noida,Moderate,138,"PM , CO
+10",4,2023-08-31
+Noida,Moderate,110,"PM , CO
+10",4,2023-09-01
+Noida,Moderate,129,"PM , CO
+10",4,2023-09-02
+Noida,Moderate,142,"PM , CO
+10",4,2023-09-03
+Noida,Moderate,142,CO,4,2023-09-04
+Noida,Moderate,123,CO,4,2023-09-05
+Noida,Moderate,105,CO,4,2023-09-06
+Noida,Moderate,114,"O , CO
+3",4,2023-09-07
+Noida,Satisfactory,88,CO,4,2023-09-08
+Noida,Satisfactory,64,CO,4,2023-09-09
+Noida,Good,32,CO,1,2023-09-10
+Noida,Good,40,"NO
+2",1,2023-09-11
+Noida,Satisfactory,84,CO,4,2023-09-12
+Noida,Satisfactory,87,"PM , CO
+10",4,2023-09-13
+Noida,Moderate,112,"PM
+2.5",4,2023-09-14
+Noida,Satisfactory,98,"PM
+2.5",4,2023-09-15
+Noida,Satisfactory,62,"PM
+10",3,2023-09-16
+Noida,Good,40,"NO , PM
+2 10",3,2023-09-17
+Noida,Good,42,"PM
+10",4,2023-09-18
+Noida,Satisfactory,58,"PM
+10",3,2023-09-19
+Noida,Satisfactory,88,"PM
+10",3,2023-09-20
+Noida,Moderate,123,"PM
+2.5",3,2023-09-21
+Noida,Satisfactory,99,"PM
+10",3,2023-09-22
+Noida,Satisfactory,84,"PM
+10",3,2023-09-23
+Noida,Moderate,126,"O , PM
+3 10",2,2023-09-25
+Noida,Moderate,150,"PM , PM
+2.5 10",3,2023-09-26
+Noida,Moderate,140,"PM
+10",3,2023-09-27
+Noida,Moderate,166,"O
+3",3,2023-09-28
+Noida,Moderate,170,"O
+3",3,2023-09-29
+Noida,Moderate,168,"PM
+10",3,2023-09-30
+Noida,Moderate,150,"PM
+10",3,2023-10-01
+Noida,Moderate,179,"O
+3",3,2023-10-02
+Noida,Moderate,159,"PM
+10",3,2023-10-03
+Noida,Moderate,185,"PM
+10",3/4,2023-10-04
+Noida,Poor,203,"PM
+10",3/4,2023-10-05
+Noida,Poor,210,"PM
+10",3/4,2023-10-06
+Noida,Poor,250,"PM
+10",3/4,2023-10-07
+Noida,Moderate,147,"PM
+10",3/4,2023-10-08
+Noida,Moderate,146,"PM
+10",3/4,2023-10-09
+Noida,Moderate,151,"PM , PM
+2.5 10",3/4,2023-10-10
+Noida,Moderate,149,"PM , PM
+2.5 10",3/4,2023-10-11
+Noida,Moderate,178,"PM , PM
+2.5 10",3/4,2023-10-12
+Noida,Poor,250,"PM , NO
+2.5 2",3/4,2023-10-13
+Noida,Poor,209,"PM , PM
+2.5 10",3/4,2023-10-14
+Noida,Moderate,200,"PM
+10",3/4,2023-10-15
+Noida,Moderate,171,"PM
+10",2/4,2023-10-16
+Noida,Satisfactory,80,CO,3/4,2023-10-17
+Noida,Moderate,129,CO,3/4,2023-10-18
+Noida,Moderate,136,"O , PM
+3 10",4/4,2023-10-19
+Noida,Poor,214,"O , PM
+3 10",4/4,2023-10-20
+Noida,Poor,249,"PM , PM
+2.5 10",4/4,2023-10-21
+Noida,Very Poor,304,"PM , PM
+2.5 10",4/4,2023-10-22
+Noida,Poor,229,"PM
+10",4/4,2023-10-23
+Noida,Moderate,170,"PM
+10",4/4,2023-10-24
+Noida,Poor,212,"PM
+10",4/4,2023-10-25
+Noida,Moderate,191,"PM
+10",4/4,2023-10-26
+Noida,Poor,220,"PM
+10",4/4,2023-10-27
+Noida,Poor,286,"PM
+10",4/4,2023-10-28
+Noida,Poor,281,"PM
+10",4/4,2023-10-29
+Noida,Very Poor,303,"PM
+10",4/4,2023-10-30
+Noida,Very Poor,329,"PM
+10",3/4,2023-10-31
+Noida,Very Poor,312,"PM
+2.5",4/4,2023-11-01
+Noida,Very Poor,351,"PM
+2.5",4/4,2023-11-02
+Noida,Severe,440,"PM
+2.5",4/4,2023-11-03
+Noida,Severe,408,"PM
+2.5",4/4,2023-11-04
+Noida,Severe,414,"PM
+2.5",4/4,2023-11-05
+Noida,Very Poor,384,"PM
+2.5",4/4,2023-11-06
+Noida,Very Poor,355,"PM
+10",4/4,2023-11-07
+Noida,Severe,405,"PM , PM
+2.5 10",4/4,2023-11-08
+Noida,Very Poor,394,"PM
+10",4/4,2023-11-09
+Noida,Poor,247,"PM
+10",4/4,2023-11-10
+Noida,Moderate,156,"PM
+2.5",4/4,2023-11-11
+Noida,Moderate,189,"PM
+2.5",4/4,2023-11-12
+Noida,Very Poor,363,"PM
+2.5",4/4,2023-11-13
+Noida,Very Poor,364,"PM
+2.5",4/4,2023-11-14
+Noida,Very Poor,360,"PM
+2.5",3/4,2023-11-15
+Noida,Very Poor,355,"PM
+2.5",3/4,2023-11-16
+Noida,Very Poor,334,"PM , PM
+2.5 10",3/4,2023-11-17
+Noida,Poor,265,"PM
+2.5",4/4,2023-11-18
+Noida,Poor,268,"PM
+2.5",4/4,2023-11-19
+Noida,Very Poor,331,"PM
+2.5",4/4,2023-11-20
+Noida,Very Poor,330,"PM
+2.5",4/4,2023-11-21
+Noida,Very Poor,341,"PM
+2.5",4/4,2023-11-22
+Noida,Very Poor,353,"PM
+2.5",4/4,2023-11-23
+Noida,Very Poor,367,"PM , PM
+2.5 10",4/4,2023-11-24
+Noida,Very Poor,366,"PM
+2.5",4/4,2023-11-25
+Noida,Very Poor,356,"PM
+2.5",3/4,2023-11-26
+Noida,Very Poor,334,"PM
+2.5",4/4,2023-11-27
+Noida,Poor,261,"PM
+2.5",4/4,2023-11-28
+Noida,Poor,272,"PM
+2.5",4/4,2023-11-29
+Noida,Very Poor,358,"PM
+2.5",4/4,2023-11-30
+Noida,Very Poor,349,"PM
+2.5",3/4,2023-12-01
+Noida,Very Poor,322,"PM
+2.5",4/4,2023-12-02
+Noida,Poor,277,"PM
+2.5",3/4,2023-12-03
+Noida,Poor,243,"PM
+2.5",3/4,2023-12-04
+Noida,Poor,235,"PM
+2.5",4/4,2023-12-05
+Noida,Poor,220,"PM
+2.5",4/4,2023-12-06
+Noida,Poor,279,"PM
+2.5",4/4,2023-12-07
+Noida,Poor,253,"PM
+2.5",4/4,2023-12-08
+Noida,Poor,242,"PM , PM
+2.5 10",3/4,2023-12-09
+Noida,Poor,249,"PM
+2.5",4/4,2023-12-10
+Noida,Poor,288,"PM , PM
+2.5 10",4/4,2023-12-11
+Noida,Very Poor,337,"PM , PM
+2.5 10",4/4,2023-12-12
+Noida,Very Poor,318,"PM , PM
+10 2.5",4/4,2023-12-13
+Noida,Poor,282,"PM
+2.5",4/4,2023-12-14
+Noida,Poor,299,"PM , PM
+2.5 10",4/4,2023-12-15
+Noida,Very Poor,330,"PM , PM
+10 2.5",4/4,2023-12-16
+Noida,Poor,296,"PM , PM
+10 2.5",4/4,2023-12-17
+Noida,Poor,255,"PM
+2.5",4/4,2023-12-18
+Noida,Poor,206,"PM
+2.5",4/4,2023-12-19
+Noida,Poor,208,"PM
+2.5",3/4,2023-12-20
+Noida,Very Poor,356,"PM , PM
+2.5 10",4/4,2023-12-21
+Noida,Very Poor,376,"PM , PM
+10 2.5",4/4,2023-12-22
+Noida,Very Poor,390,"PM , PM
+10 2.5",4/4,2023-12-23
+Noida,Very Poor,368,"PM
+2.5",4/4,2023-12-24
+Noida,Very Poor,316,"PM
+2.5",3/4,2023-12-25
+Noida,Very Poor,343,"PM
+2.5",4/4,2023-12-26
+Noida,Very Poor,385,"PM , PM
+2.5 10",4/4,2023-12-27
+Noida,Very Poor,351,"PM
+2.5",4/4,2023-12-28
+Noida,Very Poor,324,"PM
+2.5",4/4,2023-12-29
+Noida,Very Poor,334,"PM , PM
+2.5 10",4/4,2023-12-30
+Noida,Very Poor,346,"PM
+2.5",3/4,2023-12-31
+Noida,Very Poor,307,"PM
+2.5",3/4,2024-01-01
+Noida,Very Poor,301,"PM
+2.5",3/4,2024-01-02
+Noida,Poor,271,"PM
+2.5",4/4,2024-01-03
+Noida,Very Poor,351,"PM
+2.5",4/4,2024-01-04
+Noida,Very Poor,304,"PM , PM
+10 2.5",4/4,2024-01-05
+Noida,Poor,260,"PM , PM
+10 2.5",3/4,2024-01-06
+Noida,Poor,290,"PM
+2.5",4/4,2024-01-07
+Noida,Very Poor,306,"PM
+2.5",4/4,2024-01-08
+Noida,Very Poor,359,"PM , PM
+10 2.5",3/4,2024-01-09
+Noida,Moderate,200,"PM
+2.5",4/4,2024-01-10
+Noida,Very Poor,319,"PM , PM
+10 2.5",4/4,2024-01-11
+Noida,Poor,298,"PM
+2.5",3/4,2024-01-12
+Noida,Very Poor,362,"PM , PM
+10 2.5",4/4,2024-01-13
+Noida,Severe,456,"PM
+2.5",4/4,2024-01-14
+Noida,Very Poor,334,"PM
+2.5",4/4,2024-01-15
+Noida,Poor,288,"PM
+2.5",4/4,2024-01-16
+Noida,Poor,266,"PM
+2.5",4/4,2024-01-17
+Noida,Poor,204,"PM
+2.5",4/4,2024-01-18
+Noida,Poor,235,"PM
+2.5",4/4,2024-01-19
+Noida,Poor,221,"PM
+2.5",3/4,2024-01-20
+Noida,Very Poor,344,"PM
+2.5",4/4,2024-01-21
+Noida,Poor,261,"PM
+2.5",2/4,2024-01-22
+Noida,Very Poor,311,"PM
+2.5",4/4,2024-01-23
+Noida,Very Poor,370,"PM , PM
+10 2.5",3/4,2024-01-24
+Noida,Very Poor,310,"PM
+2.5",4/4,2024-01-25
+Noida,Very Poor,394,"PM , PM
+10 2.5",3/4,2024-01-26
+Noida,Very Poor,301,"PM
+2.5",3/4,2024-01-27
+Noida,Very Poor,313,"PM , PM
+10 2.5",4/4,2024-01-28
+Noida,Poor,286,"PM
+2.5",4/4,2024-01-29
+Noida,Very Poor,336,"PM , PM
+10 2.5",4/4,2024-01-30
+Noida,Very Poor,341,"PM
+2.5",4/4,2024-01-31
+Noida,Moderate,158,"PM
+2.5",4/4,2024-02-01
+Noida,Moderate,171,"PM
+2.5",4/4,2024-02-02
+Noida,Moderate,152,"PM , PM
+10 2.5",4/4,2024-02-03
+Noida,Poor,235,"PM , PM
+10 2.5",4/4,2024-02-04
+Noida,Moderate,148,"PM , PM
+10 2.5",4/4,2024-02-05
+Noida,Moderate,130,"PM , PM
+10 2.5",4/4,2024-02-06
+Noida,Moderate,128,"PM , PM
+10 2.5",4/4,2024-02-07
+Noida,Moderate,127,"PM , PM
+10 2.5",4/4,2024-02-08
+Noida,Moderate,112,"PM
+10",3/4,2024-02-09
+Noida,Poor,292,"PM
+2.5",4/4,2024-02-10
+Noida,Very Poor,307,"PM
+2.5",4/4,2024-02-11
+Noida,Poor,296,"PM
+2.5",4/4,2024-02-12
+Noida,Very Poor,330,"PM
+2.5",4/4,2024-02-13
+Noida,Very Poor,348,"PM
+2.5",4/4,2024-02-14
+Noida,Poor,260,"PM
+2.5",4/4,2024-02-15
+Noida,Poor,240,"PM
+2.5",4/4,2024-02-16
+Noida,Poor,216,"PM , PM
+10 2.5",4/4,2024-02-17
+Noida,Poor,262,"PM , PM
+10 2.5",4/4,2024-02-18
+Noida,Poor,202,"PM , PM
+10 2.5",4/4,2024-02-19
+Noida,Poor,212,"PM
+2.5",4/4,2024-02-20
+Noida,Poor,244,"PM
+2.5",4/4,2024-02-21
+Noida,Moderate,142,"PM
+10",4/4,2024-02-22
+Noida,Moderate,120,"PM
+10",4/4,2024-02-23
+Noida,Moderate,158,"PM , O
+10 3",4/4,2024-02-24
+Noida,Moderate,158,"PM , PM
+10 2.5",3/4,2024-02-25
+Noida,Moderate,145,"PM , O
+10 3",3/4,2024-02-26
+Noida,Moderate,157,"PM
+10",3/4,2024-02-27
+Noida,Moderate,120,"PM
+10",4/4,2024-02-28
+Noida,Moderate,115,"PM
+10",4/4,2024-02-29
+Noida,Moderate,175,"PM , PM , O
+10 2.5 3",4/4,2024-03-01
+Noida,Satisfactory,90,"PM
+10",4/4,2024-03-02
+Noida,Satisfactory,82,"PM
+10",3/4,2024-03-03
+Noida,Satisfactory,95,"PM
+10",4/4,2024-03-04
+Noida,Moderate,110,"PM
+10",3/4,2024-03-05
+Noida,Satisfactory,97,"PM , O
+10 3",3/4,2024-03-06
+Noida,Moderate,150,"PM , PM
+10 2.5",4/4,2024-03-07
+Noida,Moderate,126,"PM
+10",4/4,2024-03-08
+Noida,Moderate,106,"PM , O
+10 3",3/4,2024-03-09
+Noida,Moderate,140,"PM , O
+10 3",4/4,2024-03-10
+Noida,Poor,203,"O , PM
+3 2.5",4/4,2024-03-11
+Noida,Moderate,164,"PM , PM
+10 2.5",4/4,2024-03-12
+Noida,Moderate,144,"PM
+10",4/4,2024-03-13
+Noida,Moderate,153,"PM , PM
+2.5 10",4/4,2024-03-14
+Noida,Moderate,106,"PM
+10",4/4,2024-03-15
+Noida,Moderate,162,"PM , O
+10 3",4/4,2024-03-16
+Noida,Moderate,182,"PM , O
+10 3",4/4,2024-03-17
+Noida,Moderate,147,"PM
+10",4/4,2024-03-18
+Noida,Moderate,190,"PM , PM , O
+10 2.5 3",4/4,2024-03-19
+Noida,Moderate,196,"PM , PM
+10 2.5",4/4,2024-03-20
+Noida,Moderate,155,"PM
+10",4/4,2024-03-21
+Noida,Moderate,137,"PM , PM
+10 2.5",4/4,2024-03-22
+Noida,Moderate,198,"PM
+10",3/4,2024-03-23
+Noida,Moderate,164,"PM
+10",4/4,2024-03-24
+Noida,Moderate,162,"PM
+2.5",4/4,2024-03-25
+Noida,Moderate,110,"PM , PM
+10 2.5",4/4,2024-03-26
+Noida,Moderate,150,"PM
+10",4/4,2024-03-27
+Noida,Moderate,152,"PM , O
+10 3",4/4,2024-03-28
+Noida,Moderate,155,"O , PM
+3 10",4/4,2024-03-29
+Noida,Moderate,165,"O , PM
+3 10",4/4,2024-03-30
+Noida,Poor,234,"PM
+10",4/4,2024-03-31
+Noida,Moderate,117,"PM
+10",4/4,2024-04-01
+Noida,Moderate,115,"PM
+10",4/4,2024-04-02
+Noida,Moderate,162,"PM , O
+10 3",4/4,2024-04-03
+Noida,Moderate,167,"PM , O
+10 3",4/4,2024-04-04
+Noida,Moderate,156,"PM
+10",4/4,2024-04-05
+Noida,Moderate,152,"O , PM
+3 10",4/4,2024-04-06
+Noida,Moderate,148,"O , PM
+3 10",4/4,2024-04-07
+Noida,Moderate,156,"O , PM
+3 10",4/4,2024-04-08
+Noida,Poor,212,"O , PM
+3 10",4/4,2024-04-09
+Noida,Moderate,176,"O , PM
+3 10",4/4,2024-04-10
+Noida,Poor,217,"O , PM
+3 10",4/4,2024-04-11
+Noida,Poor,227,"PM
+10",4/4,2024-04-12
+Noida,Moderate,193,"PM
+10",4/4,2024-04-13
+Noida,Moderate,135,"PM
+10",4/4,2024-04-14
+Noida,Poor,237,"O
+3",4/4,2024-04-15
+Noida,Poor,205,"PM
+10",3/4,2024-04-16
+Noida,Moderate,153,"O
+3",2/4,2024-04-17
+Noida,Moderate,147,"PM
+10",4/4,2024-04-18
+Noida,Moderate,192,"PM
+10",4/4,2024-04-19
+Noida,Poor,215,"PM
+10",3/4,2024-04-20
+Noida,Moderate,139,"PM
+10",3/4,2024-04-21
+Noida,Moderate,138,"O , PM
+3 10",4/4,2024-04-22
+Noida,Moderate,172,"O
+3",4/4,2024-04-23
+Noida,Moderate,156,"PM , O
+10 3",4/4,2024-04-24
+Noida,Moderate,175,"PM
+10",4/4,2024-04-25
+Noida,Poor,223,"O
+3",4/4,2024-04-26
+Noida,Moderate,141,"PM
+10",4/4,2024-04-27
+Noida,Moderate,176,"PM
+10",4/4,2024-04-28
+Noida,Poor,218,"PM
+10",4/4,2024-04-29
+Noida,Moderate,188,"PM
+10",3/4,2024-04-30
+Noida,Moderate,177,"PM
+10",4/4,2024-05-01
+Noida,Moderate,170,"PM , O
+10 3",4/4,2024-05-02
+Noida,Poor,210,"PM
+10",4/4,2024-05-03
+Noida,Poor,235,"PM
+10",4/4,2024-05-04
+Noida,Poor,298,"PM
+10",4/4,2024-05-05
+Noida,Poor,230,"PM
+10",4/4,2024-05-06
+Noida,Very Poor,319,"PM
+10",3/4,2024-05-07
+Noida,Poor,229,"PM
+10",3/4,2024-05-08
+Noida,Moderate,161,"PM
+10",4/4,2024-05-09
+Noida,Moderate,156,"PM , O
+10 3",3/4,2024-05-10
+Noida,Poor,207,"PM
+10",3/4,2024-05-11
+Noida,Moderate,175,"PM , O
+10 3",3/4,2024-05-12
+Noida,Moderate,195,"PM , PM
+10 2.5",4/4,2024-05-13
+Noida,Poor,262,"PM , PM
+10 2.5",4/4,2024-05-14
+Noida,Poor,280,"PM
+10",4/4,2024-05-15
+Noida,Poor,242,"PM
+10",4/4,2024-05-16
+Noida,Poor,296,"PM
+10",4/4,2024-05-17
+Noida,Poor,299,"PM , PM
+10 2.5",3/4,2024-05-18
+Noida,Poor,236,"PM , PM
+10 2.5",3/4,2024-05-19
+Noida,Poor,244,"PM , O
+10 3",3/4,2024-05-20
+Noida,Poor,251,"PM
+10",4/4,2024-05-21
+Noida,Poor,210,"PM
+10",4/4,2024-05-22
+Noida,Moderate,143,"PM
+10",3/4,2024-05-23
+Noida,Moderate,153,"PM , O
+10 3",4/4,2024-05-24
+Noida,Poor,219,"PM , O
+10 3",4/4,2024-05-25
+Noida,Poor,227,"PM , O
+10 3",4/4,2024-05-26
+Noida,Poor,281,"PM , O
+10 3",4/4,2024-05-27
+Noida,Poor,265,"PM
+10",3/4,2024-05-28
+Noida,Poor,262,"PM , O
+10 3",3/4,2024-05-29
+Noida,Poor,222,"PM
+10",2/4,2024-05-30
+Noida,Poor,226,"O , PM
+3 10",4/4,2024-05-31
+Noida,Poor,256,"PM
+10",3/4,2024-06-01
+Noida,Moderate,186,"PM
+10",4/4,2024-06-02
+Noida,Moderate,163,"PM
+10",4/4,2024-06-03
+Noida,Poor,227,"PM
+10",3/4,2024-06-04
+Noida,Poor,268,"PM
+10",4/4,2024-06-05
+Noida,Moderate,180,"PM , O
+10 3",3/4,2024-06-06
+Noida,Poor,232,"PM
+10",3/4,2024-06-07
+Noida,Poor,270,"PM
+10",4/4,2024-06-08
+Noida,Moderate,162,"PM
+10",4/4,2024-06-09
+Noida,Moderate,156,"PM
+10",4/4,2024-06-10
+Noida,Poor,234,"PM
+10",4/4,2024-06-11
+Noida,Poor,207,"PM
+10",3/4,2024-06-12
+Noida,Poor,226,"PM
+10",4/4,2024-06-13
+Noida,Poor,212,"PM
+10",4/4,2024-06-14
+Noida,Moderate,188,"PM
+10",3/4,2024-06-15
+Noida,Poor,203,"PM
+10",4/4,2024-06-16
+Noida,Moderate,184,"PM
+10",3/4,2024-06-17
+Noida,Poor,216,"PM
+10",4/4,2024-06-18
+Noida,Very Poor,345,"PM
+10",4/4,2024-06-19
+Noida,Moderate,174,"PM
+10",3/4,2024-06-20
+Noida,Moderate,176,"PM
+10",4/4,2024-06-21
+Noida,Moderate,184,"PM , O , PM
+10 3 2.5",4/4,2024-06-22
+Noida,Moderate,131,"PM , PM
+10 2.5",3/4,2024-06-23
+Noida,Moderate,126,"PM
+10",3/4,2024-06-24
+Noida,Moderate,142,"O , PM , PM
+3 2.5 10",4/4,2024-06-25
+Noida,Moderate,139,"PM
+10",3/4,2024-06-26
+Noida,Satisfactory,62,"PM
+10",2/4,2024-06-27
+Noida,Satisfactory,55,"CO, PM
+2.5",3/4,2024-06-28
+Noida,Satisfactory,88,"PM
+10",2/4,2024-06-29
+Noida,Satisfactory,98,"PM , PM
+2.5 10",4/4,2024-06-30
+Noida,Satisfactory,72,"CO, PM
+10",3/4,2024-07-01
+Noida,Satisfactory,96,"PM
+10",4/4,2024-07-02
+Noida,Satisfactory,70,"PM
+10",4/4,2024-07-03
+Noida,Good,48,"CO, PM
+2.5",4/4,2024-07-04
+Noida,Satisfactory,53,"PM , CO
+10",4/4,2024-07-05
+Noida,Satisfactory,56,"O , PM
+3 10",4/4,2024-07-06
+Noida,Good,44,"CO, PM , O
+10 3",4/4,2024-07-07
+Noida,Good,48,"PM , O
+10 3",4/4,2024-07-08
+Noida,Satisfactory,65,"PM
+10",4/4,2024-07-09
+Noida,Moderate,117,"PM , PM
+2.5 10",4/4,2024-07-10
+Noida,Moderate,101,"O , PM , PM
+3 2.5 10",4/4,2024-07-11
+Noida,Satisfactory,94,"PM , CO
+10",4/4,2024-07-12
+Noida,Moderate,101,"PM , O
+10 3",4/4,2024-07-13
+Noida,Satisfactory,77,"PM
+10",4/4,2024-07-14
+Noida,Satisfactory,88,"PM , PM
+10 2.5",3/4,2024-07-15
+Noida,Satisfactory,65,"PM , CO
+10",3/4,2024-07-16
+Noida,Satisfactory,63,"PM , CO
+10",3/4,2024-07-17
+Noida,Satisfactory,77,"PM
+10",4/4,2024-07-18
+Noida,Satisfactory,95,"PM
+10",4/4,2024-07-19
+Noida,Satisfactory,86,"PM , PM
+10 2.5",4/4,2024-07-20
+Noida,Satisfactory,78,"PM , PM
+10 2.5",4/4,2024-07-21
+Noida,Satisfactory,62,"PM
+10",4/4,2024-07-22
+Noida,Satisfactory,82,"PM
+10",2/4,2024-07-23
+Noida,Satisfactory,76,"PM , PM
+10 2.5",4/4,2024-07-24
+Noida,Satisfactory,86,"PM , PM
+10 2.5",4/4,2024-07-25
+Noida,Satisfactory,75,"PM
+10",4/4,2024-07-26
+Noida,Satisfactory,88,"PM , PM
+2.5 10",4/4,2024-07-27
+Noida,Satisfactory,57,"PM
+10",4/4,2024-07-28
+Noida,Satisfactory,53,"PM
+10",4/4,2024-07-29
+Noida,Satisfactory,65,"PM , CO
+10",4/4,2024-07-30
+Noida,Satisfactory,82,"PM
+10",4/4,2024-07-31
+Noida,Satisfactory,52,"O
+3",3/4,2024-08-01
+Noida,Satisfactory,57,"PM , PM
+10 2.5",4/4,2024-08-02
+Noida,Satisfactory,75,"O , PM , PM
+3 10 2.5",3/4,2024-08-03
+Noida,Satisfactory,97,"O , PM , PM
+3 10 2.5",4/4,2024-08-04
+Noida,Satisfactory,78,"PM , PM , O
+2.5 10 3",4/4,2024-08-05
+Noida,Good,48,"PM , CO
+10",4/4,2024-08-06
+Noida,Satisfactory,61,"PM , CO
+10",4/4,2024-08-07
+Noida,Good,40,"O , NO , PM
+3 2 2.5",4/4,2024-08-08
+Noida,Good,48,"O , PM
+3 10",3/4,2024-08-09
+Noida,Satisfactory,53,"PM , PM , O
+2.5 10 3",3/4,2024-08-10
+Noida,Satisfactory,61,"PM , PM
+2.5 10",3/4,2024-08-11
+Noida,Good,48,"CO, PM
+2.5",3/4,2024-08-12
+Noida,Good,46,"PM , PM , NO
+2.5 10 2",4/4,2024-08-13
+Noida,Satisfactory,70,"PM , PM
+2.5 10",4/4,2024-08-14
+Noida,Satisfactory,55,"PM
+10",3/4,2024-08-15
+Noida,Satisfactory,63,"PM , PM
+2.5 10",4/4,2024-08-16
+Noida,Satisfactory,80,"PM
+10",4/4,2024-08-17
+Noida,Satisfactory,85,"PM
+10",4/4,2024-08-18
+Noida,Satisfactory,90,"PM
+10",4/4,2024-08-19
+Noida,Satisfactory,58,"PM
+10",4/4,2024-08-20
+Noida,Satisfactory,98,"O , PM
+3 10",4/4,2024-08-21
+Noida,Satisfactory,96,"PM
+10",4/4,2024-08-22
+Noida,Satisfactory,84,"PM
+10",4/4,2024-08-23
+Noida,Moderate,121,"PM , PM
+2.5 10",4/4,2024-08-24
+Noida,Satisfactory,64,"PM
+10",4/4,2024-08-25
+Noida,Satisfactory,54,"PM
+10",4/4,2024-08-26
+Noida,Good,50,"PM , O
+10 3",4/4,2024-08-27
+Noida,Satisfactory,55,"O , PM
+3 10",4/4,2024-08-28
+Noida,Good,43,"CO, PM
+10",4/4,2024-08-29
+Noida,Moderate,101,"PM , PM
+10 2.5",4/4,2024-08-30
+Noida,Satisfactory,94,"PM
+10",4/4,2024-08-31
+Noida,Moderate,115,"PM , O
+10 3",3/4,2024-09-01
+Noida,Satisfactory,81,"PM
+10",3/4,2024-09-02
+Noida,Satisfactory,74,"PM
+10",4/4,2024-09-03
+Noida,Satisfactory,66,"O , PM
+3 10",4/4,2024-09-04
+Noida,Moderate,101,"PM , O
+10 3",4/4,2024-09-05
+Noida,Satisfactory,81,"PM , PM
+2.5 10",4/4,2024-09-06
+Noida,Satisfactory,56,"PM , O , PM
+10 3 2.5",4/4,2024-09-07
+Noida,Moderate,107,"PM , PM
+10 2.5",4/4,2024-09-08
+Noida,Moderate,125,"PM , PM
+2.5 10",4/4,2024-09-09
+Noida,Moderate,113,"PM
+10",3/4,2024-09-10
+Noida,Satisfactory,67,"CO, PM
+10",4/4,2024-09-11
+Noida,Satisfactory,60,"PM
+10",4/4,2024-09-12
+Noida,Good,46,CO,4/4,2024-09-13
+Noida,Satisfactory,63,"O , PM
+3 10",4/4,2024-09-14
+Noida,Moderate,106,"PM
+10",4/4,2024-09-15
+Noida,Moderate,168,"PM , O
+10 3",4/4,2024-09-16
+Noida,Moderate,194,"PM , O
+10 3",4/4,2024-09-17
+Noida,Satisfactory,98,"PM , PM
+2.5 10",4/4,2024-09-18
+Noida,Satisfactory,54,"O , CO
+3",4/4,2024-09-19
+Noida,Moderate,106,"PM
+10",4/4,2024-09-20
+Noida,Moderate,142,"PM
+10",4/4,2024-09-21
+Noida,Moderate,184,"O , PM , PM
+3 10 2.5",4/4,2024-09-22
+Noida,Moderate,195,"PM , PM
+2.5 10",4/4,2024-09-23
+Noida,Poor,210,"PM , PM
+10 2.5",4/4,2024-09-24
+Noida,Poor,250,"PM , PM
+2.5 10",3/4,2024-09-25
+Noida,Satisfactory,84,"CO, PM
+10",4/4,2024-09-26
+Noida,Satisfactory,85,"PM , CO
+10",4/4,2024-09-27
+Noida,Satisfactory,58,"CO, NO
+2",4/4,2024-09-28
+Noida,Satisfactory,73,"PM , NO , CO
+10 2",4/4,2024-09-29
+Noida,Moderate,120,"PM , PM
+10 2.5",4/4,2024-09-30
+Noida,Moderate,148,"PM , PM
+2.5 10",3/4,2024-10-01
+Noida,Moderate,194,"PM
+10",4/4,2024-10-02
+Noida,Moderate,172,"PM
+10",4/4,2024-10-03
+Noida,Poor,228,"O , PM
+3 10",4/4,2024-10-04
+Noida,Moderate,168,"PM
+10",4/4,2024-10-05
+Noida,Moderate,144,"PM
+10",4/4,2024-10-06
+Noida,Moderate,121,"PM
+10",4/4,2024-10-07
+Noida,Poor,217,"PM , O , PM
+2.5 3 10",3/4,2024-10-08
+Noida,Moderate,163,"PM , PM
+10 2.5",3/4,2024-10-09
+Noida,Moderate,120,"PM
+10",4/4,2024-10-10
+Noida,Moderate,128,"PM
+10",4/4,2024-10-11
+Noida,Moderate,136,"PM
+10",4/4,2024-10-12
+Noida,Poor,243,"PM , PM
+10 2.5",4/4,2024-10-13
+Noida,Poor,268,"PM , PM
+10 2.5",4/4,2024-10-14
+Noida,Moderate,170,"PM , PM
+2.5 10",4/4,2024-10-15
+Noida,Moderate,159,"PM , PM
+10 2.5",4/4,2024-10-16
+Noida,Poor,242,"PM , PM
+10 2.5",4/4,2024-10-17
+Noida,Poor,242,"PM , PM
+2.5 10",4/4,2024-10-18
+Noida,Poor,229,"PM , PM
+10 2.5",3/4,2024-10-19
+Noida,Poor,206,"PM
+2.5",3/4,2024-10-20
+Noida,Poor,252,"PM
+2.5",3/4,2024-10-21
+Noida,Poor,261,"PM
+2.5",3/4,2024-10-22
+Noida,Poor,300,"PM
+2.5",3/4,2024-10-23
+Noida,Moderate,169,"PM , PM
+10 2.5",4/4,2024-10-24
+Noida,Poor,222,"PM
+2.5",4/4,2024-10-25
+Noida,Poor,209,"PM , PM
+2.5 10",4/4,2024-10-26
+Noida,Very Poor,304,"PM
+2.5",4/4,2024-10-27
+Noida,Poor,248,"PM , PM
+2.5 10",4/4,2024-10-28
+Noida,Poor,213,"PM , PM
+2.5 10",4/4,2024-10-29
+Noida,Poor,230,"PM
+2.5",4/4,2024-10-30
+Noida,Poor,257,"PM
+2.5",4/4,2024-10-31
+Noida,Poor,274,"PM
+2.5",4/4,2024-11-01
+Noida,Poor,269,"PM , PM
+10 2.5",4/4,2024-11-02
+Noida,Very Poor,313,"PM
+2.5",3/4,2024-11-03
+Noida,Very Poor,319,"PM , PM
+2.5 10",4/4,2024-11-04
+Noida,Poor,265,"PM
+2.5",3/4,2024-11-05
+Noida,Poor,265,"PM
+2.5",3/4,2024-11-06
+Noida,Poor,278,"PM
+2.5",4/4,2024-11-07
+Noida,Poor,271,"PM
+2.5",3/4,2024-11-08
+Noida,Poor,235,"PM , PM
+10 2.5",4/4,2024-11-09
+Noida,Poor,220,"PM
+2.5",4/4,2024-11-10
+Noida,Poor,240,"PM
+2.5",4/4,2024-11-11
+Noida,Poor,222,"PM , PM
+10 2.5",4/4,2024-11-12
+Noida,Very Poor,359,"PM
+2.5",3/4,2024-11-13
+Noida,Very Poor,347,"PM
+2.5",3/4,2024-11-14
+Noida,Very Poor,316,"PM
+2.5",4/4,2024-11-15
+Noida,Very Poor,328,"PM
+2.5",4/4,2024-11-16
+Noida,Very Poor,316,"PM
+2.5",4/4,2024-11-17
+Noida,Severe,423,"PM
+2.5",4/4,2024-11-18
+Noida,Very Poor,370,"PM
+2.5",4/4,2024-11-19
+Noida,Very Poor,304,"PM
+2.5",4/4,2024-11-20
+Noida,Poor,253,"PM
+2.5",4/4,2024-11-21
+Noida,Very Poor,312,"PM
+2.5",4/4,2024-11-22
+Noida,Very Poor,322,"PM
+2.5",3/4,2024-11-23
+Noida,Poor,243,"PM
+2.5",4/4,2024-11-24
+Noida,Poor,278,"PM
+2.5",3/4,2024-11-25
+Noida,Poor,223,"PM
+2.5",3/4,2024-11-26
+Noida,Poor,207,"PM
+2.5",3/4,2024-11-27
+Noida,Poor,233,"PM
+2.5",3/4,2024-11-28
+Noida,Poor,259,"PM
+2.5",3/4,2024-11-29
+Noida,Poor,258,"PM
+2.5",4/4,2024-11-30
+Noida,Poor,215,"PM
+2.5",4/4,2024-12-01
+Noida,Moderate,166,"PM
+2.5",4/4,2024-12-02
+Noida,Moderate,178,"PM , PM
+10 2.5",4/4,2024-12-03
+Noida,Moderate,110,"PM
+10",4/4,2024-12-04
+Noida,Moderate,116,"PM , NO
+10 2",3/4,2024-12-05
+Noida,Moderate,125,"PM , PM
+2.5 10",4/4,2024-12-06
+Noida,Moderate,179,"NO , PM , PM
+2 2.5 10",4/4,2024-12-07
+Noida,Poor,228,"PM
+2.5",4/4,2024-12-08
+Noida,Satisfactory,92,"PM , NO
+10 2",3/4,2024-12-09
+Noida,Moderate,168,"PM
+2.5",4/4,2024-12-10
+Noida,Moderate,110,"PM , NO
+10 2",4/4,2024-12-11
+Noida,Moderate,198,"PM
+2.5",4/4,2024-12-12
+Noida,Moderate,173,"NO , PM
+2 2.5",3/4,2024-12-13
+Noida,Moderate,112,"PM , NO
+10 2",2/4,2024-12-14
+Noida,Poor,213,"PM
+2.5",4/4,2024-12-15
+Noida,Very Poor,323,"PM
+2.5",4/4,2024-12-16
+Noida,Very Poor,390,"PM
+2.5",4/4,2024-12-17
+Noida,Very Poor,359,"PM
+2.5",4/4,2024-12-18
+Noida,Very Poor,367,"PM
+2.5",4/4,2024-12-19
+Noida,Very Poor,330,"PM
+2.5",4/4,2024-12-20
+Noida,Poor,264,"PM
+2.5",4/4,2024-12-21
+Noida,Very Poor,311,"PM
+2.5",3/4,2024-12-22
+Noida,Very Poor,322,"PM
+2.5",4/4,2024-12-23
+Noida,Poor,269,"PM
+2.5",4/4,2024-12-24
+Noida,Poor,225,"PM , PM
+10 2.5",4/4,2024-12-25
+Noida,Poor,277,"PM , PM
+10 2.5",4/4,2024-12-26
+Noida,Very Poor,329,"PM
+2.5",4/4,2024-12-27
+Noida,Satisfactory,88,"PM
+2.5",4/4,2024-12-28
+Noida,Moderate,162,"PM
+2.5",4/4,2024-12-29
+Noida,Satisfactory,100,"PM
+2.5",4/4,2024-12-30
+Noida,Moderate,185,"PM
+2.5",3/4,2024-12-31
+Noida,Poor,211,"PM , PM
+2.5 10",4/4,2025-01-02
+Noida,Very Poor,332,"PM
+2.5",4/4,2025-01-03
+Noida,Very Poor,365,"PM
+2.5",3/4,2025-01-04
+Noida,Poor,206,"PM
+2.5",4/4,2025-01-05
+Noida,Poor,236,"PM
+2.5",4/4,2025-01-06
+Noida,Moderate,189,"PM
+2.5",4/4,2025-01-07
+Noida,Moderate,161,"PM
+2.5",3/4,2025-01-08
+Noida,Poor,259,"PM
+2.5",3/4,2025-01-09
+Noida,Poor,240,"PM
+2.5",3/4,2025-01-10
+Noida,Poor,201,"PM
+2.5",4/4,2025-01-11
+Noida,Moderate,192,"PM
+2.5",4/4,2025-01-12
+Noida,Moderate,168,"PM
+2.5",4/4,2025-01-13
+Noida,Moderate,191,"PM , O
+2.5 3",4/4,2025-01-14
+Noida,Poor,285,"PM
+2.5",4/4,2025-01-15
+Noida,Moderate,180,"PM
+2.5",4/4,2025-01-16
+Noida,Poor,232,"PM
+2.5",4/4,2025-01-17
+Noida,Moderate,147,"PM
+2.5",4/4,2025-01-18
+Noida,Poor,253,"PM
+2.5",3/4,2025-01-19
+Noida,Moderate,177,"PM
+2.5",3/4,2025-01-20
+Noida,Moderate,151,"PM , PM , O
+2.5 10 3",3/4,2025-01-21
+Noida,Moderate,131,"PM , NO , O
+10 2 3",3/4,2025-01-22
+Noida,Moderate,135,"NO , PM , PM
+2 2.5 10",3/4,2025-01-23
+Noida,Satisfactory,82,"O , PM
+3 10",2/4,2025-01-24
+Noida,Satisfactory,100,"NO , O , PM
+2 3 2.5",3/4,2025-01-25
+Noida,Moderate,170,"O
+3",1/4,2025-01-26
+Noida,Moderate,168,"NO , O
+2 3",2/4,2025-01-27
+Noida,Moderate,164,"NO , PM , O
+2 10 3",3/4,2025-01-28
+Noida,Poor,236,"PM
+2.5",3/4,2025-01-29
+Noida,Poor,238,"PM
+2.5",3/4,2025-01-30
+Noida,Poor,215,"PM
+2.5",3/4,2025-01-31
+Noida,Poor,220,"PM
+2.5",3/4,2025-02-01
+Noida,Moderate,183,"PM
+2.5",3/4,2025-02-02
+Noida,Moderate,140,"PM
+2.5",3/4,2025-02-03
+Noida,Moderate,141,"PM , PM
+2.5 10",4/4,2025-02-04
+Noida,Moderate,156,"PM , PM
+2.5 10",4/4,2025-02-05
+Noida,Moderate,124,"O , NO , PM
+3 2 10",4/4,2025-02-06
+Noida,Satisfactory,96,"PM , O
+10 3",4/4,2025-02-07
+Noida,Moderate,121,"O , PM
+3 10",4/4,2025-02-08
+Noida,Poor,222,"O , PM
+3 2.5",4/4,2025-02-09
+Noida,Moderate,192,"O , PM
+3 2.5",4/4,2025-02-10
+Noida,Moderate,177,"PM , O
+2.5 3",4/4,2025-02-11
+Noida,Moderate,150,"NO , PM
+2 10",4/4,2025-02-12
+Noida,Moderate,105,"PM , NO
+10 2",4/4,2025-02-13
+Noida,Moderate,111,"PM , NO
+10 2",4/4,2025-02-14
+Noida,Moderate,128,"NO , PM
+2 10",4/4,2025-02-15
+Noida,Poor,229,"PM
+2.5",3/4,2025-02-16
+Noida,Moderate,164,"PM , O
+10 3",4/4,2025-02-17
+Noida,Moderate,140,"PM
+10",4/4,2025-02-18
+Noida,Moderate,106,"PM
+10",4/4,2025-02-19
+Noida,Moderate,123,"CO, PM
+10",4/4,2025-02-20
+Noida,Moderate,107,"CO, PM , PM
+2.5 10",4/4,2025-02-21
+Noida,Satisfactory,92,"PM , NO , O
+2.5 2 3",4/4,2025-02-22
+Noida,Satisfactory,90,"PM , NO
+10 2",4/4,2025-02-23
+Noida,Moderate,144,"O , NO , PM
+3 2 10",4/4,2025-02-24
+Noida,Moderate,136,"PM , O
+10 3",4/4,2025-02-25
+Noida,Moderate,163,"PM
+10",4/4,2025-02-26
+Noida,Moderate,105,"PM
+10",3/4,2025-02-27
+Noida,Satisfactory,96,"NO , PM
+2 10",3/4,2025-02-28
+Noida,Satisfactory,90,"NO , PM
+2 10",3/4,2025-03-01
+Noida,Moderate,102,"PM , NO , O
+10 2 3",3/4,2025-03-02
+Noida,Moderate,185,"NO , O , PM
+2 3 10",3/4,2025-03-03
+Noida,Moderate,146,"NO , O , PM
+2 3 10",4/4,2025-03-04
+Noida,Satisfactory,98,"O , PM
+3 10",4/4,2025-03-05
+Noida,Moderate,116,"O , PM
+3 10",4/4,2025-03-06
+Noida,Moderate,161,"PM , O
+2.5 3",4/4,2025-03-07
+Noida,Satisfactory,98,"PM , NO , O
+10 2 3",3/4,2025-03-08
+Noida,Moderate,124,"PM , PM
+10 2.5",2/4,2025-03-09
+Noida,Moderate,120,"PM , NO , PM
+2.5 2 10",3/4,2025-03-10
+Noida,Moderate,184,"PM , O
+2.5 3",4/4,2025-03-11
+Noida,Moderate,149,"PM , PM , CO
+2.5 10",4/4,2025-03-12
+Noida,Moderate,109,"NO , PM
+2 10",4/4,2025-03-13
+Noida,Moderate,132,"PM , PM
+2.5 10",4/4,2025-03-14
+Noida,Satisfactory,74,"CO, PM
+10",4/4,2025-03-15
+Noida,Satisfactory,72,"PM , O , CO
+10 3",4/4,2025-03-16
+Noida,Satisfactory,71,"CO, PM
+10",4/4,2025-03-17
+Noida,Satisfactory,90,"NO , PM , PM
+2 10 2.5",4/4,2025-03-18
+Noida,Moderate,108,"NO , PM
+2 10",4/4,2025-03-19
+Noida,Moderate,132,"PM , PM
+10 2.5",4/4,2025-03-20
+Noida,Satisfactory,92,"PM , O
+10 3",4/4,2025-03-21
+Noida,Moderate,114,"O , PM , NO
+3 10 2",4/4,2025-03-22
+Noida,Moderate,111,"O , PM
+3 10",3/4,2025-03-23
+Noida,Moderate,122,"O , PM
+3 10",3/4,2025-03-24
+Noida,Moderate,169,"PM , O
+10 3",4/4,2025-03-25
+Noida,Moderate,154,"PM , PM
+2.5 10",4/4,2025-03-26
+Noida,Moderate,176,"PM
+10",4/4,2025-03-27
+Noida,Moderate,144,"PM
+10",4/4,2025-03-28
+Noida,Moderate,104,"O , PM
+3 10",3/4,2025-03-29
+Noida,Moderate,119,"O , PM
+3 10",3/4,2025-03-30
+Noida,Moderate,113,"O
+3",3/4,2025-03-31
+Noida,Satisfactory,85,"O
+3",3/4,2025-04-01
+Noida,Moderate,159,"O , PM
+3 10",3/4,2025-04-02
+Noida,Moderate,131,"PM , PM
+10 2.5",3/4,2025-04-03
+Noida,Moderate,164,"PM
+10",4/4,2025-04-04
+Noida,Moderate,107,"PM , O
+10 3",3/4,2025-04-05
+Noida,Moderate,119,"PM , O
+10 3",3/4,2025-04-06
+Noida,Poor,258,"PM
+10",2/4,2025-04-07
+Noida,Moderate,193,"O , PM , PM
+3 10 2.5",3/4,2025-04-08
+Noida,Moderate,167,"PM , O
+10 3",3/4,2025-04-09
+Noida,Poor,220,"PM , O
+10 3",3/4,2025-04-10
+Noida,Moderate,106,"PM , O
+10 3",3/4,2025-04-11
+Noida,Satisfactory,95,"O , PM
+3 10",3/4,2025-04-12
+Noida,Moderate,158,"PM , O
+10 3",3/4,2025-04-13
+Noida,Moderate,134,"O , PM
+3 10",3/4,2025-04-14
+Noida,Moderate,131,"O , PM
+3 10",3/4,2025-04-15
+Noida,Moderate,186,"O , PM
+3 10",3/4,2025-04-16
+Noida,Moderate,169,"O , PM
+3 10",3/4,2025-04-17
+Noida,Moderate,165,"O , PM
+3 10",3/4,2025-04-18
+Noida,Moderate,110,"PM , O
+10 3",3/4,2025-04-19
+Noida,Moderate,110,"PM , O
+10 3",3/4,2025-04-20
+Noida,Moderate,146,"O , PM
+3 10",3/4,2025-04-21
+Noida,Moderate,144,"O , PM
+3 10",3/4,2025-04-22
+Noida,Moderate,176,"PM , O
+10 3",3/4,2025-04-23
+Noida,Moderate,187,"O
+3",3/4,2025-04-24
+Noida,Poor,220,"PM , O
+10 3",3/4,2025-04-25
+Noida,Moderate,181,"O , PM
+3 10",3/4,2025-04-26
+Noida,Poor,202,"O , PM
+3 10",3/4,2025-04-27
+Noida,Poor,209,"O , PM
+3 10",3/4,2025-04-28
+Noida,Moderate,149,"PM
+10",3/4,2025-04-29
+Noida,Moderate,176,"O , PM
+3 10",4/4,2025-04-30
+Noida,Moderate,183,"O , PM
+3 10",4/4,2025-05-01
+Noida,Moderate,110,"PM
+10",4/4,2025-05-02
+Noida,Moderate,136,"PM , O , PM
+10 3 2.5",4/4,2025-05-03
+Noida,Moderate,166,"PM , O , PM
+10 3 2.5",4/4,2025-05-04
+Noida,Satisfactory,89,"O , PM
+3 10",4/4,2025-05-05
+Noida,Moderate,118,"O , PM
+3 10",4/4,2025-05-06
+Noida,Moderate,116,"O , PM
+3 10",4/4,2025-05-07
+Noida,Moderate,126,"PM , PM
+10 2.5",4/4,2025-05-08
+Noida,Moderate,116,"PM , PM
+2.5 10",4/4,2025-05-09
+Noida,Moderate,152,"PM , PM
+10 2.5",4/4,2025-05-10
+Noida,Moderate,123,"PM , O
+10 3",4/4,2025-05-11
+Noida,Moderate,125,"O , PM
+3 10",4/4,2025-05-12
+Noida,Moderate,116,"PM
+10",4/4,2025-05-13
+Noida,Moderate,113,"O , PM
+3 10",4/4,2025-05-14
+Noida,Poor,276,"PM
+2.5",4/4,2025-05-15
+Noida,Poor,240,"PM
+10",4/4,2025-05-16
+Noida,Moderate,150,"PM
+10",4/4,2025-05-17
+Noida,Moderate,178,"O
+3",4/4,2025-05-18
+Noida,Moderate,175,"PM , O
+10 3",3/4,2025-05-19
+Noida,Moderate,153,"PM , PM
+10 2.5",4/4,2025-05-20
+Noida,Moderate,161,"PM , O
+10 3",4/4,2025-05-21
+Noida,Satisfactory,79,"PM
+10",4/4,2025-05-22
+Noida,Satisfactory,79,"PM
+10",4/4,2025-05-23
+Noida,Moderate,116,"PM , O
+10 3",4/4,2025-05-24
+Noida,Satisfactory,81,"PM , O , CO
+10 3",3/4,2025-05-25
+Noida,Satisfactory,72,"O , PM , PM
+3 2.5 10",3/4,2025-05-26
+Noida,Moderate,105,"O , PM
+3 10",4/4,2025-05-27
+Noida,Moderate,119,"PM , O , PM
+10 3 2.5",4/4,2025-05-28
+Noida,Moderate,135,"PM , O
+10 3",4/4,2025-05-29
+Noida,Moderate,142,"PM
+10",4/4,2025-05-30
+Noida,Poor,242,"O , PM , PM
+3 10 2.5",4/4,2025-05-31
+Noida,Moderate,146,"PM
+10",4/4,2025-06-01
+Noida,Moderate,144,"PM , O
+10 3",4/4,2025-06-02
+Noida,Moderate,145,"PM , O
+10 3",4/4,2025-06-03
+Noida,Moderate,147,"O , PM
+3 10",4/4,2025-06-04
+Noida,Moderate,182,"PM , O
+10 3",4/4,2025-06-05
+Noida,Moderate,124,"PM
+10",4/4,2025-06-06
+Noida,Moderate,161,"PM , O
+10 3",4/4,2025-06-07
+Noida,Moderate,156,"PM , O
+10 3",4/4,2025-06-08
+Noida,Moderate,177,"PM
+10",4/4,2025-06-09
+Noida,Moderate,173,"PM
+10",4/4,2025-06-10
+Noida,Moderate,192,"PM
+10",4/4,2025-06-11
+Noida,Moderate,156,"O , PM
+3 10",4/4,2025-06-12
+Noida,Moderate,178,"PM
+10",3/4,2025-06-13
+Noida,Moderate,200,"O , PM
+3 10",2/4,2025-06-14
+Noida,Moderate,159,"PM
+10",4/4,2025-06-15
+Noida,Moderate,126,"PM , O
+10 3",4/4,2025-06-16
+Noida,Moderate,102,"PM , O
+10 3",4/4,2025-06-17
+Noida,Satisfactory,78,"PM , O
+2.5 3",4/4,2025-06-18
+Noida,Satisfactory,90,"PM , PM
+2.5 10",4/4,2025-06-19
+Noida,Satisfactory,88,"PM , O
+10 3",4/4,2025-06-20
+Noida,Satisfactory,90,"PM , O
+10 3",4/4,2025-06-21
+Noida,Moderate,113,"PM , O
+10 3",4/4,2025-06-22
+Noida,Moderate,114,"PM , PM , O
+10 2.5 3",3/4,2025-06-23
+Noida,Satisfactory,92,"PM
+10",4/4,2025-06-24
+Noida,Moderate,118,"PM , PM
+2.5 10",4/4,2025-06-25
+Noida,Satisfactory,80,"PM
+10",4/4,2025-06-26
+Noida,Satisfactory,74,"O , CO, PM
+3 10",3/4,2025-06-27
+Noida,Satisfactory,96,"PM
+10",2/4,2025-06-28
+Noida,Satisfactory,75,"PM , PM
+10 2.5",3/4,2025-06-29
+Noida,Satisfactory,64,CO,2/4,2025-06-30
+Noida,Satisfactory,79,"PM , PM , CO
+2.5 10",3/4,2025-07-01
+Noida,Satisfactory,92,"PM , CO
+10",3/4,2025-07-02
+Noida,Satisfactory,86,"PM , CO
+10",3/4,2025-07-03
+Noida,Satisfactory,75,"PM , O
+10 3",3/4,2025-07-04
+Noida,Satisfactory,77,"PM , PM , CO
+2.5 10",3/4,2025-07-05
+Noida,Moderate,104,"PM , NO , O
+10 2 3",3/4,2025-07-06
+Noida,Moderate,118,"O , PM
+3 2.5",2/4,2025-07-07
+Noida,Moderate,131,"PM
+10",3/4,2025-07-08
+Noida,Satisfactory,79,"PM , O
+10 3",3/4,2025-07-09
+Noida,Satisfactory,55,"O , CO, PM
+3 10",3/4,2025-07-10
+Noida,Satisfactory,91,"CO, PM
+10",3/4,2025-07-11
+Noida,Moderate,108,"PM , PM
+2.5 10",3/4,2025-07-12
+Noida,Satisfactory,74,"PM , CO
+10",3/4,2025-07-13
+Noida,Satisfactory,52,"CO, PM
+10",2/4,2025-07-14
+Noida,Good,48,"PM , O
+10 3",3/4,2025-07-15
+Noida,Satisfactory,82,"CO, PM
+10",3/4,2025-07-16
+Noida,Satisfactory,86,"PM , O
+10 3",3/4,2025-07-17
+Noida,Satisfactory,58,"NO , PM , O
+2 10 3",4/4,2025-07-18
+Noida,Satisfactory,72,"PM , O
+10 3",4/4,2025-07-19
+Noida,Satisfactory,92,"O , PM
+3 10",4/4,2025-07-20
+Noida,Moderate,110,"PM
+10",4/4,2025-07-21
+Noida,Satisfactory,96,"PM , PM
+10 2.5",3/4,2025-07-22
+Noida,Satisfactory,70,"NO , PM
+2 10",4/4,2025-07-23
+Noida,Satisfactory,82,"PM
+10",4/4,2025-07-24
+Noida,Moderate,173,"PM , O
+10 3",4/4,2025-07-25
+Noida,Satisfactory,82,"O , PM
+3 10",4/4,2025-07-26
+Noida,Satisfactory,97,"PM
+10",4/4,2025-07-27
+Noida,Satisfactory,78,"PM
+10",4/4,2025-07-28
+Noida,Satisfactory,59,"PM , PM
+2.5 10",4/4,2025-07-29
+Noida,Good,43,"CO, PM , O
+10 3",4/4,2025-07-30
+Noida,Satisfactory,54,"O , PM
+3 10",4/4,2025-07-31
+Noida,Satisfactory,55,"NO , PM
+2 10",4/4,2025-08-01
+Noida,Satisfactory,82,"PM
+10",4/4,2025-08-02
+Noida,Satisfactory,68,"PM
+10",4/4,2025-08-03
+Noida,Moderate,111,"PM
+10",4/4,2025-08-04
+Noida,Moderate,106,"PM
+10",4/4,2025-08-05
+Noida,Moderate,107,"PM
+10",4/4,2025-08-06
+Noida,Moderate,128,"PM
+10",4/4,2025-08-07
+Noida,Moderate,116,"PM
+10",4/4,2025-08-08
+Noida,Satisfactory,80,"PM
+10",4/4,2025-08-09
+Noida,Satisfactory,68,"PM
+10",3/4,2025-08-10
+Noida,Moderate,112,"PM
+10",4/4,2025-08-11
+Noida,Satisfactory,92,"PM
+10",4/4,2025-08-12
+Noida,Moderate,141,"PM
+10",4/4,2025-08-13
+Noida,Satisfactory,88,"PM
+10",4/4,2025-08-14
+Noida,Satisfactory,68,"PM , PM
+10 2.5",3/4,2025-08-15
+Noida,Satisfactory,91,"PM , PM
+2.5 10",3/4,2025-08-16
+Noida,Moderate,102,"O , PM
+3 10",4/4,2025-08-17
+Noida,Satisfactory,61,"PM
+10",3/4,2025-08-18
+Noida,Satisfactory,73,"PM
+10",4/4,2025-08-19
+Noida,Satisfactory,64,"PM
+10",4/4,2025-08-20
+Noida,Satisfactory,60,"PM
+10",4/4,2025-08-21
+Noida,Satisfactory,92,"PM , PM
+2.5 10",4/4,2025-08-22
+Noida,Satisfactory,100,"PM
+10",4/4,2025-08-23
+Noida,Good,42,"PM
+10",4/4,2025-08-24
+Noida,Good,43,"O , PM
+3 10",4/4,2025-08-25
+Noida,Good,38,"O , PM
+3 10",4/4,2025-08-26
+Noida,Satisfactory,58,"PM , PM
+2.5 10",4/4,2025-08-27
+Noida,Moderate,125,"PM , PM
+10 2.5",4/4,2025-08-28
+Noida,Moderate,104,"PM , PM
+2.5 10",4/4,2025-08-29
+Noida,Satisfactory,54,"PM
+10",4/4,2025-08-30
+Noida,Satisfactory,80,"PM
+10",4/4,2025-08-31
+Noida,Satisfactory,58,"NO , PM
+2 10",4/4,2025-09-01
+Noida,Good,40,"CO, NO , O
+2 3",3/4,2025-09-02
+Noida,Moderate,112,"CO, O
+3",4/4,2025-09-03
+Noida,Good,50,"PM , PM , O
+2.5 10 3",4/4,2025-09-04
+Noida,Satisfactory,51,"O , PM
+3 2.5",4/4,2025-09-05
+Noida,Satisfactory,62,"PM
+10",4/4,2025-09-06
+Noida,Satisfactory,68,"PM
+10",4/4,2025-09-07
+Noida,Moderate,106,"O , PM
+3 10",4/4,2025-09-08
+Noida,Moderate,130,"PM
+10",4/4,2025-09-09
+Noida,Satisfactory,82,"PM
+10",4/4,2025-09-10
+Noida,Satisfactory,94,"PM
+10",4/4,2025-09-11
+Noida,Moderate,104,"PM
+10",4/4,2025-09-12
+Noida,Moderate,140,"PM , O
+10 3",4/4,2025-09-13
+Noida,Moderate,141,"PM
+10",4/4,2025-09-14
+Noida,Moderate,134,"PM
+10",4/4,2025-09-15
+Noida,Moderate,148,"PM
+10",4/4,2025-09-16
+Noida,Moderate,114,"PM
+10",4/4,2025-09-17
+Noida,Satisfactory,99,"PM , PM
+10 2.5",4/4,2025-09-18
+Noida,Moderate,149,"PM
+10",3/4,2025-09-19
+Noida,Moderate,144,"PM
+10",4/4,2025-09-20
+Noida,Moderate,128,"PM
+10",3/4,2025-09-21
+Noida,Moderate,163,"PM
+10",4/4,2025-09-22
+Noida,Moderate,130,"PM
+10",4/4,2025-09-23
+Noida,Moderate,126,"PM
+10",4/4,2025-09-24
+Noida,Moderate,140,"PM
+10",4/4,2025-09-25
+Noida,Moderate,131,"PM
+10",4/4,2025-09-26
+Noida,Moderate,182,"O
+3",4/4,2025-09-27
+Noida,Moderate,144,"PM
+10",4/4,2025-09-28
+Noida,Moderate,118,"PM
+10",4/4,2025-09-29
+Noida,Moderate,113,"PM , PM
+2.5 10",4/4,2025-09-30
+Noida,Poor,227,"O
+3",4/4,2025-10-01
+Noida,Moderate,136,"PM
+10",4/4,2025-10-02
+Noida,Satisfactory,78,"PM , O
+10 3",4/4,2025-10-03
+Noida,Moderate,158,"PM
+10",4/4,2025-10-04
+Noida,Moderate,194,"O , PM
+3 10",4/4,2025-10-05
+Noida,Moderate,130,"PM
+10",4/4,2025-10-06
+Noida,Satisfactory,68,"NO , O
+2 3",4/4,2025-10-07
+Noida,Moderate,124,"O , PM
+3 10",4/4,2025-10-08
+Noida,Moderate,113,"PM , O
+10 3",4/4,2025-10-09
+Noida,Moderate,188,"O , PM
+3 10",4/4,2025-10-10
+Noida,Poor,225,"PM
+10",4/4,2025-10-11
+Noida,Moderate,180,"PM
+10",4/4,2025-10-12
+Noida,Moderate,198,"O , PM
+3 10",4/4,2025-10-13
+Noida,Poor,251,"O , PM
+3 10",4/4,2025-10-14
+Noida,Very Poor,318,"O , PM
+3 10",4/4,2025-10-15
+Noida,Poor,288,"PM
+10",4/4,2025-10-16
+Noida,Poor,278,"PM , PM
+2.5 10",4/4,2025-10-17
+Noida,Poor,293,"PM , PM
+10 2.5",4/4,2025-10-18
+Noida,Very Poor,329,"PM , PM
+10 2.5",4/4,2025-10-19
+Noida,Very Poor,325,"PM
+2.5",4/4,2025-10-20
+Noida,Very Poor,320,"PM
+2.5",4/4,2025-10-21
+Noida,Very Poor,330,"PM
+2.5",4/4,2025-10-22
+Noida,Poor,276,"PM
+2.5",4/4,2025-10-23
+Noida,Poor,246,"PM
+2.5",4/4,2025-10-24
+Noida,Very Poor,324,"PM , PM
+2.5 10",4/4,2025-10-25
+Noida,Very Poor,324,"PM , PM
+10 2.5",4/4,2025-10-26
+Noida,Very Poor,327,"PM , PM
+2.5 10",4/4,2025-10-27
+Noida,Poor,290,"PM
+2.5",4/4,2025-10-28
+Noida,Poor,236,"PM
+2.5",3/4,2025-10-29
+Noida,Very Poor,372,"PM , PM
+2.5 10",4/4,2025-10-30
+Noida,Moderate,163,"PM
+2.5",3/4,2025-10-31
+Noida,Poor,292,"PM
+2.5",4/4,2025-11-01
+Noida,Very Poor,348,"PM
+2.5",4/4,2025-11-02
+Noida,Very Poor,312,"PM
+2.5",4/4,2025-11-03
+Noida,Very Poor,304,"PM , PM
+10 2.5",4/4,2025-11-04
+Noida,Poor,215,"PM , PM
+10 2.5",4/4,2025-11-05
+Noida,Poor,257,"PM
+2.5",4/4,2025-11-06
+Noida,Very Poor,306,"PM
+2.5",4/4,2025-11-07
+Noida,Very Poor,354,"PM
+2.5",4/4,2025-11-08
+Noida,Very Poor,366,"PM
+2.5",4/4,2025-11-09
+Noida,Very Poor,320,"PM , PM
+10 2.5",3/4,2025-11-10
+Noida,Severe,425,"PM
+2.5",3/4,2025-11-11
+Noida,Severe,408,"PM
+2.5",4/4,2025-11-12
+Noida,Very Poor,389,"PM
+2.5",4/4,2025-11-13
+Noida,Very Poor,364,"PM , PM
+10 2.5",4/4,2025-11-14
+Noida,Very Poor,397,"PM , PM
+2.5 10",4/4,2025-11-15
+Noida,Very Poor,385,"PM , PM
+10 2.5",4/4,2025-11-16
+Noida,Very Poor,358,"PM , PM
+2.5 10",4/4,2025-11-17
+Noida,Very Poor,390,"PM , PM
+2.5 10",4/4,2025-11-18
+Noida,Severe,409,"PM , PM
+2.5 10",4/4,2025-11-19
+Noida,Severe,408,"PM
+2.5",4/4,2025-11-20
+Noida,Very Poor,394,"PM
+2.5",4/4,2025-11-21
+Noida,Very Poor,394,"PM
+2.5",3/4,2025-11-22
+Noida,Severe,418,"PM , PM
+2.5 10",4/4,2025-11-23
+Noida,Very Poor,397,"PM , PM
+10 2.5",4/4,2025-11-24
+Noida,Very Poor,373,"PM
+2.5",4/4,2025-11-25
+Noida,Very Poor,350,"PM
+2.5",4/4,2025-11-26
+Noida,Very Poor,391,"PM
+2.5",4/4,2025-11-27
+Noida,Very Poor,388,"PM
+2.5",4/4,2025-11-28
+Noida,Very Poor,310,"PM
+2.5",4/4,2025-11-29
+Noida,Poor,279,"PM
+2.5",4/4,2025-11-30
+Noida,Very Poor,321,"PM
+2.5",4/4,2025-12-01
+Noida,Very Poor,395,"PM
+2.5",4/4,2025-12-02
+Noida,Very Poor,365,"PM
+2.5",4/4,2025-12-03
+Noida,Very Poor,308,"PM
+2.5",4/4,2025-12-04
+Noida,Very Poor,339,"PM
+2.5",3/4,2025-12-05
+Noida,Very Poor,344,"PM
+2.5",3/4,2025-12-06
+Noida,Very Poor,317,"PM
+2.5",3/4,2025-12-07
+Noida,Very Poor,330,"PM
+2.5",4/4,2025-12-08
+Noida,Poor,285,"PM
+2.5",3/4,2025-12-09
+Noida,Poor,256,"PM
+2.5",3/4,2025-12-10
+Noida,Very Poor,322,"PM
+2.5",4/4,2025-12-11
+Noida,Very Poor,386,"PM
+2.5",4/4,2025-12-12
+Noida,Severe,455,"PM
+2.5",4/4,2025-12-13
+Noida,Severe,466,"PM
+2.5",4/4,2025-12-14

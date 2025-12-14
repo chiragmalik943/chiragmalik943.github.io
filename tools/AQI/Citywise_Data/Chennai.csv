@@ -1,0 +1,7389 @@
+City,Air Quality,Index Value,Prominent Pollutant,No. of Stations Participated / Total Stations (Based on Number of Monitoring Stations),Date
+Chennai,,87,CO,,2015-05-01
+Chennai,,120,"PM
+2.5",,2015-05-02
+Chennai,,90,"PM
+2.5",,2015-05-03
+Chennai,,88,"PM
+2.5",,2015-05-04
+Chennai,,124,"PM
+2.5",,2015-05-05
+Chennai,,135,"PM
+2.5",,2015-05-06
+Chennai,,146,"PM
+2.5",,2015-05-07
+Chennai,,146,"PM
+2.5",,2015-05-08
+Chennai,,143,"PM
+2.5",,2015-05-10
+Chennai,,233,"CO, PM
+2.5",,2015-05-11
+Chennai,,169,"PM
+2.5",,2015-05-12
+Chennai,,229,"PM
+2.5",,2015-05-13
+Chennai,,113,"PM
+2.5",3,2015-05-15
+Chennai,,,"PM
+2.5",3,2015-05-16
+Chennai,,164,"PM
+2.5",2,2015-05-17
+Chennai,,119,"PM
+2.5",2,2015-05-18
+Chennai,,212,"PM
+2.5",3,2015-05-19
+Chennai,,118,"PM
+2.5",2,2015-05-20
+Chennai,Moderate,180,"PM
+2.5","3
+(One station @ 3.00 PM)",2015-05-21
+Chennai,Moderate,188,"PM
+2.5",3,2015-05-22
+Chennai,,133,"PM
+2.5",3,2015-05-23
+Chennai,Moderate,123,"PM
+2.5",2,2015-05-24
+Chennai,Moderate,172,"PM
+2.5",3,2015-05-25
+Chennai,Moderate,177,"PM
+2.5",3,2015-05-26
+Chennai,,186,"PM CO
+2.5,",3,2015-05-27
+Chennai,,200,"PM
+2.5",3,2015-05-28
+Chennai,Moderate,173,"PM
+2.5",3,2015-05-29
+Chennai,,207,"PM
+2.5",2,2015-05-30
+Chennai,,164,"PM
+2.5",3,2015-05-31
+Chennai,,177,"PM
+2.5",3,2015-06-01
+Chennai,,228,"PM
+2.5",2,2015-06-02
+Chennai,,211,"PM
+2.5",3,2015-06-03
+Chennai,Moderate,160,"PM
+2.5",3,2015-06-04
+Chennai,Moderate,151,"PM
+2.5",3,2015-06-05
+Chennai,,112,"PM
+2.5",3,2015-06-06
+Chennai,,118,"CO , PM
+2.5","3
+(0ne station @ 3PM)",2015-06-07
+Chennai,Moderate,118,"PM
+2.5",3,2015-06-08
+Chennai,Moderate,107,"PM
+2.5",2,2015-06-09
+Chennai,Moderate,105,"PM
+2.5",3,2015-06-10
+Chennai,Moderate,108,"PM
+2.5",3,2015-06-11
+Chennai,,,"PM
+2.5",3,2015-06-13
+Chennai,,106,"PM CO
+2.5,",3,2015-06-14
+Chennai,,119,"PM CO
+2.5,",3,2015-06-15
+Chennai,,101,"PM CO
+2.5,",3,2015-06-16
+Chennai,,108,"PM CO
+2.5,",3,2015-06-17
+Chennai,,108,"PM CO
+2.5,",3,2015-06-18
+Chennai,,164,"PM CO
+2.5,",3,2015-06-19
+Chennai,,107,"PM CO
+2.5,",3,2015-06-20
+Chennai,,100,"PM CO
+2.5,",3,2015-06-21
+Chennai,,115,CO,2,2015-06-22
+Chennai,,120,"PM CO
+2.5,",2,2015-06-23
+Chennai,,137,"PM
+2.5",3,2015-06-25
+Chennai,,132,"PM
+2.5",3,2015-06-26
+Chennai,,174,"PM CO
+2.5,",2+,2015-06-27
+Chennai,,112,"PM
+2.5",2,2015-06-28
+Chennai,,172,"PM CO
+2.5,",3,2015-07-01
+Chennai,,144,"PM CO
+2.5,",2,2015-07-02
+Chennai,,157,"CO , PM
+2.5",3,2015-07-03
+Chennai,,156,"PM CO
+2.5,",3+,2015-07-05
+Chennai,,162,"PM CO
+2.5,",3,2015-07-06
+Chennai,,160,"PM CO
+2.5,",3,2015-07-07
+Chennai,,152,"CO, PM
+2.5",3,2015-07-08
+Chennai,,182,"PM CO
+2.5,",2,2015-07-09
+Chennai,,93,CO,1,2015-07-10
+Chennai,,162,"PM
+2.5",2,2015-07-11
+Chennai,,149,"PM
+2.5",2,2015-07-12
+Chennai,,139,"PM
+2.5",3,2015-07-13
+Chennai,,133,"PM
+2.5",2,2015-07-14
+Chennai,,125,"PM
+2.5",3,2015-07-15
+Chennai,,128,"PM
+2.5",3,2015-07-16
+Chennai,,128,"PM
+2.5",3,2015-07-17
+Chennai,,128,"PM
+2.5",3,2015-07-18
+Chennai,,84,"CO, PM
+2.5",3,2015-07-19
+Chennai,,84,CO,3,2015-07-20
+Chennai,,96,"PM
+2.5",2,2015-07-21
+Chennai,,123,"PM
+2.5",2,2015-07-22
+Chennai,,157,"CO , PM
+2.5",2,2015-07-23
+Chennai,,159,"PM
+2.5",2,2015-07-24
+Chennai,,103,"PM
+2.5",3,2015-07-25
+Chennai,,94,"CO, PM
+2.5",3,2015-07-26
+Chennai,,116,CO,3,2015-07-27
+Chennai,,103,"PM
+2.5",2,2015-07-28
+Chennai,,96,"PM
+2.5",3,2015-07-29
+Chennai,,94,"PM
+2.5",3,2015-07-30
+Chennai,,95,"PM
+2.5",3,2015-07-31
+Chennai,,102,"PM
+2.5",2,2015-08-01
+Chennai,,191,"PM , SO
+2.5 2",3,2015-08-02
+Chennai,,78,CO,3,2015-08-03
+Chennai,,120,"PM
+2.5",2,2015-08-04
+Chennai,,109,"PM
+2.5",3,2015-08-05
+Chennai,,105,"PM
+2.5",3,2015-08-06
+Chennai,,91,"PM
+2.5",3,2015-08-07
+Chennai,,136,"PM , CO
+2.5",3,2015-08-08
+Chennai,,104,"PM
+2.5",3,2015-08-09
+Chennai,,100,"PM
+2.5",3,2015-08-10
+Chennai,,100,"PM
+2.5",3,2015-08-11
+Chennai,,112,"PM
+2.5",2,2015-08-12
+Chennai,,107,"PM
+2.5",3,2015-08-13
+Chennai,,99,"PM
+2.5",3,2015-08-14
+Chennai,Satisfactory,84,"CO, PM
+2.5",2,2015-08-15
+Chennai,,111,"PM
+2.5",3,2015-08-16
+Chennai,Moderate,116,"PM
+2.5",3,2015-08-17
+Chennai,Moderate,104,"PM
+2.5",3,2015-08-18
+Chennai,Moderate,117,"PM
+2.5",3#,2015-08-19
+Chennai,Moderate,148,"PM
+2.5",3,2015-08-20
+Chennai,Satisfactory,81,"PM
+2.5",3,2015-08-21
+Chennai,Satisfactory,99,"CO, SO
+2",3#,2015-08-22
+Chennai,Good,46,"PM , CO
+2.5",2,2015-08-23
+Chennai,Satisfactory,75,"PM
+2.5",3,2015-08-24
+Chennai,Satisfactory,79,"PM , CO
+2.5",3,2015-08-25
+Chennai,Satisfactory,92,"PM , CO
+2.5",3,2015-08-26
+Chennai,Satisfactory,84,"PM , CO
+2.5",3,2015-08-27
+Chennai,Satisfactory,53,CO,1#,2015-08-29
+Chennai,Satisfactory,82,"CO, PM
+2.5",3,2015-08-30
+Chennai,Satisfactory,80,"CO, PM
+2.5",2#,2015-08-31
+Chennai,Satisfactory,75,"CO, PM
+2.5",3#,2015-09-01
+Chennai,Moderate,101,"CO, O
+3",3#,2015-09-02
+Chennai,Satisfactory,77,CO,3#,2015-09-03
+Chennai,Satisfactory,75,"CO, PM
+2.5",3,2015-09-04
+Chennai,Satisfactory,75,"CO, O
+3",3,2015-09-05
+Chennai,Satisfactory,77,"CO, PM
+2.5",3,2015-09-06
+Chennai,Satisfactory,79,"CO, PM
+2.5",3,2015-09-07
+Chennai,Satisfactory,71,"CO, PM
+2.5",3,2015-09-08
+Chennai,Satisfactory,73,"CO, PM
+2.5",3,2015-09-09
+Chennai,Satisfactory,70,"CO, PM
+2.5",3,2015-09-10
+Chennai,Satisfactory,68,"CO, PM
+2.5",3,2015-09-11
+Chennai,Satisfactory,86,CO,2,2015-09-12
+Chennai,Satisfactory,60,"CO, PM
+2.5",3,2015-09-13
+Chennai,Satisfactory,67,"CO, PM
+2.5",3,2015-09-14
+Chennai,Satisfactory,62,"PM , CO
+2.5",3,2015-09-15
+Chennai,Satisfactory,61,"PM , CO
+2.5",3,2015-09-16
+Chennai,Satisfactory,68,"PM , CO
+2.5",3,2015-09-17
+Chennai,Satisfactory,66,"PM , CO
+2.5",3,2015-09-18
+Chennai,Satisfactory,64,"PM , CO
+2.5",2,2015-09-19
+Chennai,Satisfactory,55,"PM , CO
+2.5",2,2015-09-20
+Chennai,Satisfactory,68,"PM , CO
+2.5",2,2015-09-21
+Chennai,Satisfactory,75,"CO, PM
+2.5",3,2015-09-22
+Chennai,Satisfactory,75,CO,3,2015-09-23
+Chennai,Satisfactory,97,"CO, PM
+2.5",2#,2015-09-24
+Chennai,Satisfactory,82,"CO, PM
+2.5",3,2015-09-25
+Chennai,Satisfactory,90,"PM
+2.5",3,2015-09-26
+Chennai,Moderate,171,"O , PM
+3 2.5",3,2015-09-27
+Chennai,Moderate,145,"PM
+2.5",3,2015-09-28
+Chennai,Satisfactory,80,"PM , O
+2.5 3",3,2015-09-29
+Chennai,Satisfactory,81,"PM , O
+2.5 3",3,2015-09-30
+Chennai,Satisfactory,81,"PM
+2.5",3,2015-10-01
+Chennai,Satisfactory,92,"PM
+2.5",2,2015-10-02
+Chennai,Satisfactory,77,"PM
+2.5",3,2015-10-03
+Chennai,Satisfactory,92,"PM
+2.5",3,2015-10-04
+Chennai,Satisfactory,78,"PM
+2.5",3,2015-10-05
+Chennai,Satisfactory,67,"PM
+2.5",3,2015-10-06
+Chennai,Satisfactory,69,"CO, PM
+2.5",3,2015-10-07
+Chennai,Moderate,147,"O , PM
+3 2.5",3,2015-10-08
+Chennai,Satisfactory,81,"CO, PM
+2.5",3,2015-10-09
+Chennai,Satisfactory,82,"CO, PM
+2.5",3#,2015-10-10
+Chennai,Satisfactory,68,"PM
+2.5",2,2015-10-12
+Chennai,Satisfactory,69,"PM
+2.5",2,2015-10-13
+Chennai,Satisfactory,64,"CO, PM
+2.5",3,2015-10-14
+Chennai,Satisfactory,80,"PM , O
+2.5 3",3#,2015-10-15
+Chennai,Satisfactory,72,"PM , O
+2.5 3",3,2015-10-16
+Chennai,Moderate,124,"O , PM
+3 2.5",3,2015-10-17
+Chennai,Satisfactory,67,"PM
+2.5",3,2015-10-18
+Chennai,Satisfactory,54,"PM
+2.5",3,2015-10-19
+Chennai,Satisfactory,53,"PM
+2.5",2,2015-10-20
+Chennai,Satisfactory,68,"PM , CO
+2.5",3#,2015-10-21
+Chennai,Moderate,148,"PM
+2.5",3,2015-10-23
+Chennai,Satisfactory,100,"CO, O
+3",3,2015-10-24
+Chennai,Moderate,130,"CO, O
+3",3,2015-10-25
+Chennai,Moderate,121,"CO, O
+3",3,2015-10-26
+Chennai,Moderate,127,"PM , O
+2.5 3",3,2015-10-27
+Chennai,Moderate,158,"O , PM
+3 2.5",2,2015-10-28
+Chennai,Moderate,125,"CO, PM
+2.5",3#,2015-10-29
+Chennai,Satisfactory,94,"O , PM
+3 2.5",3#,2015-10-31
+Chennai,Moderate,122,"O , PM
+3 2.5",3#,2015-11-01
+Chennai,Moderate,131,"O
+3",2,2015-11-02
+Chennai,Moderate,103,"O , PM
+3 2.5",3,2015-11-03
+Chennai,Moderate,101,"O , PM
+3 2.5",3,2015-11-04
+Chennai,Satisfactory,80,"CO, PM
+2.5",3,2015-11-05
+Chennai,Satisfactory,88,"PM
+2.5",3,2015-11-06
+Chennai,Moderate,103,"CO, O
+3",3,2015-11-07
+Chennai,Satisfactory,61,"PM , O
+2.5 3",2,2015-11-08
+Chennai,Good,49,"CO, O
+3",2,2015-11-09
+Chennai,Moderate,104,"O , CO
+3",3,2015-11-10
+Chennai,Moderate,159,"PM
+2.5",2,2015-11-11
+Chennai,Moderate,108,"PM
+2.5",2,2015-11-12
+Chennai,Satisfactory,91,"O
+3",1,2015-11-13
+Chennai,Moderate,126,"PM , O
+2.5 3",3,2015-11-14
+Chennai,Moderate,107,"PM , CO
+2.5",3#,2015-11-15
+Chennai,Satisfactory,81,"O , CO
+3",3,2015-11-16
+Chennai,Moderate,146,"O , CO
+3",3,2015-11-17
+Chennai,Satisfactory,71,"PM , CO
+2.5",3,2015-11-18
+Chennai,Satisfactory,75,"O , CO
+3",2,2015-11-19
+Chennai,Satisfactory,99,"PM , O
+2.5 3",2,2015-11-21
+Chennai,Satisfactory,90,"PM , O
+2.5 3",3,2015-11-23
+Chennai,Satisfactory,78,"O , CO
+3",2,2015-11-24
+Chennai,Satisfactory,78,"PM , CO
+2.5",2,2015-11-25
+Chennai,Moderate,105,"PM , O
+2.5 3",3,2015-11-26
+Chennai,Moderate,113,"PM , O
+2.5 3",3,2015-11-27
+Chennai,Moderate,108,"PM , O
+2.5 3",3,2015-11-28
+Chennai,Satisfactory,90,"PM , O
+2.5 3",3#,2015-11-30
+Chennai,Satisfactory,81,"PM , CO
+2.5",3,2015-12-01
+Chennai,Poor,226,"PM
+2.5",1,2015-12-08
+Chennai,Moderate,123,"PM , CO
+2.5",2,2015-12-09
+Chennai,Satisfactory,93,"PM , CO
+2.5",2,2015-12-10
+Chennai,Moderate,122,"PM
+2.5",1,2015-12-11
+Chennai,Moderate,104,"PM , CO
+2.5",2,2015-12-12
+Chennai,Moderate,119,"PM , CO
+2.5",2,2015-12-13
+Chennai,Poor,215,"PM , CO
+2.5",3,2015-12-14
+Chennai,Satisfactory,100,"PM , CO
+2.5",3,2015-12-15
+Chennai,Satisfactory,97,"PM , CO
+2.5",3,2015-12-16
+Chennai,Moderate,121,"PM , CO
+2.5",2,2015-12-17
+Chennai,Moderate,124,"PM , CO
+2.5",2,2015-12-18
+Chennai,Moderate,106,"PM , CO
+2.5",2#,2015-12-19
+Chennai,Satisfactory,83,"PM , O
+2.5 3",3,2015-12-21
+Chennai,Moderate,123,"PM , CO
+2.5",3,2015-12-22
+Chennai,Moderate,106,"PM , O
+2.5 3",3,2015-12-23
+Chennai,Moderate,119,"PM
+2.5",2,2015-12-24
+Chennai,Moderate,123,"PM
+2.5",2,2015-12-25
+Chennai,Moderate,118,"PM
+2.5",2,2015-12-26
+Chennai,Poor,240,"PM , CO
+2.5",2,2015-12-28
+Chennai,Poor,203,CO,1,2015-12-29
+Chennai,Moderate,105,"PM
+2.5",2,2015-12-30
+Chennai,Moderate,101,"PM
+2.5",2,2015-12-31
+Chennai,Moderate,140,"PM
+2.5",1,2016-01-01
+Chennai,Satisfactory,63,"PM
+2.5",1#,2016-01-03
+Chennai,Satisfactory,93,"PM
+2.5",2,2016-01-05
+Chennai,Moderate,121,"PM
+2.5",2,2016-01-06
+Chennai,Satisfactory,67,"PM
+2.5",1#,2016-01-07
+Chennai,Moderate,109,"PM
+2.5",2#,2016-01-08
+Chennai,Moderate,187,"O , PM
+3 2.5",2,2016-01-09
+Chennai,Moderate,110,"PM
+2.5",2,2016-01-10
+Chennai,Very Poor,314,"O
+3",1,2016-01-11
+Chennai,Moderate,139,"PM
+2.5",2#,2016-01-12
+Chennai,Moderate,136,"PM
+2.5",2,2016-01-13
+Chennai,Moderate,185,"PM
+2.5",2,2016-01-14
+Chennai,Moderate,168,"PM
+2.5",1#,2016-01-15
+Chennai,Moderate,122,"PM
+2.5",2,2016-01-16
+Chennai,Moderate,116,"PM
+2.5",2,2016-01-17
+Chennai,Moderate,116,"PM
+2.5",2,2016-01-18
+Chennai,Poor,277,"O , PM
+3 2.5",2,2016-01-19
+Chennai,Poor,216,"O , PM
+3 2.5",3#,2016-01-20
+Chennai,Moderate,109,"PM
+2.5",3,2016-01-21
+Chennai,Moderate,132,"PM
+2.5",3,2016-01-22
+Chennai,Moderate,101,"PM
+2.5",3,2016-01-23
+Chennai,Satisfactory,95,"PM , O
+2.5 3",3,2016-01-24
+Chennai,Satisfactory,97,"PM
+2.5",3,2016-01-25
+Chennai,Moderate,114,"PM , CO
+2.5",2,2016-01-26
+Chennai,Satisfactory,93,"PM , CO
+2.5",3,2016-01-27
+Chennai,Satisfactory,99,"PM , CO
+2.5",3,2016-01-28
+Chennai,Moderate,115,"PM , CO
+2.5",2,2016-01-29
+Chennai,Moderate,123,"PM , CO
+2.5",2,2016-01-30
+Chennai,Moderate,151,"PM , CO
+2.5",3,2016-01-31
+Chennai,Satisfactory,68,CO,1#,2016-02-01
+Chennai,Moderate,108,"PM
+2.5",3,2016-02-02
+Chennai,Moderate,193,"PM
+2.5",3,2016-02-03
+Chennai,Moderate,195,"PM
+2.5",2,2016-02-04
+Chennai,Very Poor,308,"PM
+2.5",1,2016-02-05
+Chennai,Poor,210,"PM , SO
+2.5 2",2#,2016-02-06
+Chennai,Moderate,173,"PM
+2.5",2,2016-02-07
+Chennai,Moderate,153,"PM , CO
+2.5",3,2016-02-08
+Chennai,Moderate,177,"PM
+2.5",3,2016-02-09
+Chennai,Moderate,193,"PM
+2.5",3,2016-02-10
+Chennai,Moderate,158,"PM
+2.5",2#,2016-02-11
+Chennai,Moderate,129,"PM
+2.5",1#,2016-02-12
+Chennai,Moderate,151,"PM
+2.5",2,2016-02-13
+Chennai,Satisfactory,86,"CO, PM
+2.5",3,2016-02-15
+Chennai,Moderate,171,"O , PM
+3 2.5",3,2016-02-16
+Chennai,Moderate,172,"PM
+2.5",3,2016-02-19
+Chennai,Moderate,168,"PM
+2.5",3,2016-02-20
+Chennai,Moderate,181,"PM
+2.5",1,2016-02-21
+Chennai,Moderate,156,"O , PM
+3 2.5",2,2016-02-22
+Chennai,Moderate,117,"PM
+2.5",2,2016-02-23
+Chennai,Satisfactory,88,"O , PM
+3 2.5",2,2016-02-24
+Chennai,Satisfactory,99,"O , PM
+3 2.5",3,2016-02-25
+Chennai,Moderate,107,CO,1,2016-02-26
+Chennai,Satisfactory,84,"PM
+2.5",2,2016-02-27
+Chennai,Satisfactory,81,"PM , CO
+2.5",2,2016-02-28
+Chennai,Moderate,106,CO,1#,2016-02-29
+Chennai,Moderate,171,"PM
+2.5",3,2016-03-02
+Chennai,Moderate,105,"PM
+2.5",1,2016-03-04
+Chennai,Satisfactory,97,"O , PM
+3 2.5",2,2016-03-05
+Chennai,Satisfactory,86,"O
+3",1,2016-03-06
+Chennai,Poor,206,"PM
+2.5",2,2016-03-10
+Chennai,Moderate,108,"PM
+2.5",1,2016-03-14
+Chennai,Moderate,164,"PM
+2.5",3,2016-03-15
+Chennai,Moderate,175,"PM
+2.5",3,2016-03-16
+Chennai,Moderate,173,"PM
+2.5",3,2016-03-17
+Chennai,Moderate,185,"PM
+2.5",3#,2016-03-18
+Chennai,Moderate,192,"PM , CO
+2.5",3,2016-03-19
+Chennai,Moderate,172,"PM
+2.5",2,2016-03-20
+Chennai,Poor,250,"PM
+2.5",3,2016-03-21
+Chennai,Moderate,143,"PM
+2.5",3,2016-03-22
+Chennai,Moderate,147,"PM
+2.5",3,2016-03-23
+Chennai,Moderate,106,"PM , O
+2.5 3",3,2016-03-28
+Chennai,Moderate,118,"CO, PM
+2.5",2,2016-03-29
+Chennai,Moderate,109,"PM
+2.5",3,2016-03-30
+Chennai,Satisfactory,54,"PM
+2.5",2#,2016-03-31
+Chennai,Satisfactory,54,"PM
+2.5",2#,2016-04-01
+Chennai,Moderate,132,"PM
+2.5",1,2016-04-02
+Chennai,Moderate,124,"PM
+2.5",1,2016-04-03
+Chennai,Moderate,135,"PM
+2.5",1,2016-04-04
+Chennai,Satisfactory,96,"PM
+2.5",2,2016-04-05
+Chennai,Moderate,152,"PM
+2.5",3,2016-04-06
+Chennai,Moderate,132,"PM , CO
+2.5",3,2016-04-07
+Chennai,Moderate,129,"CO, PM
+2.5",2,2016-04-08
+Chennai,Poor,205,"PM
+2.5",1,2016-04-09
+Chennai,Moderate,140,"PM , O
+2.5 3",3,2016-04-11
+Chennai,Moderate,123,"PM , O
+2.5 3",3,2016-04-12
+Chennai,Moderate,128,"PM , O
+2.5 3",3#,2016-04-13
+Chennai,Moderate,125,"O , PM
+3 2.5",3,2016-04-14
+Chennai,Satisfactory,59,"PM , O
+2.5 3",2#,2016-04-15
+Chennai,Moderate,119,"PM , CO
+2.5",3,2016-04-16
+Chennai,Poor,222,"PM
+2.5",1,2016-04-17
+Chennai,Moderate,108,"PM , O
+2.5 3",3,2016-04-18
+Chennai,Moderate,124,"PM , CO
+2.5",3,2016-04-19
+Chennai,Moderate,130,"PM , CO
+2.5",3,2016-04-20
+Chennai,Satisfactory,67,"PM , CO
+2.5",2,2016-04-21
+Chennai,Moderate,122,"O , PM
+3 2.5",3,2016-04-22
+Chennai,Moderate,124,"O , PM
+3 2.5",3,2016-04-23
+Chennai,Moderate,131,"PM , O
+2.5 3",3,2016-04-24
+Chennai,Moderate,129,"PM
+2.5",3,2016-04-25
+Chennai,Moderate,134,"PM
+2.5",2,2016-04-26
+Chennai,Moderate,113,"PM
+2.5",3,2016-04-27
+Chennai,Moderate,147,"PM
+2.5",2,2016-04-28
+Chennai,Moderate,113,"PM , CO
+2.5",3,2016-04-29
+Chennai,Poor,206,"PM
+2.5",3,2016-05-01
+Chennai,Moderate,138,"PM , O
+2.5 3",3,2016-05-02
+Chennai,Moderate,117,"PM
+2.5",3,2016-05-03
+Chennai,Moderate,122,"PM , CO
+2.5",3,2016-05-04
+Chennai,Moderate,120,"PM , O
+2.5 3",3,2016-05-05
+Chennai,Moderate,137,"PM
+2.5",3,2016-05-06
+Chennai,Moderate,130,"PM , O
+2.5 3",3,2016-05-07
+Chennai,Satisfactory,62,"PM , O
+2.5 3",2#,2016-05-08
+Chennai,Satisfactory,79,"PM , CO
+2.5",2,2016-05-09
+Chennai,Moderate,130,"PM , CO
+2.5",3,2016-05-10
+Chennai,Moderate,126,"PM , CO
+2.5",3,2016-05-11
+Chennai,Moderate,143,"PM , O
+2.5 3",3,2016-05-12
+Chennai,Moderate,166,"PM , O
+2.5 3",3,2016-05-13
+Chennai,Moderate,155,"PM , O
+2.5 3",3,2016-05-14
+Chennai,Moderate,161,"PM
+2.5",2,2016-05-15
+Chennai,Moderate,121,"PM , O
+2.5 3",3,2016-05-16
+Chennai,Poor,219,"PM
+2.5",2,2016-05-17
+Chennai,Moderate,151,"PM , CO
+2.5",3,2016-05-18
+Chennai,Satisfactory,95,"PM , CO
+2.5",3,2016-05-19
+Chennai,Satisfactory,81,"PM , O
+2.5 3",3,2016-05-20
+Chennai,Satisfactory,87,"PM , O
+2.5 3",3,2016-05-21
+Chennai,Satisfactory,95,"PM
+2.5",3,2016-05-22
+Chennai,Satisfactory,91,"PM
+2.5",3,2016-05-23
+Chennai,Satisfactory,90,"PM , O
+2.5 3",3,2016-05-24
+Chennai,Moderate,108,"PM
+2.5",1,2016-05-26
+Chennai,Satisfactory,83,"PM
+2.5",2,2016-05-27
+Chennai,Moderate,103,CO,1,2016-05-28
+Chennai,Moderate,128,"PM , O
+2.5 3",3#,2016-05-29
+Chennai,Satisfactory,74,CO,1,2016-05-30
+Chennai,Satisfactory,95,CO,1,2016-06-02
+Chennai,Satisfactory,57,"O
+3",2#,2016-06-15
+Chennai,Moderate,117,CO,1,2016-06-16
+Chennai,Moderate,110,CO,1,2016-06-17
+Chennai,Moderate,101,"PM , CO
+2.5",3,2016-06-18
+Chennai,Satisfactory,87,"PM , CO
+2.5",3,2016-06-19
+Chennai,Satisfactory,82,"PM , CO
+2.5",3#,2016-06-21
+Chennai,Satisfactory,69,"PM
+2.5",2,2016-06-23
+Chennai,Satisfactory,81,"PM
+2.5",1,2016-06-24
+Chennai,Satisfactory,86,"PM
+2.5",3,2016-06-28
+Chennai,Satisfactory,80,CO,1,2016-06-30
+Chennai,Moderate,113,"PM , CO
+2.5",3,2016-07-01
+Chennai,Satisfactory,58,"PM
+2.5",1,2016-07-02
+Chennai,Satisfactory,81,"PM
+2.5",3,2016-07-03
+Chennai,Moderate,163,"PM , CO
+2.5",3,2016-07-05
+Chennai,Satisfactory,95,"PM , CO
+2.5",3,2016-07-06
+Chennai,Satisfactory,72,CO,2,2016-07-07
+Chennai,Good,44,CO,1,2016-07-08
+Chennai,Satisfactory,55,"PM , CO
+2.5",2,2016-07-09
+Chennai,Satisfactory,68,"PM , CO
+2.5",2,2016-07-10
+Chennai,Good,29,CO,1,2016-07-11
+Chennai,Good,33,CO,1#,2016-07-12
+Chennai,Good,40,CO,1#,2016-07-13
+Chennai,Good,40,CO,1,2016-07-14
+Chennai,Good,49,CO,1,2016-07-15
+Chennai,Satisfactory,72,"PM , CO
+2.5",3,2016-07-16
+Chennai,Satisfactory,59,"PM , CO
+2.5",3,2016-07-17
+Chennai,Satisfactory,57,"PM , CO
+2.5",3,2016-07-18
+Chennai,Good,36,"PM , CO
+2.5",2#,2016-07-19
+Chennai,Satisfactory,60,"CO, PM
+2.5",2#,2016-07-20
+Chennai,Satisfactory,62,CO,1,2016-07-26
+Chennai,Satisfactory,66,CO,1,2016-07-27
+Chennai,Satisfactory,73,"PM , CO
+2.5",2,2016-07-28
+Chennai,Satisfactory,75,"PM , CO
+2.5",2,2016-07-29
+Chennai,Satisfactory,81,"PM , CO
+2.5",2,2016-07-30
+Chennai,Satisfactory,52,CO,1,2016-07-31
+Chennai,Good,45,"PM
+2.5",1,2016-08-01
+Chennai,Satisfactory,67,"PM
+2.5",2,2016-08-02
+Chennai,Satisfactory,68,"PM
+2.5",3,2016-08-03
+Chennai,Satisfactory,68,"PM , CO
+2.5",3,2016-08-05
+Chennai,Satisfactory,57,"PM , CO
+2.5",3#,2016-08-06
+Chennai,Satisfactory,68,"PM , CO
+2.5",3,2016-08-07
+Chennai,Satisfactory,72,"PM
+2.5",3,2016-08-08
+Chennai,Satisfactory,77,"PM , CO
+2.5",3,2016-08-09
+Chennai,Satisfactory,64,"PM , CO
+2.5",3,2016-08-10
+Chennai,Satisfactory,66,"PM , CO
+2.5",3,2016-08-11
+Chennai,Satisfactory,69,"PM
+2.5",3,2016-08-12
+Chennai,Satisfactory,59,"PM , CO
+2.5",3,2016-08-13
+Chennai,Satisfactory,57,"PM , CO
+2.5",3,2016-08-14
+Chennai,Satisfactory,52,"CO, PM
+2.5",2,2016-08-15
+Chennai,Satisfactory,61,"PM , CO
+2.5",3,2016-08-16
+Chennai,Satisfactory,55,"PM , CO
+2.5",3,2016-08-17
+Chennai,Satisfactory,90,"PM
+2.5",3,2016-08-18
+Chennai,Satisfactory,71,"PM , O
+2.5 3",3,2016-08-19
+Chennai,Satisfactory,66,"PM
+2.5",2,2016-08-20
+Chennai,Satisfactory,74,"O , PM
+3 2.5",2,2016-08-21
+Chennai,Satisfactory,81,"PM , O
+2.5 3",3,2016-08-22
+Chennai,Satisfactory,77,"PM , O
+2.5 3",3,2016-08-23
+Chennai,Satisfactory,82,"PM , O
+2.5 3",3,2016-08-24
+Chennai,Satisfactory,58,CO,2,2016-08-25
+Chennai,Satisfactory,78,"PM , CO
+2.5",3,2016-08-26
+Chennai,Satisfactory,67,"PM , CO
+2.5",3,2016-08-27
+Chennai,Satisfactory,65,"PM , CO
+2.5",3,2016-08-28
+Chennai,Satisfactory,63,"PM , CO
+2.5",3,2016-08-29
+Chennai,Moderate,136,"O , CO
+3",3,2016-08-30
+Chennai,Satisfactory,70,"PM , CO
+2.5",3,2016-08-31
+Chennai,Satisfactory,61,"PM
+2.5",3#,2016-09-01
+Chennai,Satisfactory,73,"PM , O
+2.5 3",3,2016-09-02
+Chennai,Satisfactory,77,"PM , CO
+2.5",2#,2016-09-03
+Chennai,Satisfactory,69,"PM , CO
+2.5",3,2016-09-04
+Chennai,Good,49,"PM
+2.5",2,2016-09-05
+Chennai,Satisfactory,66,"CO, PM
+2.5",2,2016-09-06
+Chennai,Satisfactory,73,"PM , O
+2.5 3",3,2016-09-07
+Chennai,Satisfactory,77,"PM , O
+2.5 3",3,2016-09-08
+Chennai,Satisfactory,76,"O , PM
+3 2.5",3,2016-09-09
+Chennai,Satisfactory,73,"O , PM
+3 2.5",2,2016-09-10
+Chennai,Satisfactory,75,"PM , CO
+2.5",3,2016-09-11
+Chennai,Satisfactory,65,"PM , CO
+2.5",3,2016-09-12
+Chennai,Moderate,103,"PM
+2.5",3,2016-09-13
+Chennai,Satisfactory,63,"PM
+2.5",2,2016-09-14
+Chennai,Satisfactory,57,"PM , CO
+2.5",2,2016-09-15
+Chennai,Satisfactory,53,"PM , NO
+2.5 2",3,2016-09-16
+Chennai,Satisfactory,64,"PM
+2.5",3,2016-09-17
+Chennai,Satisfactory,88,"PM
+2.5",2,2016-09-18
+Chennai,Good,46,"PM
+2.5",2,2016-09-19
+Chennai,Good,47,"PM
+2.5",3,2016-09-20
+Chennai,Satisfactory,74,"PM , NO
+2.5 2",3,2016-09-21
+Chennai,Satisfactory,51,"PM , NO
+2.5 2",3#,2016-09-22
+Chennai,Good,38,"O , PM
+3 2.5",2,2016-09-23
+Chennai,Good,49,"O , CO
+3",2,2016-09-24
+Chennai,Satisfactory,58,"CO, O
+3",3,2016-09-25
+Chennai,Satisfactory,57,"PM , O
+2.5 3",3,2016-09-26
+Chennai,Satisfactory,53,"CO, PM
+2.5",3#,2016-09-27
+Chennai,Satisfactory,97,"PM
+2.5",2,2016-09-28
+Chennai,Satisfactory,72,"PM
+2.5",3,2016-09-29
+Chennai,Satisfactory,65,"CO, O
+3",3,2016-09-30
+Chennai,Moderate,102,"PM , O
+2.5 3",3,2016-10-01
+Chennai,Satisfactory,61,"O , PM
+3 2.5",2,2016-10-02
+Chennai,Good,49,"O , PM
+3 2.5",2,2016-10-03
+Chennai,Satisfactory,54,"PM , O
+2.5 3",3,2016-10-04
+Chennai,Satisfactory,64,"PM , O
+2.5 3",3,2016-10-05
+Chennai,Satisfactory,87,"PM , O
+2.5 3",3,2016-10-06
+Chennai,Satisfactory,95,"O , PM
+3 2.5",2,2016-10-07
+Chennai,Satisfactory,74,"PM , O
+2.5 3",3,2016-10-08
+Chennai,Good,46,"PM , CO
+2.5",2#,2016-10-09
+Chennai,Good,33,"O
+3",1,2016-10-10
+Chennai,Good,50,"PM , O
+2.5 3",3,2016-10-11
+Chennai,Satisfactory,67,"O , PM
+3 2.5",3,2016-10-12
+Chennai,Moderate,167,"PM
+2.5",2,2016-10-13
+Chennai,Moderate,162,"O , PM
+3 2.5",2,2016-10-14
+Chennai,Moderate,124,"PM , O
+2.5 3",3,2016-10-15
+Chennai,Moderate,106,"PM , O
+2.5 3",3,2016-10-16
+Chennai,Moderate,127,"PM , O
+2.5 3",3,2016-10-17
+Chennai,Moderate,124,"PM , O
+2.5 3",2,2016-10-18
+Chennai,Moderate,168,"O , PM
+3 2.5",3,2016-10-19
+Chennai,Satisfactory,70,"O
+3",1,2016-10-20
+Chennai,Poor,229,"PM
+2.5",2,2016-10-21
+Chennai,Moderate,173,"PM
+2.5",3,2016-10-22
+Chennai,Poor,258,"O , PM
+3 2.5",2,2016-10-23
+Chennai,Moderate,146,"PM
+2.5",3,2016-10-24
+Chennai,Moderate,149,"PM
+2.5",3,2016-10-25
+Chennai,Moderate,160,"PM
+2.5",1,2016-10-26
+Chennai,Moderate,162,"PM
+2.5",2#,2016-10-27
+Chennai,Moderate,197,"PM
+2.5",3,2016-10-28
+Chennai,Poor,261,"PM
+2.5",3,2016-10-29
+Chennai,Moderate,121,"PM
+2.5",3,2016-10-30
+Chennai,Satisfactory,98,"PM
+2.5",3,2016-10-31
+Chennai,Good,30,"PM
+2.5",1#,2016-11-01
+Chennai,Good,50,"PM , CO
+2.5",3,2016-11-02
+Chennai,Satisfactory,53,"PM
+2.5",3,2016-11-03
+Chennai,Satisfactory,96,"PM
+2.5",2,2016-11-04
+Chennai,Moderate,169,"PM
+2.5",2,2016-11-05
+Chennai,Moderate,190,"PM
+2.5",2,2016-11-06
+Chennai,Moderate,163,"PM
+2.5",2,2016-11-07
+Chennai,Moderate,177,"PM
+2.5",3,2016-11-08
+Chennai,Moderate,170,"PM
+2.5",2#,2016-11-09
+Chennai,Moderate,162,"PM
+2.5",3,2016-11-10
+Chennai,Moderate,151,"PM
+2.5",3#,2016-11-11
+Chennai,Moderate,187,"PM
+2.5",3#,2016-11-12
+Chennai,Moderate,121,"PM
+2.5",3#,2016-11-13
+Chennai,Good,41,"PM , NO
+2.5 2",3,2016-11-14
+Chennai,Good,47,"PM , CO
+2.5",3#,2016-11-15
+Chennai,Satisfactory,87,"PM , O
+2.5 3",3#,2016-11-16
+Chennai,Moderate,154,"PM , O
+2.5 3",3,2016-11-17
+Chennai,Moderate,118,"PM
+2.5",3#,2016-11-18
+Chennai,Moderate,186,"PM
+2.5",3#,2016-11-19
+Chennai,Moderate,146,"PM
+2.5",3#,2016-11-20
+Chennai,Moderate,147,"PM
+2.5",3#,2016-11-21
+Chennai,Moderate,156,"PM
+2.5",3#,2016-11-22
+Chennai,Poor,212,"PM
+2.5",2#,2016-11-23
+Chennai,Poor,221,"PM
+2.5",2,2016-11-24
+Chennai,Poor,254,"PM
+2.5",2,2016-11-25
+Chennai,Poor,211,"PM
+2.5",2,2016-11-26
+Chennai,Poor,239,"PM
+2.5",3#,2016-11-27
+Chennai,Poor,239,"PM
+2.5",3#,2016-11-28
+Chennai,Poor,220,"PM
+2.5",3#,2016-11-29
+Chennai,Poor,210,"PM
+2.5",3#,2016-11-30
+Chennai,Poor,201,"PM
+2.5",3,2016-12-01
+Chennai,Moderate,114,"PM
+2.5",3,2016-12-02
+Chennai,Satisfactory,61,"PM
+2.5",3,2016-12-03
+Chennai,Satisfactory,81,"PM
+2.5",2,2016-12-04
+Chennai,Satisfactory,68,"PM
+2.5",2,2016-12-05
+Chennai,Moderate,119,"PM
+2.5",2,2016-12-06
+Chennai,Satisfactory,99,"PM
+2.5",2,2016-12-07
+Chennai,Moderate,123,"PM
+2.5",2,2016-12-08
+Chennai,Moderate,121,"PM
+2.5",2,2016-12-09
+Chennai,Poor,218,"PM
+2.5",3,2016-12-10
+Chennai,Poor,215,"PM
+2.5",3,2016-12-11
+Chennai,Satisfactory,75,"PM
+2.5",1,2016-12-12
+Chennai,Very Poor,399,"PM
+2.5",1,2016-12-27
+Chennai,Moderate,116,"CO, PM
+2.5",2,2016-12-28
+Chennai,Moderate,124,"PM
+2.5",2,2016-12-29
+Chennai,Poor,206,"PM
+2.5",2,2016-12-30
+Chennai,Moderate,167,"PM
+2.5",3,2016-12-31
+Chennai,Satisfactory,90,"PM
+2.5",3,2017-01-01
+Chennai,Satisfactory,62,"PM
+2.5",3,2017-01-02
+Chennai,Satisfactory,74,"PM
+2.5",3,2017-01-03
+Chennai,Satisfactory,77,"PM
+2.5",3,2017-01-04
+Chennai,Moderate,158,"PM
+2.5",3,2017-01-05
+Chennai,Poor,225,"PM
+2.5",3,2017-01-06
+Chennai,Moderate,139,"PM
+2.5",3,2017-01-07
+Chennai,Moderate,103,"O , PM
+3 2.5",3,2017-01-08
+Chennai,Satisfactory,88,"O , PM
+3 2.5",3,2017-01-09
+Chennai,Moderate,159,"PM
+2.5",3,2017-01-10
+Chennai,Moderate,152,"O , PM
+3 2.5",2,2017-01-11
+Chennai,Moderate,135,"PM
+2.5",3,2017-01-12
+Chennai,Moderate,149,"CO, PM
+2.5",3,2017-01-13
+Chennai,Moderate,103,"PM
+2.5",3,2017-01-14
+Chennai,Moderate,107,"PM
+2.5",3,2017-01-15
+Chennai,Moderate,119,"PM
+2.5",3,2017-01-16
+Chennai,Moderate,136,"PM
+2.5",3,2017-01-17
+Chennai,Moderate,108,"PM
+2.5",3,2017-01-18
+Chennai,Satisfactory,72,"PM , O
+2.5 3",3#,2017-01-19
+Chennai,Moderate,135,"PM
+2.5",2,2017-01-20
+Chennai,Satisfactory,80,"PM
+2.5",3,2017-01-21
+Chennai,Satisfactory,85,"O , PM
+3 2.5",3,2017-01-22
+Chennai,Satisfactory,96,"PM , O
+2.5 3",3,2017-01-23
+Chennai,Satisfactory,93,"PM , O
+2.5 3",3,2017-01-24
+Chennai,Moderate,111,"PM , O
+2.5 3",3,2017-01-25
+Chennai,Satisfactory,85,"PM
+2.5",3,2017-01-26
+Chennai,Satisfactory,64,"PM
+2.5",3,2017-01-27
+Chennai,Good,43,"PM
+2.5",2,2017-01-28
+Chennai,Satisfactory,74,"PM
+2.5",2,2017-01-29
+Chennai,Satisfactory,56,"PM
+2.5",2,2017-01-30
+Chennai,Satisfactory,85,"PM
+2.5",2,2017-01-31
+Chennai,Moderate,137,"PM
+2.5",2,2017-02-01
+Chennai,Moderate,115,"PM
+2.5",3,2017-02-02
+Chennai,Satisfactory,88,"PM
+2.5",3,2017-02-03
+Chennai,Moderate,110,"PM
+2.5",3,2017-02-04
+Chennai,Moderate,144,"PM
+2.5",3,2017-02-05
+Chennai,Moderate,124,"PM
+2.5",3,2017-02-06
+Chennai,Moderate,144,"PM
+2.5",3,2017-02-07
+Chennai,Moderate,160,"PM
+2.5",3,2017-02-08
+Chennai,Moderate,169,"PM
+2.5",3,2017-02-09
+Chennai,Moderate,172,"PM
+2.5",3,2017-02-10
+Chennai,Moderate,146,"PM
+2.5",3,2017-02-11
+Chennai,Satisfactory,93,"PM
+2.5",3,2017-02-12
+Chennai,Satisfactory,78,"PM , CO
+2.5",3,2017-02-13
+Chennai,Satisfactory,61,"PM , O
+2.5 3",3,2017-02-14
+Chennai,Satisfactory,87,"PM , O
+2.5 3",3,2017-02-15
+Chennai,Moderate,103,"PM , O
+2.5 3",3,2017-02-16
+Chennai,Moderate,135,"PM
+2.5",3,2017-02-17
+Chennai,Moderate,122,"PM , O
+2.5 3",3,2017-02-18
+Chennai,Moderate,129,"PM
+2.5",3,2017-02-19
+Chennai,Satisfactory,99,"PM , O
+2.5 3",3,2017-02-20
+Chennai,Satisfactory,77,"PM , O
+2.5 3",3,2017-02-21
+Chennai,Satisfactory,91,"PM
+2.5",3,2017-02-22
+Chennai,Satisfactory,66,"PM , CO
+2.5",3,2017-02-23
+Chennai,Satisfactory,70,"PM , CO
+2.5",3,2017-02-24
+Chennai,Satisfactory,60,"PM
+2.5",3,2017-02-25
+Chennai,Satisfactory,60,"PM
+2.5",3,2017-02-26
+Chennai,Satisfactory,74,"PM
+2.5",3,2017-02-27
+Chennai,Moderate,120,"PM
+2.5",3,2017-02-28
+Chennai,Moderate,157,"PM
+2.5",3,2017-03-01
+Chennai,Moderate,120,"PM
+2.5",3,2017-03-02
+Chennai,Moderate,121,"PM
+2.5",3,2017-03-03
+Chennai,Satisfactory,84,"PM
+2.5",2,2017-03-04
+Chennai,Good,47,"PM , CO
+2.5",3,2017-03-05
+Chennai,Satisfactory,57,"PM , CO
+2.5",2,2017-03-06
+Chennai,Satisfactory,61,"PM , CO
+2.5",3,2017-03-07
+Chennai,Satisfactory,54,"PM , CO
+2.5",3,2017-03-08
+Chennai,Satisfactory,55,"PM , CO
+2.5",3,2017-03-09
+Chennai,Satisfactory,62,"PM , CO
+2.5",3,2017-03-10
+Chennai,Moderate,114,"PM , O
+2.5 3",3,2017-03-11
+Chennai,Moderate,104,"PM
+2.5",3,2017-03-12
+Chennai,Satisfactory,84,"PM
+2.5",3,2017-03-13
+Chennai,Good,39,"PM , CO
+2.5",3,2017-03-14
+Chennai,Satisfactory,58,"PM , CO
+2.5",3,2017-03-15
+Chennai,Moderate,139,"PM
+2.5",2,2017-03-16
+Chennai,Satisfactory,80,"PM
+2.5",3,2017-03-17
+Chennai,Satisfactory,90,"PM
+2.5",3,2017-03-18
+Chennai,Moderate,108,"PM
+2.5",2,2017-03-19
+Chennai,Satisfactory,75,"PM
+2.5",2,2017-03-20
+Chennai,Satisfactory,79,"O , PM
+3 2.5",3,2017-03-21
+Chennai,Satisfactory,80,"PM , CO
+2.5",3,2017-03-22
+Chennai,Satisfactory,89,"PM , CO
+2.5",3,2017-03-23
+Chennai,Moderate,106,"O , PM
+3 2.5",3,2017-03-24
+Chennai,Moderate,127,"PM
+2.5",3,2017-03-25
+Chennai,Moderate,114,"PM , O
+2.5 3",3,2017-03-26
+Chennai,Moderate,111,"PM , CO
+2.5",3,2017-03-27
+Chennai,Moderate,103,"PM , CO
+2.5",3,2017-03-28
+Chennai,Satisfactory,71,"PM , CO
+2.5",3,2017-03-29
+Chennai,Satisfactory,93,"PM
+2.5",2,2017-03-30
+Chennai,Satisfactory,64,"PM , CO
+2.5",2,2017-03-31
+Chennai,Satisfactory,60,"PM , CO
+2.5",2,2017-04-01
+Chennai,Satisfactory,68,"PM , CO
+2.5",2,2017-04-02
+Chennai,Satisfactory,84,"PM , CO
+2.5",3,2017-04-03
+Chennai,Satisfactory,100,"PM , CO
+2.5",3,2017-04-04
+Chennai,Satisfactory,78,"PM
+2.5",2,2017-04-05
+Chennai,Satisfactory,94,"PM
+2.5",3,2017-04-06
+Chennai,Moderate,104,"PM , CO
+2.5",3,2017-04-07
+Chennai,Satisfactory,93,"PM , CO
+2.5",3,2017-04-08
+Chennai,Satisfactory,78,"PM , CO
+2.5",3,2017-04-09
+Chennai,Satisfactory,85,"PM , CO
+2.5",3,2017-04-10
+Chennai,Satisfactory,99,"PM
+2.5",3#,2017-04-11
+Chennai,Moderate,150,"PM
+2.5",1,2017-04-13
+Chennai,Satisfactory,82,"PM
+2.5",3,2017-04-14
+Chennai,Moderate,111,"PM
+2.5",3,2017-04-15
+Chennai,Moderate,137,"PM
+2.5",3,2017-04-16
+Chennai,Moderate,172,"PM
+2.5",3,2017-04-17
+Chennai,Moderate,188,"PM
+2.5",3,2017-04-18
+Chennai,Moderate,126,"PM
+2.5",3,2017-04-19
+Chennai,Moderate,128,"PM
+2.5",2,2017-04-20
+Chennai,Moderate,159,"PM
+2.5",3,2017-04-21
+Chennai,Moderate,184,"PM
+2.5",3,2017-04-22
+Chennai,Moderate,183,"PM
+2.5",3,2017-04-23
+Chennai,Moderate,122,"PM
+2.5",2,2017-04-24
+Chennai,Moderate,122,"PM
+2.5",2,2017-04-25
+Chennai,Moderate,150,"PM
+2.5",3,2017-04-26
+Chennai,Moderate,125,"PM
+2.5",3,2017-04-27
+Chennai,Moderate,122,"PM
+2.5",3,2017-04-28
+Chennai,Moderate,115,"PM
+2.5",2,2017-04-29
+Chennai,Moderate,101,"PM
+2.5",3,2017-04-30
+Chennai,Satisfactory,80,"PM
+2.5",3,2017-05-01
+Chennai,Satisfactory,73,"PM , CO
+2.5",3,2017-05-02
+Chennai,Satisfactory,71,"PM , CO
+2.5",3,2017-05-03
+Chennai,Satisfactory,100,"PM , CO
+2.5",3,2017-05-04
+Chennai,Satisfactory,73,"PM , CO
+2.5",3,2017-05-05
+Chennai,Satisfactory,80,"PM , CO
+2.5",3,2017-05-06
+Chennai,Satisfactory,79,"PM , CO
+2.5",3,2017-05-07
+Chennai,Satisfactory,86,"PM , CO
+2.5",3,2017-05-08
+Chennai,Satisfactory,72,"O , PM
+3 2.5",3,2017-05-09
+Chennai,Moderate,118,"O , PM
+3 2.5",3,2017-05-10
+Chennai,Satisfactory,63,"CO, PM
+2.5",3,2017-05-11
+Chennai,Good,49,"PM , CO
+2.5",3,2017-05-12
+Chennai,Satisfactory,51,"PM , O
+2.5 3",3,2017-05-13
+Chennai,Moderate,103,"PM , O
+2.5 3",3,2017-05-14
+Chennai,Moderate,158,"O , PM
+3 2.5",3,2017-05-15
+Chennai,Poor,215,"O , PM
+3 2.5",3,2017-05-16
+Chennai,Moderate,160,"O , PM
+3 2.5",2#,2017-05-17
+Chennai,Moderate,165,"PM , O
+2.5 3",3,2017-05-18
+Chennai,Moderate,137,"PM , O
+2.5 3",3,2017-05-19
+Chennai,Moderate,131,"O
+3",2,2017-05-20
+Chennai,Moderate,181,"PM , O
+2.5 3",3,2017-05-21
+Chennai,Moderate,131,"PM
+2.5",3,2017-05-22
+Chennai,Moderate,157,"O , PM
+3 2.5",3,2017-05-23
+Chennai,Moderate,163,"PM , O
+2.5 3",3,2017-05-24
+Chennai,Moderate,103,"PM
+2.5",3,2017-05-25
+Chennai,Moderate,128,"O
+3",2,2017-05-26
+Chennai,Moderate,104,"PM , O
+2.5 3",2,2017-05-27
+Chennai,Moderate,128,"O , PM
+3 2.5",3,2017-05-28
+Chennai,Moderate,136,"PM
+2.5",3,2017-05-29
+Chennai,Moderate,177,"PM
+2.5",3,2017-05-30
+Chennai,Moderate,112,"PM
+2.5",3,2017-05-31
+Chennai,Satisfactory,86,"PM , O
+2.5 3",3,2017-06-01
+Chennai,Moderate,128,"PM , O
+2.5 3",3,2017-06-02
+Chennai,Satisfactory,88,"O , CO
+3",3,2017-06-03
+Chennai,Moderate,116,"O , PM
+3 2.5",3,2017-06-04
+Chennai,Moderate,111,"PM , O
+2.5 3",3,2017-06-05
+Chennai,Satisfactory,93,"PM
+2.5",3,2017-06-06
+Chennai,Good,49,"PM , CO
+2.5",3,2017-06-07
+Chennai,Satisfactory,94,"PM , CO
+2.5",3,2017-06-08
+Chennai,Moderate,145,"PM
+2.5",3,2017-06-09
+Chennai,Moderate,129,"PM , CO
+2.5",3,2017-06-10
+Chennai,Moderate,104,"PM
+2.5",3,2017-06-11
+Chennai,Satisfactory,55,"PM
+2.5",2,2017-06-12
+Chennai,Moderate,108,"PM , O
+2.5 3",3,2017-06-13
+Chennai,Satisfactory,79,"PM
+2.5",3,2017-06-14
+Chennai,Satisfactory,76,"PM
+2.5",3,2017-06-15
+Chennai,Satisfactory,68,"PM
+2.5",3,2017-06-16
+Chennai,Satisfactory,98,"PM
+2.5",3,2017-06-17
+Chennai,Satisfactory,80,"PM
+2.5",3#,2017-06-19
+Chennai,Satisfactory,67,"PM
+2.5",3,2017-06-20
+Chennai,Satisfactory,99,"PM , O
+2.5 3",3,2017-06-21
+Chennai,Moderate,116,"PM
+2.5",3,2017-06-22
+Chennai,Satisfactory,95,"PM
+2.5",3,2017-06-23
+Chennai,Satisfactory,98,"PM
+2.5",3,2017-06-24
+Chennai,Satisfactory,95,"PM , O
+2.5 3",3,2017-06-25
+Chennai,Moderate,108,"PM
+2.5",3,2017-06-26
+Chennai,Satisfactory,95,"PM
+2.5",3,2017-06-27
+Chennai,Satisfactory,83,"PM
+2.5",3,2017-06-28
+Chennai,Satisfactory,55,"PM
+2.5",1,2017-06-29
+Chennai,Moderate,118,"PM
+2.5",2,2017-06-30
+Chennai,Moderate,131,"PM
+2.5",3,2017-07-01
+Chennai,Satisfactory,98,"PM
+2.5",2,2017-07-02
+Chennai,Moderate,107,"PM
+2.5",3,2017-07-03
+Chennai,Satisfactory,75,"PM
+2.5",3#,2017-07-04
+Chennai,Satisfactory,82,"PM
+2.5",3#,2017-07-05
+Chennai,Moderate,125,"PM
+2.5",3,2017-07-06
+Chennai,Satisfactory,88,"PM
+2.5",3,2017-07-07
+Chennai,Moderate,106,"PM
+2.5",3,2017-07-08
+Chennai,Moderate,102,"PM
+2.5",3,2017-07-09
+Chennai,Satisfactory,71,"PM , O
+2.5 3",3,2017-07-10
+Chennai,Satisfactory,98,"PM , NO
+2.5 2",3,2017-07-11
+Chennai,Satisfactory,70,"PM
+2.5",3,2017-07-12
+Chennai,Satisfactory,90,"PM
+2.5",3,2017-07-13
+Chennai,Satisfactory,64,"PM
+2.5",2,2017-07-14
+Chennai,Satisfactory,79,"PM
+2.5",2,2017-07-15
+Chennai,Moderate,145,"PM
+2.5",2,2017-07-16
+Chennai,Moderate,166,"PM
+2.5",3,2017-07-17
+Chennai,Moderate,164,"PM
+2.5",3#,2017-07-18
+Chennai,Moderate,156,"PM
+2.5",3,2017-07-19
+Chennai,Satisfactory,63,"PM , O
+2.5 3",2,2017-07-20
+Chennai,Satisfactory,71,"PM , O
+2.5 3",3,2017-07-21
+Chennai,Satisfactory,86,"PM
+2.5",3,2017-07-22
+Chennai,Satisfactory,63,"PM
+2.5",3,2017-07-23
+Chennai,Satisfactory,92,"PM
+2.5",3,2017-07-24
+Chennai,Moderate,113,"PM
+2.5",3,2017-07-25
+Chennai,Moderate,107,"PM
+2.5",3,2017-07-26
+Chennai,Satisfactory,85,"PM
+2.5",3,2017-07-27
+Chennai,Satisfactory,72,"PM , O
+2.5 3",3,2017-07-28
+Chennai,Satisfactory,66,"PM , O
+2.5 3",3,2017-07-29
+Chennai,Satisfactory,76,"PM
+2.5",3,2017-07-30
+Chennai,Good,50,"PM
+2.5",3,2017-07-31
+Chennai,Satisfactory,58,"O , PM
+3 2.5",3,2017-08-01
+Chennai,Satisfactory,86,"PM , CO
+2.5",3,2017-08-02
+Chennai,Satisfactory,74,"PM , CO
+2.5",3,2017-08-03
+Chennai,Satisfactory,61,"PM , CO
+2.5",3,2017-08-04
+Chennai,Satisfactory,65,CO,2,2017-08-05
+Chennai,Satisfactory,62,"O , CO
+3",3,2017-08-06
+Chennai,Satisfactory,64,"CO, PM
+2.5",3,2017-08-07
+Chennai,Satisfactory,68,"CO, O
+3",3,2017-08-08
+Chennai,Satisfactory,81,"PM
+2.5",2,2017-08-09
+Chennai,Satisfactory,56,"PM , O
+2.5 3",3,2017-08-10
+Chennai,Satisfactory,57,"PM , O
+2.5 3",3,2017-08-11
+Chennai,Satisfactory,75,"PM , CO
+2.5",3,2017-08-12
+Chennai,Good,45,"PM , CO
+2.5",3,2017-08-13
+Chennai,Satisfactory,73,"PM , CO
+2.5",3,2017-08-14
+Chennai,Satisfactory,62,"CO, PM
+2.5",3,2017-08-15
+Chennai,Satisfactory,66,"CO, PM
+2.5",2,2017-08-16
+Chennai,Satisfactory,69,"CO, PM
+2.5",2,2017-08-17
+Chennai,Satisfactory,92,"CO, PM
+2.5",2,2017-08-18
+Chennai,Good,40,"PM
+2.5",1,2017-08-19
+Chennai,Good,33,,1#,2017-08-20
+Chennai,Satisfactory,69,"PM
+2.5",1,2017-08-21
+Chennai,Satisfactory,57,"CO, PM
+2.5",2,2017-08-22
+Chennai,Satisfactory,54,"CO, PM
+2.5",2,2017-08-23
+Chennai,Satisfactory,57,"CO, PM
+2.5",2,2017-08-24
+Chennai,Satisfactory,68,"PM ,
+2.5",2,2017-08-25
+Chennai,Satisfactory,61,"PM
+2.5",2,2017-08-26
+Chennai,Good,50,"PM
+2.5",2,2017-08-27
+Chennai,Satisfactory,74,"PM
+2.5",2,2017-08-28
+Chennai,Satisfactory,61,"PM
+2.5",2,2017-08-29
+Chennai,Good,46,"PM
+2.5",1,2017-08-30
+Chennai,Satisfactory,60,"PM ,
+2.5",2,2017-08-31
+Chennai,Satisfactory,64,"PM
+2.5",2,2017-09-01
+Chennai,Satisfactory,79,"PM
+2.5",2,2017-09-02
+Chennai,Satisfactory,66,"O , PM
+3 2.5",2,2017-09-03
+Chennai,Satisfactory,62,"CO, PM
+2.5",2,2017-09-04
+Chennai,Moderate,112,"PM
+2.5",2,2017-09-05
+Chennai,Satisfactory,72,"O , PM
+3 2.5",2,2017-09-06
+Chennai,Satisfactory,65,"PM
+2.5",2,2017-09-07
+Chennai,Satisfactory,52,"CO, PM
+2.5",2,2017-09-08
+Chennai,Satisfactory,51,"CO, PM
+2.5",2,2017-09-09
+Chennai,Good,44,CO,2,2017-09-10
+Chennai,Good,40,"CO,",2,2017-09-11
+Chennai,Good,47,"PM , CO
+2.5",2,2017-09-12
+Chennai,Satisfactory,55,"PM
+2.5",2,2017-09-13
+Chennai,Good,46,"CO, PM
+2.5",2,2017-09-14
+Chennai,Satisfactory,57,"PM
+2.5",2,2017-09-15
+Chennai,Satisfactory,69,"CO, PM
+2.5",2,2017-09-16
+Chennai,Good,47,"CO, NO
+2",2,2017-09-17
+Chennai,Satisfactory,62,CO,1,2017-09-18
+Chennai,Satisfactory,59,CO,1,2017-09-19
+Chennai,Satisfactory,66,"PM , CO
+2.5",3,2017-09-20
+Chennai,Satisfactory,62,"CO, PM
+2.5",3,2017-09-21
+Chennai,Satisfactory,86,"PM , CO
+2.5",3,2017-09-22
+Chennai,Satisfactory,85,"PM , CO
+2.5",3,2017-09-23
+Chennai,Moderate,118,"PM , CO
+2.5",3,2017-09-24
+Chennai,Satisfactory,84,"PM , CO
+2.5",3#,2017-09-25
+Chennai,Satisfactory,98,"PM , O
+2.5 3",3,2017-09-26
+Chennai,Satisfactory,71,"PM
+2.5",3#,2017-09-27
+Chennai,Moderate,103,"PM
+2.5",3,2017-09-28
+Chennai,Satisfactory,66,"PM
+2.5",3,2017-09-29
+Chennai,Satisfactory,65,"PM
+2.5",3,2017-09-30
+Chennai,Satisfactory,54,"PM , CO
+2.5",3,2017-10-01
+Chennai,Satisfactory,51,"O , CO
+3",3,2017-10-02
+Chennai,Good,47,"O , PM
+3 2.5",3,2017-10-03
+Chennai,Good,41,"PM , O
+2.5 3",3,2017-10-04
+Chennai,Satisfactory,63,"O , PM
+3 2.5",3,2017-10-05
+Chennai,Satisfactory,66,"PM
+2.5",3,2017-10-06
+Chennai,Satisfactory,77,"PM , CO
+2.5",3,2017-10-07
+Chennai,Satisfactory,67,"O , PM
+3 2.5",2,2017-10-08
+Chennai,Satisfactory,61,"PM
+2.5",2,2017-10-09
+Chennai,Moderate,102,"PM
+2.5",2,2017-10-10
+Chennai,Satisfactory,71,"PM , O
+2.5 3",3,2017-10-11
+Chennai,Satisfactory,68,"PM
+2.5",3,2017-10-12
+Chennai,Satisfactory,74,"PM
+2.5",2,2017-10-13
+Chennai,Satisfactory,66,"PM
+2.5",3,2017-10-15
+Chennai,Satisfactory,72,"PM
+2.5",3,2017-10-16
+Chennai,Satisfactory,66,CO,3,2017-10-17
+Chennai,Poor,263,"PM
+2.5",3,2017-10-18
+Chennai,Very Poor,302,"PM
+2.5",3,2017-10-19
+Chennai,Moderate,138,"PM
+2.5",2,2017-10-20
+Chennai,Satisfactory,70,"PM , O
+2.5 3",2,2017-10-21
+Chennai,Satisfactory,58,"O , CO
+3",3,2017-10-22
+Chennai,Moderate,107,"O , PM
+3 2.5",3,2017-10-23
+Chennai,Moderate,120,"PM
+2.5",3,2017-10-24
+Chennai,Satisfactory,67,"CO, PM
+2.5",3,2017-10-25
+Chennai,Satisfactory,73,"CO, PM
+2.5",3,2017-10-26
+Chennai,Satisfactory,51,CO,3,2017-10-27
+Chennai,Satisfactory,83,"PM
+2.5",3,2017-10-28
+Chennai,Moderate,105,"PM ,
+2.5",3,2017-10-29
+Chennai,Satisfactory,63,"CO,",3,2017-10-30
+Chennai,Satisfactory,55,"PM
+2.5",3,2017-10-31
+Chennai,Satisfactory,64,"CO, PM
+2.5",3,2017-11-01
+Chennai,Satisfactory,55,CO,3,2017-11-02
+Chennai,Satisfactory,56,"CO, PM
+2.5",3,2017-11-03
+Chennai,Satisfactory,52,"CO, PM
+2.5",3,2017-11-04
+Chennai,Satisfactory,58,"CO, PM
+2.5",3,2017-11-05
+Chennai,Satisfactory,60,"CO, PM
+2.5",3,2017-11-06
+Chennai,Satisfactory,58,"CO, PM
+2.5",3,2017-11-07
+Chennai,Satisfactory,70,"PM
+2.5",3,2017-11-08
+Chennai,Satisfactory,68,"PM
+2.5",3,2017-11-09
+Chennai,Moderate,110,"PM ,
+2.5",3,2017-11-10
+Chennai,Moderate,135,"PM
+2.5",3,2017-11-11
+Chennai,Moderate,167,"PM
+2.5",3,2017-11-12
+Chennai,Moderate,103,"PM
+2.5",3#,2017-11-13
+Chennai,Satisfactory,69,"PM
+2.5",3,2017-11-14
+Chennai,Satisfactory,70,"PM
+2.5",2#,2017-11-15
+Chennai,Moderate,102,"PM
+2.5",2,2017-11-16
+Chennai,Moderate,122,"PM
+2.5",2,2017-11-17
+Chennai,Satisfactory,54,"PM , CO
+2.5",3,2017-11-18
+Chennai,Satisfactory,54,"PM , CO
+2.5",3,2017-11-19
+Chennai,Satisfactory,72,"PM , CO
+2.5",3,2017-11-20
+Chennai,Satisfactory,52,"CO,",3,2017-11-21
+Chennai,Satisfactory,61,"PM , O
+2.5 3",3#,2017-11-22
+Chennai,Moderate,163,"PM
+2.5",3#,2017-11-23
+Chennai,Moderate,144,"PM
+2.5",3#,2017-11-24
+Chennai,Moderate,154,"PM
+2.5",3,2017-11-25
+Chennai,Moderate,114,"PM
+2.5",3#,2017-11-26
+Chennai,Satisfactory,89,"PM ,
+2.5",3#,2017-11-27
+Chennai,Satisfactory,85,"PM
+2.5",3,2017-11-28
+Chennai,Satisfactory,74,"PM , CO
+2.5",2,2017-11-29
+Chennai,Satisfactory,69,"PM ,
+2.5",2#,2017-11-30
+Chennai,Satisfactory,55,"O , CO
+3",3,2017-12-01
+Chennai,Satisfactory,79,"PM
+2.5",2,2017-12-02
+Chennai,Moderate,101,"PM
+2.5",2,2017-12-03
+Chennai,Satisfactory,98,"PM ,
+2.5",2,2017-12-04
+Chennai,Satisfactory,79,"PM , O
+2.5 3",3,2017-12-05
+Chennai,Satisfactory,71,"PM , O
+2.5 3",3,2017-12-06
+Chennai,Moderate,134,"PM , O
+2.5 3",3,2017-12-07
+Chennai,Moderate,155,"PM , O
+2.5 3",3,2017-12-08
+Chennai,Moderate,153,"PM
+2.5",3#,2017-12-09
+Chennai,Moderate,172,"PM
+2.5",3,2017-12-10
+Chennai,Moderate,152,"O , PM
+3 2.5",3#,2017-12-11
+Chennai,Moderate,123,"PM
+2.5",3,2017-12-12
+Chennai,Satisfactory,83,"PM
+2.5",3#,2017-12-13
+Chennai,Satisfactory,79,"PM
+2.5",3,2017-12-14
+Chennai,Moderate,105,"PM
+2.5",3#,2017-12-15
+Chennai,Moderate,106,"PM , O
+2.5 3",3,2017-12-16
+Chennai,Moderate,104,"O , PM
+3 2.5",3,2017-12-17
+Chennai,Satisfactory,93,"PM , O
+2.5 3",3,2017-12-18
+Chennai,Satisfactory,91,"PM , O
+2.5 3",3,2017-12-19
+Chennai,Satisfactory,86,"PM ,
+2.5",3,2017-12-20
+Chennai,Satisfactory,92,"PM
+2.5",3,2017-12-21
+Chennai,Moderate,110,"PM
+2.5",3,2017-12-22
+Chennai,Satisfactory,79,"PM ,
+2.5",3,2017-12-23
+Chennai,Satisfactory,93,"PM
+2.5",3,2017-12-24
+Chennai,Moderate,105,"PM ,
+2.5",3,2017-12-25
+Chennai,Moderate,132,"PM
+2.5",3,2017-12-26
+Chennai,Moderate,189,"PM
+2.5",3,2017-12-27
+Chennai,Moderate,129,"PM
+2.5",3,2017-12-28
+Chennai,Satisfactory,94,"PM ,
+2.5",3,2017-12-29
+Chennai,Moderate,121,"PM
+2.5",3,2017-12-30
+Chennai,Satisfactory,73,"PM
+2.5",3,2017-12-31
+Chennai,Satisfactory,93,"PM
+2.5",3,2018-01-01
+Chennai,Satisfactory,99,"PM
+2.5",3,2018-01-02
+Chennai,Satisfactory,86,"O , PM
+3 2.5",3,2018-01-03
+Chennai,Moderate,167,"PM
+2.5",3,2018-01-04
+Chennai,Moderate,153,"PM
+2.5",3,2018-01-05
+Chennai,Moderate,166,"PM
+2.5",2#,2018-01-06
+Chennai,Moderate,123,"PM
+2.5",3#,2018-01-07
+Chennai,Moderate,128,"PM
+2.5",3#,2018-01-08
+Chennai,Moderate,107,"PM
+2.5",2#,2018-01-09
+Chennai,Moderate,108,"PM
+2.5",3,2018-01-10
+Chennai,Moderate,178,"PM
+2.5",3#,2018-01-11
+Chennai,Moderate,158,"PM
+2.5",3,2018-01-12
+Chennai,Poor,215,"PM
+2.5",3,2018-01-13
+Chennai,Moderate,155,"PM
+2.5",3,2018-01-14
+Chennai,Moderate,135,"PM
+2.5",3,2018-01-15
+Chennai,Moderate,135,"PM
+2.5",3,2018-01-16
+Chennai,Moderate,161,"PM
+2.5",3,2018-01-17
+Chennai,Moderate,112,"PM , O
+2.5 3",3,2018-01-18
+Chennai,Moderate,146,"PM , O
+2.5 3",3,2018-01-19
+Chennai,Moderate,129,"PM
+2.5",3,2018-01-20
+Chennai,Moderate,166,"PM
+2.5",3,2018-01-21
+Chennai,Moderate,151,"PM
+2.5",3,2018-01-22
+Chennai,Moderate,135,"PM
+2.5",3,2018-01-23
+Chennai,Moderate,130,"PM
+2.5",3#,2018-01-24
+Chennai,Moderate,176,"PM
+2.5",3,2018-01-25
+Chennai,Moderate,157,"O , PM
+3 2.5",3,2018-01-26
+Chennai,Moderate,163,"PM
+2.5",3,2018-01-27
+Chennai,Moderate,154,"PM
+2.5",3,2018-01-28
+Chennai,Moderate,143,PM2.5,3,2018-01-29
+Chennai,Moderate,129,PM2.5,3,2018-01-30
+Chennai,Moderate,145,"PM , OZONE
+2.5",3,2018-01-31
+Chennai,Moderate,136,"PM
+2.5",2,2018-02-01
+Chennai,Moderate,162,"PM , OZONE
+2.5",3,2018-02-02
+Chennai,Moderate,146,"PM
+2.5",3,2018-02-03
+Chennai,Satisfactory,92,"PM , OZONE
+2.5",3,2018-02-04
+Chennai,Satisfactory,75,"PM , OZONE
+2.5",3,2018-02-05
+Chennai,Satisfactory,80,"PM
+2.5",3,2018-02-06
+Chennai,Satisfactory,68,"PM , CO
+2.5",3,2018-02-07
+Chennai,Satisfactory,66,"PM , CO
+2.5",3,2018-02-08
+Chennai,Moderate,103,"PM , CO
+2.5",3,2018-02-09
+Chennai,Satisfactory,80,"PM , OZONE, CO
+2.5",3,2018-02-10
+Chennai,Moderate,131,"PM , CO
+2.5",3,2018-02-11
+Chennai,Satisfactory,82,"PM , CO
+2.5",3,2018-02-12
+Chennai,Moderate,136,"PM
+2.5",3,2018-02-13
+Chennai,Moderate,124,"PM
+2.5",3,2018-02-14
+Chennai,Moderate,104,"PM
+2.5",3,2018-02-15
+Chennai,Moderate,120,"PM
+2.5",3,2018-02-16
+Chennai,Moderate,105,"PM , OZONE
+2.5",3,2018-02-17
+Chennai,Moderate,131,"PM , OZONE
+2.5",3,2018-02-18
+Chennai,Moderate,150,"PM
+2.5",3,2018-02-19
+Chennai,Moderate,116,"PM
+2.5",3,2018-02-20
+Chennai,Moderate,160,"PM
+2.5",3,2018-02-21
+Chennai,Moderate,119,"PM
+2.5",3,2018-02-22
+Chennai,Satisfactory,94,"PM
+2.5",3,2018-02-23
+Chennai,Satisfactory,87,"PM
+2.5",3,2018-02-24
+Chennai,Satisfactory,58,"PM
+2.5",3,2018-02-25
+Chennai,Satisfactory,79,"PM , CO
+2.5",3,2018-02-26
+Chennai,Moderate,117,"PM
+2.5",2,2018-02-27
+Chennai,Moderate,164,"PM
+2.5",2,2018-02-28
+Chennai,Moderate,142,"PM , OZONE
+2.5",2,2018-03-01
+Chennai,Moderate,107,"PM , OZONE
+2.5",3,2018-03-02
+Chennai,Moderate,104,OZONE,3,2018-03-03
+Chennai,Moderate,123,"PM
+2.5",3,2018-03-04
+Chennai,Satisfactory,88,"PM
+2.5",3,2018-03-05
+Chennai,Satisfactory,73,"PM
+2.5",3,2018-03-06
+Chennai,Moderate,117,"PM
+2.5",3,2018-03-07
+Chennai,Moderate,170,"PM
+2.5",3,2018-03-08
+Chennai,Moderate,110,"PM
+2.5",3,2018-03-09
+Chennai,Moderate,141,"PM
+2.5",3,2018-03-10
+Chennai,Moderate,124,"PM , OZONE
+2.5",3,2018-03-11
+Chennai,Satisfactory,74,"PM , CO
+2.5",3,2018-03-12
+Chennai,Moderate,100,"PM , CO
+2.5",3,2018-03-13
+Chennai,Satisfactory,74,"CO, PM
+2.5",3,2018-03-14
+Chennai,Satisfactory,60,CO,2,2018-03-15
+Chennai,Moderate,107,"CO, PM
+2.5",3,2018-03-16
+Chennai,Satisfactory,67,"CO, PM
+2.5",3,2018-03-17
+Chennai,Moderate,101,"PM
+2.5",3,2018-03-18
+Chennai,Satisfactory,91,"PM
+2.5",3,2018-03-19
+Chennai,Moderate,119,"PM
+2.5",3,2018-03-20
+Chennai,Moderate,107,"PM
+2.5",3,2018-03-21
+Chennai,Satisfactory,79,"CO, PM
+2.5",3,2018-03-22
+Chennai,Moderate,100,"PM
+2.5",3,2018-03-23
+Chennai,Moderate,112,"PM
+2.5",3,2018-03-24
+Chennai,Satisfactory,96,"PM , CO
+2.5",3,2018-03-25
+Chennai,Moderate,100,"PM , CO
+2.5",3,2018-03-26
+Chennai,Satisfactory,97,"PM , CO
+2.5",3,2018-03-27
+Chennai,Satisfactory,67,"CO, PM
+2.5",3,2018-03-28
+Chennai,Good,47,"NO , CO, PM
+2 2.5",3,2018-03-29
+Chennai,Satisfactory,69,"PM , CO
+2.5",3,2018-03-30
+Chennai,Satisfactory,78,"PM , CO, OZONE
+2.5",3,2018-03-31
+Chennai,Satisfactory,81,"PM
+2.5",2,2018-04-01
+Chennai,Satisfactory,67,"PM
+2.5",2,2018-04-02
+Chennai,Satisfactory,62,"PM , CO
+2.5",2,2018-04-03
+Chennai,Satisfactory,68,"OZONE, PM
+2.5",2,2018-04-04
+Chennai,Satisfactory,82,"CO, PM
+2.5",2,2018-04-05
+Chennai,Moderate,104,"PM , CO
+2.5",2,2018-04-06
+Chennai,Satisfactory,82,"PM , OZONE
+2.5",2,2018-04-07
+Chennai,Satisfactory,58,"PM , OZONE
+2.5",2,2018-04-08
+Chennai,Satisfactory,73,"PM , OZONE
+2.5",2,2018-04-09
+Chennai,Satisfactory,53,"PM , OZONE
+2.5",2,2018-04-10
+Chennai,Satisfactory,71,"PM
+2.5",2,2018-04-11
+Chennai,Satisfactory,64,"PM , CO
+2.5",2,2018-04-12
+Chennai,Satisfactory,58,"PM , CO
+2.5",2,2018-04-13
+Chennai,Satisfactory,57,"PM , CO
+2.5",2,2018-04-14
+Chennai,Good,42,"PM , NO
+2.5 2",2,2018-04-15
+Chennai,Satisfactory,52,"PM , CO
+2.5",2,2018-04-16
+Chennai,Satisfactory,58,"PM , CO
+2.5",2,2018-04-17
+Chennai,Satisfactory,54,"PM
+2.5",2,2018-04-18
+Chennai,Satisfactory,72,"PM
+2.5",2,2018-04-19
+Chennai,Satisfactory,58,"PM , NO
+2.5 2",2,2018-04-20
+Chennai,Satisfactory,70,"PM , CO
+2.5",2,2018-04-21
+Chennai,Satisfactory,52,"PM , OZONE
+2.5",2,2018-04-22
+Chennai,Satisfactory,70,"PM
+2.5",2,2018-04-23
+Chennai,Satisfactory,90,"PM
+2.5",2,2018-04-24
+Chennai,Satisfactory,76,"PM
+2.5",2,2018-04-25
+Chennai,Satisfactory,76,"PM
+2.5",2,2018-04-26
+Chennai,Satisfactory,82,"PM
+2.5",2,2018-04-27
+Chennai,Satisfactory,54,"PM , NO
+2.5 2",2,2018-04-28
+Chennai,Satisfactory,55,"PM , NO
+2.5 2",2,2018-04-29
+Chennai,Satisfactory,73,"PM
+2.5",2,2018-04-30
+Chennai,Moderate,118,"NO
+2",1,2018-05-01
+Chennai,Moderate,132,"NO , PM
+2 2.5",2,2018-05-02
+Chennai,Moderate,119,"PM
+2.5",2,2018-05-03
+Chennai,Moderate,148,"NO , PM
+2 2.5",2,2018-05-04
+Chennai,Moderate,110,"NO , PM
+2 2.5",2,2018-05-05
+Chennai,Satisfactory,68,"NO , PM
+2 2.5",2,2018-05-06
+Chennai,Satisfactory,86,"PM
+2.5",2,2018-05-07
+Chennai,Satisfactory,68,"PM
+2.5",2,2018-05-08
+Chennai,Satisfactory,63,"NO
+2",1,2018-05-09
+Chennai,Satisfactory,56,"PM , NO
+2.5 2",2,2018-05-10
+Chennai,Satisfactory,55,"CO, PM
+2.5",2,2018-05-11
+Chennai,Satisfactory,58,CO,2,2018-05-12
+Chennai,Satisfactory,60,"CO, PM
+2.5",2,2018-05-13
+Chennai,Satisfactory,60,"CO, PM
+2.5",2,2018-05-14
+Chennai,Satisfactory,60,"CO, PM
+2.5",2,2018-05-15
+Chennai,Satisfactory,67,"CO, PM
+2.5",2,2018-05-16
+Chennai,Satisfactory,61,"CO, PM
+2.5",2,2018-05-17
+Chennai,Satisfactory,70,"PM , OZONE
+2.5",2,2018-05-18
+Chennai,Satisfactory,78,"PM
+2.5",2,2018-05-19
+Chennai,Satisfactory,67,"PM
+2.5",2,2018-05-20
+Chennai,Satisfactory,66,"PM
+2.5",2,2018-05-21
+Chennai,Satisfactory,99,"PM
+2.5",2,2018-05-22
+Chennai,Satisfactory,88,"PM
+2.5",2,2018-05-23
+Chennai,Satisfactory,63,"PM
+2.5",2,2018-05-24
+Chennai,Satisfactory,61,"PM
+2.5",2,2018-05-25
+Chennai,Satisfactory,68,"PM
+2.5",2,2018-05-26
+Chennai,Satisfactory,84,"PM
+2.5",2,2018-05-27
+Chennai,Satisfactory,84,"PM
+2.5",2,2018-05-28
+Chennai,Satisfactory,92,"PM
+2.5",2,2018-05-29
+Chennai,Satisfactory,74,"PM
+2.5",2,2018-05-30
+Chennai,Satisfactory,96,"PM
+2.5",2,2018-05-31
+Chennai,Moderate,108,"PM
+2.5",2,2018-06-01
+Chennai,Moderate,132,"PM
+2.5",2,2018-06-02
+Chennai,Satisfactory,86,"PM
+2.5",2,2018-06-03
+Chennai,Satisfactory,88,"PM
+2.5",2,2018-06-04
+Chennai,Satisfactory,90,"PM
+2.5",2,2018-06-05
+Chennai,Satisfactory,72,"PM
+2.5",2,2018-06-06
+Chennai,Satisfactory,57,"PM , CO
+2.5",2,2018-06-07
+Chennai,Satisfactory,74,"PM
+2.5",2,2018-06-08
+Chennai,Satisfactory,70,"PM
+2.5",1,2018-06-09
+Chennai,Satisfactory,64,"PM , CO
+2.5",2,2018-06-10
+Chennai,Satisfactory,71,"PM , CO
+2.5",2,2018-06-11
+Chennai,Satisfactory,90,"PM , CO
+2.5",2,2018-06-12
+Chennai,Satisfactory,81,"PM , CO
+2.5",2,2018-06-13
+Chennai,Satisfactory,90,"PM
+2.5",2,2018-06-14
+Chennai,Satisfactory,97,"PM
+2.5",2,2018-06-15
+Chennai,Moderate,116,"PM
+2.5",2,2018-06-16
+Chennai,Satisfactory,89,"PM
+2.5",2,2018-06-17
+Chennai,Moderate,102,"PM
+2.5",2,2018-06-18
+Chennai,Satisfactory,94,"PM
+2.5",2,2018-06-19
+Chennai,Moderate,104,"PM
+2.5",2,2018-06-20
+Chennai,Moderate,116,"PM
+2.5",2,2018-06-21
+Chennai,Moderate,114,"PM
+2.5",2,2018-06-22
+Chennai,Moderate,104,"PM
+2.5",2,2018-06-23
+Chennai,Moderate,108,"PM
+2.5",2,2018-06-24
+Chennai,Moderate,112,"PM
+2.5",2,2018-06-25
+Chennai,Moderate,130,"PM
+2.5",2,2018-06-26
+Chennai,Moderate,112,"PM
+2.5",2,2018-06-27
+Chennai,Moderate,122,"PM
+2.5",2,2018-06-28
+Chennai,Moderate,102,"PM
+2.5",2,2018-06-29
+Chennai,Moderate,148,"PM
+2.5",2,2018-06-30
+Chennai,Moderate,150,"PM
+2.5",2,2018-07-01
+Chennai,Moderate,148,"PM
+2.5",2,2018-07-02
+Chennai,Moderate,164,"PM
+2.5",2,2018-07-03
+Chennai,Satisfactory,98,"PM
+2.5",2,2018-07-04
+Chennai,Satisfactory,96,"PM
+2.5",2,2018-07-05
+Chennai,Moderate,148,"PM
+2.5",2,2018-07-06
+Chennai,Moderate,130,"PM
+2.5",2,2018-07-07
+Chennai,Satisfactory,81,"PM
+2.5",2,2018-07-08
+Chennai,Moderate,127,"PM
+2.5",2,2018-07-09
+Chennai,Moderate,109,"PM
+2.5",2,2018-07-10
+Chennai,Satisfactory,98,"PM
+2.5",2,2018-07-11
+Chennai,Satisfactory,70,"PM
+2.5",2,2018-07-12
+Chennai,Satisfactory,98,"PM
+2.5",2,2018-07-13
+Chennai,Satisfactory,62,"PM
+2.5",1,2018-07-14
+Chennai,Moderate,118,"PM
+2.5",1,2018-07-15
+Chennai,Satisfactory,84,"PM
+2.5",2,2018-07-16
+Chennai,Satisfactory,72,"PM
+2.5",2,2018-07-17
+Chennai,Satisfactory,62,"PM
+2.5",2,2018-07-18
+Chennai,Satisfactory,92,"PM
+2.5",2,2018-07-19
+Chennai,Satisfactory,70,"PM
+2.5",2,2018-07-20
+Chennai,Satisfactory,76,"PM
+2.5",2,2018-07-21
+Chennai,Satisfactory,92,"PM
+2.5",2,2018-07-22
+Chennai,Moderate,112,"PM
+2.5",2,2018-07-23
+Chennai,Satisfactory,99,"PM
+2.5",2,2018-07-24
+Chennai,Satisfactory,62,"PM
+2.5",2,2018-07-25
+Chennai,Satisfactory,66,"PM
+2.5",2,2018-07-26
+Chennai,Satisfactory,58,"PM
+2.5",2,2018-07-27
+Chennai,Moderate,102,"PM
+2.5",2,2018-07-28
+Chennai,Moderate,108,"PM
+2.5",2,2018-07-29
+Chennai,Satisfactory,76,"PM
+2.5",2,2018-07-30
+Chennai,Moderate,104,"PM
+2.5",2,2018-07-31
+Chennai,Moderate,114,"PM
+2.5",1,2018-08-01
+Chennai,Satisfactory,86,"PM
+2.5",1,2018-08-02
+Chennai,Satisfactory,86,"PM
+2.5",1,2018-08-03
+Chennai,Satisfactory,94,"PM
+2.5",2,2018-08-04
+Chennai,Moderate,108,"PM
+2.5",2,2018-08-05
+Chennai,Moderate,110,"PM
+2.5",2,2018-08-06
+Chennai,Satisfactory,98,"PM
+2.5",2,2018-08-07
+Chennai,Satisfactory,59,"PM
+2.5",2,2018-08-08
+Chennai,Good,46,"PM , CO
+2.5",2,2018-08-09
+Chennai,Satisfactory,71,"PM
+2.5",2,2018-08-10
+Chennai,Satisfactory,70,"PM
+2.5",2,2018-08-11
+Chennai,Good,46,"CO, PM
+2.5",2,2018-08-12
+Chennai,Satisfactory,54,"PM
+2.5",2,2018-08-13
+Chennai,Satisfactory,77,"PM
+2.5",2,2018-08-14
+Chennai,Satisfactory,58,"CO, PM
+2.5",2,2018-08-15
+Chennai,Good,42,"PM
+2.5",1,2018-08-16
+Chennai,Satisfactory,63,"PM
+2.5",2,2018-08-17
+Chennai,Moderate,181,"PM
+2.5",1,2018-08-18
+Chennai,Satisfactory,92,"PM
+2.5",2,2018-08-19
+Chennai,Moderate,118,"PM
+2.5",2,2018-08-20
+Chennai,Poor,237,"PM
+2.5",1,2018-08-21
+Chennai,Moderate,132,"PM
+2.5",2,2018-08-22
+Chennai,Satisfactory,69,"PM , CO
+2.5",2,2018-08-23
+Chennai,Satisfactory,66,"PM
+2.5",2,2018-08-24
+Chennai,Moderate,106,"PM
+2.5",2,2018-08-25
+Chennai,Satisfactory,76,"PM
+2.5",2,2018-08-26
+Chennai,Satisfactory,56,"PM , CO
+2.5",2,2018-08-27
+Chennai,Satisfactory,51,"PM
+2.5",3,2018-08-28
+Chennai,Satisfactory,59,"PM , CO
+2.5",3,2018-08-29
+Chennai,Satisfactory,73,"PM
+2.5",3,2018-08-30
+Chennai,Satisfactory,69,"PM
+2.5",3,2018-08-31
+Chennai,Satisfactory,62,"PM
+2.5",3,2018-09-01
+Chennai,Satisfactory,83,"PM
+2.5",3,2018-09-02
+Chennai,Satisfactory,68,"PM , CO, OZONE
+2.5",3,2018-09-03
+Chennai,Satisfactory,67,"PM
+2.5",2,2018-09-04
+Chennai,Moderate,112,"PM
+2.5",2,2018-09-05
+Chennai,Moderate,107,"PM
+2.5",3,2018-09-06
+Chennai,Moderate,102,"PM
+2.5",3,2018-09-07
+Chennai,Moderate,102,"PM , OZONE
+2.5",3,2018-09-08
+Chennai,Satisfactory,81,"PM , OZONE
+2.5",3,2018-09-09
+Chennai,Satisfactory,73,"PM , OZONE
+2.5",3,2018-09-10
+Chennai,Satisfactory,83,"PM
+2.5",3,2018-09-11
+Chennai,Moderate,166,"PM
+2.5",1,2018-09-15
+Chennai,Satisfactory,80,"PM , OZONE, CO
+2.5",3,2018-09-16
+Chennai,Good,48,"CO, PM
+2.5",2,2018-09-17
+Chennai,Satisfactory,94,"PM
+2.5",3,2018-09-18
+Chennai,Good,49,"PM , CO
+2.5",3,2018-09-19
+Chennai,Satisfactory,88,"PM , CO
+2.5",3,2018-09-20
+Chennai,Moderate,100,"PM
+2.5",3,2018-09-21
+Chennai,Satisfactory,99,"PM
+2.5",3,2018-09-22
+Chennai,Satisfactory,74,"PM
+2.5",3,2018-09-23
+Chennai,Satisfactory,58,CO,2,2018-09-24
+Chennai,Satisfactory,58,"CO, OZONE",2,2018-09-25
+Chennai,Satisfactory,60,"CO, PM
+2.5",2,2018-09-26
+Chennai,Satisfactory,67,"PM , CO
+2.5",3,2018-09-27
+Chennai,Good,46,"PM , CO
+2.5",2,2018-09-28
+Chennai,Good,44,"PM , CO
+2.5",2,2018-09-29
+Chennai,Satisfactory,81,"PM , CO
+2.5",3,2018-09-30
+Chennai,Satisfactory,62,"PM , CO
+2.5",3,2018-10-01
+Chennai,Satisfactory,54,"PM , CO
+2.5",3,2018-10-02
+Chennai,Good,47,"PM , CO
+2.5",3,2018-10-03
+Chennai,Satisfactory,61,"CO, PM
+2.5",3,2018-10-04
+Chennai,Satisfactory,55,"SO , PM , CO
+2 2.5",3,2018-10-05
+Chennai,Good,48,CO,2,2018-10-06
+Chennai,Good,49,"PM , CO
+2.5",2,2018-10-07
+Chennai,Satisfactory,64,"PM , CO
+2.5",2,2018-10-08
+Chennai,Satisfactory,98,"PM , CO
+2.5",2,2018-10-09
+Chennai,Moderate,138,"PM , CO
+2.5",2,2018-10-10
+Chennai,Moderate,150,"PM
+2.5",2,2018-10-11
+Chennai,Satisfactory,88,"PM
+2.5",2,2018-10-12
+Chennai,Satisfactory,72,"PM
+2.5",2,2018-10-13
+Chennai,Satisfactory,60,"PM
+2.5",2,2018-10-14
+Chennai,Satisfactory,65,"PM
+2.5",2,2018-10-15
+Chennai,Satisfactory,70,"PM
+2.5",2,2018-10-16
+Chennai,Satisfactory,60,"PM , CO
+2.5",2,2018-10-17
+Chennai,Good,50,"PM
+2.5",2,2018-10-18
+Chennai,Moderate,148,"OZONE, PM
+2.5",2,2018-10-19
+Chennai,Moderate,122,"PM
+2.5",2,2018-10-20
+Chennai,Moderate,132,"PM
+2.5",2,2018-10-21
+Chennai,Moderate,125,"PM
+2.5",2,2018-10-22
+Chennai,Moderate,146,"PM
+2.5",3,2018-10-23
+Chennai,Moderate,169,"PM
+2.5",3,2018-10-24
+Chennai,Moderate,140,"PM
+2.5",2,2018-10-25
+Chennai,Moderate,141,"PM
+2.5",3,2018-10-26
+Chennai,Moderate,128,"PM
+2.5",3,2018-10-27
+Chennai,Moderate,116,"PM , CO
+2.5",3,2018-10-28
+Chennai,Moderate,131,"PM
+2.5",3,2018-10-29
+Chennai,Satisfactory,74,"PM
+2.5",3,2018-10-30
+Chennai,Satisfactory,55,CO,3,2018-10-31
+Chennai,Good,48,"CO, PM
+2.5",3,2018-11-01
+Chennai,Satisfactory,75,"PM , CO
+2.5",3,2018-11-02
+Chennai,Good,45,"PM , CO
+2.5",3,2018-11-03
+Chennai,Satisfactory,95,"PM , CO
+2.5",3,2018-11-04
+Chennai,Satisfactory,66,"PM , SO , CO
+2.5 2",3,2018-11-05
+Chennai,Satisfactory,64,"PM , CO
+2.5",3,2018-11-06
+Chennai,Moderate,121,"PM
+2.5",3,2018-11-07
+Chennai,Moderate,105,"PM
+2.5",3,2018-11-08
+Chennai,Moderate,146,"PM
+2.5",3,2018-11-09
+Chennai,Moderate,134,"PM
+2.5",3,2018-11-10
+Chennai,Moderate,141,"PM
+2.5",3,2018-11-11
+Chennai,Moderate,174,"PM
+2.5",3,2018-11-12
+Chennai,Poor,244,"PM
+2.5",3,2018-11-13
+Chennai,Moderate,185,"PM
+2.5",3,2018-11-14
+Chennai,Moderate,122,"PM
+2.5",3,2018-11-15
+Chennai,Satisfactory,54,CO,2,2018-11-16
+Chennai,Satisfactory,51,"PM , CO
+2.5",3,2018-11-17
+Chennai,Satisfactory,60,"PM , CO
+2.5",3,2018-11-18
+Chennai,Satisfactory,56,CO,3,2018-11-19
+Chennai,Satisfactory,79,"PM , CO
+2.5",3,2018-11-20
+Chennai,Satisfactory,53,"CO, PM
+2.5",3,2018-11-21
+Chennai,Satisfactory,52,CO,3,2018-11-22
+Chennai,Satisfactory,56,"PM , CO
+2.5",3,2018-11-23
+Chennai,Poor,210,"PM
+2.5",2,2018-11-24
+Chennai,Poor,224,"PM
+2.5",2,2018-11-25
+Chennai,Moderate,186,"PM
+2.5",2,2018-11-26
+Chennai,Moderate,134,"PM
+2.5",3,2018-11-27
+Chennai,Moderate,122,"PM
+2.5",3,2018-11-28
+Chennai,Satisfactory,84,"PM
+2.5",3,2018-11-29
+Chennai,Satisfactory,87,"PM
+2.5",3,2018-11-30
+Chennai,Satisfactory,98,"PM
+2.5",3,2018-12-01
+Chennai,Satisfactory,56,"PM , OZONE
+2.5",3,2018-12-02
+Chennai,Satisfactory,56,"CO, PM , OZONE
+2.5",3,2018-12-03
+Chennai,Satisfactory,54,"CO, PM
+2.5",3,2018-12-04
+Chennai,Satisfactory,61,CO,3,2018-12-05
+Chennai,Satisfactory,68,"PM , CO
+2.5",3,2018-12-06
+Chennai,Moderate,142,"PM
+2.5",2,2018-12-07
+Chennai,Poor,238,"PM
+2.5",3,2018-12-08
+Chennai,Poor,222,"PM
+2.5",3,2018-12-09
+Chennai,Poor,221,"PM
+2.5",3,2018-12-10
+Chennai,Moderate,185,"PM
+2.5",3,2018-12-11
+Chennai,Moderate,185,"PM
+2.5",3,2018-12-12
+Chennai,Moderate,132,"PM
+2.5",2,2018-12-13
+Chennai,Satisfactory,80,"PM
+2.5",3,2018-12-14
+Chennai,Moderate,171,"PM
+2.5",3,2018-12-15
+Chennai,Moderate,133,"PM
+2.5",3,2018-12-16
+Chennai,Satisfactory,89,"PM , OZONE
+2.5",3,2018-12-17
+Chennai,Moderate,159,"PM
+2.5",3,2018-12-18
+Chennai,Satisfactory,74,"PM
+2.5",3,2018-12-19
+Chennai,Satisfactory,70,"PM , CO, OZONE
+2.5",3,2018-12-20
+Chennai,Satisfactory,76,"PM , OZONE
+2.5",3,2018-12-21
+Chennai,Satisfactory,90,"PM , OZONE
+2.5",3,2018-12-22
+Chennai,Moderate,105,"PM
+2.5",3,2018-12-23
+Chennai,Moderate,125,"PM , OZONE
+2.5",3,2018-12-24
+Chennai,Moderate,148,"PM
+2.5",3,2018-12-25
+Chennai,Moderate,200,"PM
+2.5",3,2018-12-26
+Chennai,Satisfactory,77,"PM
+2.5",1,2018-12-27
+Chennai,Moderate,112,"PM
+2.5",3,2018-12-28
+Chennai,Moderate,188,"PM
+2.5",3,2018-12-29
+Chennai,Moderate,156,"PM
+2.5",3,2018-12-30
+Chennai,Moderate,120,"PM , OZONE
+2.5",3,2018-12-31
+Chennai,Moderate,175,"PM , OZONE
+2.5",3,2019-01-01
+Chennai,Satisfactory,81,"PM
+2.5",3,2019-01-02
+Chennai,Moderate,184,"PM
+2.5",3,2019-01-03
+Chennai,Poor,203,"PM
+2.5",3,2019-01-04
+Chennai,Moderate,112,"PM , OZONE
+2.5",2,2019-01-05
+Chennai,Moderate,193,"PM
+2.5",3,2019-01-06
+Chennai,Moderate,148,"PM
+2.5",3,2019-01-07
+Chennai,Satisfactory,81,"PM , CO
+2.5",3,2019-01-08
+Chennai,Poor,212,"PM
+2.5",3,2019-01-09
+Chennai,Moderate,172,"PM
+2.5",3,2019-01-10
+Chennai,Moderate,178,"PM
+2.5",3,2019-01-11
+Chennai,Moderate,158,"PM
+2.5",3,2019-01-12
+Chennai,Satisfactory,89,"PM , OZONE, CO
+2.5",3,2019-01-13
+Chennai,Moderate,122,"PM
+2.5",2,2019-01-14
+Chennai,Moderate,102,"PM , OZONE, CO
+2.5",3,2019-01-15
+Chennai,Satisfactory,96,"PM , CO
+2.5",3,2019-01-16
+Chennai,Moderate,107,"PM , OZONE
+2.5",3,2019-01-17
+Chennai,Moderate,135,"PM
+2.5",3,2019-01-18
+Chennai,Moderate,104,"PM
+2.5",2,2019-01-19
+Chennai,Satisfactory,64,"PM
+2.5",2,2019-01-20
+Chennai,Satisfactory,98,"PM
+2.5",2,2019-01-21
+Chennai,Moderate,171,"PM
+2.5",3,2019-01-22
+Chennai,Satisfactory,58,"OZONE, CO",3,2019-01-23
+Chennai,Satisfactory,94,"PM , OZONE
+2.5",3,2019-01-24
+Chennai,Satisfactory,53,"PM , OZONE
+2.5",3,2019-01-25
+Chennai,Good,45,"PM , OZONE, CO
+2.5",3,2019-01-26
+Chennai,Good,42,CO,2,2019-01-27
+Chennai,Good,39,OZONE,2,2019-01-28
+Chennai,Good,46,"OZONE, SO
+2",2,2019-01-29
+Chennai,Satisfactory,72,"PM , OZONE
+2.5",2,2019-01-30
+Chennai,Moderate,127,"PM , OZONE
+2.5",3,2019-01-31
+Chennai,Satisfactory,100,"PM , OZONE
+2.5",3,2019-02-01
+Chennai,Satisfactory,90,"PM , OZONE, CO
+2.5",3,2019-02-02
+Chennai,Satisfactory,52,OZONE,2,2019-02-03
+Chennai,Satisfactory,88,"PM , OZONE
+2.5",3,2019-02-04
+Chennai,Satisfactory,98,"PM , OZONE
+2.5",3,2019-02-05
+Chennai,Moderate,125,"PM , OZONE
+2.5",3,2019-02-06
+Chennai,Moderate,115,"PM , OZONE
+2.5",3,2019-02-07
+Chennai,Satisfactory,67,"PM , CO
+2.5",3,2019-02-08
+Chennai,Satisfactory,53,"PM
+2.5",2,2019-02-09
+Chennai,Good,48,CO,2,2019-02-10
+Chennai,Satisfactory,58,"PM , OZONE
+2.5",2,2019-02-11
+Chennai,Satisfactory,68,OZONE,2,2019-02-12
+Chennai,Moderate,154,"PM , OZONE
+2.5",3,2019-02-13
+Chennai,Moderate,182,"PM , OZONE
+2.5",3,2019-02-14
+Chennai,Satisfactory,74,"PM , CO
+2.5",2,2019-02-15
+Chennai,Satisfactory,75,"PM , CO
+2.5",3,2019-02-16
+Chennai,Satisfactory,89,"PM , CO
+2.5",3,2019-02-17
+Chennai,Satisfactory,67,"PM , CO
+2.5",3,2019-02-18
+Chennai,Good,48,"PM , CO
+2.5",3,2019-02-19
+Chennai,Good,47,CO,3,2019-02-20
+Chennai,Satisfactory,63,"PM , CO
+2.5",3,2019-02-21
+Chennai,Satisfactory,85,"PM , CO, OZONE
+2.5",3,2019-02-22
+Chennai,Satisfactory,69,"OZONE, CO",3,2019-02-23
+Chennai,Satisfactory,80,"PM , OZONE
+2.5",3,2019-02-24
+Chennai,Satisfactory,83,"PM , OZONE
+2.5",3,2019-02-25
+Chennai,Moderate,185,"PM , CO
+2.5",3,2019-02-26
+Chennai,Good,48,"PM , CO
+2.5",3,2019-02-27
+Chennai,Moderate,105,"PM , NO
+2.5 2",3,2019-02-28
+Chennai,Satisfactory,68,"PM
+2.5",1,2019-03-01
+Chennai,Moderate,165,"PM , SO
+2.5 2",3,2019-03-02
+Chennai,Satisfactory,74,"PM , SO , OZONE
+2.5 2",3,2019-03-03
+Chennai,Satisfactory,76,"PM , OZONE
+2.5",3,2019-03-04
+Chennai,Satisfactory,89,"PM
+2.5",3,2019-03-05
+Chennai,Moderate,103,"PM
+2.5",3,2019-03-06
+Chennai,Satisfactory,86,"PM , OZONE, CO
+2.5",3,2019-03-07
+Chennai,Satisfactory,73,"PM , CO
+2.5",3,2019-03-08
+Chennai,Satisfactory,78,"PM , OZONE
+2.5",3,2019-03-09
+Chennai,Satisfactory,68,"NO , OZONE, PM
+2 2.5",3,2019-03-10
+Chennai,Satisfactory,60,"PM , OZONE, CO
+2.5",3,2019-03-11
+Chennai,Satisfactory,82,"PM
+2.5",3,2019-03-12
+Chennai,Moderate,129,"PM
+2.5",3,2019-03-13
+Chennai,Moderate,132,"PM
+2.5",3,2019-03-14
+Chennai,Moderate,101,"PM
+2.5",3,2019-03-15
+Chennai,Satisfactory,86,"PM
+2.5",3,2019-03-16
+Chennai,Moderate,104,"PM
+2.5",3,2019-03-17
+Chennai,Satisfactory,70,"PM
+2.5",3,2019-03-18
+Chennai,Satisfactory,85,"PM
+2.5",3,2019-03-19
+Chennai,Moderate,105,"PM , CO
+2.5",3,2019-03-20
+Chennai,Moderate,117,"PM , CO
+2.5",3,2019-03-21
+Chennai,Satisfactory,84,"PM , CO
+2.5",3,2019-03-22
+Chennai,Satisfactory,80,"PM , CO
+2.5",3,2019-03-23
+Chennai,Satisfactory,73,"PM , CO
+2.5",3,2019-03-24
+Chennai,Satisfactory,68,"PM , CO
+2.5",3,2019-03-25
+Chennai,Satisfactory,78,"PM , CO
+2.5",3,2019-03-26
+Chennai,Satisfactory,66,"PM , OZONE, CO
+2.5",3,2019-03-27
+Chennai,Satisfactory,73,"PM , OZONE
+2.5",3,2019-03-28
+Chennai,Satisfactory,84,"PM , OZONE, CO
+2.5",3,2019-03-29
+Chennai,Satisfactory,76,"PM , OZONE, CO
+2.5",3,2019-03-30
+Chennai,Moderate,112,"PM
+2.5",2,2019-03-31
+Chennai,Moderate,119,"PM , CO
+2.5",3,2019-04-01
+Chennai,Moderate,106,"PM , CO
+2.5",3,2019-04-02
+Chennai,Moderate,116,"PM , CO
+2.5",3,2019-04-03
+Chennai,Satisfactory,62,"PM , CO
+2.5",3,2019-04-04
+Chennai,Satisfactory,79,"PM , CO
+2.5",3,2019-04-05
+Chennai,Satisfactory,77,"PM , CO
+2.5",3,2019-04-06
+Chennai,Satisfactory,71,"PM , CO
+2.5",3,2019-04-07
+Chennai,Satisfactory,76,"PM , CO
+2.5",3,2019-04-08
+Chennai,Satisfactory,96,"PM , CO
+2.5",3,2019-04-09
+Chennai,Satisfactory,79,"PM , CO
+2.5",3,2019-04-10
+Chennai,Moderate,118,"PM
+2.5",2,2019-04-11
+Chennai,Satisfactory,77,"PM
+2.5",3,2019-04-12
+Chennai,Satisfactory,74,"PM , CO
+2.5",3,2019-04-13
+Chennai,Satisfactory,57,"PM
+2.5",3,2019-04-14
+Chennai,Satisfactory,59,"PM , CO
+2.5",2,2019-04-15
+Chennai,Satisfactory,52,"CO, PM
+2.5",2,2019-04-16
+Chennai,Good,50,CO,3,2019-04-17
+Chennai,Good,45,CO,2,2019-04-18
+Chennai,Good,50,"PM , CO
+2.5",2,2019-04-19
+Chennai,Satisfactory,63,"PM , CO
+2.5",3,2019-04-20
+Chennai,Satisfactory,72,"PM , CO
+2.5",3,2019-04-21
+Chennai,Good,44,CO,3,2019-04-22
+Chennai,Satisfactory,54,"PM , CO
+2.5",3,2019-04-23
+Chennai,Satisfactory,56,"PM , CO
+2.5",3,2019-04-24
+Chennai,Satisfactory,60,"PM , CO
+2.5",3,2019-04-25
+Chennai,Satisfactory,58,"PM , CO
+2.5",3,2019-04-26
+Chennai,Satisfactory,57,"PM , CO
+2.5",3,2019-04-27
+Chennai,Satisfactory,59,"PM , CO
+2.5",3,2019-04-28
+Chennai,Satisfactory,63,"PM , CO
+2.5",3,2019-04-29
+Chennai,Satisfactory,65,"PM , CO
+2.5",3,2019-04-30
+Chennai,Satisfactory,72,"CO, PM
+2.5",3,2019-05-01
+Chennai,Satisfactory,60,"PM
+2.5",2,2019-05-02
+Chennai,Satisfactory,56,"PM , CO
+2.5",3,2019-05-03
+Chennai,Satisfactory,62,"PM , CO
+2.5",3,2019-05-04
+Chennai,Satisfactory,57,"PM
+2.5",2,2019-05-05
+Chennai,Satisfactory,58,"PM , CO
+2.5",2,2019-05-06
+Chennai,Satisfactory,61,CO,2,2019-05-07
+Chennai,Satisfactory,64,"PM
+2.5",2,2019-05-08
+Chennai,Satisfactory,66,"PM
+2.5",2,2019-05-09
+Chennai,Satisfactory,62,"PM , CO
+2.5",2,2019-05-10
+Chennai,Poor,214,"PM
+2.5",1,2019-05-11
+Chennai,Poor,206,"PM
+2.5",1,2019-05-12
+Chennai,Good,43,CO,1,2019-05-13
+Chennai,Moderate,143,"PM
+2.5",2,2019-05-14
+Chennai,Moderate,122,"PM , OZONE
+2.5",2,2019-05-15
+Chennai,Moderate,118,"PM , CO
+2.5",2,2019-05-16
+Chennai,Satisfactory,99,CO,1,2019-05-17
+Chennai,Satisfactory,90,"PM , OZONE
+2.5",2,2019-05-18
+Chennai,Satisfactory,78,"PM , OZONE
+2.5",2,2019-05-19
+Chennai,Satisfactory,60,"PM , OZONE
+2.5",2,2019-05-20
+Chennai,Satisfactory,56,"OZONE, PM
+2.5",2,2019-05-21
+Chennai,Satisfactory,76,"CO, PM
+2.5",2,2019-05-22
+Chennai,Satisfactory,78,"CO, PM
+2.5",2,2019-05-23
+Chennai,Moderate,114,"PM , CO
+2.5",3,2019-05-24
+Chennai,Moderate,112,"PM , OZONE
+2.5",3,2019-05-25
+Chennai,Moderate,124,"PM , OZONE
+2.5",3,2019-05-26
+Chennai,Moderate,101,"PM , CO, OZONE
+2.5",3,2019-05-27
+Chennai,Moderate,127,"PM
+2.5",3,2019-05-28
+Chennai,Moderate,144,"PM , CO
+2.5",2,2019-05-29
+Chennai,Moderate,119,"PM , OZONE
+2.5",3,2019-05-30
+Chennai,Moderate,122,"PM , OZONE
+2.5",3,2019-05-31
+Chennai,Moderate,165,"OZONE, PM
+2.5",3,2019-06-01
+Chennai,Moderate,186,"OZONE, PM
+2.5",3,2019-06-02
+Chennai,Moderate,140,"PM , OZONE, CO
+2.5",3,2019-06-03
+Chennai,Moderate,163,"OZONE, PM
+2.5",3,2019-06-04
+Chennai,Moderate,157,"OZONE, PM
+2.5",3,2019-06-05
+Chennai,Moderate,122,"PM , CO
+2.5",3,2019-06-06
+Chennai,Satisfactory,88,"PM
+2.5",2,2019-06-07
+Chennai,Satisfactory,54,"PM
+2.5",1,2019-06-08
+Chennai,Moderate,116,"PM
+2.5",1,2019-06-09
+Chennai,Moderate,151,"PM
+2.5",1,2019-06-10
+Chennai,Satisfactory,92,"PM
+2.5",1,2019-06-11
+Chennai,Moderate,104,"PM
+2.5",1,2019-06-12
+Chennai,Moderate,104,"PM , OZONE
+2.5",2,2019-06-13
+Chennai,Moderate,119,"PM
+2.5",1,2019-06-14
+Chennai,Satisfactory,78,"PM , OZONE
+2.5",2,2019-06-15
+Chennai,Satisfactory,91,"PM
+2.5",1,2019-06-16
+Chennai,Satisfactory,93,"PM
+2.5",1,2019-06-17
+Chennai,Satisfactory,80,"PM , PM
+2.5 10",2,2019-06-19
+Chennai,Satisfactory,86,"PM , PM
+2.5 10",2,2019-06-20
+Chennai,Satisfactory,65,"PM , PM
+2.5 10",3,2019-06-21
+Chennai,Satisfactory,78,"PM , OZONE
+2.5",2,2019-06-22
+Chennai,Satisfactory,80,"OZONE, PM
+2.5",2,2019-06-23
+Chennai,Satisfactory,83,CO,1,2019-06-24
+Chennai,Moderate,105,"PM , OZONE
+2.5",2,2019-06-25
+Chennai,Good,48,"PM
+2.5",1,2019-06-26
+Chennai,Satisfactory,56,"PM , CO
+2.5",2,2019-06-27
+Chennai,Good,48,"PM
+2.5",1,2019-06-28
+Chennai,Good,42,"PM
+2.5",1,2019-06-29
+Chennai,Satisfactory,85,"PM , OZONE
+2.5",3,2019-06-30
+Chennai,Good,50,"OZONE, PM
+2.5",2,2019-07-01
+Chennai,Satisfactory,56,"PM
+2.5",2,2019-07-02
+Chennai,Moderate,144,"PM
+2.5",2,2019-07-03
+Chennai,Satisfactory,87,"PM
+2.5",3,2019-07-04
+Chennai,Moderate,133,"PM
+2.5",2,2019-07-05
+Chennai,Good,48,"PM
+2.5",1,2019-07-06
+Chennai,Satisfactory,61,"PM
+2.5",1,2019-07-07
+Chennai,Satisfactory,97,"PM
+2.5",2,2019-07-08
+Chennai,Satisfactory,92,"PM
+2.5",2,2019-07-09
+Chennai,Satisfactory,65,"PM , CO
+2.5",2,2019-07-10
+Chennai,Satisfactory,66,"PM , CO
+2.5",3,2019-07-11
+Chennai,Satisfactory,65,"PM
+2.5",2,2019-07-12
+Chennai,Satisfactory,77,"PM
+2.5",2,2019-07-13
+Chennai,Satisfactory,75,"PM
+2.5",2,2019-07-14
+Chennai,Satisfactory,78,"PM
+2.5",2,2019-07-15
+Chennai,Satisfactory,71,"PM , CO
+2.5",3,2019-07-16
+Chennai,Satisfactory,70,"PM
+2.5",3,2019-07-17
+Chennai,Satisfactory,92,"PM
+2.5",3,2019-07-18
+Chennai,Satisfactory,60,"PM , OZONE
+2.5",3,2019-07-19
+Chennai,Satisfactory,75,"PM , OZONE, CO
+2.5",3,2019-07-20
+Chennai,Satisfactory,58,"PM
+2.5",2,2019-07-21
+Chennai,Good,43,"PM , OZONE
+2.5",3,2019-07-22
+Chennai,Good,49,"PM
+2.5",3,2019-07-23
+Chennai,Satisfactory,60,"PM
+2.5",3,2019-07-24
+Chennai,Satisfactory,63,CO,3,2019-07-25
+Chennai,Good,50,"PM , CO
+2.5",4,2019-07-26
+Chennai,Good,50,"PM , CO, NO
+2.5 2",4,2019-07-27
+Chennai,Satisfactory,62,"PM , OZONE
+2.5",4,2019-07-28
+Chennai,Satisfactory,66,"PM , OZONE
+2.5",4,2019-07-29
+Chennai,Satisfactory,78,"PM , CO
+2.5",2,2019-07-30
+Chennai,Satisfactory,86,"PM , CO, OZONE
+2.5",3,2019-07-31
+Chennai,Satisfactory,97,"PM , OZONE
+2.5",3,2019-08-01
+Chennai,Satisfactory,86,"PM , CO
+2.5",2,2019-08-02
+Chennai,Satisfactory,84,"OZONE, PM
+2.5",3,2019-08-03
+Chennai,Satisfactory,91,"OZONE, PM
+2.5",3,2019-08-04
+Chennai,Satisfactory,77,"PM , CO
+2.5",2,2019-08-05
+Chennai,Satisfactory,89,"PM , OZONE
+2.5",3,2019-08-06
+Chennai,Satisfactory,61,"OZONE, PM
+2.5",3,2019-08-07
+Chennai,Moderate,107,"CO, OZONE",3,2019-08-08
+Chennai,Satisfactory,59,"OZONE, PM
+2.5",3,2019-08-09
+Chennai,Satisfactory,65,"OZONE, PM
+2.5",3,2019-08-10
+Chennai,Good,35,"PM
+2.5",1,2019-08-11
+Chennai,Good,48,CO,1,2019-08-12
+Chennai,Good,40,"PM
+2.5",1,2019-08-13
+Chennai,Satisfactory,100,"OZONE, CO",2,2019-08-14
+Chennai,Satisfactory,65,"OZONE, CO",4,2019-08-15
+Chennai,Good,50,"PM , CO
+2.5",3,2019-08-16
+Chennai,Satisfactory,59,"OZONE, CO",3,2019-08-17
+Chennai,Good,44,"OZONE, CO, PM
+2.5",3,2019-08-18
+Chennai,Good,44,"PM , CO
+2.5",4,2019-08-19
+Chennai,Satisfactory,51,"PM , CO
+2.5",3,2019-08-20
+Chennai,Satisfactory,52,"CO, PM
+2.5",3,2019-08-21
+Chennai,Satisfactory,75,"PM , OZONE, CO
+2.5",4,2019-08-22
+Chennai,Good,47,"PM , CO
+2.5",2,2019-08-23
+Chennai,Good,45,"OZONE, PM , CO
+2.5",3,2019-08-24
+Chennai,Good,40,"PM , CO
+2.5",2,2019-08-25
+Chennai,Good,50,"PM , OZONE, CO
+2.5",3,2019-08-26
+Chennai,Good,42,"PM , OZONE
+2.5",2,2019-08-27
+Chennai,Satisfactory,82,"OZONE, PM
+2.5",3,2019-08-28
+Chennai,Good,44,"PM , CO
+2.5",2,2019-08-29
+Chennai,Satisfactory,74,"OZONE, PM , CO
+2.5",3,2019-08-30
+Chennai,Moderate,118,"OZONE, PM
+2.5",2,2019-08-31
+Chennai,Satisfactory,77,"OZONE, PM , CO
+2.5",3,2019-09-01
+Chennai,Satisfactory,76,"OZONE, PM , CO
+2.5",4,2019-09-02
+Chennai,Satisfactory,74,"OZONE, CO, PM
+2.5",4,2019-09-03
+Chennai,Satisfactory,94,"PM , OZONE, CO
+2.5",4,2019-09-04
+Chennai,Satisfactory,53,"CO, PM
+2.5",3,2019-09-05
+Chennai,Satisfactory,58,"OZONE, PM , CO
+2.5",3,2019-09-06
+Chennai,Satisfactory,77,"OZONE, CO",3,2019-09-07
+Chennai,Satisfactory,61,CO,2,2019-09-08
+Chennai,Satisfactory,75,"PM , CO
+2.5",3,2019-09-09
+Chennai,Moderate,108,"OZONE, CO",3,2019-09-10
+Chennai,Moderate,105,"OZONE, CO",3,2019-09-11
+Chennai,Satisfactory,88,"OZONE, CO, PM
+2.5",4,2019-09-12
+Chennai,Satisfactory,56,"PM , CO, OZONE
+2.5",3,2019-09-13
+Chennai,Satisfactory,73,"OZONE, PM
+2.5",3,2019-09-14
+Chennai,Satisfactory,67,"OZONE, PM , CO
+2.5",3,2019-09-15
+Chennai,Satisfactory,77,"OZONE, PM , CO
+2.5",4,2019-09-16
+Chennai,Satisfactory,83,"OZONE, PM , CO
+2.5",4,2019-09-17
+Chennai,Satisfactory,76,"OZONE, PM , CO
+2.5",4,2019-09-18
+Chennai,Satisfactory,83,"OZONE, CO, PM
+2.5",4,2019-09-19
+Chennai,Satisfactory,93,"OZONE, CO",3,2019-09-20
+Chennai,Satisfactory,76,"OZONE, PM , CO
+2.5",3,2019-09-21
+Chennai,Satisfactory,100,"OZONE, PM
+2.5",3,2019-09-22
+Chennai,Moderate,132,"OZONE, PM
+2.5",4,2019-09-23
+Chennai,Moderate,118,"OZONE, PM
+2.5",3,2019-09-24
+Chennai,Satisfactory,69,"OZONE, PM , CO
+2.5",4,2019-09-25
+Chennai,Satisfactory,61,"CO, OZONE, PM
+2.5",3,2019-09-26
+Chennai,Satisfactory,85,"OZONE, CO, PM
+2.5",3,2019-09-27
+Chennai,Satisfactory,96,"OZONE, CO",2,2019-09-28
+Chennai,Satisfactory,79,"OZONE, PM , CO
+2.5",3,2019-09-29
+Chennai,Satisfactory,100,"OZONE, CO",2,2019-09-30
+Chennai,Satisfactory,86,"OZONE, PM , CO
+2.5",4,2019-10-01
+Chennai,Satisfactory,99,"OZONE, PM
+2.5",4,2019-10-02
+Chennai,Satisfactory,84,"OZONE, PM , CO
+2.5",4,2019-10-03
+Chennai,Satisfactory,71,"PM , CO
+2.5",3,2019-10-04
+Chennai,Satisfactory,80,"OZONE, CO",3,2019-10-05
+Chennai,Satisfactory,88,"PM , CO
+2.5",2,2019-10-06
+Chennai,Good,50,"CO, OZONE",2,2019-10-07
+Chennai,Satisfactory,80,"PM , CO, OZONE
+2.5",3,2019-10-08
+Chennai,Satisfactory,85,"PM , OZONE, CO
+2.5",4,2019-10-09
+Chennai,Satisfactory,84,"OZONE, PM , CO
+2.5",4,2019-10-10
+Chennai,Satisfactory,69,"OZONE, CO, PM
+2.5",4,2019-10-11
+Chennai,Satisfactory,73,"OZONE, CO",3,2019-10-12
+Chennai,Satisfactory,78,"OZONE, CO",3,2019-10-13
+Chennai,Good,41,"CO, PM
+2.5",3,2019-10-14
+Chennai,Satisfactory,65,"OZONE, PM , CO
+2.5",4,2019-10-15
+Chennai,Good,48,"OZONE, CO",4,2019-10-16
+Chennai,Satisfactory,54,"PM , OZONE, CO
+2.5",4,2019-10-17
+Chennai,Satisfactory,76,"PM
+2.5",3,2019-10-18
+Chennai,Satisfactory,72,"PM , OZONE, CO
+2.5",3,2019-10-19
+Chennai,Satisfactory,68,"PM , OZONE, CO
+2.5",3,2019-10-20
+Chennai,Satisfactory,67,"PM , OZONE
+2.5",3,2019-10-21
+Chennai,Satisfactory,58,"PM , OZONE, CO
+2.5",4,2019-10-22
+Chennai,Satisfactory,81,"PM , OZONE
+2.5",4,2019-10-23
+Chennai,Satisfactory,58,"PM , OZONE, CO
+2.5",3,2019-10-24
+Chennai,Satisfactory,82,"PM , PM
+2.5 10",4,2019-10-25
+Chennai,Moderate,124,"PM
+2.5",3,2019-10-26
+Chennai,Poor,260,"PM
+2.5",3,2019-10-27
+Chennai,Moderate,129,"PM , CO
+2.5",4,2019-10-28
+Chennai,Satisfactory,74,"PM , PM
+2.5 10",4,2019-10-29
+Chennai,Satisfactory,59,"PM , CO
+2.5",2,2019-10-30
+Chennai,Moderate,138,"PM , OZONE, CO
+2.5",4,2019-10-31
+Chennai,Satisfactory,100,"PM , PM
+2.5 10",4,2019-11-01
+Chennai,Satisfactory,56,"PM , OZONE
+2.5",3,2019-11-02
+Chennai,Moderate,107,"PM
+2.5",2,2019-11-03
+Chennai,Poor,262,"PM
+2.5",3,2019-11-04
+Chennai,Poor,237,"PM , PM
+2.5 10",4,2019-11-05
+Chennai,Poor,224,"PM
+2.5",4,2019-11-06
+Chennai,Poor,272,"PM
+2.5",4,2019-11-07
+Chennai,Poor,288,"PM
+2.5",4,2019-11-08
+Chennai,Poor,218,"PM
+2.5",3,2019-11-09
+Chennai,Poor,234,"PM , PM
+2.5 10",3,2019-11-10
+Chennai,Moderate,184,"OZONE, PM
+2.5",3,2019-11-11
+Chennai,Satisfactory,65,"PM , PM
+10 2.5",3,2019-11-12
+Chennai,Satisfactory,64,"PM
+2.5",2,2019-11-13
+Chennai,Good,42,"PM
+2.5",1,2019-11-14
+Chennai,Satisfactory,76,"OZONE, PM , NO
+2.5 2",3,2019-11-15
+Chennai,Satisfactory,66,"PM
+2.5",2,2019-11-16
+Chennai,Moderate,103,"PM
+2.5",2,2019-11-17
+Chennai,Satisfactory,78,"PM
+2.5",2,2019-11-18
+Chennai,Satisfactory,54,"PM , PM
+2.5 10",3,2019-11-19
+Chennai,Good,35,"PM
+2.5",3,2019-11-20
+Chennai,Satisfactory,51,"PM , CO
+2.5",3,2019-11-21
+Chennai,Satisfactory,56,"PM , PM
+10 2.5",2,2019-11-22
+Chennai,Satisfactory,69,"PM
+2.5",3,2019-11-23
+Chennai,Moderate,130,"PM
+2.5",2,2019-11-24
+Chennai,Satisfactory,87,"PM
+2.5",3,2019-11-25
+Chennai,Satisfactory,97,"PM
+2.5",1,2019-11-26
+Chennai,Satisfactory,75,"PM
+2.5",3,2019-11-27
+Chennai,Satisfactory,61,"PM , PM ,
+2.5 10
+OZONE",3,2019-11-28
+Chennai,Good,45,"PM , OZONE,
+10
+PM
+2.5",3,2019-11-29
+Chennai,Good,48,"PM
+10",1,2019-11-30
+Chennai,Good,45,"OZONE, PM
+2.5",2,2019-12-01
+Chennai,Good,36,OZONE,2,2019-12-02
+Chennai,Satisfactory,58,"PM , OZONE
+2.5",2,2019-12-03
+Chennai,Satisfactory,71,"PM , OZONE
+2.5",3,2019-12-04
+Chennai,Moderate,109,"PM
+2.5",3,2019-12-05
+Chennai,Satisfactory,96,"PM
+2.5",2,2019-12-06
+Chennai,Satisfactory,74,"PM
+2.5",2,2019-12-07
+Chennai,Satisfactory,72,"CO, PM
+2.5",3,2019-12-08
+Chennai,Satisfactory,54,"NO , PM , O
+2 2.5 3",3,2019-12-09
+Chennai,Satisfactory,56,"PM
+2.5",2,2019-12-10
+Chennai,Satisfactory,69,"PM
+2.5",3,2019-12-11
+Chennai,Satisfactory,52,"PM , O
+2.5 3",4,2019-12-12
+Chennai,Satisfactory,56,"PM
+2.5",4,2019-12-13
+Chennai,Satisfactory,61,"PM
+2.5",4,2019-12-14
+Chennai,Satisfactory,69,"PM
+2.5",4,2019-12-15
+Chennai,Satisfactory,60,"CO, PM , O
+2.5 3",3,2019-12-16
+Chennai,Satisfactory,66,"PM , O
+2.5 3",4,2019-12-17
+Chennai,Satisfactory,100,"PM
+2.5",4,2019-12-18
+Chennai,Satisfactory,82,"PM
+2.5",3,2019-12-19
+Chennai,Moderate,111,"PM
+2.5",4,2019-12-20
+Chennai,Moderate,137,"PM
+2.5",3,2019-12-21
+Chennai,Moderate,122,"PM
+2.5",4,2019-12-22
+Chennai,Satisfactory,93,"PM
+2.5",4,2019-12-23
+Chennai,Satisfactory,96,"PM , PM
+2.5 10",3,2019-12-24
+Chennai,Moderate,102,"PM
+2.5",2,2019-12-25
+Chennai,Moderate,132,"PM
+2.5",2,2019-12-26
+Chennai,Satisfactory,61,"PM , O
+2.5 3",3,2019-12-27
+Chennai,Satisfactory,58,"PM , PM , O
+2.5 10 3",4,2019-12-28
+Chennai,Moderate,106,"PM , O
+2.5 3",4,2019-12-29
+Chennai,Satisfactory,76,"PM , O
+2.5 3",4,2019-12-30
+Chennai,Satisfactory,87,"PM , O
+2.5 3",3,2019-12-31
+Chennai,Satisfactory,64,"PM
+2.5",4,2020-01-01
+Chennai,Satisfactory,57,"CO, PM , O
+2.5 3",4,2020-01-02
+Chennai,Satisfactory,69,"CO, PM
+2.5",3,2020-01-03
+Chennai,Good,47,"PM
+2.5",3,2020-01-04
+Chennai,Satisfactory,60,"CO, PM , O
+2.5 3",4,2020-01-05
+Chennai,Satisfactory,52,"CO, O , PM
+3 2.5",4,2020-01-06
+Chennai,Good,47,"PM , O
+2.5 3",4,2020-01-07
+Chennai,Satisfactory,78,"PM
+2.5",4,2020-01-08
+Chennai,Satisfactory,77,"PM
+2.5",3,2020-01-09
+Chennai,Satisfactory,73,"PM , PM , O
+2.5 10 3",4,2020-01-10
+Chennai,Satisfactory,70,"PM , CO, O
+2.5 3",4,2020-01-11
+Chennai,Satisfactory,89,"PM
+2.5",4,2020-01-12
+Chennai,Moderate,158,"PM
+2.5",4,2020-01-13
+Chennai,Moderate,170,"PM
+2.5",3,2020-01-14
+Chennai,Moderate,102,"PM
+2.5",4,2020-01-15
+Chennai,Satisfactory,54,"O , PM
+3 2.5",3,2020-01-16
+Chennai,Satisfactory,71,"PM , CO
+2.5",4,2020-01-17
+Chennai,Satisfactory,52,"SO , CO, O
+2 3",4,2020-01-18
+Chennai,Satisfactory,73,"PM , CO
+2.5",3,2020-01-19
+Chennai,Satisfactory,72,"PM , CO
+2.5",4,2020-01-20
+Chennai,Satisfactory,88,"PM , CO
+2.5",4,2020-01-21
+Chennai,Satisfactory,86,"PM , O
+2.5 3",4,2020-01-22
+Chennai,Moderate,110,"PM
+2.5",4,2020-01-23
+Chennai,Moderate,127,"PM
+2.5",4,2020-01-24
+Chennai,Satisfactory,98,"PM
+2.5",3,2020-01-25
+Chennai,Satisfactory,74,"PM , PM , O
+2.5 10 3",3,2020-01-26
+Chennai,Satisfactory,77,"PM , PM
+10 2.5",3,2020-01-27
+Chennai,Satisfactory,93,"PM
+2.5",3,2020-01-28
+Chennai,Satisfactory,79,"PM
+2.5",3,2020-01-29
+Chennai,Satisfactory,86,"PM
+2.5",4,2020-01-30
+Chennai,Satisfactory,75,"PM , CO, PM
+2.5 10",4,2020-01-31
+Chennai,Satisfactory,61,"PM , CO, PM
+2.5 10",3,2020-02-01
+Chennai,Good,50,"PM , CO, PM
+2.5 10",3,2020-02-02
+Chennai,Satisfactory,76,"PM , PM , CO
+2.5 10",4,2020-02-03
+Chennai,Satisfactory,76,"PM , PM , CO
+2.5 10",4,2020-02-04
+Chennai,Satisfactory,85,"PM , PM , CO
+2.5 10",4,2020-02-05
+Chennai,Satisfactory,86,"PM , PM
+2.5 10",4,2020-02-06
+Chennai,Satisfactory,71,"PM , PM
+2.5 10",4,2020-02-07
+Chennai,Satisfactory,54,"PM , CO, PM
+2.5 10",4,2020-02-08
+Chennai,Satisfactory,60,"CO, PM , PM
+2.5 10",4,2020-02-09
+Chennai,Satisfactory,58,"PM , O , PM
+2.5 3 10",4,2020-02-10
+Chennai,Satisfactory,64,"PM , PM , NO
+10 2.5 2",4,2020-02-11
+Chennai,Satisfactory,70,"PM , NO , O
+10 2 3",4,2020-02-12
+Chennai,Satisfactory,96,"PM
+2.5",3,2020-02-13
+Chennai,Moderate,130,"O , PM , PM
+3 2.5 10",4,2020-02-14
+Chennai,Moderate,139,"PM
+2.5",3,2020-02-15
+Chennai,Satisfactory,76,"PM , PM
+2.5 10",4,2020-02-16
+Chennai,Satisfactory,62,"PM , PM , CO
+2.5 10",4,2020-02-17
+Chennai,Satisfactory,83,"PM , PM , O
+2.5 10 3",4,2020-02-18
+Chennai,Satisfactory,84,"PM , PM
+2.5 10",4,2020-02-19
+Chennai,Satisfactory,75,"PM , PM , O
+2.5 10 3",4,2020-02-20
+Chennai,Satisfactory,85,"PM , CO
+2.5",3,2020-02-21
+Chennai,Satisfactory,62,"CO, PM
+2.5",3,2020-02-22
+Chennai,Satisfactory,56,"PM , PM , O
+2.5 10 3",4,2020-02-23
+Chennai,Satisfactory,72,"CO, PM , PM
+2.5 10",4,2020-02-24
+Chennai,Satisfactory,76,"CO, PM , PM
+2.5 10",4,2020-02-25
+Chennai,Satisfactory,78,"PM , O , PM
+2.5 3 10",4,2020-02-26
+Chennai,Satisfactory,82,"PM , PM
+2.5 10",4,2020-02-27
+Chennai,Satisfactory,70,"CO, O , PM
+3 10",4,2020-02-28
+Chennai,Satisfactory,72,"PM , PM , O
+2.5 10 3",3,2020-02-29
+Chennai,Satisfactory,66,"PM , O , PM
+2.5 3 10",4,2020-03-01
+Chennai,Satisfactory,89,"PM
+2.5",3,2020-03-02
+Chennai,Satisfactory,97,"O , PM , PM
+3 10 2.5",4,2020-03-03
+Chennai,Satisfactory,79,"CO, PM
+2.5",3,2020-03-04
+Chennai,Satisfactory,68,"PM , CO
+2.5",3,2020-03-05
+Chennai,Satisfactory,52,"PM , CO
+2.5",2,2020-03-06
+Chennai,Satisfactory,63,"PM , O
+2.5 3",3,2020-03-07
+Chennai,Good,45,"PM , NH
+2.5 3",4,2020-03-08
+Chennai,Satisfactory,58,"PM , CO
+2.5",3,2020-03-09
+Chennai,Good,38,"PM , PM
+2.5 10",3,2020-03-10
+Chennai,Satisfactory,54,"CO, O
+3",4,2020-03-11
+Chennai,Satisfactory,53,"CO, O
+3",4,2020-03-12
+Chennai,Satisfactory,59,"CO, PM , O
+2.5 3",3,2020-03-13
+Chennai,Satisfactory,71,"PM
+2.5",3,2020-03-14
+Chennai,Satisfactory,69,"PM , O
+2.5 3",4,2020-03-15
+Chennai,Satisfactory,59,"PM , CO
+2.5",3,2020-03-16
+Chennai,Satisfactory,80,"PM
+2.5",3,2020-03-17
+Chennai,Satisfactory,72,"PM
+2.5",3,2020-03-18
+Chennai,Satisfactory,68,"PM , CO
+2.5",3,2020-03-19
+Chennai,Satisfactory,66,"CO, PM
+2.5",3,2020-03-20
+Chennai,Satisfactory,70,"CO, O
+3",3,2020-03-21
+Chennai,Satisfactory,64,"PM , O
+2.5 3",3,2020-03-22
+Chennai,Satisfactory,65,"PM
+2.5",3,2020-03-23
+Chennai,Satisfactory,52,"PM , CO
+2.5",3,2020-03-24
+Chennai,Good,46,"CO, PM
+2.5",3,2020-03-25
+Chennai,Satisfactory,56,"PM , CO
+2.5",3,2020-03-26
+Chennai,Good,48,"PM
+2.5",3,2020-03-27
+Chennai,Satisfactory,57,"PM
+2.5",3,2020-03-28
+Chennai,Good,46,"PM
+2.5",3,2020-03-29
+Chennai,Satisfactory,52,"PM
+2.5",3,2020-03-30
+Chennai,Satisfactory,54,"PM , O
+2.5 3",4,2020-03-31
+Chennai,Satisfactory,61,"PM , O
+2.5 3",4,2020-04-01
+Chennai,Satisfactory,62,"PM , O
+2.5 3",4,2020-04-02
+Chennai,Satisfactory,56,"PM , O , CO
+2.5 3",4,2020-04-03
+Chennai,Satisfactory,55,"O , PM , CO
+3 2.5",4,2020-04-04
+Chennai,Satisfactory,55,"O , PM , CO
+3 2.5",4,2020-04-05
+Chennai,Good,46,"O , CO, PM
+3 2.5",4,2020-04-06
+Chennai,Good,40,"O , CO
+3",4,2020-04-07
+Chennai,Good,44,"O , PM , CO
+3 2.5",4,2020-04-08
+Chennai,Good,42,"O , PM , CO
+3 2.5",4,2020-04-09
+Chennai,Satisfactory,62,"PM
+2.5",2,2020-04-10
+Chennai,Good,43,"O , SO , PM
+3 2 2.5",4,2020-04-11
+Chennai,Good,44,"O , CO
+3",4,2020-04-12
+Chennai,Good,44,"O , PM , CO
+3 2.5",4,2020-04-13
+Chennai,Good,46,"O , PM , CO
+3 2.5",4,2020-04-14
+Chennai,Good,42,"O , CO, PM
+3 2.5",4,2020-04-15
+Chennai,Good,50,"PM , O , CO
+2.5 3",4,2020-04-16
+Chennai,Good,43,"O , CO
+3",4,2020-04-17
+Chennai,Good,40,"O , CO
+3",4,2020-04-18
+Chennai,Good,44,"O , CO
+3",4,2020-04-19
+Chennai,Good,39,"O , CO
+3",4,2020-04-20
+Chennai,Good,44,"O , CO
+3",4,2020-04-21
+Chennai,Good,44,"O , PM , CO
+3 2.5",4,2020-04-22
+Chennai,Good,40,"O , CO
+3",4,2020-04-23
+Chennai,Good,44,"O , CO
+3",4,2020-04-24
+Chennai,Good,45,"O , CO
+3",4,2020-04-25
+Chennai,Good,44,"CO, NO
+2",3,2020-04-26
+Chennai,Good,48,"O , CO
+3",4,2020-04-27
+Chennai,Good,49,"O , CO
+3",4,2020-04-28
+Chennai,Satisfactory,54,"O , CO
+3",4,2020-04-29
+Chennai,Good,49,"O , NO
+3 2",4,2020-04-30
+Chennai,Satisfactory,60,"O , CO
+3",4,2020-05-01
+Chennai,Satisfactory,51,"O , CO
+3",3,2020-05-02
+Chennai,Satisfactory,51,"O , CO
+3",4,2020-05-03
+Chennai,Good,45,"O , CO
+3",4,2020-05-04
+Chennai,Satisfactory,52,"O , PM , CO
+3 2.5",4,2020-05-05
+Chennai,Satisfactory,51,"O , CO
+3",4,2020-05-06
+Chennai,Satisfactory,51,"O , CO
+3",4,2020-05-07
+Chennai,Satisfactory,51,"O , CO
+3",4,2020-05-08
+Chennai,Good,48,"O , CO
+3",4,2020-05-09
+Chennai,Satisfactory,54,"O , CO
+3",4,2020-05-10
+Chennai,Good,45,"O , CO
+3",4,2020-05-11
+Chennai,Good,48,"O , CO
+3",4,2020-05-12
+Chennai,Good,50,"O , PM , CO
+3 2.5",4,2020-05-13
+Chennai,Good,50,"O , CO
+3",4,2020-05-14
+Chennai,Satisfactory,52,"O , PM , CO
+3 2.5",4,2020-05-15
+Chennai,Satisfactory,65,"PM , O , CO
+2.5 3",4,2020-05-16
+Chennai,Satisfactory,51,"O , CO, PM
+3 2.5",4,2020-05-17
+Chennai,Satisfactory,61,"CO, O
+3",4,2020-05-18
+Chennai,Satisfactory,63,"O , PM , CO
+3 2.5",4,2020-05-19
+Chennai,Satisfactory,64,"PM , O
+2.5 3",4,2020-05-20
+Chennai,Satisfactory,65,"CO, O
+3",4,2020-05-21
+Chennai,Satisfactory,81,"PM , O
+2.5 3",3,2020-05-22
+Chennai,Satisfactory,64,"O , PM
+3 2.5",4,2020-05-23
+Chennai,Satisfactory,67,"CO, O , PM
+3 2.5",4,2020-05-24
+Chennai,Satisfactory,62,"O , PM
+3 2.5",4,2020-05-25
+Chennai,Satisfactory,67,"PM , O , CO
+2.5 3",4,2020-05-26
+Chennai,Satisfactory,58,"CO, O
+3",4,2020-05-27
+Chennai,Satisfactory,62,"PM , O , CO
+2.5 3",4,2020-05-28
+Chennai,Satisfactory,97,"PM , O
+2.5 3",4,2020-05-29
+Chennai,Satisfactory,86,"PM , O
+2.5 3",4,2020-05-30
+Chennai,Satisfactory,68,"PM , O
+2.5 3",4,2020-05-31
+Chennai,Satisfactory,92,"PM , CO, O
+2.5 3",4,2020-06-01
+Chennai,Satisfactory,77,"O , CO
+3",4,2020-06-02
+Chennai,Satisfactory,66,"CO, O
+3",3,2020-06-03
+Chennai,Satisfactory,67,"CO, O
+3",3,2020-06-04
+Chennai,Satisfactory,69,"CO, O
+3",4,2020-06-05
+Chennai,Satisfactory,71,"CO, O
+3",4,2020-06-06
+Chennai,Satisfactory,88,"PM , CO, PM
+10 2.5",4,2020-06-07
+Chennai,Satisfactory,68,"CO, PM , PM
+10 2.5",4,2020-06-08
+Chennai,Satisfactory,70,"CO, O
+3",4,2020-06-09
+Chennai,Satisfactory,70,"PM , O , CO
+2.5 3",3,2020-06-10
+Chennai,Satisfactory,78,"CO, O
+3",3,2020-06-11
+Chennai,Moderate,112,"PM , CO, O
+2.5 3",4,2020-06-12
+Chennai,Satisfactory,60,"O , CO
+3",4,2020-06-13
+Chennai,Satisfactory,61,"O , CO
+3",4,2020-06-14
+Chennai,Satisfactory,61,"CO, O
+3",4,2020-06-15
+Chennai,Satisfactory,72,"CO, O
+3",4,2020-06-16
+Chennai,Satisfactory,84,"PM , O
+2.5 3",4,2020-06-17
+Chennai,Satisfactory,80,"O
+3",2,2020-06-18
+Chennai,Moderate,104,"O , PM , CO
+3 2.5",4,2020-06-19
+Chennai,Moderate,110,"O , CO
+3",4,2020-06-20
+Chennai,Satisfactory,88,"O , CO
+3",4,2020-06-21
+Chennai,Satisfactory,100,"O , CO
+3",4,2020-06-22
+Chennai,Satisfactory,82,"O , CO
+3",4,2020-06-23
+Chennai,Moderate,110,"O , CO
+3",4,2020-06-24
+Chennai,Satisfactory,88,"O , CO
+3",4,2020-06-25
+Chennai,Satisfactory,84,"CO, O
+3",4,2020-06-26
+Chennai,Satisfactory,82,"CO, O
+3",4,2020-06-27
+Chennai,Satisfactory,70,"O , CO
+3",3,2020-06-28
+Chennai,Satisfactory,93,"O , PM , CO
+3 2.5",4,2020-06-29
+Chennai,Satisfactory,92,"O , CO
+3",4,2020-06-30
+Chennai,Satisfactory,75,"CO, O
+3",4,2020-07-01
+Chennai,Satisfactory,76,"CO, O
+3",3,2020-07-02
+Chennai,Moderate,132,"O , CO
+3",3,2020-07-03
+Chennai,Moderate,117,"O , CO
+3",4,2020-07-04
+Chennai,Satisfactory,85,"CO, O
+3",3,2020-07-05
+Chennai,Moderate,109,"O , CO
+3",3,2020-07-06
+Chennai,Satisfactory,76,"O , CO, PM
+3 10",4,2020-07-07
+Chennai,Satisfactory,60,"CO, O
+3",3,2020-07-08
+Chennai,Satisfactory,60,"O , CO
+3",4,2020-07-09
+Chennai,Satisfactory,64,CO,3,2020-07-10
+Chennai,Satisfactory,61,"CO, O
+3",3,2020-07-11
+Chennai,Satisfactory,65,"CO, O
+3",3,2020-07-12
+Chennai,Satisfactory,56,"CO, O
+3",4,2020-07-13
+Chennai,Satisfactory,71,"PM , CO, O
+2.5 3",3,2020-07-14
+Chennai,Satisfactory,71,"PM , O , CO
+2.5 3",4,2020-07-15
+Chennai,Satisfactory,61,"PM , CO
+2.5",3,2020-07-16
+Chennai,Satisfactory,80,"CO, O , PM
+3 2.5",4,2020-07-17
+Chennai,Satisfactory,66,"CO, O
+3",4,2020-07-18
+Chennai,Satisfactory,63,"CO, O , PM
+3 2.5",4,2020-07-19
+Chennai,Satisfactory,67,"CO, PM , O
+2.5 3",4,2020-07-20
+Chennai,Satisfactory,65,"PM , O , CO
+2.5 3",4,2020-07-21
+Chennai,Satisfactory,66,"CO, O , PM
+3 2.5",4,2020-07-22
+Chennai,Satisfactory,68,"CO, PM , O
+2.5 3",4,2020-07-23
+Chennai,Satisfactory,77,"CO, PM , O
+2.5 3",4,2020-07-24
+Chennai,Moderate,105,"PM , O
+2.5 3",4,2020-07-25
+Chennai,Satisfactory,98,"PM , O , CO
+2.5 3",4,2020-07-26
+Chennai,Moderate,102,"PM , O , CO
+2.5 3",4,2020-07-27
+Chennai,Satisfactory,75,"PM , O
+2.5 3",4,2020-07-28
+Chennai,Satisfactory,68,CO,3,2020-07-29
+Chennai,Satisfactory,76,"CO, PM , O
+10 3",4,2020-07-30
+Chennai,Satisfactory,63,"CO, O , PM
+3 2.5",4,2020-07-31
+Chennai,Satisfactory,61,"CO, O
+3",4,2020-08-01
+Chennai,Satisfactory,58,"CO, O
+3",4,2020-08-02
+Chennai,Satisfactory,55,"CO, O
+3",4,2020-08-03
+Chennai,Satisfactory,76,"PM , CO, O
+2.5 3",4,2020-08-04
+Chennai,Good,48,"PM , O , CO
+2.5 3",4,2020-08-05
+Chennai,Satisfactory,54,"CO, PM
+2.5",3,2020-08-06
+Chennai,Satisfactory,71,"CO, O
+3",3,2020-08-07
+Chennai,Satisfactory,70,"CO, O , PM
+3 2.5",3,2020-08-08
+Chennai,Satisfactory,56,"CO, O , PM
+3 2.5",4,2020-08-09
+Chennai,Satisfactory,59,"CO, O , PM
+3 2.5",4,2020-08-10
+Chennai,Satisfactory,56,"PM , O
+2.5 3",4,2020-08-11
+Chennai,Satisfactory,65,"PM , O
+2.5 3",4,2020-08-12
+Chennai,Satisfactory,65,"PM , O
+2.5 3",4,2020-08-13
+Chennai,Satisfactory,57,"PM , O
+2.5 3",4,2020-08-14
+Chennai,Satisfactory,52,"CO, O , PM
+3 2.5",4,2020-08-15
+Chennai,Satisfactory,61,"PM , O
+2.5 3",4,2020-08-16
+Chennai,Satisfactory,54,"PM , O
+2.5 3",4,2020-08-17
+Chennai,Satisfactory,60,"PM , CO, PM
+10 2.5",4,2020-08-18
+Chennai,Satisfactory,59,"O , PM
+3 2.5",4,2020-08-19
+Chennai,Satisfactory,56,"PM , O
+2.5 3",4,2020-08-20
+Chennai,Satisfactory,65,"PM , CO, O
+10 3",4,2020-08-21
+Chennai,Satisfactory,62,"CO, O , PM
+3 2.5",4,2020-08-22
+Chennai,Satisfactory,68,"CO, O , PM
+3 2.5",4,2020-08-23
+Chennai,Satisfactory,61,"CO, O , PM
+3 2.5",4,2020-08-24
+Chennai,Satisfactory,59,"CO, O , PM
+3 2.5",4,2020-08-25
+Chennai,Satisfactory,74,"PM , NO , O
+2.5 2 3",4,2020-08-26
+Chennai,Satisfactory,62,"O
+3",2,2020-08-27
+Chennai,Satisfactory,62,"PM , O
+2.5 3",4,2020-08-28
+Chennai,Satisfactory,64,"PM , O
+2.5 3",4,2020-08-29
+Chennai,Satisfactory,68,"CO, O , PM
+3 2.5",4,2020-08-30
+Chennai,Satisfactory,58,"CO, O , PM
+3 2.5",4,2020-08-31
+Chennai,Satisfactory,69,"CO, O , PM
+3 2.5",3,2020-09-01
+Chennai,Satisfactory,73,"PM , O
+2.5 3",4,2020-09-02
+Chennai,Satisfactory,71,"PM
+2.5",3,2020-09-03
+Chennai,Satisfactory,62,"PM , O
+2.5 3",4,2020-09-04
+Chennai,Satisfactory,58,"PM
+2.5",3,2020-09-05
+Chennai,Satisfactory,66,"O , CO, PM
+3 2.5",3,2020-09-06
+Chennai,Satisfactory,62,"PM , O , CO
+2.5 3",4,2020-09-07
+Chennai,Satisfactory,52,"O , CO, PM
+3 2.5",4,2020-09-08
+Chennai,Satisfactory,85,"PM , O , CO
+2.5 3",4,2020-09-09
+Chennai,Good,50,"O , PM
+3 2.5",4,2020-09-10
+Chennai,Satisfactory,73,"PM , O
+2.5 3",4,2020-09-11
+Chennai,Satisfactory,64,"PM , O
+2.5 3",4,2020-09-12
+Chennai,Satisfactory,52,"O , CO, PM
+3 2.5",4,2020-09-13
+Chennai,Good,44,"O , PM
+3 2.5",4,2020-09-14
+Chennai,Good,48,"O , PM
+3 2.5",4,2020-09-15
+Chennai,Satisfactory,58,"PM , O
+2.5 3",4,2020-09-16
+Chennai,Satisfactory,57,"PM , O
+2.5 3",4,2020-09-17
+Chennai,Satisfactory,70,"PM , O
+2.5 3",4,2020-09-18
+Chennai,Satisfactory,60,"O , PM
+3 2.5",3,2020-09-19
+Chennai,Satisfactory,63,"PM , O
+2.5 3",3,2020-09-20
+Chennai,Satisfactory,62,"PM , O
+2.5 3",4,2020-09-21
+Chennai,Satisfactory,69,"PM , O
+2.5 3",4,2020-09-22
+Chennai,Satisfactory,67,"PM , O
+2.5 3",4,2020-09-23
+Chennai,Satisfactory,70,"PM
+2.5",3,2020-09-24
+Chennai,Satisfactory,65,"PM , O
+2.5 3",4,2020-09-25
+Chennai,Satisfactory,62,"O , PM
+3 2.5",4,2020-09-26
+Chennai,Satisfactory,58,"PM , O
+2.5 3",4,2020-09-27
+Chennai,Satisfactory,59,"PM , O
+2.5 3",4,2020-09-28
+Chennai,Moderate,108,"PM , O
+2.5 3",4,2020-09-29
+Chennai,Good,50,"PM , O
+2.5 3",4,2020-09-30
+Chennai,Good,50,"PM , O
+2.5 3",4,2020-10-01
+Chennai,Good,50,"PM , PM , O
+10 2.5 3",3,2020-10-02
+Chennai,Good,46,"PM , PM , SO
+10 2.5 2",4,2020-10-03
+Chennai,Good,47,"PM , PM
+10 2.5",3,2020-10-04
+Chennai,Good,45,"PM , O , PM
+2.5 3 10",3,2020-10-05
+Chennai,Satisfactory,66,"PM , PM , O
+2.5 10 3",4,2020-10-06
+Chennai,Satisfactory,58,"PM , O , PM
+2.5 3 10",4,2020-10-07
+Chennai,Satisfactory,56,"PM , PM
+2.5 10",4,2020-10-08
+Chennai,Satisfactory,64,"CO, PM , O
+10 3",3,2020-10-09
+Chennai,Satisfactory,55,"PM , PM
+10 2.5",4,2020-10-10
+Chennai,Satisfactory,55,"CO, PM , PM
+2.5 10",3,2020-10-11
+Chennai,Satisfactory,55,"CO, O
+3",3,2020-10-12
+Chennai,Good,47,"CO, PM , PM
+2.5 10",4,2020-10-13
+Chennai,Satisfactory,52,"CO, O , PM
+3 10",4,2020-10-14
+Chennai,Satisfactory,54,"PM , O , PM
+10 3 2.5",4,2020-10-15
+Chennai,Satisfactory,62,"CO, O , PM
+3 2.5",4,2020-10-16
+Chennai,Satisfactory,62,"PM
+2.5",3,2020-10-17
+Chennai,Satisfactory,62,"CO, PM
+2.5",4,2020-10-18
+Chennai,Satisfactory,62,"PM , PM , CO
+10 2.5",4,2020-10-19
+Chennai,Satisfactory,59,"PM
+2.5",4,2020-10-20
+Chennai,Satisfactory,51,"PM , PM
+2.5 10",4,2020-10-21
+Chennai,Satisfactory,69,"PM , PM
+2.5 10",4,2020-10-22
+Chennai,Satisfactory,62,"PM , PM
+2.5 10",4,2020-10-23
+Chennai,Satisfactory,65,"PM , PM
+2.5 10",4,2020-10-24
+Chennai,Satisfactory,80,"PM , O
+2.5 3",3,2020-10-25
+Chennai,Satisfactory,89,"PM
+2.5",3,2020-10-26
+Chennai,Moderate,109,"PM
+2.5",4,2020-10-27
+Chennai,Satisfactory,71,"PM , PM
+2.5 10",4,2020-10-28
+Chennai,Satisfactory,63,"PM , PM
+2.5 10",3,2020-10-29
+Chennai,Satisfactory,78,"PM , PM , O
+10 2.5 3",4,2020-10-30
+Chennai,Moderate,118,"PM
+2.5",3,2020-10-31
+Chennai,Moderate,117,"PM , O
+2.5 3",3,2020-11-01
+Chennai,Satisfactory,87,"PM , O
+2.5 3",3,2020-11-02
+Chennai,Moderate,148,"PM
+2.5",3,2020-11-03
+Chennai,Satisfactory,90,"PM
+2.5",4,2020-11-04
+Chennai,Satisfactory,59,"PM
+2.5",3,2020-11-05
+Chennai,Good,48,"PM , CO, PM
+2.5 10",4,2020-11-06
+Chennai,Satisfactory,55,"PM , O , CO
+2.5 3",4,2020-11-07
+Chennai,Satisfactory,85,"PM
+2.5",4,2020-11-08
+Chennai,Moderate,113,"PM , PM , O
+2.5 10 3",5,2020-11-09
+Chennai,Moderate,116,"PM , PM , O
+2.5 10 3",6,2020-11-10
+Chennai,Moderate,103,"PM , O
+2.5 3",6,2020-11-11
+Chennai,Satisfactory,69,"NO , PM
+2 2.5",5,2020-11-12
+Chennai,Good,50,"PM , NO
+2.5 2",5,2020-11-13
+Chennai,Satisfactory,57,"PM , CO, PM
+2.5 10",7,2020-11-14
+Chennai,Satisfactory,98,"PM , CO
+2.5",7,2020-11-15
+Chennai,Good,40,"O , SO , PM
+3 2 2.5",7,2020-11-16
+Chennai,Good,43,"PM , NO , O
+2.5 2 3",7,2020-11-17
+Chennai,Satisfactory,52,"PM , O
+2.5 3",7,2020-11-18
+Chennai,Good,38,"PM , O , CO
+2.5 3",7,2020-11-19
+Chennai,Satisfactory,53,"PM , O , PM
+2.5 3 10",6,2020-11-20
+Chennai,Satisfactory,66,"PM , PM , O
+2.5 10 3",7,2020-11-21
+Chennai,Satisfactory,71,"PM , PM , O
+2.5 10 3",6,2020-11-22
+Chennai,Satisfactory,76,"PM , O , PM
+2.5 3 10",6,2020-11-23
+Chennai,Satisfactory,86,"O , PM
+3 2.5",6,2020-11-24
+Chennai,Good,47,"O , PM
+3 2.5",4,2020-11-25
+Chennai,Satisfactory,84,"O
+3",2,2020-11-26
+Chennai,Satisfactory,60,"O , CO
+3",3,2020-11-27
+Chennai,Satisfactory,60,"NO , PM
+2 2.5",3,2020-11-28
+Chennai,Satisfactory,67,"O , CO, PM
+3 10",6,2020-11-29
+Chennai,Satisfactory,71,"O , PM , CO
+3 2.5",5,2020-11-30
+Chennai,Satisfactory,60,"PM , O , PM
+10 3 2.5",7,2020-12-01
+Chennai,Satisfactory,66,"PM , CO, PM
+10 2.5",7,2020-12-02
+Chennai,Good,42,"PM , PM , CO
+10 2.5",6,2020-12-03
+Chennai,Good,30,"PM , CO, O
+10 3",5,2020-12-04
+Chennai,Good,32,"PM , CO, NO
+10 2",5,2020-12-05
+Chennai,Good,28,"CO, O , NO
+3 2",5,2020-12-06
+Chennai,Good,30,"PM , CO, NO
+2.5 2",5,2020-12-07
+Chennai,Good,36,"PM , O , CO
+2.5 3",5,2020-12-08
+Chennai,Good,50,"PM , PM
+2.5 10",7,2020-12-09
+Chennai,Satisfactory,69,"PM , PM
+10 2.5",7,2020-12-10
+Chennai,Satisfactory,94,"PM , PM
+2.5 10",7,2020-12-11
+Chennai,Moderate,105,"PM , PM
+2.5 10",6,2020-12-12
+Chennai,Moderate,130,"PM
+2.5",5,2020-12-13
+Chennai,Satisfactory,73,"PM , PM
+10 2.5",4,2020-12-14
+Chennai,Satisfactory,87,"PM , PM
+10 2.5",5,2020-12-15
+Chennai,Satisfactory,69,"PM , PM
+10 2.5",6,2020-12-16
+Chennai,Satisfactory,59,"PM , PM
+2.5 10",5,2020-12-17
+Chennai,Satisfactory,64,"PM , PM
+2.5 10",6,2020-12-18
+Chennai,Satisfactory,90,"PM , PM
+2.5 10",6,2020-12-19
+Chennai,Satisfactory,94,"PM , PM
+2.5 10",4,2020-12-20
+Chennai,Satisfactory,89,"PM , PM
+2.5 10",4,2020-12-21
+Chennai,Satisfactory,99,"PM , PM
+2.5 10",7,2020-12-22
+Chennai,Moderate,110,"PM , PM
+2.5 10",7,2020-12-23
+Chennai,Moderate,105,"PM , PM
+10 2.5",6,2020-12-24
+Chennai,Moderate,107,"PM , PM
+2.5 10",6,2020-12-25
+Chennai,Satisfactory,93,"PM , PM
+2.5 10",7,2020-12-26
+Chennai,Satisfactory,95,"PM , PM
+2.5 10",6,2020-12-27
+Chennai,Moderate,108,"PM
+2.5",6,2020-12-28
+Chennai,Moderate,114,"PM , PM
+2.5 10",6,2020-12-29
+Chennai,Satisfactory,74,"PM , PM
+2.5 10",6,2020-12-30
+Chennai,Satisfactory,65,"PM , PM
+10 2.5",8,2020-12-31
+Chennai,Satisfactory,85,"PM , PM
+2.5 10",8,2021-01-01
+Chennai,Satisfactory,74,"CO, PM , PM
+10 2.5",8,2021-01-02
+Chennai,Satisfactory,63,"PM , PM
+10 2.5",8,2021-01-03
+Chennai,Satisfactory,64,"PM , CO, PM
+2.5 10",8,2021-01-04
+Chennai,Good,43,"PM , PM , CO
+10 2.5",8,2021-01-05
+Chennai,Good,38,"PM , PM , CO
+2.5 10",7,2021-01-06
+Chennai,Good,44,"PM , NO , CO
+2.5 2",8,2021-01-07
+Chennai,Good,41,"PM , O , CO
+2.5 3",7,2021-01-08
+Chennai,Satisfactory,86,"PM , PM
+2.5 10",8,2021-01-09
+Chennai,Satisfactory,94,"PM , CO, PM
+2.5 10",7,2021-01-10
+Chennai,Satisfactory,92,"PM , CO, PM
+2.5 10",7,2021-01-11
+Chennai,Satisfactory,74,"CO, PM , PM
+10 2.5",7,2021-01-12
+Chennai,Moderate,122,"PM , PM
+2.5 10",7,2021-01-13
+Chennai,Satisfactory,85,"PM , PM , CO
+2.5 10",6,2021-01-14
+Chennai,Satisfactory,96,"PM , PM , CO
+2.5 10",6,2021-01-15
+Chennai,Satisfactory,85,"PM , PM , CO
+2.5 10",5,2021-01-16
+Chennai,Satisfactory,63,"PM , PM , CO
+2.5 10",5,2021-01-17
+Chennai,Satisfactory,58,"PM , PM , CO
+10 2.5",5,2021-01-18
+Chennai,Satisfactory,85,"PM , PM
+2.5 10",7,2021-01-19
+Chennai,Moderate,102,"PM , PM
+2.5 10",7,2021-01-20
+Chennai,Moderate,104,"PM , PM
+2.5 10",7,2021-01-21
+Chennai,Satisfactory,58,"PM , CO, PM
+10 2.5",8,2021-01-22
+Chennai,Satisfactory,53,"CO, PM , PM
+10 2.5",8,2021-01-23
+Chennai,Satisfactory,75,"PM , CO, PM
+10 2.5",6,2021-01-24
+Chennai,Satisfactory,63,"PM , CO, PM
+10 2.5",6,2021-01-25
+Chennai,Satisfactory,70,"PM , PM
+10 2.5",8,2021-01-26
+Chennai,Satisfactory,91,"PM , PM
+2.5 10",8,2021-01-27
+Chennai,Moderate,145,"PM
+2.5",8,2021-01-28
+Chennai,Moderate,130,"PM
+2.5",7,2021-01-29
+Chennai,Moderate,116,"PM , PM
+2.5 10",7,2021-01-30
+Chennai,Satisfactory,78,"PM , PM , CO
+2.5 10",8,2021-01-31
+Chennai,Satisfactory,64,"PM , PM , CO
+10 2.5",8,2021-02-01
+Chennai,Satisfactory,88,"PM , PM
+2.5 10",8,2021-02-02
+Chennai,Satisfactory,83,"PM , PM
+10 2.5",7,2021-02-03
+Chennai,Satisfactory,84,"PM , PM
+2.5 10",7,2021-02-04
+Chennai,Moderate,104,"PM , PM
+10 2.5",8,2021-02-05
+Chennai,Moderate,109,"PM , PM
+2.5 10",8,2021-02-06
+Chennai,Moderate,110,"PM , PM
+2.5 10",7,2021-02-07
+Chennai,Satisfactory,74,"PM , PM , CO
+10 2.5",7,2021-02-08
+Chennai,Satisfactory,86,"PM , PM
+2.5 10",8,2021-02-09
+Chennai,Satisfactory,96,"PM , PM
+2.5 10",8,2021-02-10
+Chennai,Satisfactory,95,"PM , PM
+2.5 10",7,2021-02-11
+Chennai,Satisfactory,72,"PM , PM
+2.5 10",8,2021-02-12
+Chennai,Satisfactory,80,"PM , PM
+10 2.5",7,2021-02-13
+Chennai,Satisfactory,65,"PM , PM
+10 2.5",8,2021-02-14
+Chennai,Satisfactory,67,"PM , PM
+10 2.5",8,2021-02-15
+Chennai,Satisfactory,69,"PM , PM
+10 2.5",8,2021-02-16
+Chennai,Satisfactory,86,"PM
+2.5",8,2021-02-17
+Chennai,Satisfactory,81,"PM , PM
+2.5 10",8,2021-02-18
+Chennai,Satisfactory,83,"PM , PM
+2.5 10",7,2021-02-19
+Chennai,Satisfactory,88,"O , PM , PM
+3 2.5 10",6,2021-02-20
+Chennai,Good,38,"CO, O , PM
+3 2.5",7,2021-02-21
+Chennai,Good,46,"PM , CO, PM
+10 2.5",7,2021-02-22
+Chennai,Satisfactory,72,"PM , PM
+10 2.5",8,2021-02-23
+Chennai,Satisfactory,89,"PM , PM
+10 2.5",6,2021-02-24
+Chennai,Satisfactory,78,"PM
+2.5",6,2021-02-25
+Chennai,Satisfactory,67,"PM , PM
+10 2.5",6,2021-02-26
+Chennai,Satisfactory,63,"PM , PM
+10 2.5",6,2021-02-27
+Chennai,Good,46,"PM , O , CO
+10 3",5,2021-02-28
+Chennai,Good,42,"PM , PM
+10 2.5",5,2021-03-01
+Chennai,Satisfactory,78,"O , PM , PM
+3 2.5 10",6,2021-03-02
+Chennai,Satisfactory,83,"PM , PM
+10 2.5",6,2021-03-03
+Chennai,Satisfactory,72,"PM , O , PM
+10 3 2.5",6,2021-03-04
+Chennai,Satisfactory,73,"PM , PM
+2.5 10",7,2021-03-05
+Chennai,Satisfactory,67,"PM , PM
+10 2.5",7,2021-03-06
+Chennai,Satisfactory,64,"O , PM , PM
+3 10 2.5",6,2021-03-07
+Chennai,Good,49,"PM , O , PM
+10 3 2.5",7,2021-03-08
+Chennai,Satisfactory,76,"O , PM , SO
+3 2.5 2",7,2021-03-09
+Chennai,Good,50,"O , CO, SO
+3 2",6,2021-03-10
+Chennai,Good,42,"O , CO, PM
+3 10",7,2021-03-11
+Chennai,Good,43,"PM , O , PM
+2.5 3 10",7,2021-03-12
+Chennai,Satisfactory,54,"PM , PM , CO
+2.5 10",7,2021-03-13
+Chennai,Satisfactory,53,"PM , O , PM
+2.5 3 10",8,2021-03-14
+Chennai,Satisfactory,56,"PM , PM , O
+2.5 10 3",8,2021-03-15
+Chennai,Satisfactory,53,"PM , PM , SO
+10 2.5 2",8,2021-03-16
+Chennai,Good,48,"O , CO, PM
+3 10",7,2021-03-17
+Chennai,Satisfactory,61,"PM , PM
+2.5 10",7,2021-03-18
+Chennai,Satisfactory,82,"PM , PM
+2.5 10",6,2021-03-19
+Chennai,Satisfactory,98,"PM , CO
+10",6,2021-03-20
+Chennai,Satisfactory,70,"PM , PM , CO
+10 2.5",6,2021-03-21
+Chennai,Satisfactory,66,"PM , CO, O
+10 3",7,2021-03-22
+Chennai,Satisfactory,93,"PM , PM
+10 2.5",6,2021-03-23
+Chennai,Moderate,108,"PM , PM
+10 2.5",7,2021-03-24
+Chennai,Moderate,120,"PM , PM
+2.5 10",6,2021-03-25
+Chennai,Satisfactory,98,"PM , PM
+2.5 10",6,2021-03-26
+Chennai,Satisfactory,73,"PM , PM
+10 2.5",6,2021-03-27
+Chennai,Satisfactory,58,"PM , CO, PM
+10 2.5",4,2021-03-28
+Chennai,Good,45,"CO, O , PM
+3 10",4,2021-03-29
+Chennai,Satisfactory,54,"CO, O , PM
+3 10",6,2021-03-30
+Chennai,Satisfactory,57,"CO, PM , O
+10 3",6,2021-03-31
+Chennai,Satisfactory,57,"CO, PM , O
+10 3",7,2021-04-01
+Chennai,Satisfactory,71,"PM , PM , CO
+10 2.5",6,2021-04-02
+Chennai,Satisfactory,83,"PM , CO, PM
+10 2.5",7,2021-04-03
+Chennai,Satisfactory,64,"PM , PM , CO
+10 2.5",7,2021-04-04
+Chennai,Satisfactory,66,"CO, O , PM
+3 10",6,2021-04-05
+Chennai,Satisfactory,68,"O , CO, PM
+3 10",6,2021-04-06
+Chennai,Satisfactory,63,"PM , O
+10 3",5,2021-04-07
+Chennai,Satisfactory,82,"PM , O , CO
+10 3",6,2021-04-08
+Chennai,Satisfactory,67,"PM , O , PM
+10 3 2.5",6,2021-04-09
+Chennai,Satisfactory,66,"PM , PM , O
+10 2.5 3",7,2021-04-10
+Chennai,Satisfactory,67,"O , PM , PM
+3 10 2.5",6,2021-04-11
+Chennai,Satisfactory,53,"O , CO, PM
+3 10",5,2021-04-12
+Chennai,Satisfactory,55,"O , CO, PM
+3 10",6,2021-04-13
+Chennai,Satisfactory,60,"O , CO, PM
+3 10",4,2021-04-14
+Chennai,Good,46,"O , CO
+3",4,2021-04-15
+Chennai,Satisfactory,51,"O , CO, PM
+3 10",7,2021-04-16
+Chennai,Satisfactory,54,"O , CO, PM
+3 10",7,2021-04-17
+Chennai,Good,43,"O , CO, PM
+3 10",7,2021-04-18
+Chennai,Satisfactory,51,"O , CO, PM
+3 10",7,2021-04-19
+Chennai,Satisfactory,54,"CO, O , PM
+3 10",6,2021-04-20
+Chennai,Satisfactory,52,"CO, O , PM
+3 10",7,2021-04-21
+Chennai,Good,49,"O , CO, PM
+3 10",6,2021-04-22
+Chennai,Good,48,"O , CO, PM
+3 10",6,2021-04-23
+Chennai,Good,42,"PM , SO , CO
+10 2",6,2021-04-24
+Chennai,Good,46,"CO, SO , PM
+2 10",6,2021-04-25
+Chennai,Good,46,"O , PM , CO
+3 10",4,2021-04-26
+Chennai,Satisfactory,64,"O , CO, PM
+3 10",7,2021-04-27
+Chennai,Satisfactory,64,"O , PM , CO
+3 10",7,2021-04-28
+Chennai,Satisfactory,64,"O , CO, PM
+3 10",7,2021-04-29
+Chennai,Satisfactory,53,"O , PM
+3 10",8,2021-04-30
+Chennai,Satisfactory,64,"PM , CO, SO
+10 2",8,2021-05-01
+Chennai,Good,48,"O , SO , CO
+3 2",8,2021-05-02
+Chennai,Good,46,"O , PM , CO
+3 10",8,2021-05-03
+Chennai,Satisfactory,51,"PM , O , SO
+10 3 2",8,2021-05-04
+Chennai,Good,42,"SO , PM , CO
+2 10",7,2021-05-05
+Chennai,Good,43,"CO, SO , PM
+2 10",7,2021-05-06
+Chennai,Satisfactory,65,"O , CO, PM
+3 10",8,2021-05-07
+Chennai,Satisfactory,51,"O , CO, SO
+3 2",8,2021-05-08
+Chennai,Satisfactory,56,"O , CO, SO
+3 2",8,2021-05-09
+Chennai,Good,41,"PM , SO , CO
+10 2",7,2021-05-10
+Chennai,Good,49,"PM , O , CO
+10 3",8,2021-05-11
+Chennai,Satisfactory,72,"PM , O , CO
+10 3",8,2021-05-12
+Chennai,Satisfactory,85,"PM , O , CO
+10 3",7,2021-05-13
+Chennai,Satisfactory,94,"PM , O , CO
+10 3",8,2021-05-14
+Chennai,Satisfactory,62,"PM , O , CO
+10 3",8,2021-05-15
+Chennai,Good,49,"CO, PM , O
+10 3",7,2021-05-16
+Chennai,Satisfactory,59,"PM , O , CO
+10 3",7,2021-05-17
+Chennai,Satisfactory,70,"PM , O , CO
+10 3",8,2021-05-18
+Chennai,Satisfactory,62,"PM , O , CO
+10 3",8,2021-05-19
+Chennai,Satisfactory,53,"O , PM , CO
+3 10",7,2021-05-20
+Chennai,Satisfactory,59,"PM , O , CO
+10 3",7,2021-05-21
+Chennai,Satisfactory,71,"PM , CO, O
+10 3",7,2021-05-22
+Chennai,Moderate,103,"PM , CO, PM
+2.5 10",6,2021-05-23
+Chennai,Satisfactory,71,"CO, PM
+10",6,2021-05-24
+Chennai,Satisfactory,65,"PM
+10",5,2021-05-25
+Chennai,Satisfactory,56,"PM
+10",5,2021-05-26
+Chennai,Satisfactory,68,"SO , PM
+2 10",5,2021-05-27
+Chennai,Satisfactory,65,"SO , PM
+2 10",5,2021-05-28
+Chennai,Satisfactory,67,"SO , PM
+2 10",4,2021-05-29
+Chennai,Satisfactory,62,"SO , PM
+2 10",4,2021-05-30
+Chennai,Satisfactory,60,"SO , PM
+2 10",3,2021-05-31
+Chennai,Satisfactory,64,"SO , PM , CO
+2 10",4,2021-06-01
+Chennai,Satisfactory,64,"SO , PM , CO
+2 10",4,2021-06-02
+Chennai,Satisfactory,56,"PM , CO
+10",4,2021-06-03
+Chennai,Good,44,"PM , CO
+10",4,2021-06-04
+Chennai,Good,44,"PM , CO
+10",4,2021-06-05
+Chennai,Satisfactory,72,"CO, PM
+10",5,2021-06-06
+Chennai,Satisfactory,74,"CO, PM
+10",5,2021-06-07
+Chennai,Good,50,"PM , CO
+10",5,2021-06-08
+Chennai,Satisfactory,52,"PM , CO
+10",5,2021-06-09
+Chennai,Satisfactory,70,"CO, PM , O
+10 3",7,2021-06-10
+Chennai,Satisfactory,75,"CO, PM , O
+10 3",6,2021-06-11
+Chennai,Satisfactory,62,"PM , O
+10 3",6,2021-06-12
+Chennai,Good,46,"PM , O , CO
+10 3",6,2021-06-13
+Chennai,Good,47,"PM , CO
+10",6,2021-06-14
+Chennai,Good,50,"PM , CO, O
+10 3",8,2021-06-15
+Chennai,Satisfactory,65,"PM
+10",8,2021-06-16
+Chennai,Satisfactory,75,"PM
+10",8,2021-06-17
+Chennai,Satisfactory,86,"PM , PM
+10 2.5",8,2021-06-18
+Chennai,Satisfactory,90,"PM , PM
+10 2.5",8,2021-06-19
+Chennai,Satisfactory,81,"PM , PM , CO
+10 2.5",7,2021-06-20
+Chennai,Satisfactory,81,"SO , PM , PM
+2 10 2.5",7,2021-06-21
+Chennai,Satisfactory,70,"PM , SO , CO
+10 2",8,2021-06-22
+Chennai,Satisfactory,86,"PM , PM
+10 2.5",8,2021-06-23
+Chennai,Satisfactory,69,"PM , CO
+10",7,2021-06-24
+Chennai,Satisfactory,77,"PM , PM
+10 2.5",8,2021-06-25
+Chennai,Satisfactory,95,"PM
+10",7,2021-06-26
+Chennai,Satisfactory,56,"PM
+10",6,2021-06-27
+Chennai,Satisfactory,55,"PM , CO
+10",6,2021-06-28
+Chennai,Satisfactory,63,"PM , CO
+10",7,2021-06-29
+Chennai,Satisfactory,54,"CO, PM , O
+10 3",8,2021-06-30
+Chennai,Satisfactory,58,"CO, PM , O
+10 3",8,2021-07-01
+Chennai,Satisfactory,53,"PM
+10",6,2021-07-02
+Chennai,Good,43,"PM
+10",7,2021-07-03
+Chennai,Satisfactory,60,"O , PM , CO
+3 10",8,2021-07-04
+Chennai,Satisfactory,51,"PM , CO, SO
+10 2",8,2021-07-05
+Chennai,Good,47,"PM , SO
+10 2",8,2021-07-06
+Chennai,Satisfactory,55,"CO, PM , SO
+10 2",7,2021-07-07
+Chennai,Satisfactory,56,"PM , CO, O
+10 3",8,2021-07-08
+Chennai,Satisfactory,56,"CO, PM , O
+10 3",8,2021-07-09
+Chennai,Satisfactory,54,"CO, O , PM
+3 10",8,2021-07-10
+Chennai,Satisfactory,52,"CO, O , PM
+3 10",8,2021-07-11
+Chennai,Satisfactory,54,"O , CO, PM
+3 10",7,2021-07-12
+Chennai,Satisfactory,69,"PM , CO, O
+10 3",6,2021-07-13
+Chennai,Satisfactory,68,"CO, PM
+10",6,2021-07-14
+Chennai,Good,41,"PM , CO
+10",6,2021-07-15
+Chennai,Good,48,"PM , CO
+10",7,2021-07-16
+Chennai,Good,50,"CO, PM , O
+10 3",7,2021-07-17
+Chennai,Satisfactory,57,"CO, PM , O
+10 3",6,2021-07-18
+Chennai,Good,50,"CO, PM , O
+10 3",6,2021-07-19
+Chennai,Satisfactory,56,"O , CO, PM
+3 10",7,2021-07-20
+Chennai,Satisfactory,58,"CO, PM
+10",7,2021-07-21
+Chennai,Satisfactory,64,"CO, PM
+10",7,2021-07-22
+Chennai,Satisfactory,59,"CO, PM
+10",7,2021-07-23
+Chennai,Satisfactory,59,"PM
+10",7,2021-07-24
+Chennai,Satisfactory,69,"CO, O , PM
+3 10",7,2021-07-25
+Chennai,Satisfactory,53,"CO, O , PM
+3 10",7,2021-07-26
+Chennai,Satisfactory,60,"CO, PM
+10",6,2021-07-27
+Chennai,Satisfactory,65,"CO, PM
+10",5,2021-07-28
+Chennai,Satisfactory,68,"CO, PM
+10",7,2021-07-29
+Chennai,Satisfactory,71,"CO, PM
+10",6,2021-07-30
+Chennai,Satisfactory,70,"PM
+10",7,2021-07-31
+Chennai,Satisfactory,52,"PM , CO
+10",7,2021-08-01
+Chennai,Satisfactory,55,"PM , CO
+10",7,2021-08-02
+Chennai,Satisfactory,59,"CO, PM
+10",7,2021-08-03
+Chennai,Satisfactory,53,"PM , CO
+10",7,2021-08-04
+Chennai,Satisfactory,67,"PM , CO
+10",7,2021-08-05
+Chennai,Satisfactory,59,"CO, PM , O
+10 3",6,2021-08-06
+Chennai,Satisfactory,61,"PM , O , PM
+2.5 3 10",7,2021-08-07
+Chennai,Satisfactory,62,"O , CO, PM
+3 10",7,2021-08-08
+Chennai,Satisfactory,53,"PM , CO
+10",6,2021-08-09
+Chennai,Satisfactory,51,"CO, PM , O
+10 3",7,2021-08-10
+Chennai,Satisfactory,62,"CO, PM , O
+10 3",7,2021-08-11
+Chennai,Satisfactory,67,"PM , O , CO
+10 3",6,2021-08-12
+Chennai,Satisfactory,66,"PM
+10",7,2021-08-13
+Chennai,Satisfactory,65,"PM , PM
+10 2.5",7,2021-08-14
+Chennai,Satisfactory,68,"PM , PM
+10 2.5",6,2021-08-15
+Chennai,Satisfactory,74,"CO, PM , PM
+2.5 10",6,2021-08-16
+Chennai,Satisfactory,65,"CO, PM
+10",7,2021-08-17
+Chennai,Satisfactory,66,"CO, PM
+10",6,2021-08-18
+Chennai,Satisfactory,56,"CO, PM
+10",6,2021-08-19
+Chennai,Satisfactory,52,"PM , CO, O
+10 3",7,2021-08-20
+Chennai,Satisfactory,60,"CO, PM
+10",5,2021-08-21
+Chennai,Good,47,"PM , CO
+10",6,2021-08-22
+Chennai,Satisfactory,56,"PM , CO
+10",5,2021-08-23
+Chennai,Satisfactory,64,"CO, PM
+10",6,2021-08-24
+Chennai,Satisfactory,58,"CO, PM
+10",5,2021-08-25
+Chennai,Satisfactory,63,"CO, PM
+10",6,2021-08-26
+Chennai,Satisfactory,58,"CO, PM , O
+10 3",7,2021-08-27
+Chennai,Satisfactory,62,"O , CO, PM
+3 10",6,2021-08-28
+Chennai,Good,47,"CO, PM
+10",7,2021-08-29
+Chennai,Satisfactory,60,"CO, O , PM
+3 10",6,2021-08-30
+Chennai,Satisfactory,62,"SO , CO, PM
+2 10",7,2021-08-31
+Chennai,Satisfactory,71,"SO , CO, PM
+2 10",7,2021-09-01
+Chennai,Satisfactory,68,"CO, PM , PM
+2.5 10",7,2021-09-02
+Chennai,Satisfactory,63,"CO, PM
+10",7,2021-09-03
+Chennai,Satisfactory,59,"CO, PM , PM
+10 2.5",7,2021-09-04
+Chennai,Satisfactory,52,"CO, PM
+10",7,2021-09-05
+Chennai,Satisfactory,51,"CO, PM , O
+10 3",6,2021-09-06
+Chennai,Good,46,"CO, PM
+10",7,2021-09-07
+Chennai,Satisfactory,52,"PM , CO
+10",6,2021-09-08
+Chennai,Satisfactory,59,"PM
+10",7,2021-09-09
+Chennai,Satisfactory,58,"PM
+10",7,2021-09-10
+Chennai,Satisfactory,63,"PM , O , CO
+10 3",7,2021-09-11
+Chennai,Satisfactory,63,"O , PM
+3 10",7,2021-09-12
+Chennai,Satisfactory,52,"PM , CO
+10",7,2021-09-13
+Chennai,Satisfactory,58,"PM
+10",7,2021-09-14
+Chennai,Satisfactory,55,"PM , CO
+10",7,2021-09-15
+Chennai,Satisfactory,62,"CO, PM
+10",7,2021-09-16
+Chennai,Satisfactory,62,"PM
+10",6,2021-09-17
+Chennai,Satisfactory,61,"PM , PM , CO
+2.5 10",6,2021-09-18
+Chennai,Satisfactory,59,"PM
+10",7,2021-09-19
+Chennai,Good,48,"PM , O
+10 3",6,2021-09-20
+Chennai,Satisfactory,53,"CO, O , PM
+3 10",7,2021-09-21
+Chennai,Satisfactory,72,"O , CO, PM
+3 10",6,2021-09-22
+Chennai,Satisfactory,61,"CO, PM , O
+10 3",7,2021-09-23
+Chennai,Satisfactory,66,"PM , CO
+10",6,2021-09-24
+Chennai,Satisfactory,56,"PM , CO
+10",7,2021-09-25
+Chennai,Satisfactory,55,"CO, PM
+10",6,2021-09-26
+Chennai,Satisfactory,51,"CO, PM
+10",5,2021-09-27
+Chennai,Satisfactory,53,"PM
+10",5,2021-09-28
+Chennai,Satisfactory,79,"PM
+10",6,2021-09-29
+Chennai,Satisfactory,69,"CO, PM , PM
+10 2.5",7,2021-09-30
+Chennai,Good,50,"PM , CO
+10",5,2021-10-01
+Chennai,Good,41,"PM , CO, O
+10 3",6,2021-10-02
+Chennai,Good,33,"PM , CO, NO
+10 2",6,2021-10-03
+Chennai,Good,41,"PM , CO
+10",5,2021-10-04
+Chennai,Good,45,"CO, PM
+10",7,2021-10-05
+Chennai,Good,45,"PM , CO, O
+10 3",7,2021-10-06
+Chennai,Satisfactory,51,"PM , CO, PM
+10 2.5",7,2021-10-07
+Chennai,Satisfactory,55,"CO, PM
+10",6,2021-10-08
+Chennai,Satisfactory,59,"PM
+10",6,2021-10-09
+Chennai,Satisfactory,55,"PM , CO, PM
+10 2.5",6,2021-10-10
+Chennai,Satisfactory,62,"CO, PM , PM
+10 2.5",6,2021-10-11
+Chennai,Satisfactory,63,"CO, PM , PM
+10 2.5",7,2021-10-12
+Chennai,Satisfactory,67,"CO, PM , PM
+10 2.5",6,2021-10-13
+Chennai,Satisfactory,65,"O , PM , CO
+3 10",5,2021-10-14
+Chennai,Satisfactory,60,"PM , CO
+10",5,2021-10-15
+Chennai,Satisfactory,71,"PM , PM
+2.5 10",5,2021-10-16
+Chennai,Good,48,"PM , CO
+10",5,2021-10-17
+Chennai,Satisfactory,74,"CO, PM , PM
+10 2.5",5,2021-10-18
+Chennai,Satisfactory,78,"PM , CO, PM
+2.5 10",6,2021-10-19
+Chennai,Satisfactory,78,"PM , PM
+2.5 10",5,2021-10-20
+Chennai,Satisfactory,84,"PM , PM
+2.5 10",7,2021-10-21
+Chennai,Satisfactory,51,"PM , CO
+10",7,2021-10-22
+Chennai,Good,46,"PM , CO
+10",7,2021-10-23
+Chennai,Good,46,"PM , CO
+10",7,2021-10-24
+Chennai,Satisfactory,63,"PM , PM
+2.5 10",7,2021-10-25
+Chennai,Satisfactory,94,"PM
+10",7,2021-10-26
+Chennai,Moderate,118,"PM , PM
+2.5 10",7,2021-10-27
+Chennai,Moderate,118,"PM , PM
+2.5 10",7,2021-10-28
+Chennai,Satisfactory,91,"PM , PM
+2.5 10",6,2021-10-29
+Chennai,Satisfactory,56,"PM , CO
+10",7,2021-10-30
+Chennai,Good,50,"CO, PM
+10",8,2021-10-31
+Chennai,Good,48,"CO, PM
+10",8,2021-11-01
+Chennai,Good,41,"CO, PM
+2.5",8,2021-11-02
+Chennai,Good,48,"CO, O , PM
+3 2.5",8,2021-11-03
+Chennai,Satisfactory,89,"PM , PM
+2.5 10",7,2021-11-04
+Chennai,Moderate,150,"PM , PM
+10 2.5",8,2021-11-05
+Chennai,Satisfactory,52,"CO, PM , PM
+2.5 10",8,2021-11-06
+Chennai,Good,49,"CO, O , SO
+3 2",6,2021-11-07
+Chennai,Satisfactory,93,"PM , PM , CO
+2.5 10",5,2021-11-08
+Chennai,Satisfactory,92,"PM , PM
+2.5 10",7,2021-11-09
+Chennai,Satisfactory,90,"PM , PM , O
+2.5 10 3",7,2021-11-10
+Chennai,Satisfactory,60,"PM , O , PM
+2.5 3 10",3,2021-11-11
+Chennai,Satisfactory,64,CO,3,2021-11-12
+Chennai,Satisfactory,52,"CO, PM , PM
+2.5 10",7,2021-11-13
+Chennai,Satisfactory,58,"SO , CO, PM
+2 2.5",6,2021-11-14
+Chennai,Satisfactory,52,"CO, SO
+2",5,2021-11-15
+Chennai,Satisfactory,64,"PM , CO, SO
+10 2",6,2021-11-16
+Chennai,Good,37,"CO, PM
+10",6,2021-11-17
+Chennai,Good,40,"CO, PM , SO
+10 2",8,2021-11-18
+Chennai,Good,39,"CO, SO
+2",8,2021-11-19
+Chennai,Good,47,"PM , PM , CO
+10 2.5",8,2021-11-20
+Chennai,Good,45,"CO, O , PM
+3 2.5",7,2021-11-21
+Chennai,Satisfactory,56,"PM , CO
+10",5,2021-11-22
+Chennai,Good,48,"CO, O , PM
+3 10",8,2021-11-23
+Chennai,Satisfactory,55,"PM , O , CO
+10 3",8,2021-11-24
+Chennai,Satisfactory,56,"PM , PM , CO
+10 2.5",7,2021-11-25
+Chennai,Good,49,"PM , CO, PM
+10 2.5",7,2021-11-26
+Chennai,Good,36,"O , PM , CO
+3 2.5",8,2021-11-27
+Chennai,Good,36,"O , CO, SO
+3 2",8,2021-11-28
+Chennai,Good,40,"O , CO, PM
+3 2.5",8,2021-11-29
+Chennai,Good,47,"O , PM , CO
+3 2.5",6,2021-11-30
+Chennai,Satisfactory,59,"PM , CO, PM
+2.5 10",5,2021-12-01
+Chennai,Satisfactory,68,"PM , PM
+2.5 10",6,2021-12-02
+Chennai,Satisfactory,81,"PM , PM
+10 2.5",7,2021-12-03
+Chennai,Satisfactory,90,"PM , PM
+10 2.5",7,2021-12-04
+Chennai,Moderate,120,"PM , PM
+2.5 10",7,2021-12-05
+Chennai,Satisfactory,100,"PM , PM
+2.5 10",7,2021-12-06
+Chennai,Satisfactory,95,"PM , PM
+2.5 10",7,2021-12-07
+Chennai,Satisfactory,59,"PM , CO
+10",7,2021-12-08
+Chennai,Good,36,"O , PM , CO
+3 10",7,2021-12-09
+Chennai,Good,48,"CO, PM
+10",6,2021-12-10
+Chennai,Good,39,"CO, PM
+10",7,2021-12-11
+Chennai,Good,39,"PM , CO
+10",8,2021-12-12
+Chennai,Good,42,"PM , CO
+10",8,2021-12-13
+Chennai,Satisfactory,52,"PM , PM , CO
+10 2.5",7,2021-12-14
+Chennai,Satisfactory,70,"PM
+10",7,2021-12-15
+Chennai,Moderate,101,"PM , PM
+2.5 10",7,2021-12-16
+Chennai,Moderate,123,"PM , PM
+2.5 10",7,2021-12-17
+Chennai,Moderate,126,"PM , PM
+2.5 10",7,2021-12-18
+Chennai,Moderate,102,"PM , PM
+2.5 10",7,2021-12-19
+Chennai,Moderate,120,"PM , PM , O
+2.5 10 3",7,2021-12-20
+Chennai,Moderate,162,"PM , PM , O
+2.5 10 3",6,2021-12-21
+Chennai,Moderate,149,"PM , O , PM
+2.5 3 10",8,2021-12-22
+Chennai,Moderate,171,"PM , PM , O
+2.5 10 3",8,2021-12-23
+Chennai,Moderate,102,"PM , PM
+2.5 10",8,2021-12-24
+Chennai,Satisfactory,99,"PM , PM
+2.5 10",7,2021-12-25
+Chennai,Satisfactory,87,"PM , PM
+2.5 10",7,2021-12-26
+Chennai,Satisfactory,88,"PM , PM , O
+10 2.5 3",6,2021-12-27
+Chennai,Satisfactory,62,"PM
+10",8,2021-12-28
+Chennai,Satisfactory,73,"PM , PM
+10 2.5",8,2021-12-29
+Chennai,Satisfactory,65,"PM
+10",7,2021-12-30
+Chennai,Satisfactory,70,"CO, PM , PM
+10 2.5",6,2021-12-31
+Chennai,Satisfactory,60,"CO, PM , PM
+10 2.5",8,2022-01-01
+Chennai,Good,49,"CO, PM
+10",7,2022-01-02
+Chennai,Satisfactory,68,"CO, PM , PM
+2.5 10",7,2022-01-03
+Chennai,Satisfactory,77,"PM , PM
+2.5 10",8,2022-01-04
+Chennai,Satisfactory,78,"PM
+10",8,2022-01-05
+Chennai,Satisfactory,66,"PM
+10",8,2022-01-06
+Chennai,Satisfactory,61,"PM , SO , CO
+10 2",8,2022-01-07
+Chennai,Good,42,"SO , PM , CO
+2 10",7,2022-01-08
+Chennai,Good,50,"CO, PM
+10",7,2022-01-09
+Chennai,Good,48,"CO, PM , PM
+10 2.5",7,2022-01-10
+Chennai,Good,45,"CO, PM
+10",8,2022-01-11
+Chennai,Good,50,"CO, PM
+10",7,2022-01-12
+Chennai,Satisfactory,57,"PM , PM , CO
+10 2.5",7,2022-01-13
+Chennai,Good,39,"CO, PM
+10",8,2022-01-14
+Chennai,Good,37,"CO, O , PM
+3 10",8,2022-01-15
+Chennai,Good,41,"CO, PM , O
+10 3",7,2022-01-16
+Chennai,Good,49,"CO, PM
+10",8,2022-01-17
+Chennai,Satisfactory,56,"PM , CO, PM
+2.5 10",8,2022-01-18
+Chennai,Satisfactory,79,"PM , PM , CO
+2.5 10",8,2022-01-19
+Chennai,Satisfactory,92,"PM , PM
+2.5 10",8,2022-01-20
+Chennai,Satisfactory,90,"PM , PM
+2.5 10",8,2022-01-21
+Chennai,Satisfactory,78,"PM , PM
+2.5 10",8,2022-01-22
+Chennai,Satisfactory,69,"PM , PM
+2.5 10",7,2022-01-23
+Chennai,Satisfactory,55,"CO, PM , O
+10 3",7,2022-01-24
+Chennai,Satisfactory,70,"PM , CO
+10",7,2022-01-25
+Chennai,Good,44,"PM , CO
+10",6,2022-01-26
+Chennai,Good,50,"PM , O , CO
+10 3",7,2022-01-27
+Chennai,Satisfactory,68,"PM , O
+10 3",6,2022-01-28
+Chennai,Moderate,105,"PM , O
+10 3",6,2022-01-29
+Chennai,Moderate,105,"PM
+10",7,2022-01-30
+Chennai,Moderate,105,"PM , PM
+2.5 10",7,2022-01-31
+Chennai,Satisfactory,97,"PM , PM , O
+2.5 10 3",4,2022-02-01
+Chennai,Satisfactory,75,"PM , PM , CO
+10 2.5",7,2022-02-02
+Chennai,Satisfactory,63,"PM , O , CO
+10 3",7,2022-02-03
+Chennai,Satisfactory,58,"O , PM , CO
+3 10",8,2022-02-04
+Chennai,Satisfactory,62,"O , CO, PM
+3 10",8,2022-02-05
+Chennai,Satisfactory,59,"O , CO, PM
+3 10",8,2022-02-06
+Chennai,Satisfactory,67,"CO, PM
+10",8,2022-02-07
+Chennai,Satisfactory,83,"PM , CO
+10",8,2022-02-08
+Chennai,Satisfactory,68,"PM , O
+10 3",8,2022-02-09
+Chennai,Satisfactory,85,"PM , CO, O
+10 3",6,2022-02-10
+Chennai,Satisfactory,69,"PM , CO
+10",5,2022-02-11
+Chennai,Satisfactory,95,"O , PM
+3 10",5,2022-02-12
+Chennai,Moderate,110,"O , PM , CO
+3 10",5,2022-02-13
+Chennai,Moderate,114,"O , PM , PM
+3 10 2.5",5,2022-02-14
+Chennai,Satisfactory,98,"O , PM
+3 10",5,2022-02-15
+Chennai,Satisfactory,91,"O , PM
+3 10",5,2022-02-16
+Chennai,Satisfactory,100,"O , PM
+3 10",4,2022-02-17
+Chennai,Satisfactory,91,"O , PM
+3 10",5,2022-02-18
+Chennai,Satisfactory,68,"PM , CO, O
+10 3",5,2022-02-19
+Chennai,Moderate,112,"PM , O
+10 3",5,2022-02-20
+Chennai,Moderate,105,"O , PM , CO
+3 10",5,2022-02-21
+Chennai,Satisfactory,87,"O , PM , CO
+3 10",6,2022-02-22
+Chennai,Satisfactory,62,"O , CO, PM
+3 10",8,2022-02-23
+Chennai,Satisfactory,58,"PM , CO
+10",4,2022-02-24
+Chennai,Satisfactory,70,"PM
+10",7,2022-02-25
+Chennai,Satisfactory,68,"PM , PM
+2.5 10",8,2022-02-26
+Chennai,Satisfactory,71,"O , PM , CO
+3 10",6,2022-02-27
+Chennai,Satisfactory,62,"PM , CO
+10",7,2022-02-28
+Chennai,Satisfactory,68,"PM , CO
+10",8,2022-03-01
+Chennai,Satisfactory,84,"PM
+10",8,2022-03-02
+Chennai,Satisfactory,82,"PM , CO
+10",8,2022-03-03
+Chennai,Satisfactory,92,"PM
+10",8,2022-03-04
+Chennai,Satisfactory,72,"PM
+10",8,2022-03-05
+Chennai,Satisfactory,64,"PM , O
+10 3",8,2022-03-06
+Chennai,Satisfactory,60,"O , PM , CO
+3 10",7,2022-03-07
+Chennai,Satisfactory,82,"PM , PM
+10 2.5",8,2022-03-08
+Chennai,Satisfactory,96,"PM , PM
+10 2.5",8,2022-03-09
+Chennai,Satisfactory,86,"PM , PM
+10 2.5",7,2022-03-10
+Chennai,Satisfactory,80,"PM , O
+10 3",7,2022-03-11
+Chennai,Satisfactory,90,"PM
+10",8,2022-03-12
+Chennai,Satisfactory,89,"PM , PM
+2.5 10",8,2022-03-13
+Chennai,Satisfactory,97,"PM , O
+10 3",8,2022-03-14
+Chennai,Moderate,110,"O , PM , PM
+3 10 2.5",7,2022-03-15
+Chennai,Moderate,103,"PM , PM
+2.5 10",8,2022-03-16
+Chennai,Moderate,116,"O , PM , PM
+3 2.5 10",6,2022-03-17
+Chennai,Satisfactory,93,"O , PM , PM
+3 2.5 10",5,2022-03-18
+Chennai,Satisfactory,63,"CO, PM , PM
+2.5 10",5,2022-03-19
+Chennai,Satisfactory,96,"O , PM , PM
+3 10 2.5",5,2022-03-20
+Chennai,Satisfactory,94,"PM , O , PM
+10 3 2.5",5,2022-03-21
+Chennai,Moderate,102,"PM
+10",4,2022-03-22
+Chennai,Satisfactory,77,"PM , PM
+10 2.5",7,2022-03-23
+Chennai,Satisfactory,66,"PM
+10",8,2022-03-24
+Chennai,Satisfactory,60,"PM
+10",8,2022-03-25
+Chennai,Satisfactory,56,"PM
+10",8,2022-03-26
+Chennai,Satisfactory,55,"PM , CO
+10",8,2022-03-27
+Chennai,Good,47,"CO, PM
+10",8,2022-03-28
+Chennai,Good,44,"CO, PM
+10",8,2022-03-29
+Chennai,Good,45,"CO, PM
+10",8,2022-03-30
+Chennai,Good,45,"CO, O , PM
+3 10",6,2022-03-31
+Chennai,Good,45,"CO, PM , O
+10 3",8,2022-04-01
+Chennai,Good,42,"CO, PM , O
+10 3",8,2022-04-02
+Chennai,Good,44,"CO, O , PM
+3 10",7,2022-04-03
+Chennai,Good,41,"CO, PM
+10",7,2022-04-04
+Chennai,Good,34,"CO, PM
+10",7,2022-04-05
+Chennai,Good,44,"NO , CO, PM
+2 10",7,2022-04-06
+Chennai,Good,49,"PM , CO
+10",7,2022-04-07
+Chennai,Good,42,"PM , CO
+10",6,2022-04-08
+Chennai,Good,43,"CO, PM
+10",6,2022-04-09
+Chennai,Good,46,"PM , CO, O
+10 3",7,2022-04-10
+Chennai,Good,42,"PM , CO, O
+10 3",7,2022-04-11
+Chennai,Good,35,"CO, O , PM
+3 10",7,2022-04-12
+Chennai,Good,36,"CO, O , PM
+3 10",6,2022-04-13
+Chennai,Good,39,"CO, PM
+10",6,2022-04-14
+Chennai,Good,35,"CO, PM , O
+10 3",5,2022-04-15
+Chennai,Good,38,"CO, PM , O
+10 3",5,2022-04-16
+Chennai,Good,50,"PM , CO, NH
+2.5 3",7,2022-04-17
+Chennai,Good,47,"PM , CO, PM
+2.5 10",7,2022-04-18
+Chennai,Good,45,"SO , PM , CO
+2 10",7,2022-04-19
+Chennai,Good,40,"PM , CO
+10",6,2022-04-20
+Chennai,Good,39,"PM , CO
+10",7,2022-04-21
+Chennai,Good,44,"CO, NO , PM
+2 10",8,2022-04-22
+Chennai,Good,38,"CO, PM
+10",8,2022-04-23
+Chennai,Good,43,"CO, O , PM
+3 10",8,2022-04-24
+Chennai,Good,47,"CO, PM , NO
+2.5 2",6,2022-04-25
+Chennai,Satisfactory,52,"CO, PM , PM
+2.5 10",8,2022-04-26
+Chennai,Good,43,"CO, PM , PM
+2.5 10",7,2022-04-27
+Chennai,Good,45,"CO, PM , PM
+10 2.5",8,2022-04-28
+Chennai,Satisfactory,61,"O , PM , CO
+3 2.5",8,2022-04-29
+Chennai,Good,46,"O , PM , PM
+3 10 2.5",8,2022-04-30
+Chennai,Satisfactory,58,"CO, PM , PM
+2.5 10",8,2022-05-01
+Chennai,Satisfactory,89,"O , PM
+3 10",7,2022-05-02
+Chennai,Satisfactory,84,"O , PM
+3 10",7,2022-05-03
+Chennai,Satisfactory,58,"PM , PM , CO
+10 2.5",7,2022-05-04
+Chennai,Satisfactory,91,"O , PM , PM
+3 10 2.5",8,2022-05-05
+Chennai,Satisfactory,56,"PM , PM
+10 2.5",7,2022-05-06
+Chennai,Satisfactory,80,"PM
+10",6,2022-05-07
+Chennai,Satisfactory,78,"PM , PM
+2.5 10",6,2022-05-08
+Chennai,Satisfactory,94,"PM , PM
+10 2.5",4,2022-05-09
+Chennai,Satisfactory,81,"PM , CO
+10",7,2022-05-10
+Chennai,Satisfactory,71,"CO, PM , PM
+10 2.5",7,2022-05-11
+Chennai,Satisfactory,61,"CO, PM , PM
+10 2.5",7,2022-05-12
+Chennai,Satisfactory,61,"CO, O , PM
+3 2.5",5,2022-05-13
+Chennai,Satisfactory,69,"CO, PM , PM
+2.5 10",7,2022-05-14
+Chennai,Satisfactory,69,"CO, PM
+10",6,2022-05-15
+Chennai,Satisfactory,52,"CO, PM
+10",5,2022-05-16
+Chennai,Satisfactory,57,"PM
+10",4,2022-05-17
+Chennai,Satisfactory,57,"PM , CO
+10",5,2022-05-18
+Chennai,Satisfactory,57,"O , CO, PM
+3 10",6,2022-05-19
+Chennai,Satisfactory,71,"PM , CO
+10",7,2022-05-20
+Chennai,Satisfactory,79,"PM , PM
+10 2.5",8,2022-05-21
+Chennai,Satisfactory,85,"PM , PM
+10 2.5",8,2022-05-22
+Chennai,Satisfactory,56,"PM , O
+10 3",8,2022-05-23
+Chennai,Satisfactory,73,"O , PM , CO
+3 10",7,2022-05-24
+Chennai,Satisfactory,61,"PM , PM , O
+10 2.5 3",7,2022-05-25
+Chennai,Satisfactory,67,"PM , PM
+10 2.5",7,2022-05-26
+Chennai,Satisfactory,67,"PM , PM , CO
+10 2.5",7,2022-05-27
+Chennai,Satisfactory,72,"PM , PM , CO
+10 2.5",6,2022-05-28
+Chennai,Satisfactory,68,"PM , CO, PM
+10 2.5",5,2022-05-29
+Chennai,Satisfactory,58,"PM , CO, O
+10 3",5,2022-05-30
+Chennai,Satisfactory,68,"CO, PM , PM
+10 2.5",5,2022-05-31
+Chennai,Satisfactory,69,"PM , CO
+10",5,2022-06-01
+Chennai,Satisfactory,75,"PM , PM , CO
+10 2.5",6,2022-06-02
+Chennai,Satisfactory,75,"PM
+10",7,2022-06-03
+Chennai,Satisfactory,83,"O , PM
+3 10",8,2022-06-04
+Chennai,Satisfactory,71,"PM , O , CO
+10 3",8,2022-06-05
+Chennai,Satisfactory,62,"O , CO, PM
+3 10",7,2022-06-06
+Chennai,Satisfactory,62,"PM , CO
+10",6,2022-06-07
+Chennai,Satisfactory,68,"PM , CO, PM
+10 2.5",6,2022-06-08
+Chennai,Satisfactory,67,"PM , CO
+10",7,2022-06-09
+Chennai,Satisfactory,60,"PM , CO
+10",8,2022-06-10
+Chennai,Satisfactory,69,"SO , PM , CO
+2 10",8,2022-06-11
+Chennai,Satisfactory,65,"O , CO, PM
+3 2.5",8,2022-06-12
+Chennai,Satisfactory,64,"O , CO, PM
+3 10",5,2022-06-13
+Chennai,Satisfactory,54,"PM , PM , CO
+10 2.5",7,2022-06-14
+Chennai,Satisfactory,54,"PM , CO, PM
+10 2.5",8,2022-06-15
+Chennai,Satisfactory,56,"CO, O , PM
+3 10",7,2022-06-16
+Chennai,Satisfactory,54,"CO, PM , PM
+10 2.5",8,2022-06-17
+Chennai,Satisfactory,52,CO,8,2022-06-18
+Chennai,Satisfactory,63,"O , CO, PM
+3 10",8,2022-06-19
+Chennai,Satisfactory,58,CO,7,2022-06-20
+Chennai,Satisfactory,55,CO,7,2022-06-21
+Chennai,Satisfactory,59,"PM , CO
+10",7,2022-06-22
+Chennai,Satisfactory,63,"CO, PM
+10",8,2022-06-23
+Chennai,Satisfactory,64,"CO, PM , PM
+2.5 10",8,2022-06-24
+Chennai,Satisfactory,62,"CO, PM
+10",6,2022-06-25
+Chennai,Satisfactory,64,"CO, PM , PM
+10 2.5",8,2022-06-26
+Chennai,Satisfactory,66,"PM , CO, PM
+10 2.5",7,2022-06-27
+Chennai,Satisfactory,76,"CO, PM
+10",7,2022-06-28
+Chennai,Satisfactory,84,"O , CO, PM
+3 10",7,2022-06-29
+Chennai,Satisfactory,77,"O , CO, PM
+3 2.5",8,2022-06-30
+Chennai,Satisfactory,63,"O , CO, PM
+3 10",7,2022-07-01
+Chennai,Satisfactory,53,"CO, O , PM
+3 10",7,2022-07-02
+Chennai,Satisfactory,65,"CO, PM
+10",7,2022-07-03
+Chennai,Satisfactory,64,"O , CO, PM
+3 10",7,2022-07-04
+Chennai,Satisfactory,52,"CO, PM
+10",7,2022-07-05
+Chennai,Satisfactory,52,"CO, PM
+10",7,2022-07-06
+Chennai,Satisfactory,62,"CO, PM , PM
+2.5 10",6,2022-07-07
+Chennai,Satisfactory,65,"CO, PM , PM
+10 2.5",7,2022-07-08
+Chennai,Satisfactory,70,"PM , CO
+10",7,2022-07-09
+Chennai,Satisfactory,60,"CO, PM , PM
+2.5 10",8,2022-07-10
+Chennai,Good,50,"CO, SO , PM
+2 10",7,2022-07-11
+Chennai,Satisfactory,53,"PM , CO, PM
+10 2.5",7,2022-07-12
+Chennai,Satisfactory,55,"PM , CO, PM
+10 2.5",7,2022-07-13
+Chennai,Satisfactory,53,"PM , CO, PM
+10 2.5",7,2022-07-14
+Chennai,Satisfactory,60,"O , PM , CO
+3 10",8,2022-07-15
+Chennai,Satisfactory,69,"PM , O , PM
+10 3 2.5",8,2022-07-16
+Chennai,Good,47,"CO, PM
+10",7,2022-07-17
+Chennai,Satisfactory,61,"CO, O
+3",8,2022-07-18
+Chennai,Satisfactory,79,"O , CO, PM
+3 10",8,2022-07-19
+Chennai,Satisfactory,76,"O , CO, PM
+3 2.5",7,2022-07-20
+Chennai,Satisfactory,70,"O , CO, PM
+3 10",8,2022-07-21
+Chennai,Satisfactory,52,"CO, PM
+10",7,2022-07-22
+Chennai,Satisfactory,65,"PM , CO, PM
+2.5 10",8,2022-07-23
+Chennai,Satisfactory,55,"CO, PM
+10",8,2022-07-24
+Chennai,Satisfactory,70,"CO, PM
+10",7,2022-07-25
+Chennai,Satisfactory,54,"CO, PM , PM
+10 2.5",8,2022-07-26
+Chennai,Satisfactory,70,"CO, PM
+10",8,2022-07-27
+Chennai,Good,49,"PM , CO
+10",8,2022-07-28
+Chennai,Satisfactory,51,"PM , CO, PM
+10 2.5",8,2022-07-29
+Chennai,Good,50,"O , CO, PM
+3 10",8,2022-07-30
+Chennai,Satisfactory,58,"CO, O , PM
+3 2.5",8,2022-07-31
+Chennai,Satisfactory,61,"O , CO, PM
+3 2.5",8,2022-08-01
+Chennai,Satisfactory,61,"CO, PM , PM
+10 2.5",8,2022-08-02
+Chennai,Satisfactory,56,"PM , CO, PM
+2.5 10",7,2022-08-03
+Chennai,Satisfactory,84,"PM , PM
+2.5 10",8,2022-08-04
+Chennai,Satisfactory,57,"PM , CO, PM
+2.5 10",8,2022-08-05
+Chennai,Good,49,"PM , O , CO
+10 3",8,2022-08-06
+Chennai,Satisfactory,54,"CO, O , PM
+3 10",8,2022-08-07
+Chennai,Good,49,"CO, O , PM
+3 10",8,2022-08-08
+Chennai,Satisfactory,64,"PM , CO
+10",9,2022-08-09
+Chennai,Satisfactory,68,"O , PM
+3 10",9,2022-08-10
+Chennai,Satisfactory,70,"O , PM
+3 10",8,2022-08-11
+Chennai,Satisfactory,62,"O , PM
+3 10",8,2022-08-12
+Chennai,Satisfactory,66,"PM
+10",8,2022-08-13
+Chennai,Satisfactory,65,"O , CO, PM
+3 10",8,2022-08-14
+Chennai,Satisfactory,63,"O , CO, PM
+3 10",7,2022-08-15
+Chennai,Satisfactory,60,"PM , CO
+10",8,2022-08-16
+Chennai,Satisfactory,56,"PM , CO
+10",9,2022-08-17
+Chennai,Satisfactory,57,"O , CO, PM
+3 10",9,2022-08-18
+Chennai,Satisfactory,63,"CO, PM , PM
+10 2.5",9,2022-08-19
+Chennai,Satisfactory,69,"PM , CO
+10",7,2022-08-20
+Chennai,Satisfactory,68,"PM , PM
+10 2.5",9,2022-08-21
+Chennai,Good,43,"CO, PM , SO
+10 2",8,2022-08-22
+Chennai,Good,48,"CO, PM
+10",7,2022-08-23
+Chennai,Good,49,"CO, PM , SO
+10 2",9,2022-08-24
+Chennai,Satisfactory,62,"PM , CO
+10",9,2022-08-25
+Chennai,Satisfactory,61,"PM , CO
+10",9,2022-08-26
+Chennai,Good,50,"CO, PM , O
+2.5 3",9,2022-08-27
+Chennai,Good,49,"CO, PM , PM
+2.5 10",9,2022-08-28
+Chennai,Satisfactory,60,"PM , CO, PM
+2.5 10",9,2022-08-29
+Chennai,Satisfactory,70,"PM , PM , CO
+2.5 10",8,2022-08-30
+Chennai,Good,49,"CO, PM
+10",7,2022-08-31
+Chennai,Satisfactory,62,"PM , CO, PM
+2.5 10",8,2022-09-01
+Chennai,Good,48,"CO, PM , O
+10 3",6,2022-09-02
+Chennai,Satisfactory,58,"CO, PM
+10",9,2022-09-03
+Chennai,Satisfactory,58,"CO, PM
+10",9,2022-09-04
+Chennai,Satisfactory,55,"CO, PM
+10",9,2022-09-05
+Chennai,Satisfactory,57,"CO, PM , PM
+2.5 10",8,2022-09-06
+Chennai,Satisfactory,73,"CO, PM
+10",8,2022-09-07
+Chennai,Satisfactory,61,"CO, PM , PM
+2.5 10",7,2022-09-08
+Chennai,Satisfactory,74,"CO, PM
+10",8,2022-09-09
+Chennai,Satisfactory,59,"CO, PM
+10",8,2022-09-10
+Chennai,Satisfactory,62,"PM , CO
+10",8,2022-09-11
+Chennai,Satisfactory,70,"CO, PM
+10",8,2022-09-12
+Chennai,Satisfactory,72,"CO, PM
+10",9,2022-09-13
+Chennai,Satisfactory,70,"PM , CO
+10",7,2022-09-14
+Chennai,Satisfactory,81,"PM , PM , CO
+2.5 10",8,2022-09-15
+Chennai,Satisfactory,83,"PM , CO, PM
+2.5 10",8,2022-09-16
+Chennai,Satisfactory,69,"PM , CO, PM
+2.5 10",9,2022-09-17
+Chennai,Satisfactory,65,"CO, PM
+10",9,2022-09-18
+Chennai,Satisfactory,62,"CO, PM
+10",9,2022-09-19
+Chennai,Satisfactory,65,"CO, PM , PM
+2.5 10",7,2022-09-20
+Chennai,Satisfactory,85,"PM , PM
+2.5 10",8,2022-09-21
+Chennai,Satisfactory,69,"CO, PM
+10",8,2022-09-22
+Chennai,Satisfactory,66,"PM , PM , CO
+2.5 10",8,2022-09-23
+Chennai,Satisfactory,71,"CO, PM , PM
+2.5 10",9,2022-09-24
+Chennai,Satisfactory,65,"CO, PM
+10",7,2022-09-25
+Chennai,Satisfactory,73,"CO, PM , PM
+10 2.5",7,2022-09-26
+Chennai,Satisfactory,74,"CO, PM , PM
+10 2.5",8,2022-09-27
+Chennai,Satisfactory,83,"PM , CO, PM
+2.5 10",9,2022-09-28
+Chennai,Satisfactory,83,"PM , CO, PM
+2.5 10",9,2022-09-29
+Chennai,Satisfactory,74,"CO, PM
+10",8,2022-09-30
+Chennai,Satisfactory,70,"CO, PM , PM
+2.5 10",8,2022-10-01
+Chennai,Satisfactory,73,"CO, PM
+10",7,2022-10-02
+Chennai,Satisfactory,90,"PM , CO, PM
+2.5 10",7,2022-10-03
+Chennai,Moderate,101,"CO, PM
+10",7,2022-10-04
+Chennai,Moderate,129,"PM , CO, PM
+2.5 10",7,2022-10-05
+Chennai,Satisfactory,96,"PM , CO, PM
+2.5 10",7,2022-10-06
+Chennai,Satisfactory,88,"PM , CO, PM
+2.5 10",6,2022-10-07
+Chennai,Moderate,114,"PM , PM , CO
+2.5 10",8,2022-10-08
+Chennai,Satisfactory,67,"CO, PM , PM
+2.5 10",7,2022-10-09
+Chennai,Satisfactory,61,"CO, PM
+2.5",7,2022-10-10
+Chennai,Satisfactory,53,"PM , CO, PM
+2.5 10",8,2022-10-11
+Chennai,Satisfactory,58,"PM , PM , CO
+2.5 10",8,2022-10-12
+Chennai,Satisfactory,61,"CO, PM
+10",9,2022-10-13
+Chennai,Satisfactory,56,"CO, PM
+10",8,2022-10-14
+Chennai,Satisfactory,63,"CO, PM
+10",7,2022-10-15
+Chennai,Satisfactory,51,"CO, PM , PM
+2.5 10",7,2022-10-16
+Chennai,Satisfactory,53,"CO, SO , PM
+2 2.5",8,2022-10-17
+Chennai,Satisfactory,66,"CO, PM
+10",8,2022-10-18
+Chennai,Satisfactory,74,"CO, PM
+10",8,2022-10-19
+Chennai,Satisfactory,73,"PM , CO, PM
+2.5 10",8,2022-10-20
+Chennai,Satisfactory,65,"CO, PM , SO
+2.5 2",8,2022-10-21
+Chennai,Satisfactory,83,"PM , PM
+2.5 10",8,2022-10-22
+Chennai,Moderate,109,"PM , PM
+2.5 10",9,2022-10-23
+Chennai,Moderate,192,"PM
+2.5",9,2022-10-24
+Chennai,Poor,228,"PM , PM
+2.5 10",8,2022-10-25
+Chennai,Moderate,147,"PM , PM
+2.5 10",9,2022-10-26
+Chennai,Moderate,105,"PM , PM
+2.5 10",9,2022-10-27
+Chennai,Satisfactory,59,"CO, PM , PM
+2.5 10",8,2022-10-28
+Chennai,Satisfactory,70,"CO, PM
+10",7,2022-10-29
+Chennai,Satisfactory,74,"PM , PM
+2.5 10",8,2022-10-30
+Chennai,Satisfactory,88,"PM , PM
+2.5 10",7,2022-10-31
+Chennai,Satisfactory,59,"CO, PM , PM
+2.5 10",6,2022-11-01
+Chennai,Good,50,"CO, PM
+2.5",7,2022-11-02
+Chennai,Satisfactory,59,"CO, PM
+10",7,2022-11-03
+Chennai,Satisfactory,56,CO,7,2022-11-04
+Chennai,Good,44,"O , PM
+3 10",7,2022-11-05
+Chennai,Satisfactory,58,"PM , PM
+10 2.5",6,2022-11-06
+Chennai,Moderate,105,"PM
+2.5",6,2022-11-07
+Chennai,Satisfactory,82,"PM , PM
+2.5 10",7,2022-11-08
+Chennai,Satisfactory,74,"PM
+10",7,2022-11-09
+Chennai,Satisfactory,58,CO,7,2022-11-10
+Chennai,Good,46,"NO
+2",7,2022-11-11
+Chennai,Good,44,CO,7,2022-11-12
+Chennai,Good,38,CO,7,2022-11-13
+Chennai,Good,43,CO,7,2022-11-14
+Chennai,Satisfactory,96,"PM , PM
+2.5 10",6,2022-11-15
+Chennai,Moderate,121,"PM , PM
+2.5 10",6,2022-11-16
+Chennai,Moderate,142,"PM
+2.5",7,2022-11-17
+Chennai,Moderate,170,"PM
+2.5",7,2022-11-18
+Chennai,Moderate,108,"PM , PM
+2.5 10",7,2022-11-19
+Chennai,Moderate,120,"PM
+2.5",7,2022-11-20
+Chennai,Satisfactory,84,"PM , PM
+2.5 10",7,2022-11-21
+Chennai,Satisfactory,74,"PM , CO
+2.5",7,2022-11-22
+Chennai,Satisfactory,62,CO,7,2022-11-23
+Chennai,Satisfactory,75,"PM , CO
+2.5",8,2022-11-24
+Chennai,Satisfactory,98,"PM , CO
+2.5",8,2022-11-25
+Chennai,Satisfactory,86,"PM , CO
+2.5",8,2022-11-26
+Chennai,Moderate,108,"PM , PM
+2.5 10",8,2022-11-27
+Chennai,Moderate,120,"PM
+2.5",8,2022-11-28
+Chennai,Moderate,142,"PM
+2.5",8,2022-11-29
+Chennai,Moderate,153,"PM
+2.5",7,2022-11-30
+Chennai,Moderate,132,"PM , PM
+2.5 10",7,2022-12-01
+Chennai,Satisfactory,77,"O , PM
+3 2.5",7,2022-12-02
+Chennai,Good,50,CO,7,2022-12-03
+Chennai,Satisfactory,64,"PM , CO
+2.5",7,2022-12-04
+Chennai,Moderate,127,"PM
+2.5",7,2022-12-05
+Chennai,Poor,203,"PM
+2.5",8,2022-12-06
+Chennai,Poor,238,"PM
+2.5",7,2022-12-07
+Chennai,Poor,203,"PM
+2.5",7,2022-12-08
+Chennai,Moderate,115,"PM
+2.5",7,2022-12-09
+Chennai,Good,40,"PM , PM
+10 2.5",8,2022-12-10
+Chennai,Good,45,"PM , CO
+2.5",8,2022-12-11
+Chennai,Good,49,"CO, PM
+2.5",7,2022-12-12
+Chennai,Good,46,"PM , CO
+2.5",7,2022-12-13
+Chennai,Satisfactory,58,"PM , CO
+2.5",8,2022-12-14
+Chennai,Satisfactory,72,"PM , CO
+2.5",7,2022-12-15
+Chennai,Satisfactory,97,"PM , PM
+2.5 10",8,2022-12-16
+Chennai,Moderate,123,"PM , PM
+2.5 10",8,2022-12-17
+Chennai,Moderate,120,"PM , PM
+2.5 10",8,2022-12-18
+Chennai,Satisfactory,88,"PM , PM
+2.5 10",8,2022-12-19
+Chennai,Moderate,110,"PM , PM
+2.5 10",8,2022-12-20
+Chennai,Moderate,120,"PM , PM
+2.5 10",7,2022-12-21
+Chennai,Moderate,124,"PM , PM
+2.5 10",8,2022-12-22
+Chennai,Moderate,172,"PM
+2.5",8,2022-12-23
+Chennai,Moderate,193,"PM
+2.5",8,2022-12-24
+Chennai,Satisfactory,73,"PM , PM
+10 2.5",8,2022-12-25
+Chennai,Good,34,"PM , CO
+10",8,2022-12-26
+Chennai,Good,38,"PM , PM
+2.5 10",8,2022-12-27
+Chennai,Satisfactory,59,"PM , CO
+2.5",8,2022-12-28
+Chennai,Satisfactory,57,"PM , CO
+2.5",8,2022-12-29
+Chennai,Satisfactory,65,"PM , PM
+2.5 10",8,2022-12-30
+Chennai,Satisfactory,67,"PM , PM
+2.5 10",8,2022-12-31
+Chennai,Moderate,104,"PM , PM
+2.5 10",8,2023-01-01
+Chennai,Satisfactory,76,"PM
+2.5",7,2023-01-02
+Chennai,Satisfactory,86,"PM , PM
+2.5 10",8,2023-01-03
+Chennai,Satisfactory,99,"PM , PM
+2.5 10",8,2023-01-04
+Chennai,Satisfactory,80,"PM , SO
+2.5 2",8,2023-01-05
+Chennai,Satisfactory,95,"PM , PM
+2.5 10",8,2023-01-06
+Chennai,Moderate,101,"PM , PM
+2.5 10",8,2023-01-07
+Chennai,Moderate,184,"PM
+2.5",8,2023-01-08
+Chennai,Moderate,118,"PM , PM
+2.5 10",7,2023-01-09
+Chennai,Moderate,140,"PM , PM
+2.5 10",8,2023-01-10
+Chennai,Moderate,124,"PM , PM
+2.5 10",8,2023-01-11
+Chennai,Moderate,111,"PM , PM
+2.5 10",8,2023-01-12
+Chennai,Moderate,106,"PM , PM
+2.5 10",8,2023-01-13
+Chennai,Moderate,147,"PM
+2.5",8,2023-01-14
+Chennai,Satisfactory,77,"PM , PM
+2.5 10",8,2023-01-15
+Chennai,Satisfactory,65,"PM
+2.5",8,2023-01-16
+Chennai,Satisfactory,71,"PM
+2.5",8,2023-01-17
+Chennai,Satisfactory,95,"PM , PM
+2.5 10",8,2023-01-18
+Chennai,Moderate,115,"PM
+2.5",8,2023-01-19
+Chennai,Moderate,124,"PM
+2.5",8,2023-01-20
+Chennai,Moderate,126,"PM
+2.5",8,2023-01-21
+Chennai,Moderate,114,"PM , PM
+2.5 10",8,2023-01-22
+Chennai,Satisfactory,97,"PM , PM
+2.5 10",8,2023-01-23
+Chennai,Satisfactory,72,"PM
+2.5",8,2023-01-24
+Chennai,Satisfactory,100,"PM , PM
+2.5 10",8,2023-01-25
+Chennai,Moderate,159,"PM
+2.5",8,2023-01-26
+Chennai,Moderate,105,"PM
+2.5",8,2023-01-27
+Chennai,Moderate,113,"PM , PM
+2.5 10",8,2023-01-28
+Chennai,Moderate,132,"PM , PM
+2.5 10",8,2023-01-29
+Chennai,Satisfactory,85,"PM , CO
+2.5",8,2023-01-30
+Chennai,Satisfactory,96,"PM , PM
+2.5 10",8,2023-01-31
+Chennai,Moderate,101,"PM , PM
+2.5 10",8,2023-02-01
+Chennai,Satisfactory,81,"PM , PM
+10 2.5",8,2023-02-02
+Chennai,Satisfactory,95,"PM
+2.5",8,2023-02-03
+Chennai,Moderate,101,"PM
+2.5",8,2023-02-04
+Chennai,Moderate,113,"PM
+2.5",8,2023-02-05
+Chennai,Moderate,108,"PM
+2.5",8,2023-02-06
+Chennai,Satisfactory,92,"PM , PM
+2.5 10",8,2023-02-07
+Chennai,Satisfactory,95,"PM , PM
+10 2.5",8,2023-02-08
+Chennai,Satisfactory,96,"PM , PM
+2.5 10",8,2023-02-09
+Chennai,Satisfactory,91,"PM , PM
+2.5 10",8,2023-02-10
+Chennai,Satisfactory,99,"PM
+2.5",8,2023-02-11
+Chennai,Moderate,136,"PM
+2.5",8,2023-02-12
+Chennai,Moderate,136,"PM , PM
+2.5 10",8,2023-02-13
+Chennai,Moderate,120,"PM , PM
+2.5 10",8,2023-02-14
+Chennai,Moderate,105,"PM , PM
+2.5 10",8,2023-02-15
+Chennai,Moderate,131,"PM , PM
+2.5 10",8,2023-02-16
+Chennai,Moderate,134,"PM , PM
+2.5 10",6,2023-02-17
+Chennai,Moderate,126,"PM , PM
+2.5 10",6,2023-02-18
+Chennai,Satisfactory,75,"PM , CO
+2.5",5,2023-02-19
+Chennai,Satisfactory,74,"PM , PM
+2.5 10",5,2023-02-20
+Chennai,Satisfactory,97,"PM , PM
+2.5 10",6,2023-02-21
+Chennai,Satisfactory,98,"PM , PM
+2.5 10",7,2023-02-22
+Chennai,Moderate,111,"PM , PM
+2.5 10",8,2023-02-23
+Chennai,Satisfactory,78,"PM , PM
+2.5 10",8,2023-02-24
+Chennai,Satisfactory,86,"PM , PM
+10 2.5",8,2023-02-25
+Chennai,Satisfactory,98,"PM , PM
+2.5 10",8,2023-02-26
+Chennai,Satisfactory,98,"PM , PM
+10 2.5",8,2023-02-27
+Chennai,Satisfactory,84,"PM , CO
+2.5",8,2023-02-28
+Chennai,Satisfactory,85,"PM , CO
+2.5",8,2023-03-01
+Chennai,Satisfactory,92,"PM , PM
+2.5 10",8,2023-03-02
+Chennai,Moderate,118,"PM , PM
+2.5 10",8,2023-03-03
+Chennai,Moderate,113,"PM , PM
+2.5 10",8,2023-03-04
+Chennai,Satisfactory,91,"PM , PM
+2.5 10",8,2023-03-05
+Chennai,Satisfactory,93,"PM , PM
+2.5 10",8,2023-03-06
+Chennai,Satisfactory,91,"PM , PM
+2.5 10",8,2023-03-07
+Chennai,Satisfactory,74,"PM , CO
+2.5",8,2023-03-08
+Chennai,Satisfactory,87,"PM , PM
+2.5 10",8,2023-03-09
+Chennai,Satisfactory,93,"PM , CO
+2.5",8,2023-03-10
+Chennai,Satisfactory,94,"PM , PM
+2.5 10",8,2023-03-11
+Chennai,Satisfactory,90,"PM , PM
+2.5 10",8,2023-03-12
+Chennai,Satisfactory,85,"PM , PM
+2.5 10",8,2023-03-13
+Chennai,Satisfactory,90,"PM , PM
+2.5 10",8,2023-03-14
+Chennai,Moderate,104,"PM , PM
+2.5 10",8,2023-03-15
+Chennai,Satisfactory,61,CO,8,2023-03-16
+Chennai,Satisfactory,61,"PM , CO
+10",8,2023-03-17
+Chennai,Satisfactory,54,"PM , CO
+10",8,2023-03-18
+Chennai,Satisfactory,51,"CO, O
+3",8,2023-03-19
+Chennai,Good,46,"CO, O
+3",8,2023-03-20
+Chennai,Good,48,CO,8,2023-03-21
+Chennai,Satisfactory,55,"PM , CO
+10",7,2023-03-22
+Chennai,Good,43,CO,7,2023-03-23
+Chennai,Satisfactory,55,"CO, O
+3",7,2023-03-24
+Chennai,Good,41,"CO, O
+3",7,2023-03-25
+Chennai,Good,39,"CO, O
+3",7,2023-03-26
+Chennai,Good,42,CO,7,2023-03-27
+Chennai,Satisfactory,54,"SO , CO
+2",7,2023-03-28
+Chennai,Satisfactory,58,"SO , CO
+2",7,2023-03-29
+Chennai,Satisfactory,56,"SO , CO
+2",7,2023-03-30
+Chennai,Satisfactory,63,CO,7,2023-03-31
+Chennai,Satisfactory,65,"NO , O
+2 3",7,2023-04-01
+Chennai,Satisfactory,54,CO,7,2023-04-02
+Chennai,Satisfactory,72,"PM , SO
+10 2",7,2023-04-03
+Chennai,Satisfactory,53,"PM , CO
+10",7,2023-04-04
+Chennai,Satisfactory,53,"CO, O
+3",7,2023-04-05
+Chennai,Satisfactory,53,CO,7,2023-04-06
+Chennai,Good,42,"CO, O
+3",7,2023-04-07
+Chennai,Satisfactory,54,"CO, O
+3",6,2023-04-08
+Chennai,Satisfactory,56,"NO , O
+2 3",6,2023-04-09
+Chennai,Satisfactory,60,"CO, O
+3",6,2023-04-10
+Chennai,Satisfactory,69,"NO , CO
+2",6,2023-04-11
+Chennai,Satisfactory,83,"NO , PM
+2 10",7,2023-04-12
+Chennai,Moderate,103,"PM , PM
+2.5 10",7,2023-04-13
+Chennai,Satisfactory,98,"PM , PM
+2.5 10",7,2023-04-14
+Chennai,Satisfactory,74,"CO, PM
+10",6,2023-04-15
+Chennai,Satisfactory,78,"PM , PM
+2.5 10",6,2023-04-16
+Chennai,Satisfactory,84,"PM , PM
+2.5 10",6,2023-04-17
+Chennai,Satisfactory,72,CO,6,2023-04-18
+Chennai,Satisfactory,75,CO,6,2023-04-19
+Chennai,Satisfactory,70,CO,6,2023-04-20
+Chennai,Satisfactory,73,CO,6,2023-04-21
+Chennai,Satisfactory,65,CO,6,2023-04-22
+Chennai,Satisfactory,60,"CO, O
+3",6,2023-04-23
+Chennai,Satisfactory,64,CO,5,2023-04-24
+Chennai,Satisfactory,51,CO,6,2023-04-25
+Chennai,Satisfactory,62,"CO, O
+3",6,2023-04-26
+Chennai,Satisfactory,75,"PM , CO
+2.5",6,2023-04-27
+Chennai,Satisfactory,58,CO,6,2023-04-28
+Chennai,Satisfactory,54,"CO, SO
+2",6,2023-04-29
+Chennai,Satisfactory,59,CO,6,2023-04-30
+Chennai,Satisfactory,59,CO,5,2023-05-01
+Chennai,Satisfactory,58,"CO, O
+3",5,2023-05-02
+Chennai,Satisfactory,59,"CO, SO
+2",8,2023-05-03
+Chennai,Satisfactory,59,"CO, SO
+2",8,2023-05-04
+Chennai,Satisfactory,62,CO,8,2023-05-05
+Chennai,Satisfactory,64,"CO, SO
+2",8,2023-05-06
+Chennai,Satisfactory,66,"NO , SO
+2 2",8,2023-05-07
+Chennai,Satisfactory,65,"SO , NO
+2 2",8,2023-05-08
+Chennai,Satisfactory,67,"SO
+2",8,2023-05-09
+Chennai,Satisfactory,58,"SO
+2",7,2023-05-10
+Chennai,Satisfactory,82,"PM , PM
+2.5 10",6,2023-05-11
+Chennai,Moderate,111,"PM , PM
+2.5 10",6,2023-05-12
+Chennai,Satisfactory,89,"SO , PM
+2 10",7,2023-05-13
+Chennai,Moderate,101,"SO , PM
+2 10",7,2023-05-14
+Chennai,Satisfactory,92,"SO , PM
+2 10",7,2023-05-15
+Chennai,Satisfactory,83,"SO , PM
+2 2.5",8,2023-05-16
+Chennai,Satisfactory,88,"NO , PM
+2 10",7,2023-05-17
+Chennai,Satisfactory,71,"CO, O
+3",6,2023-05-18
+Chennai,Satisfactory,83,"NO , CO
+2",8,2023-05-19
+Chennai,Satisfactory,76,"NO , CO
+2",7,2023-05-20
+Chennai,Satisfactory,65,CO,7,2023-05-21
+Chennai,Satisfactory,68,CO,7,2023-05-22
+Chennai,Satisfactory,75,"PM , CO
+10",7,2023-05-23
+Chennai,Satisfactory,72,"CO, PM
+10",8,2023-05-24
+Chennai,Satisfactory,67,"CO, PM
+10",8,2023-05-25
+Chennai,Satisfactory,79,"NO , PM
+2 10",8,2023-05-26
+Chennai,Satisfactory,75,"NO , PM
+2 2.5",8,2023-05-27
+Chennai,Satisfactory,86,"NO , PM
+2 2.5",8,2023-05-28
+Chennai,Satisfactory,76,"CO, PM
+2.5",8,2023-05-29
+Chennai,Satisfactory,70,"CO, PM
+2.5",8,2023-05-30
+Chennai,Satisfactory,83,"CO, PM
+2.5",8,2023-05-31
+Chennai,Satisfactory,82,"CO, PM
+2.5",8,2023-06-01
+Chennai,Satisfactory,90,"PM
+2.5",8,2023-06-02
+Chennai,Satisfactory,92,"PM
+2.5",8,2023-06-03
+Chennai,Satisfactory,80,"CO, PM
+2.5",8,2023-06-04
+Chennai,Satisfactory,88,CO,7,2023-06-05
+Chennai,Satisfactory,70,"NO , PM
+2 10",7,2023-06-06
+Chennai,Satisfactory,72,"NO , PM
+2 10",8,2023-06-07
+Chennai,Satisfactory,73,"NO , PM
+2 10",7,2023-06-08
+Chennai,Satisfactory,69,"O , NO
+3 2",7,2023-06-09
+Chennai,Satisfactory,67,"NO , CO
+2",8,2023-06-10
+Chennai,Satisfactory,67,"NO , O
+2 3",7,2023-06-11
+Chennai,Satisfactory,54,"NO
+2",7,2023-06-12
+Chennai,Satisfactory,58,"NO
+2",7,2023-06-13
+Chennai,Satisfactory,73,"NO
+2",7,2023-06-14
+Chennai,Satisfactory,84,"PM , PM
+10 2.5",6,2023-06-15
+Chennai,Satisfactory,78,"NO , PM
+2 10",7,2023-06-16
+Chennai,Satisfactory,78,"PM , NO
+10 2",7,2023-06-17
+Chennai,Satisfactory,66,CO,7,2023-06-18
+Chennai,Good,50,"NO
+2",7,2023-06-19
+Chennai,Satisfactory,57,"NO
+2",6,2023-06-20
+Chennai,Satisfactory,62,CO,6,2023-06-21
+Chennai,Satisfactory,76,"PM
+2.5",7,2023-06-22
+Chennai,Satisfactory,73,"PM , CO
+2.5",7,2023-06-23
+Chennai,Satisfactory,62,"NO
+2",7,2023-06-24
+Chennai,Satisfactory,73,"NO , CO
+2",7,2023-06-25
+Chennai,Satisfactory,76,"PM
+2.5",6,2023-06-26
+Chennai,Satisfactory,64,"PM , NO
+10 2",7,2023-06-27
+Chennai,Satisfactory,60,"NO
+2",7,2023-06-28
+Chennai,Satisfactory,76,"NO , CO
+2",7,2023-06-29
+Chennai,Satisfactory,57,"NO , CO
+2",6,2023-06-30
+Chennai,Satisfactory,61,"NO , CO
+2",7,2023-07-01
+Chennai,Satisfactory,75,"PM
+10",7,2023-07-02
+Chennai,Satisfactory,58,"PM
+10",7,2023-07-03
+Chennai,Satisfactory,56,"PM , NO
+10 2",7,2023-07-04
+Chennai,Satisfactory,64,CO,7,2023-07-05
+Chennai,Satisfactory,66,"PM , NO
+10 2",7,2023-07-06
+Chennai,Satisfactory,82,"NO , O
+2 3",7,2023-07-07
+Chennai,Satisfactory,63,"CO, NO
+2",7,2023-07-08
+Chennai,Satisfactory,73,"NO , CO
+2",6,2023-07-09
+Chennai,Good,"48
+* AQ","PM , NO
+10 2
+I is not calculated for today's bullet","6
+in for Ahmednagar, Asansol,",2023-07-10
+Chennai,Satisfactory,52,"PM , NO
+10 2",5,2023-07-11
+Chennai,Satisfactory,76,"PM , CO
+10",6,2023-07-12
+Chennai,Satisfactory,69,"NO , CO
+2",7,2023-07-13
+Chennai,Satisfactory,78,"NO , CO
+2",8,2023-07-14
+Chennai,Satisfactory,77,"NO , CO
+2",8,2023-07-15
+Chennai,Satisfactory,81,"NO , CO
+2",7,2023-07-16
+Chennai,Satisfactory,78,"NO , CO
+2",7,2023-07-17
+Chennai,Satisfactory,96,"NO , CO
+2",7,2023-07-18
+Chennai,Satisfactory,87,"NO , CO
+2",8,2023-07-19
+Chennai,Satisfactory,88,"NO , CO
+2",8,2023-07-20
+Chennai,Moderate,107,"PM , NO
+10 2",8,2023-07-21
+Chennai,Moderate,101,"PM , CO
+10",7,2023-07-22
+Chennai,Satisfactory,61,"NO
+2",7,2023-07-23
+Chennai,Satisfactory,67,"PM , CO
+10",7,2023-07-24
+Chennai,Satisfactory,66,"NO , CO
+2",6,2023-07-25
+Chennai,Satisfactory,58,CO,6,2023-07-26
+Chennai,Satisfactory,64,CO,6,2023-07-27
+Chennai,Satisfactory,93,"NO
+2",6,2023-07-28
+Chennai,Satisfactory,96,"PM , NO
+10 2",6,2023-07-29
+Chennai,Satisfactory,85,"PM , CO
+10",7,2023-07-30
+Chennai,Satisfactory,74,"PM , CO
+10",7,2023-07-31
+Chennai,Satisfactory,79,"PM , CO
+10",7,2023-08-01
+Chennai,Satisfactory,99,"PM , NO
+10 2",7,2023-08-02
+Chennai,Satisfactory,95,"PM , NO
+10 2",7,2023-08-03
+Chennai,Satisfactory,87,CO,7,2023-08-04
+Chennai,Satisfactory,79,"PM , CO
+10",7,2023-08-05
+Chennai,Satisfactory,78,CO,7,2023-08-06
+Chennai,Satisfactory,56,"PM
+2.5",6,2023-08-07
+Chennai,Satisfactory,66,"PM
+2.5",6,2023-08-08
+Chennai,Satisfactory,79,CO,7,2023-08-09
+Chennai,Satisfactory,82,CO,7,2023-08-10
+Chennai,Satisfactory,61,CO,7,2023-08-11
+Chennai,Satisfactory,74,CO,7,2023-08-12
+Chennai,Satisfactory,69,CO,6,2023-08-13
+Chennai,Satisfactory,54,CO,6,2023-08-14
+Chennai,Satisfactory,67,CO,7,2023-08-15
+Chennai,Satisfactory,71,CO,6,2023-08-16
+Chennai,Satisfactory,77,CO,7,2023-08-17
+Chennai,Satisfactory,61,"CO, O
+3",7,2023-08-18
+Chennai,Satisfactory,65,CO,7,2023-08-19
+Chennai,Satisfactory,62,"PM , CO
+2.5",7,2023-08-20
+Chennai,Satisfactory,65,"CO, PM
+2.5",7,2023-08-21
+Chennai,Satisfactory,68,CO,6,2023-08-22
+Chennai,Satisfactory,74,CO,6,2023-08-23
+Chennai,Satisfactory,65,"PM
+10",5,2023-08-24
+Chennai,Satisfactory,78,"CO, PM
+10",6,2023-08-25
+Chennai,Satisfactory,68,"CO, PM
+10",6,2023-08-26
+Chennai,Satisfactory,73,"O , NO
+3 2",7,2023-08-27
+Chennai,Satisfactory,78,"O , CO
+3",7,2023-08-28
+Chennai,Satisfactory,66,CO,6,2023-08-29
+Chennai,Satisfactory,88,CO,6,2023-08-30
+Chennai,Satisfactory,69,"NO , PM
+2 10",7,2023-08-31
+Chennai,Satisfactory,71,"O , NO
+3 2",7,2023-09-01
+Chennai,Satisfactory,77,"O , PM
+3 10",7,2023-09-02
+Chennai,Satisfactory,63,"O , NO
+3 2",7,2023-09-03
+Chennai,Satisfactory,53,"NO , O
+2 3",7,2023-09-04
+Chennai,Satisfactory,70,"NO , CO
+2",7,2023-09-05
+Chennai,Satisfactory,63,"NO , O
+2 3",8,2023-09-06
+Chennai,Satisfactory,71,"O , NO
+3 2",8,2023-09-07
+Chennai,Satisfactory,51,"O , NO
+3 2",8,2023-09-08
+Chennai,Satisfactory,83,"O , NO
+3 2",5,2023-09-09
+Chennai,Satisfactory,63,"O , NO
+3 2",6,2023-09-10
+Chennai,Satisfactory,54,"NO , CO
+2",6,2023-09-11
+Chennai,Satisfactory,63,"PM
+10",8,2023-09-12
+Chennai,Satisfactory,57,"PM
+10",8,2023-09-13
+Chennai,Satisfactory,81,"CO, PM
+10",7,2023-09-14
+Chennai,Satisfactory,55,"NO , PM
+2 10",8,2023-09-15
+Chennai,Satisfactory,54,"CO, PM
+10",8,2023-09-16
+Chennai,Satisfactory,62,CO,7,2023-09-17
+Chennai,Good,45,"CO, O
+3",8,2023-09-18
+Chennai,Good,50,"CO, O
+3",6,2023-09-19
+Chennai,Satisfactory,59,"NO , PM
+2 10",7,2023-09-20
+Chennai,Satisfactory,64,"NO , PM
+2 10",7,2023-09-21
+Chennai,Satisfactory,54,"NO , CO
+2",8,2023-09-22
+Chennai,Satisfactory,56,CO,4,2023-09-23
+Chennai,Good,49,"NO , CO
+2",3,2023-09-24
+Chennai,Good,49,"NO , O
+2 3",3,2023-09-25
+Chennai,Satisfactory,71,"NO , PM
+2 10",2,2023-09-26
+Chennai,Satisfactory,84,"NO
+2",1,2023-09-27
+Chennai,Good,49,"NO
+2",5,2023-09-28
+Chennai,Satisfactory,57,"NO
+2",5,2023-09-29
+Chennai,Satisfactory,57,"NO
+2",5,2023-09-30
+Chennai,Satisfactory,57,"NO
+2",5,2023-10-01
+Chennai,Good,46,"PM
+10",3,2023-10-02
+Chennai,Satisfactory,56,"PM
+10",4,2023-10-03
+Chennai,Satisfactory,68,"PM
+10",5/9,2023-10-04
+Chennai,Satisfactory,77,"NO
+2",6/9,2023-10-05
+Chennai,Satisfactory,76,"NO
+2",6/9,2023-10-06
+Chennai,Satisfactory,73,"PM , NO
+10 2",7/9,2023-10-07
+Chennai,Satisfactory,52,"NO
+2",7/9,2023-10-08
+Chennai,Good,47,"O , NO
+3 2",8/9,2023-10-09
+Chennai,Satisfactory,52,"NO , PM
+2 10",8/9,2023-10-10
+Chennai,Satisfactory,70,"PM
+2.5",7/9,2023-10-11
+Chennai,Satisfactory,55,"NO
+2",6/9,2023-10-12
+Chennai,Satisfactory,79,"PM , NO
+10 2",7/9,2023-10-13
+Chennai,Satisfactory,69,"NO
+2",6/9,2023-10-14
+Chennai,Satisfactory,75,"PM
+2.5",7/9,2023-10-15
+Chennai,Satisfactory,73,CO,6/9,2023-10-16
+Chennai,Satisfactory,79,"PM , NO
+10 2",7/9,2023-10-17
+Chennai,Moderate,109,"PM
+2.5",8/9,2023-10-18
+Chennai,Moderate,120,"PM
+10",8/9,2023-10-19
+Chennai,Satisfactory,97,"PM
+10",7/9,2023-10-20
+Chennai,Satisfactory,90,"PM
+2.5",6/9,2023-10-21
+Chennai,Satisfactory,82,"PM
+10",7/9,2023-10-22
+Chennai,Moderate,109,"PM
+2.5",7/9,2023-10-23
+Chennai,Moderate,121,"PM
+2.5",8/9,2023-10-24
+Chennai,Moderate,127,"PM
+2.5",7/9,2023-10-25
+Chennai,Moderate,120,"PM
+2.5",8/9,2023-10-26
+Chennai,Moderate,102,"PM
+2.5",6/9,2023-10-27
+Chennai,Satisfactory,67,"NO , PM
+2 10",6/9,2023-10-28
+Chennai,Satisfactory,60,"NO , CO
+2",6/9,2023-10-29
+Chennai,Satisfactory,65,CO,6/9,2023-10-30
+Chennai,Moderate,129,"PM
+2.5",6/9,2023-10-31
+Chennai,Satisfactory,93,"NO , PM
+2 10",6/9,2023-11-01
+Chennai,Satisfactory,61,"NO , CO
+2",6/9,2023-11-02
+Chennai,Satisfactory,57,"NO , CO
+2",6/9,2023-11-03
+Chennai,Satisfactory,59,"NO , CO
+2",7/9,2023-11-04
+Chennai,Good,33,CO,5/9,2023-11-05
+Chennai,Good,40,CO,5/9,2023-11-06
+Chennai,Good,49,CO,7/9,2023-11-07
+Chennai,Satisfactory,73,"O , NO , PM
+3 2 2.5",7/9,2023-11-08
+Chennai,Satisfactory,69,"O , CO, PM
+3 10",7/9,2023-11-09
+Chennai,Satisfactory,83,"PM , PM
+2.5 10",7/9,2023-11-10
+Chennai,Moderate,115,"PM , PM
+2.5 10",7/9,2023-11-11
+Chennai,Moderate,178,"PM
+2.5",7/9,2023-11-12
+Chennai,Poor,245,"PM
+2.5",6/9,2023-11-13
+Chennai,Moderate,111,"PM
+2.5",7/9,2023-11-14
+Chennai,Satisfactory,66,CO,6/9,2023-11-15
+Chennai,Satisfactory,90,"PM , NO
+2.5 2",6/9,2023-11-16
+Chennai,Satisfactory,97,"PM , PM
+2.5 10",7/9,2023-11-17
+Chennai,Satisfactory,57,"CO, NO
+2",6/9,2023-11-18
+Chennai,Good,50,"PM , CO, NO
+10 2",7/9,2023-11-19
+Chennai,Good,50,"PM , PM , CO
+2.5 10",7/9,2023-11-20
+Chennai,Satisfactory,55,"CO, NO
+2",8/9,2023-11-21
+Chennai,Good,45,"CO, NO
+2",8/9,2023-11-22
+Chennai,Good,49,"PM , NO
+2.5 2",6/9,2023-11-23
+Chennai,Good,41,"PM , CO
+2.5",7/9,2023-11-24
+Chennai,Good,46,"PM , CO
+2.5",8/9,2023-11-25
+Chennai,Satisfactory,72,"PM , PM , NO
+10 2.5 2",8/9,2023-11-26
+Chennai,Satisfactory,51,"PM , CO
+2.5",8/9,2023-11-27
+Chennai,Good,44,"PM , PM , CO
+2.5 10",8/9,2023-11-28
+Chennai,Good,43,"CO, PM
+2.5",8/9,2023-11-29
+Chennai,Good,41,"CO, NO
+2",7/9,2023-11-30
+Chennai,Good,42,"PM , NO
+10 2",8/9,2023-12-01
+Chennai,Satisfactory,65,"PM , PM
+10 2.5",7/9,2023-12-02
+Chennai,Good,46,"CO, PM , O
+2.5 3",8/9,2023-12-03
+Chennai,Good,36,"CO, PM
+10",3/9,2023-12-04
+Chennai,Good,38,"PM
+10",1/9,2023-12-07
+Chennai,Satisfactory,57,"PM
+10",2/9,2023-12-08
+Chennai,Satisfactory,70,"CO, PM
+10",4/9,2023-12-09
+Chennai,Satisfactory,88,"PM , O
+10 3",4/9,2023-12-10
+Chennai,Satisfactory,82,"PM , O
+10 3",4/9,2023-12-11
+Chennai,Satisfactory,70,"O , PM
+3 10",6/9,2023-12-12
+Chennai,Moderate,114,"PM , PM
+10 2.5",6/9,2023-12-13
+Chennai,Satisfactory,87,"PM , PM
+10 2.5",6/9,2023-12-14
+Chennai,Moderate,110,"CO, PM
+2.5",7/9,2023-12-15
+Chennai,Satisfactory,92,"CO, PM , O
+2.5 3",8/9,2023-12-16
+Chennai,Satisfactory,74,"CO, PM
+10",4/9,2023-12-17
+Chennai,Satisfactory,77,"PM , PM
+10 2.5",6/9,2023-12-18
+Chennai,Satisfactory,100,"PM
+2.5",6/9,2023-12-19
+Chennai,Satisfactory,96,"PM , PM
+10 2.5",8/9,2023-12-20
+Chennai,Moderate,140,"PM
+2.5",8/9,2023-12-21
+Chennai,Moderate,172,"PM
+2.5",6/9,2023-12-22
+Chennai,Moderate,138,"PM
+2.5",6/9,2023-12-23
+Chennai,Moderate,130,"PM
+2.5",6/9,2023-12-24
+Chennai,Satisfactory,88,"CO, PM , PM
+10 2.5",6/9,2023-12-25
+Chennai,Satisfactory,77,"CO, PM
+10",7/9,2023-12-26
+Chennai,Satisfactory,74,"PM
+10",6/9,2023-12-27
+Chennai,Satisfactory,70,"PM
+10",7/9,2023-12-28
+Chennai,Satisfactory,66,"CO, PM
+10",7/9,2023-12-29
+Chennai,Satisfactory,71,"PM
+10",7/9,2023-12-30
+Chennai,Satisfactory,93,"PM
+10",7/9,2023-12-31
+Chennai,Moderate,142,"PM
+2.5",7/9,2024-01-01
+Chennai,Moderate,101,"CO, PM , PM
+10 2.5",7/9,2024-01-02
+Chennai,Moderate,119,"PM
+2.5",7/9,2024-01-03
+Chennai,Moderate,107,"PM , PM
+10 2.5",7/9,2024-01-04
+Chennai,Satisfactory,92,"PM , PM
+2.5 10",7/9,2024-01-05
+Chennai,Satisfactory,71,"CO, PM
+10",8/9,2024-01-06
+Chennai,Satisfactory,66,"CO, PM
+10",7/9,2024-01-07
+Chennai,Satisfactory,67,"CO, SO , PM
+2 10",6/9,2024-01-08
+Chennai,Satisfactory,80,"PM , CO
+10",8/9,2024-01-09
+Chennai,Satisfactory,81,"PM
+10",8/9,2024-01-10
+Chennai,Satisfactory,94,"PM , PM
+10 2.5",7/9,2024-01-11
+Chennai,Moderate,114,"PM , PM
+10 2.5",7/9,2024-01-12
+Chennai,Moderate,136,"PM , PM
+10 2.5",7/9,2024-01-13
+Chennai,Poor,231,"PM , PM
+10 2.5",8/9,2024-01-14
+Chennai,Moderate,176,"PM , PM
+10 2.5",8/9,2024-01-15
+Chennai,Moderate,113,"CO, PM
+2.5",7/9,2024-01-16
+Chennai,Satisfactory,78,"PM , CO, PM
+10 2.5",8/9,2024-01-17
+Chennai,Satisfactory,76,"PM , PM
+10 2.5",8/9,2024-01-18
+Chennai,Satisfactory,74,"PM , CO
+10",7/9,2024-01-19
+Chennai,Satisfactory,81,"PM
+10",7/9,2024-01-20
+Chennai,Satisfactory,79,"PM
+10",7/9,2024-01-21
+Chennai,Satisfactory,72,"PM
+10",7/9,2024-01-22
+Chennai,Satisfactory,99,"PM , PM
+10 2.5",7/9,2024-01-23
+Chennai,Moderate,123,"PM , PM
+10 2.5",7/9,2024-01-24
+Chennai,Moderate,108,"PM , PM
+10 2.5",8/9,2024-01-25
+Chennai,Moderate,108,"PM , PM
+10 2.5",8/9,2024-01-26
+Chennai,Satisfactory,95,"PM , PM
+10 2.5",8/9,2024-01-27
+Chennai,Satisfactory,96,"PM , CO, PM
+10 2.5",6/9,2024-01-28
+Chennai,Moderate,122,"PM , CO, PM
+10 2.5",5/9,2024-01-29
+Chennai,Moderate,122,"PM , PM
+10 2.5",7/9,2024-01-30
+Chennai,Satisfactory,98,"PM , PM
+10 2.5",8/9,2024-01-31
+Chennai,Satisfactory,55,"PM , CO
+10",7/9,2024-02-01
+Chennai,Good,39,CO,7/9,2024-02-02
+Chennai,Satisfactory,69,"PM , CO, PM
+10 2.5",8/9,2024-02-03
+Chennai,Satisfactory,72,"PM , CO, PM
+10 2.5",8/9,2024-02-04
+Chennai,Satisfactory,72,"PM , CO, PM
+10 2.5",8/9,2024-02-05
+Chennai,Satisfactory,88,"PM , PM
+10 2.5",8/9,2024-02-06
+Chennai,Moderate,109,"PM
+2.5",8/9,2024-02-07
+Chennai,Satisfactory,93,"PM , PM
+10 2.5",8/9,2024-02-08
+Chennai,Satisfactory,83,"PM
+10",8/9,2024-02-09
+Chennai,Satisfactory,85,"PM , CO, PM
+10 2.5",7/9,2024-02-10
+Chennai,Satisfactory,100,"PM , PM
+10 2.5",6/9,2024-02-11
+Chennai,Satisfactory,69,"PM
+10",4/9,2024-02-12
+Chennai,Satisfactory,68,"PM
+10",6/9,2024-02-13
+Chennai,Satisfactory,63,"PM
+10",7/9,2024-02-14
+Chennai,Satisfactory,88,"PM
+10",7/9,2024-02-15
+Chennai,Satisfactory,84,"PM
+10",6/9,2024-02-16
+Chennai,Satisfactory,84,"PM
+10",7/9,2024-02-17
+Chennai,Satisfactory,87,"PM , PM
+10 2.5",7/9,2024-02-18
+Chennai,Satisfactory,86,"PM , PM
+10 2.5",7/9,2024-02-19
+Chennai,Satisfactory,100,"PM , PM
+10 2.5",6/9,2024-02-20
+Chennai,Satisfactory,98,"PM , PM
+10 2.5",5/9,2024-02-21
+Chennai,Satisfactory,89,"PM
+10",7/9,2024-02-22
+Chennai,Satisfactory,82,"PM , CO
+10",5/9,2024-02-23
+Chennai,Satisfactory,72,"PM , CO
+10",6/9,2024-02-24
+Chennai,Satisfactory,69,"PM , CO
+10",6/9,2024-02-25
+Chennai,Satisfactory,64,"PM , CO
+10",6/9,2024-02-26
+Chennai,Satisfactory,65,"PM , CO
+10",7/9,2024-02-27
+Chennai,Satisfactory,72,"PM , CO
+10",8/9,2024-02-28
+Chennai,Satisfactory,77,"PM
+10",7/9,2024-02-29
+Chennai,Satisfactory,83,"PM
+10",8/9,2024-03-01
+Chennai,Moderate,101,"PM , PM
+10 2.5",8/9,2024-03-02
+Chennai,Satisfactory,80,"PM , CO, PM
+10 2.5",7/9,2024-03-03
+Chennai,Satisfactory,84,"PM , PM
+10 2.5",7/9,2024-03-04
+Chennai,Satisfactory,76,"PM , CO
+10",7/9,2024-03-05
+Chennai,Satisfactory,90,"PM , PM
+10 2.5",8/9,2024-03-06
+Chennai,Satisfactory,81,CO,7/9,2024-03-07
+Chennai,Satisfactory,83,"PM , CO
+10",7/9,2024-03-08
+Chennai,Satisfactory,90,"PM , PM , CO
+10 2.5",6/9,2024-03-09
+Chennai,Satisfactory,78,"PM , CO
+2.5",6/9,2024-03-10
+Chennai,Satisfactory,77,"PM , CO
+2.5",6/9,2024-03-11
+Chennai,Satisfactory,77,"PM , CO
+10",7/9,2024-03-12
+Chennai,Satisfactory,85,"PM , CO
+10",6/9,2024-03-13
+Chennai,Satisfactory,88,"CO, PM , PM
+2.5 10",6/9,2024-03-14
+Chennai,Satisfactory,76,"PM , PM
+10 2.5",6/9,2024-03-15
+Chennai,Satisfactory,67,"PM , CO
+10",7/9,2024-03-16
+Chennai,Satisfactory,54,CO,6/9,2024-03-17
+Chennai,Satisfactory,52,"PM , CO
+10",5/9,2024-03-18
+Chennai,Satisfactory,62,CO,7/9,2024-03-19
+Chennai,Satisfactory,83,"PM , CO
+10",5/9,2024-03-20
+Chennai,Satisfactory,67,CO,6/9,2024-03-21
+Chennai,Satisfactory,70,"PM , CO
+2.5",7/9,2024-03-22
+Chennai,Satisfactory,73,"PM , PM , CO
+10 2.5",7/9,2024-03-23
+Chennai,Satisfactory,71,CO,7/9,2024-03-24
+Chennai,Satisfactory,63,"PM , CO
+2.5",6/9,2024-03-25
+Chennai,Satisfactory,64,CO,7/9,2024-03-26
+Chennai,Satisfactory,69,CO,6/9,2024-03-27
+Chennai,Satisfactory,64,"PM , CO
+10",7/9,2024-03-28
+Chennai,Satisfactory,58,"PM , CO
+10",6/9,2024-03-29
+Chennai,Satisfactory,58,"PM , CO
+10",5/9,2024-03-30
+Chennai,Satisfactory,58,"PM , CO
+10",6/9,2024-03-31
+Chennai,Good,46,"CO, PM
+10",6/9,2024-04-01
+Chennai,Satisfactory,56,"CO, PM
+10",6/9,2024-04-02
+Chennai,Satisfactory,64,CO,7/9,2024-04-03
+Chennai,Satisfactory,66,CO,6/9,2024-04-04
+Chennai,Satisfactory,62,CO,7/9,2024-04-05
+Chennai,Satisfactory,59,CO,7/9,2024-04-06
+Chennai,Satisfactory,65,CO,7/9,2024-04-07
+Chennai,Satisfactory,62,CO,7/9,2024-04-08
+Chennai,Satisfactory,62,CO,6/9,2024-04-09
+Chennai,Satisfactory,75,"CO, PM
+10",7/9,2024-04-10
+Chennai,Satisfactory,63,"CO, PM
+10",6/9,2024-04-11
+Chennai,Satisfactory,61,CO,7/9,2024-04-12
+Chennai,Satisfactory,62,CO,6/9,2024-04-13
+Chennai,Satisfactory,79,CO,6/9,2024-04-14
+Chennai,Satisfactory,67,CO,7/9,2024-04-15
+Chennai,Satisfactory,69,"CO, PM
+10",7/9,2024-04-16
+Chennai,Satisfactory,77,CO,7/9,2024-04-17
+Chennai,Satisfactory,54,CO,7/9,2024-04-18
+Chennai,Satisfactory,57,CO,6/9,2024-04-19
+Chennai,Satisfactory,58,CO,6/9,2024-04-20
+Chennai,Satisfactory,64,CO,5/9,2024-04-21
+Chennai,Satisfactory,56,CO,5/9,2024-04-22
+Chennai,Satisfactory,58,CO,7/9,2024-04-23
+Chennai,Satisfactory,58,CO,7/9,2024-04-24
+Chennai,Satisfactory,56,CO,6/9,2024-04-25
+Chennai,Satisfactory,60,CO,7/9,2024-04-26
+Chennai,Satisfactory,64,"PM , CO
+10",7/9,2024-04-27
+Chennai,Satisfactory,58,"PM , CO
+10",6/9,2024-04-28
+Chennai,Good,43,"PM , CO
+2.5",6/9,2024-04-29
+Chennai,Satisfactory,55,CO,7/9,2024-04-30
+Chennai,Satisfactory,59,"O , CO
+3",5/9,2024-05-01
+Chennai,Satisfactory,54,"PM , CO
+10",5/9,2024-05-02
+Chennai,Satisfactory,62,"O , CO
+3",7/9,2024-05-03
+Chennai,Satisfactory,60,"PM , O , CO
+10 3",5/9,2024-05-04
+Chennai,Satisfactory,57,"PM , CO
+10",7/9,2024-05-05
+Chennai,Satisfactory,59,"PM , CO
+10",6/9,2024-05-06
+Chennai,Satisfactory,61,"PM , CO
+10",7/9,2024-05-07
+Chennai,Satisfactory,62,"O , CO
+3",7/9,2024-05-08
+Chennai,Good,46,CO,7/9,2024-05-09
+Chennai,Satisfactory,51,"O , CO
+3",6/9,2024-05-10
+Chennai,Satisfactory,56,CO,6/9,2024-05-11
+Chennai,Good,50,"O , CO
+3",5/9,2024-05-12
+Chennai,Satisfactory,67,CO,6/9,2024-05-13
+Chennai,Satisfactory,56,"PM , CO
+10",6/9,2024-05-14
+Chennai,Satisfactory,62,"PM , CO
+10",6/9,2024-05-15
+Chennai,Satisfactory,55,"PM , CO
+10",6/9,2024-05-16
+Chennai,Satisfactory,59,CO,6/9,2024-05-17
+Chennai,Satisfactory,68,CO,6/9,2024-05-18
+Chennai,Satisfactory,63,CO,6/9,2024-05-19
+Chennai,Satisfactory,62,CO,6/9,2024-05-20
+Chennai,Satisfactory,66,CO,5/9,2024-05-21
+Chennai,Satisfactory,51,"PM , CO
+10",6/9,2024-05-22
+Chennai,Satisfactory,70,"PM , CO
+2.5",7/9,2024-05-23
+Chennai,Satisfactory,70,CO,6/9,2024-05-24
+Chennai,Satisfactory,77,"PM , CO
+10",7/9,2024-05-25
+Chennai,Satisfactory,85,"PM , CO
+10",4/9,2024-05-26
+Chennai,Satisfactory,86,"PM , CO
+10",4/9,2024-05-27
+Chennai,Satisfactory,97,"PM , PM , CO
+10 2.5",7/9,2024-05-28
+Chennai,Moderate,102,"PM , PM , CO
+10 2.5",7/9,2024-05-29
+Chennai,Satisfactory,84,"PM , CO
+2.5",7/9,2024-05-30
+Chennai,Satisfactory,85,"PM , PM , CO
+10 2.5",7/9,2024-05-31
+Chennai,Satisfactory,74,"PM , PM
+10 2.5",6/9,2024-06-01
+Chennai,Satisfactory,65,"O , PM , CO
+3 10",5/9,2024-06-02
+Chennai,Satisfactory,65,"PM , PM , CO
+2.5 10",4/9,2024-06-03
+Chennai,Satisfactory,65,"PM , CO
+10",5/9,2024-06-04
+Chennai,Satisfactory,59,"PM , CO
+10",6/9,2024-06-05
+Chennai,Satisfactory,59,"NO , CO
+2",7/9,2024-06-06
+Chennai,Satisfactory,62,"CO, O
+3",6/9,2024-06-07
+Chennai,Satisfactory,99,"CO, O
+3",6/9,2024-06-08
+Chennai,Satisfactory,65,CO,6/9,2024-06-09
+Chennai,Satisfactory,97,"CO, O
+3",6/9,2024-06-10
+Chennai,Satisfactory,74,"CO, O
+3",7/9,2024-06-11
+Chennai,Satisfactory,64,"CO, O
+3",7/9,2024-06-12
+Chennai,Satisfactory,72,"PM , CO, O
+10 3",5/9,2024-06-13
+Chennai,Satisfactory,65,"PM , CO, O
+10 3",7/9,2024-06-14
+Chennai,Satisfactory,76,"PM , CO
+10",7/9,2024-06-15
+Chennai,Satisfactory,77,"PM , PM
+2.5 10",6/9,2024-06-16
+Chennai,Satisfactory,62,CO,5/9,2024-06-17
+Chennai,Satisfactory,64,"PM , PM , O
+2.5 10 3",7/9,2024-06-18
+Chennai,Satisfactory,60,"PM , CO
+2.5",7/9,2024-06-19
+Chennai,Satisfactory,54,"CO, PM
+2.5",7/9,2024-06-20
+Chennai,Satisfactory,58,"PM , CO
+10",7/9,2024-06-21
+Chennai,Satisfactory,60,"CO, PM
+10",7/9,2024-06-22
+Chennai,Satisfactory,57,"CO, PM
+10",7/9,2024-06-23
+Chennai,Satisfactory,59,"PM , CO
+10",7/9,2024-06-24
+Chennai,Satisfactory,65,"CO, PM
+10",6/9,2024-06-25
+Chennai,Satisfactory,61,"CO, PM
+10",7/9,2024-06-26
+Chennai,Satisfactory,60,"PM , CO
+10",6/9,2024-06-27
+Chennai,Satisfactory,59,"CO, PM
+10",5/9,2024-06-28
+Chennai,Satisfactory,68,"PM , CO
+10",7/9,2024-06-29
+Chennai,Satisfactory,67,"CO, PM
+10",6/9,2024-06-30
+Chennai,Satisfactory,57,"CO, PM
+10",7/9,2024-07-01
+Chennai,Satisfactory,70,"PM , CO
+10",5/9,2024-07-02
+Chennai,Satisfactory,72,"PM , CO
+10",4/9,2024-07-03
+Chennai,Satisfactory,57,"CO, PM
+10",6/9,2024-07-04
+Chennai,Satisfactory,63,"PM , CO
+10",5/9,2024-07-05
+Chennai,Satisfactory,71,"CO, PM
+10",3/9,2024-07-06
+Chennai,Satisfactory,59,"CO, PM
+10",4/9,2024-07-07
+Chennai,Good,48,"CO, PM , O
+2.5 3",5/9,2024-07-08
+Chennai,Satisfactory,57,"PM , PM
+10 2.5",5/9,2024-07-09
+Chennai,Satisfactory,68,"CO, PM
+10",5/9,2024-07-10
+Chennai,Satisfactory,69,"CO, PM , PM
+2.5 10",6/9,2024-07-11
+Chennai,Satisfactory,73,"PM , PM , CO
+2.5 10",7/9,2024-07-12
+Chennai,Satisfactory,54,"PM , CO, PM
+2.5 10",4/9,2024-07-13
+Chennai,Satisfactory,63,"CO, PM
+2.5",5/9,2024-07-14
+Chennai,Satisfactory,54,"CO, O , PM
+3 2.5",6/9,2024-07-15
+Chennai,Good,48,"O , CO
+3",6/9,2024-07-16
+Chennai,Satisfactory,67,"PM , PM , CO
+2.5 10",7/9,2024-07-17
+Chennai,Satisfactory,62,"PM , PM , CO
+10 2.5",7/9,2024-07-18
+Chennai,Satisfactory,68,"CO, PM , O
+2.5 3",7/9,2024-07-19
+Chennai,Satisfactory,69,"PM , PM , CO
+10 2.5",7/9,2024-07-20
+Chennai,Satisfactory,95,"PM , PM
+10 2.5",7/9,2024-07-21
+Chennai,Satisfactory,94,"O , PM , CO
+3 2.5",7/9,2024-07-22
+Chennai,Satisfactory,93,"CO, PM , PM
+10 2.5",6/9,2024-07-23
+Chennai,Satisfactory,69,"PM , PM , CO
+10 2.5",6/9,2024-07-24
+Chennai,Satisfactory,68,"PM , PM , CO
+10 2.5",7/9,2024-07-25
+Chennai,Satisfactory,73,"PM , PM , CO
+2.5 10",7/9,2024-07-26
+Chennai,Satisfactory,77,"PM , PM , CO
+2.5 10",6/9,2024-07-27
+Chennai,Satisfactory,78,"PM , PM
+10 2.5",7/9,2024-07-28
+Chennai,Satisfactory,80,"PM , PM , CO
+10 2.5",7/9,2024-07-29
+Chennai,Satisfactory,77,"PM , PM , CO
+10 2.5",7/9,2024-07-30
+Chennai,Satisfactory,75,"PM , CO, PM
+2.5 10",6/9,2024-07-31
+Chennai,Satisfactory,78,"PM , CO, PM
+2.5 10",6/9,2024-08-01
+Chennai,Satisfactory,89,"PM , CO, PM
+10 2.5",5/9,2024-08-02
+Chennai,Satisfactory,72,"O , PM , CO
+3 2.5",7/9,2024-08-03
+Chennai,Satisfactory,60,"CO, PM
+2.5",7/9,2024-08-04
+Chennai,Satisfactory,65,"PM , CO
+2.5",7/9,2024-08-05
+Chennai,Satisfactory,72,"PM , CO
+2.5",6/9,2024-08-06
+Chennai,Satisfactory,68,"PM , CO
+2.5",6/9,2024-08-07
+Chennai,Satisfactory,64,"CO, PM
+2.5",7/9,2024-08-08
+Chennai,Satisfactory,55,"CO, PM , PM
+2.5 10",5/9,2024-08-09
+Chennai,Satisfactory,72,"CO, PM
+2.5",5/9,2024-08-10
+Chennai,Satisfactory,72,"PM , CO, PM
+2.5 10",6/9,2024-08-11
+Chennai,Satisfactory,72,"CO, PM
+2.5",6/9,2024-08-12
+Chennai,Satisfactory,75,"CO, PM
+2.5",6/9,2024-08-13
+Chennai,Satisfactory,76,"PM , CO
+2.5",6/9,2024-08-14
+Chennai,Satisfactory,81,"CO, PM
+2.5",5/9,2024-08-15
+Chennai,Satisfactory,62,"PM , CO
+2.5",8/9,2024-08-16
+Chennai,Satisfactory,66,"CO, PM
+2.5",8/9,2024-08-17
+Chennai,Satisfactory,82,"CO, PM
+2.5",7/9,2024-08-18
+Chennai,Satisfactory,65,"PM , CO
+2.5",8/9,2024-08-19
+Chennai,Satisfactory,60,"PM , PM , O
+10 2.5 3",6/9,2024-08-20
+Chennai,Satisfactory,82,"PM , PM , CO
+2.5 10",4/9,2024-08-21
+Chennai,Satisfactory,51,"PM , CO, O
+10 3",7/9,2024-08-22
+Chennai,Satisfactory,53,"PM , O
+2.5 3",7/9,2024-08-23
+Chennai,Good,49,"PM , PM
+2.5 10",6/9,2024-08-24
+Chennai,Satisfactory,59,"PM
+10",7/9,2024-08-25
+Chennai,Good,47,"PM
+10",7/9,2024-08-26
+Chennai,Satisfactory,51,"PM , CO
+10",7/9,2024-08-27
+Chennai,Good,49,"PM
+10",7/9,2024-08-28
+Chennai,Good,47,"PM , CO, PM
+10 2.5",8/9,2024-08-29
+Chennai,Good,45,"PM , PM
+10 2.5",7/9,2024-08-30
+Chennai,Good,41,"CO, PM
+2.5",6/9,2024-08-31
+Chennai,Good,44,"PM , PM
+2.5 10",7/9,2024-09-01
+Chennai,Good,42,"PM , PM
+10 2.5",7/9,2024-09-02
+Chennai,Good,50,"PM , PM
+10 2.5",7/9,2024-09-03
+Chennai,Good,44,"PM , PM
+2.5 10",7/9,2024-09-04
+Chennai,Satisfactory,62,"PM
+10",8/9,2024-09-05
+Chennai,Satisfactory,55,"PM
+10",8/9,2024-09-06
+Chennai,Satisfactory,67,"PM
+10",7/9,2024-09-07
+Chennai,Good,48,"PM , PM
+10 2.5",7/9,2024-09-08
+Chennai,Satisfactory,56,"PM
+10",8/9,2024-09-09
+Chennai,Satisfactory,55,"PM , PM
+2.5 10",8/9,2024-09-10
+Chennai,Satisfactory,62,"PM
+10",8/9,2024-09-11
+Chennai,Satisfactory,58,"PM , PM
+10 2.5",8/9,2024-09-12
+Chennai,Satisfactory,53,"PM , PM
+10 2.5",7/9,2024-09-13
+Chennai,Satisfactory,51,"PM , PM
+10 2.5",7/9,2024-09-14
+Chennai,Good,50,"PM
+10",6/9,2024-09-15
+Chennai,Good,47,"PM , PM
+10 2.5",6/9,2024-09-16
+Chennai,Satisfactory,51,"PM , PM
+10 2.5",7/9,2024-09-17
+Chennai,Good,49,"PM , O , PM
+2.5 3 10",6/9,2024-09-18
+Chennai,Satisfactory,72,"CO, PM
+10",8/9,2024-09-19
+Chennai,Satisfactory,92,"PM , PM
+10 2.5",8/9,2024-09-20
+Chennai,Satisfactory,63,"PM , PM
+2.5 10",8/9,2024-09-21
+Chennai,Satisfactory,56,"PM , CO
+10",6/9,2024-09-22
+Chennai,Satisfactory,51,"PM , PM
+2.5 10",8/9,2024-09-23
+Chennai,Satisfactory,59,"CO, PM
+10",7/9,2024-09-24
+Chennai,Satisfactory,58,"CO, PM
+10",8/9,2024-09-25
+Chennai,Satisfactory,56,"CO, PM
+10",8/9,2024-09-26
+Chennai,Satisfactory,67,"PM , PM
+10 2.5",8/9,2024-09-27
+Chennai,Satisfactory,72,"PM
+10",8/9,2024-09-28
+Chennai,Satisfactory,51,"PM , CO
+10",7/9,2024-09-29
+Chennai,Good,44,"PM , CO
+10",8/9,2024-09-30
+Chennai,Good,46,"CO, PM
+10",8/9,2024-10-01
+Chennai,Satisfactory,55,"CO, PM
+10",7/9,2024-10-02
+Chennai,Satisfactory,52,"PM , CO
+10",8/9,2024-10-03
+Chennai,Satisfactory,69,"CO, PM
+10",6/9,2024-10-04
+Chennai,Satisfactory,58,"PM , CO
+10",6/9,2024-10-05
+Chennai,Satisfactory,70,"PM
+10",7/9,2024-10-06
+Chennai,Satisfactory,51,"PM , CO
+10",6/9,2024-10-07
+Chennai,Good,44,"PM , PM , CO
+2.5 10",7/9,2024-10-08
+Chennai,Good,35,"CO, PM , O
+10 3",7/9,2024-10-09
+Chennai,Good,37,"PM , PM
+2.5 10",7/9,2024-10-10
+Chennai,Satisfactory,51,"PM , CO, PM
+10 2.5",8/9,2024-10-11
+Chennai,Good,30,"CO, PM , PM
+2.5 10",7/9,2024-10-12
+Chennai,Good,30,"PM , O , PM
+10 3 2.5",7/9,2024-10-13
+Chennai,Good,36,"PM , CO, PM
+10 2.5",8/9,2024-10-14
+Chennai,Good,45,"CO, PM , PM
+2.5 10",7/9,2024-10-15
+Chennai,Good,50,CO,2/9,2024-10-16
+Chennai,Good,43,"CO, PM
+2.5",6/9,2024-10-17
+Chennai,Satisfactory,66,"PM , CO
+2.5",6/9,2024-10-18
+Chennai,Satisfactory,64,"PM , CO
+2.5",8/9,2024-10-19
+Chennai,Satisfactory,51,"CO, PM
+10",8/9,2024-10-20
+Chennai,Good,44,"CO, NO , PM
+2 10",8/9,2024-10-21
+Chennai,Satisfactory,55,"PM , PM
+10 2.5",8/9,2024-10-22
+Chennai,Satisfactory,69,"PM , PM
+10 2.5",6/9,2024-10-23
+Chennai,Moderate,102,"PM , PM
+10 2.5",7/9,2024-10-24
+Chennai,Moderate,102,"PM , PM
+2.5 10",7/9,2024-10-25
+Chennai,Satisfactory,92,"PM , PM
+2.5 10",8/9,2024-10-26
+Chennai,Moderate,119,"PM , PM
+2.5 10",8/9,2024-10-27
+Chennai,Moderate,131,"PM , PM
+2.5 10",7/9,2024-10-28
+Chennai,Satisfactory,90,"PM , PM
+2.5 10",7/9,2024-10-29
+Chennai,Moderate,117,"PM , PM
+10 2.5",8/9,2024-10-30
+Chennai,Poor,213,"PM
+2.5",7/9,2024-10-31
+Chennai,Moderate,142,"PM , PM
+2.5 10",6/9,2024-11-01
+Chennai,Satisfactory,71,"CO, PM , PM
+10 2.5",7/9,2024-11-02
+Chennai,Satisfactory,72,"PM , PM , CO
+10 2.5",8/9,2024-11-03
+Chennai,Satisfactory,56,"PM , CO, PM
+2.5 10",8/9,2024-11-04
+Chennai,Satisfactory,90,"PM , PM
+10 2.5",8/9,2024-11-05
+Chennai,Moderate,107,"PM
+2.5",6/9,2024-11-06
+Chennai,Satisfactory,51,"CO, PM
+10",8/9,2024-11-07
+Chennai,Good,50,"PM , CO, PM
+2.5 10",8/9,2024-11-08
+Chennai,Satisfactory,57,"PM , CO
+10",8/9,2024-11-09
+Chennai,Satisfactory,85,"PM , PM
+2.5 10",8/9,2024-11-10
+Chennai,Satisfactory,99,"PM , PM
+2.5 10",8/9,2024-11-11
+Chennai,Satisfactory,60,"CO, PM , PM
+10 2.5",7/9,2024-11-12
+Chennai,Good,42,"PM , CO, PM
+2.5 10",8/9,2024-11-13
+Chennai,Good,44,"PM , CO
+2.5",8/9,2024-11-14
+Chennai,Good,45,"PM , CO, PM
+10 2.5",8/9,2024-11-15
+Chennai,Satisfactory,53,"PM , CO, PM
+2.5 10",7/9,2024-11-16
+Chennai,Moderate,124,"PM , PM
+2.5 10",8/9,2024-11-17
+Chennai,Moderate,124,"PM , PM
+10 2.5",8/9,2024-11-18
+Chennai,Moderate,126,"PM , PM
+2.5 10",8/9,2024-11-19
+Chennai,Moderate,112,"PM , PM
+2.5 10",8/9,2024-11-20
+Chennai,Moderate,114,"PM , PM
+10 2.5",8/9,2024-11-21
+Chennai,Moderate,134,"PM , PM
+2.5 10",8/9,2024-11-22
+Chennai,Moderate,138,"PM
+2.5",8/9,2024-11-23
+Chennai,Satisfactory,88,"PM , PM
+2.5 10",8/9,2024-11-24
+Chennai,Moderate,114,"PM
+2.5",8/9,2024-11-25
+Chennai,Moderate,129,"PM
+2.5",8/9,2024-11-26
+Chennai,Moderate,133,"PM
+2.5",8/9,2024-11-27
+Chennai,Moderate,134,"PM
+2.5",8/9,2024-11-28
+Chennai,Moderate,103,"PM
+2.5",7/9,2024-11-29
+Chennai,Satisfactory,64,"CO, O , PM
+3 2.5",8/9,2024-11-30
+Chennai,Good,24,"PM , CO
+10",2/9,2024-12-01
+Chennai,Good,40,"PM , CO
+10",5/9,2024-12-02
+Chennai,Satisfactory,53,"PM , PM
+10 2.5",8/9,2024-12-03
+Chennai,Good,45,"O , PM
+3 10",8/9,2024-12-04
+Chennai,Good,38,"PM , CO
+10",8/9,2024-12-05
+Chennai,Satisfactory,56,"PM , CO
+10",8/9,2024-12-06
+Chennai,Good,44,"CO, PM
+10",8/9,2024-12-07
+Chennai,Good,49,"PM
+10",8/9,2024-12-08
+Chennai,Satisfactory,75,"PM , PM
+2.5 10",8/9,2024-12-09
+Chennai,Satisfactory,89,"PM
+2.5",8/9,2024-12-10
+Chennai,Satisfactory,76,"PM
+2.5",7/9,2024-12-11
+Chennai,Good,46,"PM
+2.5",6/9,2024-12-12
+Chennai,Satisfactory,80,"PM
+2.5",6/9,2024-12-13
+Chennai,Satisfactory,96,"PM
+2.5",8/9,2024-12-14
+Chennai,Satisfactory,81,"PM
+2.5",8/9,2024-12-15
+Chennai,Satisfactory,99,"PM
+2.5",7/9,2024-12-16
+Chennai,Satisfactory,97,"PM
+2.5",7/9,2024-12-17
+Chennai,Moderate,120,"PM
+2.5",7/9,2024-12-18
+Chennai,Satisfactory,85,"PM , PM
+2.5 10",5/9,2024-12-19
+Chennai,Good,47,"PM , PM
+10 2.5",6/9,2024-12-20
+Chennai,Good,50,"PM , CO
+10",7/9,2024-12-21
+Chennai,Good,41,"PM , PM
+10 2.5",7/9,2024-12-22
+Chennai,Good,46,"PM
+10",6/9,2024-12-23
+Chennai,Good,39,"CO, PM
+10",5/9,2024-12-24
+Chennai,Good,44,"CO, PM
+10",7/9,2024-12-25
+Chennai,Good,41,"CO, PM , PM
+10 2.5",7/9,2024-12-26
+Chennai,Good,36,"PM , CO
+10",7/9,2024-12-27
+Chennai,Satisfactory,55,"PM
+10",8/9,2024-12-28
+Chennai,Satisfactory,79,"PM , PM
+10 2.5",8/9,2024-12-29
+Chennai,Satisfactory,96,"PM , PM
+10 2.5",8/9,2024-12-30
+Chennai,Moderate,104,"PM , PM
+2.5 10",8/9,2024-12-31
+Chennai,Moderate,113,"PM
+2.5",8/9,2025-01-02
+Chennai,Moderate,114,"PM
+2.5",8/9,2025-01-03
+Chennai,Moderate,152,"PM
+2.5",7/9,2025-01-04
+Chennai,Moderate,152,"PM
+2.5",8/9,2025-01-05
+Chennai,Moderate,151,"PM
+2.5",8/9,2025-01-06
+Chennai,Moderate,144,"PM
+2.5",8/9,2025-01-07
+Chennai,Moderate,121,"PM , PM
+2.5 10",7/9,2025-01-08
+Chennai,Moderate,120,"PM , PM
+2.5 10",8/9,2025-01-09
+Chennai,Moderate,121,"PM , PM
+2.5 10",8/9,2025-01-10
+Chennai,Satisfactory,73,"PM
+10",7/9,2025-01-11
+Chennai,Satisfactory,79,"PM
+10",7/9,2025-01-12
+Chennai,Satisfactory,99,"PM
+2.5",7/9,2025-01-13
+Chennai,Good,50,"CO, O , PM
+3 10",6/9,2025-01-14
+Chennai,Good,36,"O , CO, PM
+3 2.5",6/9,2025-01-15
+Chennai,Satisfactory,70,"PM
+10",6/9,2025-01-16
+Chennai,Moderate,122,"PM , PM
+10 2.5",6/9,2025-01-17
+Chennai,Moderate,108,"PM , PM
+10 2.5",5/9,2025-01-18
+Chennai,Satisfactory,61,"PM , PM
+2.5 10",6/9,2025-01-19
+Chennai,Satisfactory,83,"PM , PM
+2.5 10",7/9,2025-01-20
+Chennai,Moderate,112,"PM
+2.5",6/9,2025-01-21
+Chennai,Moderate,110,"PM
+2.5",7/9,2025-01-22
+Chennai,Satisfactory,93,"PM , PM
+2.5 10",7/9,2025-01-23
+Chennai,Satisfactory,62,"PM
+10",7/9,2025-01-24
+Chennai,Satisfactory,76,"PM
+10",7/9,2025-01-25
+Chennai,Satisfactory,67,"PM
+10",7/9,2025-01-26
+Chennai,Satisfactory,73,"PM
+10",7/9,2025-01-27
+Chennai,Moderate,107,"PM , PM
+10 2.5",7/9,2025-01-28
+Chennai,Moderate,135,"PM
+2.5",7/9,2025-01-29
+Chennai,Moderate,106,"PM , PM
+10 2.5",7/9,2025-01-30
+Chennai,Satisfactory,69,"PM
+10",7/9,2025-01-31
+Chennai,Satisfactory,56,"PM , CO
+10",8/9,2025-02-01
+Chennai,Satisfactory,60,"CO, PM
+10",7/9,2025-02-02
+Chennai,Satisfactory,63,"CO, PM
+10",7/9,2025-02-03
+Chennai,Satisfactory,76,"PM
+10",8/9,2025-02-04
+Chennai,Satisfactory,87,"CO, PM
+10",8/9,2025-02-05
+Chennai,Satisfactory,88,"PM , CO
+10",8/9,2025-02-06
+Chennai,Moderate,122,"PM
+2.5",7/9,2025-02-07
+Chennai,Moderate,128,"PM , PM
+2.5 10",8/9,2025-02-08
+Chennai,Moderate,104,"PM , PM
+10 2.5",8/9,2025-02-09
+Chennai,Moderate,118,"PM , PM
+10 2.5",8/9,2025-02-10
+Chennai,Moderate,103,"PM , PM
+2.5 10",8/9,2025-02-11
+Chennai,Satisfactory,91,"CO, PM
+10",8/9,2025-02-12
+Chennai,Satisfactory,83,"PM
+10",8/9,2025-02-13
+Chennai,Satisfactory,65,"PM
+10",8/9,2025-02-14
+Chennai,Satisfactory,70,"PM
+10",8/9,2025-02-15
+Chennai,Satisfactory,68,"CO, PM
+10",8/9,2025-02-16
+Chennai,Satisfactory,82,"PM , PM , CO
+2.5 10",8/9,2025-02-17
+Chennai,Moderate,104,"PM , PM
+2.5 10",8/9,2025-02-18
+Chennai,Satisfactory,92,"PM , CO
+10",8/9,2025-02-19
+Chennai,Satisfactory,72,"PM , PM
+2.5 10",6/9,2025-02-20
+Chennai,Satisfactory,68,"PM , PM
+2.5 10",6/9,2025-02-21
+Chennai,Satisfactory,70,"PM , PM
+10 2.5",6/9,2025-02-22
+Chennai,Satisfactory,63,"PM , PM
+2.5 10",6/9,2025-02-23
+Chennai,Satisfactory,71,"PM , PM
+2.5 10",4/9,2025-02-24
+Chennai,Satisfactory,70,"PM , PM
+10 2.5",5/9,2025-02-25
+Chennai,Satisfactory,88,"PM , PM
+2.5 10",6/9,2025-02-26
+Chennai,Satisfactory,85,"PM , PM
+10 2.5",6/9,2025-02-27
+Chennai,Satisfactory,81,"CO, PM
+10",7/9,2025-02-28
+Chennai,Satisfactory,65,"CO, PM
+10",5/9,2025-03-01
+Chennai,Good,46,"PM , CO
+10",7/9,2025-03-02
+Chennai,Satisfactory,58,"PM , PM
+2.5 10",7/9,2025-03-03
+Chennai,Good,50,"PM
+10",6/9,2025-03-04
+Chennai,Satisfactory,54,"CO, PM
+10",8/9,2025-03-05
+Chennai,Satisfactory,64,"O , PM , CO
+3 10",8/9,2025-03-06
+Chennai,Moderate,134,"PM
+10",7/9,2025-03-07
+Chennai,Moderate,101,"PM , PM
+10 2.5",7/9,2025-03-08
+Chennai,Satisfactory,84,"PM , PM
+10 2.5",6/9,2025-03-09
+Chennai,Satisfactory,56,"PM
+10",6/9,2025-03-10
+Chennai,Satisfactory,62,"PM , CO
+10",8/9,2025-03-11
+Chennai,Satisfactory,77,"PM , PM , NO
+2.5 10 2",6/9,2025-03-12
+Chennai,Satisfactory,77,"O , CO, PM
+3 10",7/9,2025-03-13
+Chennai,Satisfactory,55,"CO, PM
+10",7/9,2025-03-14
+Chennai,Good,41,"CO, PM
+10",6/9,2025-03-15
+Chennai,Satisfactory,51,"PM , CO
+2.5",7/9,2025-03-16
+Chennai,Satisfactory,55,"PM , CO
+2.5",7/9,2025-03-17
+Chennai,Good,49,"PM , CO
+10",6/9,2025-03-18
+Chennai,Good,41,"PM , CO
+10",7/9,2025-03-19
+Chennai,Good,46,"PM , CO
+10",7/9,2025-03-20
+Chennai,Good,46,"CO, O
+3",7/9,2025-03-21
+Chennai,Satisfactory,52,CO,7/9,2025-03-22
+Chennai,Satisfactory,52,"O , CO
+3",7/9,2025-03-23
+Chennai,Satisfactory,64,"O , CO
+3",7/9,2025-03-24
+Chennai,Satisfactory,66,"PM , CO, PM
+10 2.5",7/9,2025-03-25
+Chennai,Satisfactory,70,"O , PM
+3 10",7/9,2025-03-26
+Chennai,Satisfactory,77,"PM , CO
+10",6/9,2025-03-27
+Chennai,Satisfactory,93,"PM , PM
+2.5 10",5/9,2025-03-28
+Chennai,Satisfactory,66,"CO, PM
+10",7/9,2025-03-29
+Chennai,Satisfactory,67,"PM
+10",7/9,2025-03-30
+Chennai,Satisfactory,66,"PM , CO
+10",7/9,2025-03-31
+Chennai,Satisfactory,78,"PM , PM
+2.5 10",7/9,2025-04-01
+Chennai,Satisfactory,68,"O , PM
+3 10",7/9,2025-04-02
+Chennai,Good,50,CO,7/9,2025-04-03
+Chennai,Satisfactory,56,"CO, PM , O
+10 3",6/9,2025-04-04
+Chennai,Good,48,"PM , PM
+10 2.5",7/9,2025-04-05
+Chennai,Satisfactory,54,"PM , CO
+10",7/9,2025-04-06
+Chennai,Satisfactory,64,"O , CO
+3",7/9,2025-04-07
+Chennai,Good,49,"CO, PM
+10",7/9,2025-04-08
+Chennai,Good,46,"PM , CO
+10",7/9,2025-04-09
+Chennai,Satisfactory,58,"CO, PM
+10",7/9,2025-04-10
+Chennai,Satisfactory,67,"PM , CO
+10",7/9,2025-04-11
+Chennai,Satisfactory,65,"PM
+10",5/9,2025-04-12
+Chennai,Satisfactory,59,"PM , PM
+10 2.5",4/9,2025-04-13
+Chennai,Satisfactory,72,"PM , PM
+2.5 10",3/9,2025-04-14
+Chennai,Good,47,"O , PM , CO
+3 10",4/9,2025-04-15
+Chennai,Good,50,"PM , PM
+2.5 10",4/9,2025-04-16
+Chennai,Satisfactory,67,"PM , CO
+10",5/9,2025-04-17
+Chennai,Satisfactory,61,"PM , CO
+10",5/9,2025-04-18
+Chennai,Satisfactory,66,"PM , CO
+10",4/9,2025-04-19
+Chennai,Satisfactory,70,"PM , CO
+10",5/9,2025-04-20
+Chennai,Satisfactory,55,"PM , PM
+2.5 10",4/9,2025-04-21
+Chennai,Satisfactory,58,"PM , NO , CO
+10 2",6/9,2025-04-22
+Chennai,Satisfactory,58,"CO, PM , NH
+10 3",7/9,2025-04-23
+Chennai,Good,50,"PM , PM , CO
+2.5 10",7/9,2025-04-24
+Chennai,Satisfactory,57,"CO, PM , PM
+10 2.5",7/9,2025-04-25
+Chennai,Good,48,"PM
+10",6/9,2025-04-26
+Chennai,Good,46,"O , CO, PM
+3 10",5/9,2025-04-27
+Chennai,Good,35,"CO, O , PM
+3 10",7/9,2025-04-28
+Chennai,Good,42,"CO, PM
+10",7/9,2025-04-29
+Chennai,Good,46,"CO, O , PM
+3 10",7/9,2025-04-30
+Chennai,Satisfactory,70,"CO, PM
+10",7/9,2025-05-01
+Chennai,Good,46,"PM
+10",7/9,2025-05-02
+Chennai,Good,50,"PM
+10",6/9,2025-05-03
+Chennai,Satisfactory,56,"PM , PM
+2.5 10",6/9,2025-05-04
+Chennai,Satisfactory,56,"PM , PM
+2.5 10",4/9,2025-05-05
+Chennai,Satisfactory,53,"CO, PM
+10",6/9,2025-05-06
+Chennai,Satisfactory,58,"PM , PM
+10 2.5",7/9,2025-05-07
+Chennai,Satisfactory,60,"PM , PM
+10 2.5",7/9,2025-05-08
+Chennai,Satisfactory,78,"PM , PM
+2.5 10",6/9,2025-05-09
+Chennai,Satisfactory,63,"PM , PM
+10 2.5",6/9,2025-05-10
+Chennai,Satisfactory,71,"PM , PM
+10 2.5",7/9,2025-05-11
+Chennai,Satisfactory,71,"PM , PM
+10 2.5",7/9,2025-05-12
+Chennai,Satisfactory,76,"PM , PM
+10 2.5",7/9,2025-05-13
+Chennai,Satisfactory,76,"O , PM , PM
+3 2.5 10",7/9,2025-05-14
+Chennai,Satisfactory,66,"PM , PM
+2.5 10",6/9,2025-05-15
+Chennai,Moderate,103,"O , PM
+3 10",6/9,2025-05-16
+Chennai,Satisfactory,65,"O , PM
+3 10",6/9,2025-05-17
+Chennai,Satisfactory,75,"PM , PM , O
+10 2.5 3",7/9,2025-05-18
+Chennai,Satisfactory,83,"CO, O , PM
+3 2.5",7/9,2025-05-19
+Chennai,Moderate,106,"O , PM , PM
+3 10 2.5",5/9,2025-05-20
+Chennai,Good,47,"PM , O
+10 3",6/9,2025-05-21
+Chennai,Satisfactory,73,"PM
+10",6/9,2025-05-22
+Chennai,Satisfactory,79,"PM
+10",7/9,2025-05-23
+Chennai,Good,50,"PM , PM
+2.5 10",6/9,2025-05-24
+Chennai,Good,47,"PM , PM , O
+2.5 10 3",5/9,2025-05-25
+Chennai,Good,43,"PM , PM
+2.5 10",5/9,2025-05-26
+Chennai,Satisfactory,52,"PM , PM
+10 2.5",5/9,2025-05-27
+Chennai,Satisfactory,64,"PM , PM
+10 2.5",6/9,2025-05-28
+Chennai,Satisfactory,58,"PM , PM
+2.5 10",6/9,2025-05-29
+Chennai,Satisfactory,62,"PM , CO
+10",5/9,2025-05-30
+Chennai,Satisfactory,55,"O , PM , PM
+3 10 2.5",6/9,2025-05-31
+Chennai,Satisfactory,94,"O , PM
+3 10",6/9,2025-06-01
+Chennai,Satisfactory,67,"PM , O
+10 3",6/9,2025-06-02
+Chennai,Satisfactory,68,"PM , CO
+10",7/9,2025-06-03
+Chennai,Satisfactory,56,"PM , PM
+2.5 10",6/9,2025-06-04
+Chennai,Satisfactory,71,"PM , O , PM
+10 3 2.5",7/9,2025-06-05
+Chennai,Satisfactory,83,"PM , PM
+2.5 10",6/9,2025-06-06
+Chennai,Satisfactory,84,"PM , PM
+2.5 10",7/9,2025-06-07
+Chennai,Satisfactory,74,"PM , PM
+2.5 10",7/9,2025-06-08
+Chennai,Good,49,"PM , PM
+2.5 10",7/9,2025-06-09
+Chennai,Satisfactory,99,"PM , O , PM
+10 3 2.5",7/9,2025-06-10
+Chennai,Satisfactory,64,"O , PM
+3 2.5",7/9,2025-06-11
+Chennai,Satisfactory,59,"PM , CO
+10",7/9,2025-06-12
+Chennai,Satisfactory,57,"CO, PM
+10",6/9,2025-06-13
+Chennai,Satisfactory,51,"CO, PM
+10",7/9,2025-06-14
+Chennai,Satisfactory,53,"CO, PM
+10",7/9,2025-06-15
+Chennai,Satisfactory,56,"PM , O
+10 3",8/9,2025-06-16
+Chennai,Satisfactory,66,"PM , PM
+10 2.5",7/9,2025-06-17
+Chennai,Satisfactory,68,"PM
+10",8/9,2025-06-18
+Chennai,Satisfactory,76,"O , PM , PM
+3 2.5 10",8/9,2025-06-19
+Chennai,Moderate,117,"PM
+10",8/9,2025-06-20
+Chennai,Moderate,103,"PM , O
+10 3",6/9,2025-06-21
+Chennai,Moderate,101,"PM , O
+10 3",7/9,2025-06-22
+Chennai,Satisfactory,72,"PM , O
+10 3",6/9,2025-06-23
+Chennai,Satisfactory,81,"PM , O
+10 3",7/9,2025-06-24
+Chennai,Satisfactory,83,"CO, PM
+10",7/9,2025-06-25
+Chennai,Satisfactory,77,"O , PM
+3 10",7/9,2025-06-26
+Chennai,Satisfactory,75,"O , PM
+3 10",7/9,2025-06-27
+Chennai,Satisfactory,84,"O , PM
+3 10",7/9,2025-06-28
+Chennai,Satisfactory,65,"PM
+10",7/9,2025-06-29
+Chennai,Satisfactory,75,"PM , O
+10 3",7/9,2025-06-30
+Chennai,Satisfactory,76,"O , PM
+3 10",7/9,2025-07-01
+Chennai,Satisfactory,85,"PM
+10",7/9,2025-07-02
+Chennai,Satisfactory,82,"O , PM
+3 10",6/9,2025-07-03
+Chennai,Satisfactory,67,"PM
+10",7/9,2025-07-04
+Chennai,Satisfactory,68,"PM , CO
+10",8/9,2025-07-05
+Chennai,Satisfactory,68,"PM
+10",7/9,2025-07-06
+Chennai,Satisfactory,64,"PM
+10",7/9,2025-07-07
+Chennai,Satisfactory,100,"PM , CO
+10",8/9,2025-07-08
+Chennai,Satisfactory,69,"PM , CO
+10",8/9,2025-07-09
+Chennai,Satisfactory,80,"PM
+10",7/9,2025-07-10
+Chennai,Satisfactory,78,"PM , PM
+2.5 10",8/9,2025-07-11
+Chennai,Satisfactory,73,"CO, PM
+10",8/9,2025-07-12
+Chennai,Satisfactory,76,"CO, PM
+10",8/9,2025-07-13
+Chennai,Satisfactory,68,"CO, O , PM
+3 10",8/9,2025-07-14
+Chennai,Satisfactory,75,"PM , CO
+10",8/9,2025-07-15
+Chennai,Satisfactory,69,"CO, PM
+10",8/9,2025-07-16
+Chennai,Satisfactory,63,"CO, PM , PM
+2.5 10",7/9,2025-07-17
+Chennai,Satisfactory,51,"PM , O
+10 3",7/9,2025-07-18
+Chennai,Satisfactory,60,"PM , CO
+10",8/9,2025-07-19
+Chennai,Satisfactory,57,"CO, PM
+10",8/9,2025-07-20
+Chennai,Satisfactory,55,"O , PM , CO
+3 10",7/9,2025-07-21
+Chennai,Satisfactory,66,"PM , CO
+10",7/9,2025-07-22
+Chennai,Satisfactory,61,"CO, PM
+10",8/9,2025-07-23
+Chennai,Satisfactory,66,"PM , CO
+10",8/9,2025-07-24
+Chennai,Satisfactory,82,"PM
+10",8/9,2025-07-25
+Chennai,Satisfactory,82,"PM
+10",7/9,2025-07-26
+Chennai,Satisfactory,65,"PM , CO
+10",7/9,2025-07-27
+Chennai,Satisfactory,65,"CO, PM
+10",7/9,2025-07-28
+Chennai,Satisfactory,78,"PM
+10",8/9,2025-07-29
+Chennai,Satisfactory,68,"PM
+10",7/9,2025-07-30
+Chennai,Satisfactory,100,"PM
+10",6/9,2025-07-31
+Chennai,Satisfactory,84,"PM
+10",6/9,2025-08-01
+Chennai,Satisfactory,79,"PM
+10",7/9,2025-08-02
+Chennai,Satisfactory,82,"PM
+10",6/9,2025-08-03
+Chennai,Satisfactory,60,"PM , CO
+10",7/9,2025-08-04
+Chennai,Satisfactory,65,"PM
+10",6/9,2025-08-05
+Chennai,Satisfactory,57,"PM , CO
+10",8/9,2025-08-06
+Chennai,Satisfactory,79,"CO, PM
+10",8/9,2025-08-07
+Chennai,Satisfactory,72,"PM , CO
+10",7/9,2025-08-08
+Chennai,Satisfactory,98,"CO, PM
+10",8/9,2025-08-09
+Chennai,Satisfactory,62,"PM
+10",8/9,2025-08-10
+Chennai,Satisfactory,53,"PM , CO
+10",8/9,2025-08-11
+Chennai,Satisfactory,60,"PM
+10",7/9,2025-08-12
+Chennai,Satisfactory,69,"CO, PM
+10",7/9,2025-08-13
+Chennai,Satisfactory,74,"PM , PM
+10 2.5",8/9,2025-08-14
+Chennai,Satisfactory,84,"PM , CO
+10",6/9,2025-08-15
+Chennai,Satisfactory,70,"CO, PM
+10",6/9,2025-08-16
+Chennai,Satisfactory,62,"CO, PM
+10",5/9,2025-08-17
+Chennai,Good,44,"PM
+10",5/9,2025-08-18
+Chennai,Satisfactory,74,"CO, PM
+10",7/9,2025-08-19
+Chennai,Satisfactory,96,"PM , CO
+10",7/9,2025-08-20
+Chennai,Satisfactory,75,"PM
+10",7/9,2025-08-21
+Chennai,Satisfactory,62,"PM
+10",7/9,2025-08-22
+Chennai,Satisfactory,57,"PM , CO
+10",6/9,2025-08-23
+Chennai,Satisfactory,66,"PM
+10",7/9,2025-08-24
+Chennai,Satisfactory,68,"PM
+10",5/9,2025-08-25
+Chennai,Satisfactory,82,"PM
+10",6/9,2025-08-26
+Chennai,Satisfactory,84,"PM
+10",6/9,2025-08-27
+Chennai,Satisfactory,61,"PM
+10",7/9,2025-08-28
+Chennai,Satisfactory,74,"PM
+10",7/9,2025-08-29
+Chennai,Satisfactory,72,"PM
+10",7/9,2025-08-30
+Chennai,Satisfactory,59,"PM
+10",7/9,2025-08-31
+Chennai,Satisfactory,56,"PM , CO
+10",6/9,2025-09-01
+Chennai,Satisfactory,83,"PM
+10",7/9,2025-09-02
+Chennai,Satisfactory,67,"CO, PM
+10",7/9,2025-09-03
+Chennai,Satisfactory,64,"PM
+10",6/9,2025-09-04
+Chennai,Satisfactory,68,"CO, PM
+10",6/9,2025-09-05
+Chennai,Satisfactory,61,"PM
+10",7/9,2025-09-06
+Chennai,Satisfactory,68,"PM
+10",7/9,2025-09-07
+Chennai,Satisfactory,76,"PM
+10",6/9,2025-09-08
+Chennai,Satisfactory,84,"PM , CO
+10",6/9,2025-09-09
+Chennai,Satisfactory,86,"CO, PM
+10",6/9,2025-09-10
+Chennai,Satisfactory,65,"PM , CO
+10",7/9,2025-09-11
+Chennai,Satisfactory,79,"PM , CO
+10",8/9,2025-09-12
+Chennai,Satisfactory,81,"PM
+10",7/9,2025-09-13
+Chennai,Satisfactory,75,"PM
+10",7/9,2025-09-14
+Chennai,Satisfactory,66,"PM
+10",7/9,2025-09-15
+Chennai,Satisfactory,70,"PM , CO
+10",7/9,2025-09-16
+Chennai,Satisfactory,62,"CO, PM
+10",7/9,2025-09-17
+Chennai,Satisfactory,52,"PM , CO
+10",6/9,2025-09-18
+Chennai,Satisfactory,51,"CO, PM
+10",6/9,2025-09-19
+Chennai,Satisfactory,57,"PM , CO
+10",8/9,2025-09-20
+Chennai,Satisfactory,68,"PM
+10",7/9,2025-09-21
+Chennai,Good,50,"PM , CO
+10",7/9,2025-09-22
+Chennai,Satisfactory,71,"PM
+10",8/9,2025-09-23
+Chennai,Satisfactory,73,"CO, PM
+10",8/9,2025-09-24
+Chennai,Satisfactory,71,"PM
+10",7/9,2025-09-25
+Chennai,Satisfactory,62,"CO, PM
+10",7/9,2025-09-26
+Chennai,Satisfactory,69,"PM , O
+10 3",7/9,2025-09-27
+Chennai,Satisfactory,60,"PM , O
+10 3",7/9,2025-09-28
+Chennai,Satisfactory,79,"O , PM
+3 10",7/9,2025-09-29
+Chennai,Satisfactory,66,"PM
+10",8/9,2025-09-30
+Chennai,Moderate,106,"PM , PM
+10 2.5",8/9,2025-10-01
+Chennai,Satisfactory,70,"PM
+10",8/9,2025-10-02
+Chennai,Satisfactory,66,"PM , CO
+10",7/9,2025-10-03
+Chennai,Satisfactory,61,"CO, PM
+10",6/9,2025-10-04
+Chennai,Satisfactory,63,"PM
+10",7/9,2025-10-05
+Chennai,Satisfactory,53,"PM , CO
+10",7/9,2025-10-06
+Chennai,Satisfactory,89,"PM , CO
+10",5/9,2025-10-07
+Chennai,Satisfactory,74,"PM
+10",4/9,2025-10-08
+Chennai,Satisfactory,77,"PM , CO
+10",4/9,2025-10-09
+Chennai,Satisfactory,63,"PM
+10",5/9,2025-10-10
+Chennai,Satisfactory,75,"PM
+10",6/9,2025-10-11
+Chennai,Satisfactory,98,"PM
+10",5/9,2025-10-12
+Chennai,Satisfactory,92,"PM
+10",4/9,2025-10-13
+Chennai,Satisfactory,54,"PM
+10",6/9,2025-10-14
+Chennai,Satisfactory,52,"PM , CO
+10",6/9,2025-10-15
+Chennai,Satisfactory,60,"PM , O
+10 3",7/9,2025-10-16
+Chennai,Good,50,"SO , PM , CO
+2 10",7/9,2025-10-17
+Chennai,Satisfactory,78,"CO, PM
+10",5/9,2025-10-18
+Chennai,Moderate,109,"PM
+2.5",7/9,2025-10-19
+Chennai,Satisfactory,80,"PM , PM
+2.5 10",6/9,2025-10-20
+Chennai,Moderate,142,"PM , PM
+10 2.5",6/9,2025-10-21
+Chennai,Satisfactory,71,"PM , PM
+2.5 10",7/9,2025-10-22
+Chennai,Satisfactory,59,"PM , SO
+10 2",7/9,2025-10-23
+Chennai,Satisfactory,61,"PM
+10",5/9,2025-10-24
+Chennai,Satisfactory,71,"PM , PM
+2.5 10",8/9,2025-10-25
+Chennai,Satisfactory,52,"PM , PM
+10 2.5",8/9,2025-10-26
+Chennai,Satisfactory,56,"PM
+10",7/9,2025-10-27
+Chennai,Good,36,"CO, PM
+10",8/9,2025-10-28
+Chennai,Satisfactory,70,"PM
+10",8/9,2025-10-29
+Chennai,Satisfactory,87,"PM , PM
+2.5 10",7/9,2025-10-30
+Chennai,Moderate,106,"PM , PM
+2.5 10",8/9,2025-10-31
+Chennai,Moderate,106,"PM
+10",4/9,2025-11-01
+Chennai,Satisfactory,82,"PM
+10",6/9,2025-11-02
+Chennai,Satisfactory,84,"PM , PM
+2.5 10",6/9,2025-11-03
+Chennai,Satisfactory,97,"PM
+10",7/9,2025-11-04
+Chennai,Satisfactory,95,"PM
+10",7/9,2025-11-05
+Chennai,Satisfactory,78,"PM
+10",8/9,2025-11-06
+Chennai,Satisfactory,97,"PM , PM
+2.5 10",8/9,2025-11-07
+Chennai,Moderate,116,"PM , PM
+2.5 10",8/9,2025-11-08
+Chennai,Moderate,112,"PM , PM
+2.5 10",7/9,2025-11-09
+Chennai,Moderate,116,"PM
+2.5",8/9,2025-11-10
+Chennai,Moderate,120,"PM , PM
+10 2.5",8/9,2025-11-11
+Chennai,Moderate,138,"PM
+2.5",8/9,2025-11-12
+Chennai,Moderate,134,"PM , PM
+10 2.5",6/9,2025-11-13
+Chennai,Moderate,118,"PM , PM
+10 2.5",8/9,2025-11-14
+Chennai,Moderate,139,"PM
+2.5",8/9,2025-11-15
+Chennai,Moderate,142,"PM
+2.5",8/9,2025-11-16
+Chennai,Moderate,135,"PM , PM
+2.5 10",6/9,2025-11-17
+Chennai,Satisfactory,91,"PM , PM
+2.5 10",7/9,2025-11-18
+Chennai,Satisfactory,99,"PM
+2.5",5/9,2025-11-19
+Chennai,Satisfactory,94,"PM
+10",6/9,2025-11-20
+Chennai,Satisfactory,88,"PM , PM
+10 2.5",7/9,2025-11-21
+Chennai,Good,48,"PM , PM
+10 2.5",7/9,2025-11-22
+Chennai,Good,41,"PM
+10",7/9,2025-11-23
+Chennai,Satisfactory,53,"PM
+10",6/9,2025-11-24
+Chennai,Moderate,103,"PM , PM
+10 2.5",8/9,2025-11-25
+Chennai,Moderate,103,"PM , PM
+10 2.5",7/9,2025-11-26
+Chennai,Moderate,124,"PM , PM
+10 2.5",8/9,2025-11-27
+Chennai,Moderate,130,"PM
+2.5",6/9,2025-11-28
+Chennai,Satisfactory,98,"PM , PM
+2.5 10",6/9,2025-11-29
+Chennai,Good,40,"PM
+10",6/9,2025-11-30
+Chennai,Good,32,"PM , CO
+10",4/9,2025-12-01
+Chennai,Satisfactory,54,"PM , PM
+10 2.5",4/9,2025-12-02
+Chennai,Satisfactory,94,"PM , O
+10 3",5/9,2025-12-03
+Chennai,Satisfactory,73,"PM
+10",1/9,2025-12-04
+Chennai,Satisfactory,92,"PM , PM
+2.5 10",2/9,2025-12-05
+Chennai,Moderate,144,"PM , PM
+2.5 10",3/9,2025-12-06
+Chennai,Moderate,109,"PM , PM
+2.5 10",4/9,2025-12-07
+Chennai,Moderate,108,"PM , PM
+10 2.5",4/9,2025-12-08
+Chennai,Moderate,138,"PM , PM
+2.5 10",5/9,2025-12-09
+Chennai,Moderate,154,"PM
+2.5",6/9,2025-12-10
+Chennai,Moderate,187,"PM
+2.5",6/9,2025-12-11
+Chennai,Moderate,170,"PM
+2.5",5/9,2025-12-12
+Chennai,Moderate,134,"PM , PM
+10 2.5",7/9,2025-12-13
+Chennai,Satisfactory,97,"PM
+10",6/9,2025-12-14

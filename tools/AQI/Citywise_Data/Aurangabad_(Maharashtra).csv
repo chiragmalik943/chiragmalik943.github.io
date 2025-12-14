@@ -1,0 +1,2475 @@
+City,Air Quality,Index Value,Prominent Pollutant,No. of Stations Participated / Total Stations (Based on Number of Monitoring Stations),Date
+Aurangabad (Maharashtra),Moderate,107,"PM
+10",1,2022-05-05
+Aurangabad (Maharashtra),Moderate,109,"PM
+10",1,2022-05-06
+Aurangabad (Maharashtra),Moderate,111,"PM
+10",1,2022-05-07
+Aurangabad (Maharashtra),Moderate,109,"PM
+10",1,2022-05-08
+Aurangabad (Maharashtra),Moderate,112,"PM
+10",1,2022-05-09
+Aurangabad (Maharashtra),Moderate,114,"PM
+10",1,2022-05-10
+Aurangabad (Maharashtra),Moderate,108,"PM
+10",1,2022-05-12
+Aurangabad (Maharashtra),Moderate,103,"PM
+10",1,2022-05-13
+Aurangabad (Maharashtra),Moderate,105,"PM
+10",1,2022-05-14
+Aurangabad (Maharashtra),Moderate,103,"PM
+10",1,2022-05-15
+Aurangabad (Maharashtra),Satisfactory,99,"PM
+10",1,2022-05-16
+Aurangabad (Maharashtra),Satisfactory,89,"PM
+10",1,2022-05-17
+Aurangabad (Maharashtra),Moderate,154,"PM
+2.5",1,2022-05-19
+Aurangabad (Maharashtra),Moderate,125,"PM
+2.5",1,2022-05-20
+Aurangabad (Maharashtra),Satisfactory,88,"PM
+10",1,2022-06-01
+Aurangabad (Maharashtra),Satisfactory,93,"PM
+2.5",1,2022-06-02
+Aurangabad (Maharashtra),Satisfactory,84,"PM
+10",1,2022-06-03
+Aurangabad (Maharashtra),Satisfactory,91,"PM
+2.5",1,2022-06-04
+Aurangabad (Maharashtra),Moderate,145,"PM
+2.5",1,2022-06-07
+Aurangabad (Maharashtra),Moderate,173,"PM
+2.5",1,2022-06-08
+Aurangabad (Maharashtra),Satisfactory,88,"PM
+2.5",1,2022-06-09
+Aurangabad (Maharashtra),Satisfactory,58,"PM
+2.5",1,2022-06-11
+Aurangabad (Maharashtra),Good,38,"PM
+2.5",1,2022-06-12
+Aurangabad (Maharashtra),Satisfactory,73,"PM
+2.5",1,2022-06-13
+Aurangabad (Maharashtra),Satisfactory,52,"PM
+2.5",1,2022-06-14
+Aurangabad (Maharashtra),Good,43,"PM
+2.5",1,2022-06-15
+Aurangabad (Maharashtra),Satisfactory,90,"PM
+10",1,2022-06-17
+Aurangabad (Maharashtra),Satisfactory,94,"PM
+10",1,2022-06-18
+Aurangabad (Maharashtra),Satisfactory,91,"PM
+10",1,2022-06-19
+Aurangabad (Maharashtra),Satisfactory,83,"PM
+10",1,2022-06-20
+Aurangabad (Maharashtra),Satisfactory,86,"PM
+10",1,2022-06-21
+Aurangabad (Maharashtra),Satisfactory,95,"PM
+10",1,2022-06-22
+Aurangabad (Maharashtra),Good,35,"PM
+2.5",1,2022-07-17
+Aurangabad (Maharashtra),Satisfactory,95,"PM
+10",1,2022-07-18
+Aurangabad (Maharashtra),Good,40,"PM
+2.5",1,2022-07-19
+Aurangabad (Maharashtra),Good,40,"PM
+2.5",1,2022-07-20
+Aurangabad (Maharashtra),Satisfactory,64,CO,1,2022-07-21
+Aurangabad (Maharashtra),Satisfactory,53,CO,1,2022-07-22
+Aurangabad (Maharashtra),Satisfactory,70,CO,1,2022-07-23
+Aurangabad (Maharashtra),Satisfactory,65,CO,1,2022-07-24
+Aurangabad (Maharashtra),Satisfactory,59,CO,1,2022-07-25
+Aurangabad (Maharashtra),Good,35,"O
+3",1,2022-07-26
+Aurangabad (Maharashtra),Good,50,"PM
+10",1,2022-07-27
+Aurangabad (Maharashtra),Good,50,"PM
+10",1,2022-07-28
+Aurangabad (Maharashtra),Good,50,"PM
+10",1,2022-07-29
+Aurangabad (Maharashtra),Good,50,"PM
+10",1,2022-07-30
+Aurangabad (Maharashtra),Good,50,"PM
+10",1,2022-07-31
+Aurangabad (Maharashtra),Good,50,"PM
+10",1,2022-08-01
+Aurangabad (Maharashtra),Good,50,"PM
+10",1,2022-08-02
+Aurangabad (Maharashtra),Good,50,"PM
+10",1,2022-08-03
+Aurangabad (Maharashtra),Good,50,"PM
+10",1,2022-08-04
+Aurangabad (Maharashtra),Good,50,"PM
+10",1,2022-08-05
+Aurangabad (Maharashtra),Satisfactory,51,"PM
+10",1,2022-08-06
+Aurangabad (Maharashtra),Good,50,"PM
+10",1,2022-08-07
+Aurangabad (Maharashtra),Good,50,"PM
+10",1,2022-08-08
+Aurangabad (Maharashtra),Good,50,"PM
+10",1,2022-08-09
+Aurangabad (Maharashtra),Good,50,"PM
+10",1,2022-08-10
+Aurangabad (Maharashtra),Good,50,"PM
+10",1,2022-08-11
+Aurangabad (Maharashtra),Good,50,"PM
+10",1,2022-08-12
+Aurangabad (Maharashtra),Good,50,"PM
+10",1,2022-08-13
+Aurangabad (Maharashtra),Good,50,"PM
+10",1,2022-08-14
+Aurangabad (Maharashtra),Good,50,"PM
+10",1,2022-08-15
+Aurangabad (Maharashtra),Good,49,"PM
+10",1,2022-08-16
+Aurangabad (Maharashtra),Good,49,"PM
+10",1,2022-08-17
+Aurangabad (Maharashtra),Satisfactory,51,CO,1,2022-08-18
+Aurangabad (Maharashtra),Satisfactory,88,"PM
+10",1,2022-08-22
+Aurangabad (Maharashtra),Moderate,104,"PM
+10",1,2022-08-23
+Aurangabad (Maharashtra),Satisfactory,91,"PM
+10",1,2022-08-24
+Aurangabad (Maharashtra),Satisfactory,90,"PM
+10",1,2022-08-25
+Aurangabad (Maharashtra),Satisfactory,95,"PM
+10",1,2022-08-26
+Aurangabad (Maharashtra),Satisfactory,94,"PM
+10",1,2022-08-27
+Aurangabad (Maharashtra),Satisfactory,98,"PM
+10",1,2022-08-28
+Aurangabad (Maharashtra),Moderate,104,"PM
+10",1,2022-08-29
+Aurangabad (Maharashtra),Satisfactory,93,"PM
+10",1,2022-08-30
+Aurangabad (Maharashtra),Satisfactory,96,"PM
+10",1,2022-08-31
+Aurangabad (Maharashtra),Satisfactory,94,"PM
+10",1,2022-09-01
+Aurangabad (Maharashtra),Satisfactory,81,"PM
+10",1,2022-09-02
+Aurangabad (Maharashtra),Satisfactory,83,"PM
+10",1,2022-09-03
+Aurangabad (Maharashtra),Satisfactory,86,"PM
+10",1,2022-09-04
+Aurangabad (Maharashtra),Satisfactory,84,"PM
+10",1,2022-09-05
+Aurangabad (Maharashtra),Satisfactory,84,"PM
+10",1,2022-09-06
+Aurangabad (Maharashtra),Satisfactory,91,"PM
+10",1,2022-09-07
+Aurangabad (Maharashtra),Satisfactory,88,"PM
+10",1,2022-09-08
+Aurangabad (Maharashtra),Satisfactory,86,"PM
+10",1,2022-09-09
+Aurangabad (Maharashtra),Satisfactory,85,"PM
+10",1,2022-09-10
+Aurangabad (Maharashtra),Satisfactory,87,"PM
+10",1,2022-09-11
+Aurangabad (Maharashtra),Satisfactory,85,"PM
+10",1,2022-09-12
+Aurangabad (Maharashtra),Satisfactory,80,"PM
+10",1,2022-09-14
+Aurangabad (Maharashtra),Satisfactory,78,"PM
+10",1,2022-09-16
+Aurangabad (Maharashtra),Satisfactory,86,"PM
+10",1,2022-09-17
+Aurangabad (Maharashtra),Satisfactory,86,"PM
+10",1,2022-09-18
+Aurangabad (Maharashtra),Satisfactory,85,"PM
+10",1,2022-09-19
+Aurangabad (Maharashtra),Satisfactory,92,"PM
+10",1,2022-09-20
+Aurangabad (Maharashtra),Satisfactory,91,"PM
+10",1,2022-09-21
+Aurangabad (Maharashtra),Satisfactory,91,"PM
+10",1,2022-09-22
+Aurangabad (Maharashtra),Satisfactory,95,"PM
+10",1,2022-09-23
+Aurangabad (Maharashtra),Satisfactory,96,"PM
+10",1,2022-09-24
+Aurangabad (Maharashtra),Satisfactory,97,"PM
+10",1,2022-09-25
+Aurangabad (Maharashtra),Satisfactory,97,"PM
+10",1,2022-09-26
+Aurangabad (Maharashtra),Satisfactory,88,"PM
+10",1,2022-09-27
+Aurangabad (Maharashtra),Satisfactory,91,"PM
+10",1,2022-09-28
+Aurangabad (Maharashtra),Satisfactory,88,"PM
+10",1,2022-09-29
+Aurangabad (Maharashtra),Satisfactory,92,"PM
+10",1,2022-09-30
+Aurangabad (Maharashtra),Satisfactory,93,"PM
+10",1,2022-10-01
+Aurangabad (Maharashtra),Satisfactory,95,"PM
+10",1,2022-10-02
+Aurangabad (Maharashtra),Satisfactory,90,"PM
+10",1,2022-10-03
+Aurangabad (Maharashtra),Satisfactory,89,"PM
+10",1,2022-10-04
+Aurangabad (Maharashtra),Satisfactory,88,"PM
+10",1,2022-10-05
+Aurangabad (Maharashtra),Satisfactory,87,"PM
+10",1,2022-10-06
+Aurangabad (Maharashtra),Satisfactory,81,"PM
+10",1,2022-10-07
+Aurangabad (Maharashtra),Satisfactory,82,"PM
+10",1,2022-10-08
+Aurangabad (Maharashtra),Satisfactory,84,"PM
+10",1,2022-10-09
+Aurangabad (Maharashtra),Satisfactory,83,"PM
+10",1,2022-10-10
+Aurangabad (Maharashtra),Satisfactory,80,"PM
+10",1,2022-10-11
+Aurangabad (Maharashtra),Satisfactory,84,"PM
+10",1,2022-10-12
+Aurangabad (Maharashtra),Satisfactory,84,"PM
+10",1,2022-10-13
+Aurangabad (Maharashtra),Satisfactory,79,"PM
+10",1,2022-10-14
+Aurangabad (Maharashtra),Moderate,137,"PM
+10",1,2022-10-16
+Aurangabad (Maharashtra),Satisfactory,66,"PM
+10",1,2022-10-17
+Aurangabad (Maharashtra),Satisfactory,82,"PM
+10",1,2022-10-18
+Aurangabad (Maharashtra),Moderate,122,"PM
+10",1,2022-10-19
+Aurangabad (Maharashtra),Moderate,104,"PM
+2.5",1,2022-10-20
+Aurangabad (Maharashtra),Moderate,161,"PM
+2.5",1,2022-10-23
+Aurangabad (Maharashtra),Moderate,136,"PM
+2.5",1,2022-10-24
+Aurangabad (Maharashtra),Moderate,112,"PM
+10",1,2022-11-04
+Aurangabad (Maharashtra),Moderate,146,"PM
+2.5",1,2022-11-05
+Aurangabad (Maharashtra),Moderate,136,"PM
+2.5",1,2022-11-06
+Aurangabad (Maharashtra),Moderate,141,"PM
+2.5",1,2022-11-07
+Aurangabad (Maharashtra),Moderate,171,"PM
+2.5",1,2022-11-08
+Aurangabad (Maharashtra),Moderate,132,"PM
+2.5",1,2022-11-09
+Aurangabad (Maharashtra),Moderate,116,"PM
+10",1,2022-11-10
+Aurangabad (Maharashtra),Moderate,117,"PM
+2.5",1,2022-11-11
+Aurangabad (Maharashtra),Moderate,114,"PM
+2.5",1,2022-11-12
+Aurangabad (Maharashtra),Moderate,142,"PM
+2.5",1,2022-11-13
+Aurangabad (Maharashtra),Moderate,136,"PM
+2.5",1,2022-11-14
+Aurangabad (Maharashtra),Moderate,153,"PM
+2.5",1,2022-11-15
+Aurangabad (Maharashtra),Moderate,115,"PM
+2.5",1,2022-11-16
+Aurangabad (Maharashtra),Moderate,123,"PM
+2.5",1,2022-11-17
+Aurangabad (Maharashtra),Satisfactory,87,"PM
+10",1,2022-11-18
+Aurangabad (Maharashtra),Satisfactory,91,"PM
+10",1,2022-11-19
+Aurangabad (Maharashtra),Moderate,111,"PM
+10",1,2022-11-20
+Aurangabad (Maharashtra),Moderate,131,"PM
+10",1,2022-11-21
+Aurangabad (Maharashtra),Moderate,123,"PM
+2.5",1,2022-11-22
+Aurangabad (Maharashtra),Moderate,102,"PM
+10",1,2022-11-23
+Aurangabad (Maharashtra),Moderate,106,"PM
+10",1,2022-11-24
+Aurangabad (Maharashtra),Satisfactory,76,"O
+3",1,2022-11-26
+Aurangabad (Maharashtra),Satisfactory,67,"PM
+2.5",1,2022-11-27
+Aurangabad (Maharashtra),Satisfactory,97,"PM
+10",1,2022-11-28
+Aurangabad (Maharashtra),Satisfactory,66,"O
+3",1,2022-11-29
+Aurangabad (Maharashtra),Moderate,124,"PM
+10",1,2022-11-30
+Aurangabad (Maharashtra),Moderate,131,"PM
+10",1,2022-12-01
+Aurangabad (Maharashtra),Moderate,130,"PM
+2.5",1,2022-12-04
+Aurangabad (Maharashtra),Moderate,120,"PM
+2.5",1,2022-12-05
+Aurangabad (Maharashtra),Moderate,190,"PM
+2.5",1,2022-12-07
+Aurangabad (Maharashtra),Moderate,110,"PM
+10",1,2022-12-08
+Aurangabad (Maharashtra),Moderate,108,"PM
+10",1,2022-12-09
+Aurangabad (Maharashtra),Moderate,110,"PM
+10",1,2022-12-10
+Aurangabad (Maharashtra),Moderate,106,"PM
+10",1,2022-12-11
+Aurangabad (Maharashtra),Satisfactory,91,"PM
+10",1,2022-12-12
+Aurangabad (Maharashtra),Satisfactory,68,"PM
+10",1,2022-12-13
+Aurangabad (Maharashtra),Satisfactory,51,"PM
+10",1,2022-12-14
+Aurangabad (Maharashtra),Satisfactory,80,"PM
+2.5",1,2022-12-15
+Aurangabad (Maharashtra),Satisfactory,94,"PM
+2.5",1,2022-12-16
+Aurangabad (Maharashtra),Satisfactory,78,"PM
+10",1,2022-12-17
+Aurangabad (Maharashtra),Satisfactory,71,"PM
+10",1,2022-12-18
+Aurangabad (Maharashtra),Satisfactory,70,"PM
+10",1,2022-12-19
+Aurangabad (Maharashtra),Satisfactory,99,"PM
+10",1,2022-12-20
+Aurangabad (Maharashtra),Moderate,135,"PM
+10",1,2022-12-21
+Aurangabad (Maharashtra),Moderate,155,"PM
+2.5",1,2022-12-22
+Aurangabad (Maharashtra),Moderate,143,"PM
+10",1,2022-12-23
+Aurangabad (Maharashtra),Moderate,168,"PM
+2.5",1,2022-12-24
+Aurangabad (Maharashtra),Moderate,124,"PM
+10",1,2022-12-25
+Aurangabad (Maharashtra),Moderate,149,"PM
+2.5",1,2022-12-26
+Aurangabad (Maharashtra),Moderate,120,"PM
+10",1,2022-12-27
+Aurangabad (Maharashtra),Moderate,143,"PM
+2.5",1,2022-12-30
+Aurangabad (Maharashtra),Moderate,131,"PM
+2.5",1,2022-12-31
+Aurangabad (Maharashtra),Satisfactory,100,"PM
+10",1,2023-01-01
+Aurangabad (Maharashtra),Satisfactory,87,"PM
+10",1,2023-01-02
+Aurangabad (Maharashtra),Moderate,113,"PM
+10",1,2023-01-03
+Aurangabad (Maharashtra),Moderate,114,"PM
+10",1,2023-01-04
+Aurangabad (Maharashtra),Moderate,197,"PM
+2.5",1,2023-01-05
+Aurangabad (Maharashtra),Poor,246,"PM
+2.5",1,2023-01-06
+Aurangabad (Maharashtra),Poor,217,"PM
+2.5",1,2023-01-07
+Aurangabad (Maharashtra),Satisfactory,93,"PM
+10",1,2023-01-08
+Aurangabad (Maharashtra),Satisfactory,89,"PM
+10",1,2023-01-09
+Aurangabad (Maharashtra),Moderate,118,"PM
+10",1,2023-01-10
+Aurangabad (Maharashtra),Moderate,150,"PM
+10",1,2023-01-11
+Aurangabad (Maharashtra),Poor,221,"PM
+2.5",1,2023-01-12
+Aurangabad (Maharashtra),Moderate,156,"PM
+2.5",1,2023-01-13
+Aurangabad (Maharashtra),Moderate,133,"PM
+10",1,2023-01-14
+Aurangabad (Maharashtra),Moderate,144,"PM
+10",1,2023-01-15
+Aurangabad (Maharashtra),Moderate,148,"PM
+2.5",1,2023-01-16
+Aurangabad (Maharashtra),Moderate,162,"PM
+2.5",1,2023-01-17
+Aurangabad (Maharashtra),Moderate,144,"PM
+2.5",1,2023-01-18
+Aurangabad (Maharashtra),Moderate,156,"PM
+10",1,2023-01-19
+Aurangabad (Maharashtra),Moderate,146,"PM
+10",1,2023-01-20
+Aurangabad (Maharashtra),Moderate,150,"PM
+10",1,2023-01-21
+Aurangabad (Maharashtra),Moderate,141,"PM
+2.5",1,2023-01-22
+Aurangabad (Maharashtra),Moderate,124,"PM
+10",1,2023-01-23
+Aurangabad (Maharashtra),Moderate,128,"PM
+10",1,2023-01-24
+Aurangabad (Maharashtra),Moderate,103,"PM
+10",1,2023-01-25
+Aurangabad (Maharashtra),Moderate,110,"PM
+2.5",1,2023-01-26
+Aurangabad (Maharashtra),Satisfactory,85,"PM
+2.5",1,2023-01-27
+Aurangabad (Maharashtra),Moderate,101,"PM
+10",1,2023-01-28
+Aurangabad (Maharashtra),Moderate,104,"PM
+10",1,2023-01-29
+Aurangabad (Maharashtra),Moderate,123,"PM
+10",1,2023-01-30
+Aurangabad (Maharashtra),Moderate,104,"PM
+10",1,2023-01-31
+Aurangabad (Maharashtra),Satisfactory,89,"PM
+10",1,2023-02-01
+Aurangabad (Maharashtra),Satisfactory,78,"PM
+10",1,2023-02-02
+Aurangabad (Maharashtra),Satisfactory,88,"PM
+10",1,2023-02-03
+Aurangabad (Maharashtra),Moderate,105,"PM
+10",1,2023-02-04
+Aurangabad (Maharashtra),Satisfactory,98,"PM
+10",1,2023-02-05
+Aurangabad (Maharashtra),Moderate,109,"PM
+10",1,2023-02-06
+Aurangabad (Maharashtra),Moderate,131,"PM
+10",1,2023-02-07
+Aurangabad (Maharashtra),Moderate,104,"PM
+10",1,2023-02-08
+Aurangabad (Maharashtra),Satisfactory,100,"PM
+10",1,2023-02-09
+Aurangabad (Maharashtra),Moderate,122,"PM
+10",1,2023-02-10
+Aurangabad (Maharashtra),Moderate,159,"PM
+2.5",1,2023-02-11
+Aurangabad (Maharashtra),Moderate,103,"PM
+10",1,2023-02-12
+Aurangabad (Maharashtra),Satisfactory,90,"PM
+10",1,2023-02-13
+Aurangabad (Maharashtra),Satisfactory,95,"PM
+10",1,2023-02-14
+Aurangabad (Maharashtra),Moderate,166,"PM
+2.5",1,2023-02-15
+Aurangabad (Maharashtra),Moderate,111,"PM
+10",1,2023-02-16
+Aurangabad (Maharashtra),Moderate,113,"PM
+2.5",1,2023-02-17
+Aurangabad (Maharashtra),Satisfactory,88,"PM
+10",1,2023-02-18
+Aurangabad (Maharashtra),Moderate,143,"PM
+10",1,2023-02-19
+Aurangabad (Maharashtra),Moderate,120,"PM
+10",1,2023-02-20
+Aurangabad (Maharashtra),Moderate,176,"PM
+2.5",1,2023-02-21
+Aurangabad (Maharashtra),Moderate,164,"PM
+2.5",1,2023-02-22
+Aurangabad (Maharashtra),Moderate,140,"PM
+10",1,2023-02-23
+Aurangabad (Maharashtra),Moderate,126,"PM
+10",1,2023-02-24
+Aurangabad (Maharashtra),Moderate,123,"PM
+10",1,2023-02-25
+Aurangabad (Maharashtra),Moderate,141,"PM
+2.5",1,2023-02-26
+Aurangabad (Maharashtra),Moderate,117,"PM
+2.5",1,2023-02-27
+Aurangabad (Maharashtra),Moderate,166,"PM
+2.5",1,2023-02-28
+Aurangabad (Maharashtra),Moderate,182,"PM
+2.5",1,2023-03-01
+Aurangabad (Maharashtra),Moderate,144,"PM
+10",1,2023-03-02
+Aurangabad (Maharashtra),Moderate,168,"PM
+2.5",1,2023-03-03
+Aurangabad (Maharashtra),Moderate,169,"PM
+2.5",1,2023-03-04
+Aurangabad (Maharashtra),Moderate,162,"PM
+2.5",1,2023-03-05
+Aurangabad (Maharashtra),Moderate,110,"PM
+10",1,2023-03-06
+Aurangabad (Maharashtra),Satisfactory,70,"PM
+10",1,2023-03-07
+Aurangabad (Maharashtra),Moderate,101,"PM
+10",1,2023-03-09
+Aurangabad (Maharashtra),Satisfactory,96,"PM
+10",1,2023-03-10
+Aurangabad (Maharashtra),Satisfactory,80,"PM
+10",1,2023-03-11
+Aurangabad (Maharashtra),Moderate,149,"PM
+10",1,2023-03-12
+Aurangabad (Maharashtra),Moderate,131,"PM
+10",1,2023-03-13
+Aurangabad (Maharashtra),Moderate,124,"PM
+10",1,2023-03-14
+Aurangabad (Maharashtra),Moderate,137,"PM
+10",1,2023-03-15
+Aurangabad (Maharashtra),Moderate,103,"PM
+10",1,2023-03-16
+Aurangabad (Maharashtra),Satisfactory,68,"PM
+10",1,2023-03-17
+Aurangabad (Maharashtra),Satisfactory,53,"PM
+10",1,2023-03-18
+Aurangabad (Maharashtra),Satisfactory,61,"PM
+10",1,2023-03-19
+Aurangabad (Maharashtra),Satisfactory,75,"PM
+10",1,2023-03-20
+Aurangabad (Maharashtra),Satisfactory,79,"PM
+10",1,2023-03-21
+Aurangabad (Maharashtra),Satisfactory,64,"PM
+10",1,2023-03-22
+Aurangabad (Maharashtra),Satisfactory,54,"PM
+10",1,2023-03-23
+Aurangabad (Maharashtra),Satisfactory,94,"PM
+10",1,2023-03-24
+Aurangabad (Maharashtra),Satisfactory,76,"PM
+10",1,2023-03-26
+Aurangabad (Maharashtra),Moderate,113,"PM
+10",1,2023-03-27
+Aurangabad (Maharashtra),Moderate,120,"PM
+10",1,2023-03-28
+Aurangabad (Maharashtra),Poor,201,"PM
+10",1,2023-03-29
+Aurangabad (Maharashtra),Moderate,108,"PM
+10",1,2023-03-30
+Aurangabad (Maharashtra),Satisfactory,89,"PM
+10",1,2023-03-31
+Aurangabad (Maharashtra),Satisfactory,67,"PM
+10",1,2023-04-01
+Aurangabad (Maharashtra),Satisfactory,89,"PM
+10",1,2023-04-02
+Aurangabad (Maharashtra),Satisfactory,94,"PM
+10",1,2023-04-03
+Aurangabad (Maharashtra),Satisfactory,92,"PM
+10",1,2023-04-04
+Aurangabad (Maharashtra),Moderate,102,"PM
+10",1,2023-04-05
+Aurangabad (Maharashtra),Moderate,106,"PM
+10",1,2023-04-06
+Aurangabad (Maharashtra),Satisfactory,99,"PM
+10",1,2023-04-07
+Aurangabad (Maharashtra),Satisfactory,62,"PM
+10",1,2023-04-08
+Aurangabad (Maharashtra),Satisfactory,66,"PM
+10",1,2023-04-09
+Aurangabad (Maharashtra),Satisfactory,68,"PM
+10",1,2023-04-10
+Aurangabad (Maharashtra),Moderate,118,"PM
+10",1,2023-04-11
+Aurangabad (Maharashtra),Satisfactory,90,"PM
+10",1,2023-04-12
+Aurangabad (Maharashtra),Moderate,104,"PM
+10",1,2023-04-13
+Aurangabad (Maharashtra),Satisfactory,100,"PM
+10",1,2023-04-14
+Aurangabad (Maharashtra),Satisfactory,62,"PM
+10",1,2023-04-16
+Aurangabad (Maharashtra),Satisfactory,74,"PM
+10",1,2023-04-17
+Aurangabad (Maharashtra),Moderate,120,"PM
+10",1,2023-04-18
+Aurangabad (Maharashtra),Satisfactory,93,"PM
+10",1,2023-04-19
+Aurangabad (Maharashtra),Satisfactory,91,"PM
+10",1,2023-04-20
+Aurangabad (Maharashtra),Satisfactory,99,"PM
+10",1,2023-04-21
+Aurangabad (Maharashtra),Satisfactory,94,"PM
+10",1,2023-04-22
+Aurangabad (Maharashtra),Satisfactory,73,"PM
+10",1,2023-04-23
+Aurangabad (Maharashtra),Satisfactory,91,"PM
+10",1,2023-04-24
+Aurangabad (Maharashtra),Satisfactory,98,"PM
+10",1,2023-04-25
+Aurangabad (Maharashtra),Satisfactory,67,"PM
+10",1,2023-04-26
+Aurangabad (Maharashtra),Satisfactory,93,"PM
+10",1,2023-04-27
+Aurangabad (Maharashtra),Satisfactory,77,"PM
+10",1,2023-04-28
+Aurangabad (Maharashtra),Satisfactory,54,"PM
+10",1,2023-04-30
+Aurangabad (Maharashtra),Satisfactory,92,CO,1,2023-05-01
+Aurangabad (Maharashtra),Satisfactory,70,"PM
+10",1,2023-05-03
+Aurangabad (Maharashtra),Good,50,CO,1,2023-05-04
+Aurangabad (Maharashtra),Satisfactory,57,"PM
+10",1,2023-05-05
+Aurangabad (Maharashtra),Satisfactory,66,"PM
+10",1,2023-05-06
+Aurangabad (Maharashtra),Satisfactory,72,"PM
+10",1,2023-05-07
+Aurangabad (Maharashtra),Moderate,141,"PM
+10",1,2023-05-08
+Aurangabad (Maharashtra),Moderate,116,"PM
+10",1,2023-05-09
+Aurangabad (Maharashtra),Moderate,111,"PM
+10",1,2023-05-10
+Aurangabad (Maharashtra),Moderate,127,"PM
+10",1,2023-05-11
+Aurangabad (Maharashtra),Moderate,113,"PM
+10",1,2023-05-12
+Aurangabad (Maharashtra),Satisfactory,98,"PM
+10",1,2023-05-13
+Aurangabad (Maharashtra),Satisfactory,73,"PM
+10",1,2023-05-14
+Aurangabad (Maharashtra),Satisfactory,67,"PM
+10",1,2023-05-15
+Aurangabad (Maharashtra),Satisfactory,73,"PM
+10",1,2023-05-16
+Aurangabad (Maharashtra),Satisfactory,71,"PM
+10",1,2023-05-17
+Aurangabad (Maharashtra),Satisfactory,83,"PM
+10",1,2023-05-18
+Aurangabad (Maharashtra),Satisfactory,87,"PM
+10",1,2023-05-19
+Aurangabad (Maharashtra),Satisfactory,95,"PM
+10",1,2023-05-20
+Aurangabad (Maharashtra),Satisfactory,86,"PM
+10",1,2023-05-21
+Aurangabad (Maharashtra),Satisfactory,86,"PM
+10",1,2023-05-22
+Aurangabad (Maharashtra),Satisfactory,83,"PM
+10",1,2023-05-23
+Aurangabad (Maharashtra),Moderate,137,"PM
+10",1,2023-05-24
+Aurangabad (Maharashtra),Satisfactory,80,"PM
+10",1,2023-05-25
+Aurangabad (Maharashtra),Satisfactory,80,"PM
+10",1,2023-05-26
+Aurangabad (Maharashtra),Satisfactory,78,"PM
+10",1,2023-05-27
+Aurangabad (Maharashtra),Satisfactory,75,"PM
+10",1,2023-05-28
+Aurangabad (Maharashtra),Satisfactory,74,"PM
+10",1,2023-05-29
+Aurangabad (Maharashtra),Satisfactory,83,"PM
+10",1,2023-05-30
+Aurangabad (Maharashtra),Satisfactory,80,"PM
+10",1,2023-05-31
+Aurangabad (Maharashtra),Satisfactory,91,"PM
+10",1,2023-06-01
+Aurangabad (Maharashtra),Satisfactory,82,"PM
+10",1,2023-06-02
+Aurangabad (Maharashtra),Satisfactory,61,"PM
+10",1,2023-06-03
+Aurangabad (Maharashtra),Satisfactory,70,"PM
+10",1,2023-06-04
+Aurangabad (Maharashtra),Satisfactory,74,"PM
+10",1,2023-06-05
+Aurangabad (Maharashtra),Satisfactory,81,"PM
+10",1,2023-06-06
+Aurangabad (Maharashtra),Satisfactory,80,"PM
+10",1,2023-06-07
+Aurangabad (Maharashtra),Moderate,153,"O
+3",1,2023-06-08
+Aurangabad (Maharashtra),Satisfactory,71,"PM
+10",1,2023-06-09
+Aurangabad (Maharashtra),Satisfactory,58,"PM
+10",1,2023-06-10
+Aurangabad (Maharashtra),Good,42,CO,1,2023-06-11
+Aurangabad (Maharashtra),Satisfactory,59,"PM
+10",1,2023-06-12
+Aurangabad (Maharashtra),Satisfactory,99,"PM
+10",2,2023-06-13
+Aurangabad (Maharashtra),Satisfactory,94,"PM
+10",2,2023-06-14
+Aurangabad (Maharashtra),Satisfactory,97,"PM
+10",3,2023-06-15
+Aurangabad (Maharashtra),Satisfactory,79,"PM
+10",3,2023-06-16
+Aurangabad (Maharashtra),Satisfactory,86,"PM
+10",3,2023-06-17
+Aurangabad (Maharashtra),Moderate,110,"PM
+10",3,2023-06-18
+Aurangabad (Maharashtra),Moderate,123,"PM
+10",3,2023-06-19
+Aurangabad (Maharashtra),Moderate,109,"PM
+10",3,2023-06-20
+Aurangabad (Maharashtra),Satisfactory,98,"PM
+10",3,2023-06-21
+Aurangabad (Maharashtra),Satisfactory,96,"PM
+10",3,2023-06-22
+Aurangabad (Maharashtra),Satisfactory,92,"PM , PM
+10 2.5",3,2023-06-23
+Aurangabad (Maharashtra),Satisfactory,66,"PM
+10",3,2023-06-24
+Aurangabad (Maharashtra),Moderate,106,"PM
+10",2,2023-06-25
+Aurangabad (Maharashtra),Satisfactory,87,"O
+3",2,2023-06-26
+Aurangabad (Maharashtra),Satisfactory,60,"PM
+10",2,2023-06-27
+Aurangabad (Maharashtra),Good,48,"PM
+10",2,2023-06-28
+Aurangabad (Maharashtra),Good,40,"PM
+10",2,2023-06-29
+Aurangabad (Maharashtra),Good,48,"O , PM
+3 10",3,2023-06-30
+Aurangabad (Maharashtra),Good,49,"O , PM
+3 10",3,2023-07-01
+Aurangabad (Maharashtra),Satisfactory,56,"PM , PM
+2.5 10",3,2023-07-02
+Aurangabad (Maharashtra),Satisfactory,54,"O , CO
+3",3,2023-07-03
+Aurangabad (Maharashtra),Satisfactory,66,"PM , PM
+2.5 10",3,2023-07-04
+Aurangabad (Maharashtra),Satisfactory,54,"O , PM
+3 10",3,2023-07-05
+Aurangabad (Maharashtra),Satisfactory,54,"O , CO
+3",3,2023-07-06
+Aurangabad (Maharashtra),Good,39,CO,3,2023-07-07
+Aurangabad (Maharashtra),Good,45,"PM
+10",2,2023-07-08
+Aurangabad (Maharashtra),Satisfactory,56,"PM
+10",2,2023-07-09
+Aurangabad (Maharashtra),Satisfactory,56,"PM
+10",2,2023-07-10
+Aurangabad (Maharashtra),Satisfactory,62,"PM
+10",2,2023-07-11
+Aurangabad (Maharashtra),Good,47,"O
+3",1,2023-07-12
+Aurangabad (Maharashtra),Satisfactory,67,"PM
+10",2,2023-07-13
+Aurangabad (Maharashtra),Satisfactory,53,"PM
+10",2,2023-07-14
+Aurangabad (Maharashtra),Good,50,CO,2,2023-07-15
+Aurangabad (Maharashtra),Good,42,"PM
+10",2,2023-07-16
+Aurangabad (Maharashtra),Good,41,"PM
+10",2,2023-07-18
+Aurangabad (Maharashtra),Good,44,CO,2,2023-07-19
+Aurangabad (Maharashtra),Good,36,"O
+3",2,2023-07-20
+Aurangabad (Maharashtra),Good,46,"PM
+10",2,2023-07-21
+Aurangabad (Maharashtra),Good,38,"PM
+10",2,2023-07-22
+Aurangabad (Maharashtra),Good,46,CO,3,2023-07-23
+Aurangabad (Maharashtra),Good,43,"O
+3",2,2023-07-24
+Aurangabad (Maharashtra),Good,40,"O
+3",2,2023-07-25
+Aurangabad (Maharashtra),Good,46,"PM
+10",3,2023-07-26
+Aurangabad (Maharashtra),Good,38,"PM
+10",3,2023-07-27
+Aurangabad (Maharashtra),Good,35,"NO
+2",3,2023-07-28
+Aurangabad (Maharashtra),Good,42,CO,3,2023-07-29
+Aurangabad (Maharashtra),Good,46,CO,3,2023-07-30
+Aurangabad (Maharashtra),Good,48,"PM
+10",3,2023-07-31
+Aurangabad (Maharashtra),Good,44,"O
+3",3,2023-08-01
+Aurangabad (Maharashtra),Good,42,"PM
+10",3,2023-08-02
+Aurangabad (Maharashtra),Good,44,CO,3,2023-08-03
+Aurangabad (Maharashtra),Good,48,"PM
+10",2,2023-08-04
+Aurangabad (Maharashtra),Satisfactory,60,CO,3,2023-08-05
+Aurangabad (Maharashtra),Good,41,CO,3,2023-08-06
+Aurangabad (Maharashtra),Good,38,CO,3,2023-08-07
+Aurangabad (Maharashtra),Satisfactory,65,"PM
+10",3,2023-08-08
+Aurangabad (Maharashtra),Satisfactory,69,"PM
+10",3,2023-08-09
+Aurangabad (Maharashtra),Satisfactory,68,"PM
+10",2,2023-08-10
+Aurangabad (Maharashtra),Satisfactory,54,"PM
+10",3,2023-08-11
+Aurangabad (Maharashtra),Good,46,"PM
+10",1,2023-08-12
+Aurangabad (Maharashtra),Satisfactory,54,"PM
+10",3,2023-08-13
+Aurangabad (Maharashtra),Satisfactory,51,"PM
+10",3,2023-08-14
+Aurangabad (Maharashtra),Good,43,"PM
+10",1,2023-08-15
+Aurangabad (Maharashtra),Good,36,"PM
+10",2,2023-08-16
+Aurangabad (Maharashtra),Good,37,"PM
+10",1,2023-08-17
+Aurangabad (Maharashtra),Satisfactory,72,"CO, PM
+10",3,2023-08-18
+Aurangabad (Maharashtra),Satisfactory,79,CO,3,2023-08-19
+Aurangabad (Maharashtra),Good,44,"PM
+10",2,2023-08-20
+Aurangabad (Maharashtra),Good,44,"PM
+10",2,2023-08-21
+Aurangabad (Maharashtra),Satisfactory,56,"PM
+10",2,2023-08-22
+Aurangabad (Maharashtra),Good,45,"PM
+10",3,2023-08-23
+Aurangabad (Maharashtra),Good,42,"PM
+10",3,2023-08-24
+Aurangabad (Maharashtra),Good,41,"PM
+10",3,2023-08-25
+Aurangabad (Maharashtra),Good,45,"PM
+10",3,2023-08-26
+Aurangabad (Maharashtra),Good,46,"PM
+10",3,2023-08-27
+Aurangabad (Maharashtra),Good,50,"PM
+10",1,2023-08-28
+Aurangabad (Maharashtra),Satisfactory,52,"PM
+10",3,2023-08-29
+Aurangabad (Maharashtra),Satisfactory,53,"PM
+10",3,2023-08-30
+Aurangabad (Maharashtra),Satisfactory,54,"PM
+10",3,2023-08-31
+Aurangabad (Maharashtra),Satisfactory,55,"PM
+10",3,2023-09-01
+Aurangabad (Maharashtra),Satisfactory,70,"PM
+10",3,2023-09-02
+Aurangabad (Maharashtra),Satisfactory,60,"PM , PM
+2.5 10",3,2023-09-03
+Aurangabad (Maharashtra),Satisfactory,52,"PM
+10",3,2023-09-04
+Aurangabad (Maharashtra),Satisfactory,51,"PM
+10",3,2023-09-05
+Aurangabad (Maharashtra),Satisfactory,68,"CO, PM
+10",3,2023-09-06
+Aurangabad (Maharashtra),Satisfactory,72,CO,1,2023-09-07
+Aurangabad (Maharashtra),Good,36,"O
+3",2,2023-09-08
+Aurangabad (Maharashtra),Satisfactory,65,"PM
+10",3,2023-09-09
+Aurangabad (Maharashtra),Good,50,"PM
+10",3,2023-09-10
+Aurangabad (Maharashtra),Satisfactory,51,"PM
+10",3,2023-09-11
+Aurangabad (Maharashtra),Good,38,"PM
+10",2,2023-09-12
+Aurangabad (Maharashtra),Satisfactory,58,"PM
+10",3,2023-09-13
+Aurangabad (Maharashtra),Satisfactory,56,"PM
+10",3,2023-09-14
+Aurangabad (Maharashtra),Good,48,"PM
+10",3,2023-09-15
+Aurangabad (Maharashtra),Good,34,"PM
+10",2,2023-09-16
+Aurangabad (Maharashtra),Good,37,"PM
+10",2,2023-09-17
+Aurangabad (Maharashtra),Good,44,"PM
+10",2,2023-09-18
+Aurangabad (Maharashtra),Satisfactory,62,"PM
+10",3,2023-09-19
+Aurangabad (Maharashtra),Satisfactory,55,"PM
+10",3,2023-09-20
+Aurangabad (Maharashtra),Satisfactory,58,"PM
+10",2,2023-09-21
+Aurangabad (Maharashtra),Good,48,"PM
+10",3,2023-09-22
+Aurangabad (Maharashtra),Satisfactory,"64
+* AQ","PM
+10
+I is not calculated for today's bullet","3
+in for Ahmednagar, Aizawl, Ajmer,",2023-09-23
+Aurangabad (Maharashtra),Satisfactory,88,"PM
+10",3,2023-09-24
+Aurangabad (Maharashtra),Moderate,"128
+* AQ","PM
+10
+I is not calculated for today's bullet","3
+in for Agartala, Ahmednagar,",2023-09-25
+Aurangabad (Maharashtra),Satisfactory,69,"PM
+2.5",3,2023-09-26
+Aurangabad (Maharashtra),Good,46,"PM
+10",2,2023-09-27
+Aurangabad (Maharashtra),Satisfactory,63,"PM
+2.5",2,2023-09-28
+Aurangabad (Maharashtra),Satisfactory,70,"PM
+10",3,2023-09-29
+Aurangabad (Maharashtra),Satisfactory,58,"PM
+10",3,2023-09-30
+Aurangabad (Maharashtra),Satisfactory,88,"PM
+10",3,2023-10-01
+Aurangabad (Maharashtra),Moderate,106,"PM
+10",3,2023-10-02
+Aurangabad (Maharashtra),Moderate,114,"PM
+10",3,2023-10-03
+Aurangabad (Maharashtra),Moderate,111,"PM
+10",3/3,2023-10-04
+Aurangabad (Maharashtra),Satisfactory,92,"PM
+10",3/3,2023-10-05
+Aurangabad (Maharashtra),Satisfactory,96,"PM
+10",3/3,2023-10-07
+Aurangabad (Maharashtra),Satisfactory,93,"PM
+10",3/3,2023-10-08
+Aurangabad (Maharashtra),Satisfactory,97,"PM , PM
+10 2.5",3/3,2023-10-09
+Aurangabad (Maharashtra),Moderate,106,"PM
+10",2/3,2023-10-10
+Aurangabad (Maharashtra),Satisfactory,91,"PM , O
+10 3",3/3,2023-10-11
+Aurangabad (Maharashtra),Satisfactory,96,"PM , O
+10 3",3/3,2023-10-12
+Aurangabad (Maharashtra),Moderate,109,"PM , PM
+10 2.5",3/3,2023-10-13
+Aurangabad (Maharashtra),Moderate,121,"PM , PM
+10 2.5",3/3,2023-10-14
+Aurangabad (Maharashtra),Moderate,109,"PM , PM
+10 2.5",3/3,2023-10-15
+Aurangabad (Maharashtra),Moderate,117,"PM , PM
+10 2.5",3/3,2023-10-16
+Aurangabad (Maharashtra),Moderate,125,"PM , PM
+10 2.5",3/3,2023-10-17
+Aurangabad (Maharashtra),Moderate,116,"PM , PM
+10 2.5",3/3,2023-10-18
+Aurangabad (Maharashtra),Moderate,109,"PM
+10",3/3,2023-10-19
+Aurangabad (Maharashtra),Satisfactory,100,"PM
+2.5",1/3,2023-10-20
+Aurangabad (Maharashtra),Moderate,138,"PM , PM
+10 2.5",3/3,2023-10-21
+Aurangabad (Maharashtra),Moderate,154,"PM , PM
+10 2.5",3/3,2023-10-22
+Aurangabad (Maharashtra),Moderate,118,"PM
+10",3/3,2023-10-23
+Aurangabad (Maharashtra),Moderate,134,"PM
+10",3/3,2023-10-24
+Aurangabad (Maharashtra),Moderate,116,"PM , O
+10 3",3/3,2023-10-25
+Aurangabad (Maharashtra),Moderate,134,"PM
+10",3/3,2023-10-26
+Aurangabad (Maharashtra),Moderate,144,"PM
+10",2/3,2023-10-27
+Aurangabad (Maharashtra),Moderate,123,"PM , O
+10 3",3/3,2023-10-28
+Aurangabad (Maharashtra),Moderate,142,"O
+3",3/3,2023-10-29
+Aurangabad (Maharashtra),Moderate,132,"O
+3",3/3,2023-10-30
+Aurangabad (Maharashtra),Moderate,139,"PM , O
+10 3",3/3,2023-10-31
+Aurangabad (Maharashtra),Moderate,125,"PM
+2.5",1/3,2023-11-01
+Aurangabad (Maharashtra),Moderate,141,"PM , PM
+10 2.5",3/3,2023-11-02
+Aurangabad (Maharashtra),Moderate,145,"O
+3",3/3,2023-11-03
+Aurangabad (Maharashtra),Moderate,125,"PM
+2.5",3/3,2023-11-04
+Aurangabad (Maharashtra),Moderate,121,"PM , O
+10 3",3/3,2023-11-05
+Aurangabad (Maharashtra),Moderate,109,"PM , PM
+10 2.5",3/3,2023-11-06
+Aurangabad (Maharashtra),Moderate,128,"PM
+2.5",3/3,2023-11-07
+Aurangabad (Maharashtra),Moderate,134,"PM , PM
+10 2.5",3/3,2023-11-08
+Aurangabad (Maharashtra),Moderate,130,"PM , PM
+10 2.5",3/3,2023-11-09
+Aurangabad (Maharashtra),Moderate,165,"PM
+2.5",3/3,2023-11-10
+Aurangabad (Maharashtra),Moderate,166,"PM
+2.5",3/3,2023-11-11
+Aurangabad (Maharashtra),Moderate,186,"PM
+2.5",3/3,2023-11-12
+Aurangabad (Maharashtra),Moderate,170,"PM , PM , O
+2.5 10 3",3/3,2023-11-13
+Aurangabad (Maharashtra),Poor,201,"PM
+2.5",3/3,2023-11-14
+Aurangabad (Maharashtra),Poor,238,"PM , PM
+2.5 10",2/3,2023-11-15
+Aurangabad (Maharashtra),Moderate,158,"PM , O
+2.5 3",2/3,2023-11-16
+Aurangabad (Maharashtra),Moderate,164,"PM , O
+2.5 3",2/3,2023-11-17
+Aurangabad (Maharashtra),Moderate,187,"PM
+2.5",2/3,2023-11-18
+Aurangabad (Maharashtra),Moderate,178,"PM
+2.5",2/3,2023-11-19
+Aurangabad (Maharashtra),Moderate,142,"PM
+2.5",2/3,2023-11-20
+Aurangabad (Maharashtra),Moderate,148,"PM
+2.5",2/3,2023-11-21
+Aurangabad (Maharashtra),Moderate,152,"PM
+2.5",2/3,2023-11-22
+Aurangabad (Maharashtra),Moderate,160,"PM
+2.5",2/3,2023-11-23
+Aurangabad (Maharashtra),Moderate,160,"PM , PM
+10 2.5",2/3,2023-11-24
+Aurangabad (Maharashtra),Moderate,125,"PM , PM
+2.5 10",3/3,2023-11-25
+Aurangabad (Maharashtra),Moderate,157,"PM , PM
+2.5 10",3/3,2023-11-26
+Aurangabad (Maharashtra),Moderate,137,"PM , PM
+10 2.5",3/3,2023-11-27
+Aurangabad (Maharashtra),Satisfactory,99,"PM , PM
+10 2.5",3/3,2023-11-28
+Aurangabad (Maharashtra),Moderate,119,"PM , PM
+2.5 10",3/3,2023-11-29
+Aurangabad (Maharashtra),Satisfactory,95,"PM
+10",3/3,2023-11-30
+Aurangabad (Maharashtra),Satisfactory,66,"PM
+10",3/3,2023-12-01
+Aurangabad (Maharashtra),Satisfactory,94,"PM , PM
+10 2.5",3/3,2023-12-02
+Aurangabad (Maharashtra),Moderate,152,"PM , PM
+10 2.5",2/3,2023-12-03
+Aurangabad (Maharashtra),Moderate,133,"PM , PM
+10 2.5",3/3,2023-12-05
+Aurangabad (Maharashtra),Moderate,142,"PM , PM
+10 2.5",3/3,2023-12-06
+Aurangabad (Maharashtra),Moderate,106,"PM , PM
+10 2.5",3/3,2023-12-07
+Aurangabad (Maharashtra),Satisfactory,75,"PM , PM
+10 2.5",3/3,2023-12-08
+Aurangabad (Maharashtra),Satisfactory,87,"PM , PM
+10 2.5",3/3,2023-12-09
+Aurangabad (Maharashtra),Satisfactory,98,"PM , PM
+10 2.5",3/3,2023-12-10
+Aurangabad (Maharashtra),Satisfactory,97,"PM , PM
+10 2.5",3/3,2023-12-11
+Aurangabad (Maharashtra),Moderate,146,"PM , PM
+10 2.5",3/3,2023-12-12
+Aurangabad (Maharashtra),Moderate,176,"PM , PM
+10 2.5",2/3,2023-12-13
+Aurangabad (Maharashtra),Moderate,145,"PM , PM
+10 2.5",3/3,2023-12-14
+Aurangabad (Maharashtra),Moderate,149,"PM , PM
+10 2.5",3/3,2023-12-15
+Aurangabad (Maharashtra),Moderate,159,"PM , PM
+10 2.5",3/3,2023-12-16
+Aurangabad (Maharashtra),Moderate,192,"PM , PM
+10 2.5",3/3,2023-12-17
+Aurangabad (Maharashtra),Moderate,176,"PM , PM
+10 2.5",3/3,2023-12-18
+Aurangabad (Maharashtra),Moderate,171,"PM , PM
+2.5 10",3/3,2023-12-19
+Aurangabad (Maharashtra),Poor,225,"PM , PM
+2.5 10",3/3,2023-12-20
+Aurangabad (Maharashtra),Poor,218,"PM , PM
+2.5 10",3/3,2023-12-21
+Aurangabad (Maharashtra),Moderate,200,"PM , PM
+10 2.5",3/3,2023-12-22
+Aurangabad (Maharashtra),Poor,206,"PM , PM
+10 2.5",3/3,2023-12-23
+Aurangabad (Maharashtra),Moderate,182,"PM , PM
+10 2.5",2/3,2023-12-24
+Aurangabad (Maharashtra),Moderate,172,"PM
+2.5",1/3,2023-12-25
+Aurangabad (Maharashtra),Poor,249,"PM
+2.5",3/3,2023-12-26
+Aurangabad (Maharashtra),Poor,298,"PM
+2.5",3/3,2023-12-27
+Aurangabad (Maharashtra),Poor,277,"PM
+2.5",3/3,2023-12-28
+Aurangabad (Maharashtra),Poor,246,"PM
+2.5",3/3,2023-12-29
+Aurangabad (Maharashtra),Moderate,193,"PM , PM
+10 2.5",3/3,2023-12-30
+Aurangabad (Maharashtra),Poor,223,"PM , PM
+10 2.5",3/3,2023-12-31
+Aurangabad (Maharashtra),Poor,220,"PM , PM
+10 2.5",3/3,2024-01-01
+Aurangabad (Maharashtra),Poor,224,"PM , PM
+10 2.5",3/3,2024-01-02
+Aurangabad (Maharashtra),Poor,206,"PM , PM
+10 2.5",3/3,2024-01-03
+Aurangabad (Maharashtra),Poor,213,"PM , PM
+10 2.5",3/3,2024-01-04
+Aurangabad (Maharashtra),Poor,237,"PM , PM
+10 2.5",3/3,2024-01-05
+Aurangabad (Maharashtra),Poor,202,"PM , PM
+10 2.5",3/3,2024-01-06
+Aurangabad (Maharashtra),Moderate,164,"PM
+2.5",2/3,2024-01-07
+Aurangabad (Maharashtra),Moderate,158,"PM
+2.5",2/3,2024-01-08
+Aurangabad (Maharashtra),Moderate,168,"PM
+2.5",2/3,2024-01-09
+Aurangabad (Maharashtra),Satisfactory,80,"PM , PM
+10 2.5",3/3,2024-01-10
+Aurangabad (Maharashtra),Moderate,138,"PM , PM
+10 2.5",3/3,2024-01-11
+Aurangabad (Maharashtra),Moderate,155,"PM
+2.5",3/3,2024-01-12
+Aurangabad (Maharashtra),Poor,216,"PM
+2.5",2/3,2024-01-13
+Aurangabad (Maharashtra),Moderate,135,"PM
+2.5",2/3,2024-01-14
+Aurangabad (Maharashtra),Satisfactory,82,"PM , O
+10 3",2/3,2024-01-15
+Aurangabad (Maharashtra),Moderate,134,"PM
+2.5",2/3,2024-01-16
+Aurangabad (Maharashtra),Moderate,186,"PM , PM
+10 2.5",2/3,2024-01-17
+Aurangabad (Maharashtra),Moderate,192,"PM
+2.5",2/3,2024-01-18
+Aurangabad (Maharashtra),Poor,208,"PM
+2.5",2/3,2024-01-19
+Aurangabad (Maharashtra),Moderate,147,"PM
+2.5",2/3,2024-01-20
+Aurangabad (Maharashtra),Moderate,146,"PM
+2.5",2/3,2024-01-21
+Aurangabad (Maharashtra),Moderate,142,"PM
+2.5",2/3,2024-01-22
+Aurangabad (Maharashtra),Moderate,198,"PM
+2.5",2/3,2024-01-23
+Aurangabad (Maharashtra),Moderate,118,"PM , PM
+10 2.5",2/3,2024-01-24
+Aurangabad (Maharashtra),Moderate,115,"PM
+10",2/3,2024-01-25
+Aurangabad (Maharashtra),Moderate,173,"PM
+2.5",2/3,2024-01-26
+Aurangabad (Maharashtra),Poor,206,"PM
+2.5",2/3,2024-01-27
+Aurangabad (Maharashtra),Poor,240,"PM
+2.5",2/3,2024-01-28
+Aurangabad (Maharashtra),Poor,243,"PM , PM
+10 2.5",2/3,2024-01-29
+Aurangabad (Maharashtra),Moderate,184,"PM , PM
+10 2.5",3/3,2024-01-30
+Aurangabad (Maharashtra),Moderate,165,"PM , PM
+10 2.5",3/3,2024-01-31
+Aurangabad (Maharashtra),Moderate,160,"PM , PM
+10 2.5",3/3,2024-02-01
+Aurangabad (Maharashtra),Moderate,139,"PM , CO, PM
+10 2.5",3/3,2024-02-02
+Aurangabad (Maharashtra),Moderate,112,"PM , PM
+10 2.5",3/3,2024-02-03
+Aurangabad (Maharashtra),Moderate,163,"PM , PM
+10 2.5",3/3,2024-02-04
+Aurangabad (Maharashtra),Moderate,198,"PM , PM
+10 2.5",3/3,2024-02-05
+Aurangabad (Maharashtra),Moderate,158,"PM , PM
+10 2.5",3/3,2024-02-06
+Aurangabad (Maharashtra),Moderate,120,"PM , PM
+10 2.5",3/3,2024-02-07
+Aurangabad (Maharashtra),Moderate,115,"PM , PM
+10 2.5",3/3,2024-02-08
+Aurangabad (Maharashtra),Moderate,109,"PM , PM
+10 2.5",3/3,2024-02-09
+Aurangabad (Maharashtra),Moderate,154,"PM , PM
+10 2.5",3/3,2024-02-10
+Aurangabad (Maharashtra),Moderate,118,"PM , PM
+10 2.5",3/3,2024-02-11
+Aurangabad (Maharashtra),Moderate,130,"PM , PM
+10 2.5",3/3,2024-02-12
+Aurangabad (Maharashtra),Moderate,139,"PM , PM
+10 2.5",3/3,2024-02-13
+Aurangabad (Maharashtra),Moderate,124,"PM
+10",3/3,2024-02-14
+Aurangabad (Maharashtra),Moderate,128,"PM , PM
+10 2.5",3/3,2024-02-15
+Aurangabad (Maharashtra),Satisfactory,84,"PM , PM
+10 2.5",3/3,2024-02-16
+Aurangabad (Maharashtra),Satisfactory,92,"PM
+10",3/3,2024-02-17
+Aurangabad (Maharashtra),Moderate,129,"PM , PM
+10 2.5",3/3,2024-02-18
+Aurangabad (Maharashtra),Moderate,138,"PM , PM
+10 2.5",3/3,2024-02-19
+Aurangabad (Maharashtra),Moderate,111,"PM
+10",3/3,2024-02-20
+Aurangabad (Maharashtra),Moderate,106,"PM
+10",3/3,2024-02-21
+Aurangabad (Maharashtra),Satisfactory,89,"PM
+10",3/3,2024-02-22
+Aurangabad (Maharashtra),Satisfactory,97,"PM
+10",3/3,2024-02-23
+Aurangabad (Maharashtra),Moderate,110,"PM
+10",3/3,2024-02-24
+Aurangabad (Maharashtra),Satisfactory,96,"PM , PM
+10 2.5",3/3,2024-02-25
+Aurangabad (Maharashtra),Satisfactory,91,"PM , PM
+10 2.5",3/3,2024-02-26
+Aurangabad (Maharashtra),Satisfactory,95,"PM , PM
+10 2.5",3/3,2024-02-27
+Aurangabad (Maharashtra),Satisfactory,86,"PM
+10",3/3,2024-02-28
+Aurangabad (Maharashtra),Satisfactory,52,"PM
+10",1/3,2024-02-29
+Aurangabad (Maharashtra),Moderate,128,"PM , PM
+10 2.5",3/3,2024-03-01
+Aurangabad (Maharashtra),Moderate,104,"PM
+10",3/3,2024-03-02
+Aurangabad (Maharashtra),Satisfactory,65,"PM , PM
+10 2.5",3/3,2024-03-03
+Aurangabad (Maharashtra),Moderate,107,"PM , O
+10 3",3/3,2024-03-04
+Aurangabad (Maharashtra),Satisfactory,77,"PM
+10",3/3,2024-03-05
+Aurangabad (Maharashtra),Moderate,106,"PM
+10",3/3,2024-03-06
+Aurangabad (Maharashtra),Satisfactory,83,"PM
+10",3/3,2024-03-07
+Aurangabad (Maharashtra),Satisfactory,86,"PM , O
+10 3",3/3,2024-03-08
+Aurangabad (Maharashtra),Satisfactory,73,"PM
+10",3/3,2024-03-09
+Aurangabad (Maharashtra),Moderate,101,"PM
+10",3/3,2024-03-10
+Aurangabad (Maharashtra),Satisfactory,90,"PM
+10",2/3,2024-03-11
+Aurangabad (Maharashtra),Moderate,104,"PM
+10",3/3,2024-03-12
+Aurangabad (Maharashtra),Satisfactory,88,"PM , PM
+10 2.5",3/3,2024-03-13
+Aurangabad (Maharashtra),Satisfactory,100,"PM
+10",3/3,2024-03-14
+Aurangabad (Maharashtra),Moderate,132,"PM , O
+10 3",3/3,2024-03-15
+Aurangabad (Maharashtra),Satisfactory,92,"PM
+10",2/3,2024-03-16
+Aurangabad (Maharashtra),Moderate,153,"PM , PM , O
+10 2.5 3",3/3,2024-03-17
+Aurangabad (Maharashtra),Moderate,164,"O
+3",2/3,2024-03-18
+Aurangabad (Maharashtra),Moderate,152,"PM , PM
+10 2.5",2/3,2024-03-19
+Aurangabad (Maharashtra),Moderate,108,"PM , O
+10 3",3/3,2024-03-20
+Aurangabad (Maharashtra),Moderate,124,"PM , O
+10 3",3/3,2024-03-21
+Aurangabad (Maharashtra),Moderate,164,"PM , O
+10 3",3/3,2024-03-22
+Aurangabad (Maharashtra),Moderate,148,"PM , PM , O
+10 2.5 3",3/3,2024-03-23
+Aurangabad (Maharashtra),Moderate,177,"PM , PM , O
+10 2.5 3",3/3,2024-03-24
+Aurangabad (Maharashtra),Moderate,107,"PM
+10",2/3,2024-03-25
+Aurangabad (Maharashtra),Moderate,112,"PM , PM
+10 2.5",2/3,2024-03-26
+Aurangabad (Maharashtra),Moderate,132,"PM , O
+10 3",3/3,2024-03-27
+Aurangabad (Maharashtra),Moderate,153,"PM , PM , O
+10 2.5 3",3/3,2024-03-28
+Aurangabad (Maharashtra),Moderate,134,"O , PM
+3 10",3/3,2024-03-29
+Aurangabad (Maharashtra),Satisfactory,96,"PM , PM
+10 2.5",3/3,2024-03-30
+Aurangabad (Maharashtra),Satisfactory,99,"PM , PM
+10 2.5",3/3,2024-03-31
+Aurangabad (Maharashtra),Satisfactory,92,"PM , O
+10 3",3/3,2024-04-01
+Aurangabad (Maharashtra),Moderate,113,"PM
+10",3/3,2024-04-02
+Aurangabad (Maharashtra),Moderate,120,"PM
+10",2/3,2024-04-03
+Aurangabad (Maharashtra),Moderate,104,"PM
+10",3/3,2024-04-04
+Aurangabad (Maharashtra),Satisfactory,93,"PM
+10",3/3,2024-04-05
+Aurangabad (Maharashtra),Satisfactory,80,"O , PM
+3 10",3/3,2024-04-06
+Aurangabad (Maharashtra),Satisfactory,73,"O , PM
+3 10",3/3,2024-04-07
+Aurangabad (Maharashtra),Moderate,108,"PM
+10",3/3,2024-04-08
+Aurangabad (Maharashtra),Moderate,127,"PM , PM
+2.5 10",3/3,2024-04-09
+Aurangabad (Maharashtra),Satisfactory,83,"O , PM
+3 10",3/3,2024-04-10
+Aurangabad (Maharashtra),Satisfactory,100,"O , PM , PM
+3 2.5 10",3/3,2024-04-11
+Aurangabad (Maharashtra),Satisfactory,79,"O , PM , PM
+3 2.5 10",3/3,2024-04-12
+Aurangabad (Maharashtra),Satisfactory,76,"O
+3",3/3,2024-04-13
+Aurangabad (Maharashtra),Satisfactory,90,"O , PM
+3 2.5",3/3,2024-04-14
+Aurangabad (Maharashtra),Satisfactory,89,"O , PM
+3 10",3/3,2024-04-15
+Aurangabad (Maharashtra),Satisfactory,86,"O , PM , PM
+3 2.5 10",3/3,2024-04-16
+Aurangabad (Maharashtra),Moderate,112,"O , PM
+3 10",3/3,2024-04-17
+Aurangabad (Maharashtra),Satisfactory,83,"PM
+10",2/3,2024-04-18
+Aurangabad (Maharashtra),Satisfactory,85,"PM
+10",3/3,2024-04-19
+Aurangabad (Maharashtra),Satisfactory,96,"PM
+10",2/3,2024-04-20
+Aurangabad (Maharashtra),Satisfactory,84,"PM
+10",2/3,2024-04-22
+Aurangabad (Maharashtra),Satisfactory,80,"PM
+10",2/3,2024-04-23
+Aurangabad (Maharashtra),Satisfactory,86,"O
+3",1/3,2024-04-24
+Aurangabad (Maharashtra),Satisfactory,86,"PM , O
+10 3",3/3,2024-04-25
+Aurangabad (Maharashtra),Moderate,115,"PM , O
+10 3",2/3,2024-04-26
+Aurangabad (Maharashtra),Satisfactory,97,"PM , O
+10 3",3/3,2024-04-27
+Aurangabad (Maharashtra),Moderate,107,"PM , O
+10 3",3/3,2024-04-28
+Aurangabad (Maharashtra),Moderate,173,"PM , O
+10 3",3/3,2024-04-29
+Aurangabad (Maharashtra),Moderate,110,"PM , O
+10 3",3/3,2024-04-30
+Aurangabad (Maharashtra),Moderate,116,"PM
+10",2/3,2024-05-01
+Aurangabad (Maharashtra),Moderate,115,"PM , O
+10 3",2/3,2024-05-02
+Aurangabad (Maharashtra),Moderate,140,"PM
+10",2/3,2024-05-03
+Aurangabad (Maharashtra),Moderate,160,"PM , O
+10 3",3/3,2024-05-04
+Aurangabad (Maharashtra),Moderate,123,"PM
+10",3/3,2024-05-05
+Aurangabad (Maharashtra),Satisfactory,90,"O , PM
+3 2.5",2/3,2024-05-06
+Aurangabad (Maharashtra),Satisfactory,82,"PM , O
+10 3",2/3,2024-05-07
+Aurangabad (Maharashtra),Moderate,116,"PM , O , PM
+10 3 2.5",3/3,2024-05-08
+Aurangabad (Maharashtra),Moderate,108,"PM , O , PM
+10 3 2.5",3/3,2024-05-09
+Aurangabad (Maharashtra),Satisfactory,98,"PM , O
+10 3",3/3,2024-05-10
+Aurangabad (Maharashtra),Moderate,129,"PM
+10",1/3,2024-05-11
+Aurangabad (Maharashtra),Moderate,144,"PM
+10",1/3,2024-05-12
+Aurangabad (Maharashtra),Moderate,101,"PM , O
+10 3",2/3,2024-05-13
+Aurangabad (Maharashtra),Satisfactory,91,"PM , O
+10 3",3/3,2024-05-14
+Aurangabad (Maharashtra),Satisfactory,93,"PM , O
+10 3",3/3,2024-05-15
+Aurangabad (Maharashtra),Moderate,135,"PM , O
+10 3",3/3,2024-05-16
+Aurangabad (Maharashtra),Satisfactory,93,"PM , O , PM
+10 3 2.5",3/3,2024-05-17
+Aurangabad (Maharashtra),Moderate,106,"PM , O , PM
+10 3 2.5",3/3,2024-05-18
+Aurangabad (Maharashtra),Moderate,108,"PM , O , PM
+10 3 2.5",3/3,2024-05-19
+Aurangabad (Maharashtra),Moderate,104,"PM , O
+10 3",3/3,2024-05-20
+Aurangabad (Maharashtra),Moderate,141,"PM , O
+10 3",3/3,2024-05-21
+Aurangabad (Maharashtra),Moderate,174,"PM , O
+10 3",2/3,2024-05-22
+Aurangabad (Maharashtra),Moderate,192,"PM
+10",2/3,2024-05-23
+Aurangabad (Maharashtra),Moderate,126,"PM
+10",2/3,2024-05-24
+Aurangabad (Maharashtra),Satisfactory,93,"PM , PM , O
+10 2.5 3",3/3,2024-05-25
+Aurangabad (Maharashtra),Satisfactory,95,"PM , PM
+10 2.5",3/3,2024-05-26
+Aurangabad (Maharashtra),Satisfactory,94,"PM
+10",3/3,2024-05-27
+Aurangabad (Maharashtra),Moderate,102,"PM , O
+10 3",2/3,2024-05-28
+Aurangabad (Maharashtra),Satisfactory,94,"PM
+10",3/3,2024-05-29
+Aurangabad (Maharashtra),Satisfactory,97,"PM , O
+10 3",3/3,2024-05-30
+Aurangabad (Maharashtra),Satisfactory,93,"PM
+10",3/3,2024-05-31
+Aurangabad (Maharashtra),Satisfactory,86,"PM
+10",3/3,2024-06-01
+Aurangabad (Maharashtra),Satisfactory,89,"PM
+10",3/3,2024-06-02
+Aurangabad (Maharashtra),Satisfactory,89,"PM , O
+10 3",3/3,2024-06-03
+Aurangabad (Maharashtra),Satisfactory,85,"PM , O
+10 3",3/3,2024-06-04
+Aurangabad (Maharashtra),Satisfactory,68,"NO , PM
+2 10",3/3,2024-06-05
+Aurangabad (Maharashtra),Satisfactory,67,"NO , PM , PM
+2 2.5 10",3/3,2024-06-06
+Aurangabad (Maharashtra),Satisfactory,67,"PM , O
+10 3",3/3,2024-06-07
+Aurangabad (Maharashtra),Good,43,"PM
+10",1/3,2024-06-08
+Aurangabad (Maharashtra),Satisfactory,80,"PM , PM , O
+2.5 10 3",3/3,2024-06-09
+Aurangabad (Maharashtra),Satisfactory,71,"PM
+2.5",1/3,2024-06-10
+Aurangabad (Maharashtra),Satisfactory,60,"PM , PM , O
+2.5 10 3",3/3,2024-06-11
+Aurangabad (Maharashtra),Satisfactory,67,"NO , PM
+2 10",3/3,2024-06-12
+Aurangabad (Maharashtra),Satisfactory,66,"PM , O
+10 3",2/3,2024-06-13
+Aurangabad (Maharashtra),Good,50,"PM
+10",2/3,2024-06-14
+Aurangabad (Maharashtra),Satisfactory,90,"O
+3",1/3,2024-06-15
+Aurangabad (Maharashtra),Good,42,"PM , O
+10 3",2/3,2024-06-16
+Aurangabad (Maharashtra),Good,44,"PM , O
+10 3",2/3,2024-06-17
+Aurangabad (Maharashtra),Good,42,"PM , O
+10 3",2/3,2024-06-18
+Aurangabad (Maharashtra),Good,41,"PM
+10",1/3,2024-06-19
+Aurangabad (Maharashtra),Good,48,"CO, PM
+10",2/3,2024-06-20
+Aurangabad (Maharashtra),Satisfactory,64,"PM , CO
+2.5",2/3,2024-06-21
+Aurangabad (Maharashtra),Good,40,"O
+3",1/3,2024-06-22
+Aurangabad (Maharashtra),Satisfactory,52,"PM
+10",2/3,2024-06-23
+Aurangabad (Maharashtra),Satisfactory,72,"PM , CO
+2.5",2/3,2024-06-24
+Aurangabad (Maharashtra),Satisfactory,52,"O , PM
+3 2.5",2/3,2024-06-25
+Aurangabad (Maharashtra),Good,42,"O
+3",2/3,2024-06-26
+Aurangabad (Maharashtra),Good,41,"CO, O
+3",2/3,2024-06-27
+Aurangabad (Maharashtra),Good,40,"O
+3",2/3,2024-06-28
+Aurangabad (Maharashtra),Satisfactory,69,CO,2/3,2024-06-29
+Aurangabad (Maharashtra),Good,46,"CO, PM
+10",2/3,2024-06-30
+Aurangabad (Maharashtra),Good,45,"CO, PM
+2.5",2/3,2024-07-01
+Aurangabad (Maharashtra),Good,48,"O
+3",2/3,2024-07-02
+Aurangabad (Maharashtra),Good,50,"PM , CO
+10",2/3,2024-07-03
+Aurangabad (Maharashtra),Satisfactory,61,"CO, PM
+10",2/3,2024-07-04
+Aurangabad (Maharashtra),Satisfactory,52,"PM
+10",2/3,2024-07-05
+Aurangabad (Maharashtra),Good,50,"PM
+10",1/3,2024-07-06
+Aurangabad (Maharashtra),Satisfactory,54,"PM
+10",2/3,2024-07-07
+Aurangabad (Maharashtra),Satisfactory,71,"PM
+10",2/3,2024-07-08
+Aurangabad (Maharashtra),Satisfactory,64,"PM
+10",2/3,2024-07-09
+Aurangabad (Maharashtra),Good,42,"O , PM
+3 10",2/3,2024-07-10
+Aurangabad (Maharashtra),Good,46,"PM
+10",2/3,2024-07-11
+Aurangabad (Maharashtra),Good,37,"PM , CO
+10",2/3,2024-07-12
+Aurangabad (Maharashtra),Good,36,"PM
+10",2/3,2024-07-13
+Aurangabad (Maharashtra),Satisfactory,76,"NO , O
+2 3",2/3,2024-07-14
+Aurangabad (Maharashtra),Satisfactory,54,"PM
+10",2/3,2024-07-15
+Aurangabad (Maharashtra),Satisfactory,66,"PM
+10",2/3,2024-07-16
+Aurangabad (Maharashtra),Satisfactory,54,"PM , CO
+10",2/3,2024-07-17
+Aurangabad (Maharashtra),Good,49,"PM
+10",2/3,2024-07-18
+Aurangabad (Maharashtra),Good,38,"PM , O
+10 3",2/3,2024-07-19
+Aurangabad (Maharashtra),Moderate,106,"O
+3",1/3,2024-07-20
+Aurangabad (Maharashtra),Good,34,"PM
+10",2/3,2024-07-21
+Aurangabad (Maharashtra),Satisfactory,52,"O , PM
+3 10",2/3,2024-07-22
+Aurangabad (Maharashtra),Good,36,"PM
+10",2/3,2024-07-23
+Aurangabad (Maharashtra),Good,44,"PM , O
+10 3",2/3,2024-07-24
+Aurangabad (Maharashtra),Satisfactory,52,"PM , O
+10 3",2/3,2024-07-25
+Aurangabad (Maharashtra),Satisfactory,52,"PM , O
+10 3",2/3,2024-07-26
+Aurangabad (Maharashtra),Good,50,"O , PM
+3 10",2/3,2024-07-27
+Aurangabad (Maharashtra),Satisfactory,66,"PM , PM
+10 2.5",2/3,2024-07-28
+Aurangabad (Maharashtra),Good,44,"PM , CO
+2.5",2/3,2024-07-29
+Aurangabad (Maharashtra),Good,39,"PM
+10",2/3,2024-07-30
+Aurangabad (Maharashtra),Good,46,"PM , O
+10 3",2/3,2024-07-31
+Aurangabad (Maharashtra),Good,48,"PM
+10",2/3,2024-08-01
+Aurangabad (Maharashtra),Good,46,"PM
+10",2/3,2024-08-02
+Aurangabad (Maharashtra),Good,39,"PM
+10",2/3,2024-08-03
+Aurangabad (Maharashtra),Good,35,"PM
+10",2/3,2024-08-04
+Aurangabad (Maharashtra),Good,40,"PM , NO
+10 2",2/3,2024-08-05
+Aurangabad (Maharashtra),Good,50,"PM
+10",2/3,2024-08-06
+Aurangabad (Maharashtra),Good,47,"PM
+10",1/3,2024-08-07
+Aurangabad (Maharashtra),Good,50,"PM , NO
+10 2",2/3,2024-08-08
+Aurangabad (Maharashtra),Satisfactory,55,"PM
+10",1/3,2024-08-09
+Aurangabad (Maharashtra),Good,44,"NO
+2",1/3,2024-08-10
+Aurangabad (Maharashtra),Good,44,"PM , NO
+10 2",2/3,2024-08-11
+Aurangabad (Maharashtra),Good,44,"NO , PM
+2 10",2/3,2024-08-12
+Aurangabad (Maharashtra),Good,42,"PM , NO
+10 2",2/3,2024-08-13
+Aurangabad (Maharashtra),Satisfactory,52,"PM , NO
+10 2",2/3,2024-08-14
+Aurangabad (Maharashtra),Satisfactory,52,"PM , NO
+10 2",2/3,2024-08-15
+Aurangabad (Maharashtra),Good,50,"PM
+10",1/3,2024-08-16
+Aurangabad (Maharashtra),Satisfactory,51,"PM
+10",2/3,2024-08-17
+Aurangabad (Maharashtra),Satisfactory,62,"PM , CO
+10",2/3,2024-08-18
+Aurangabad (Maharashtra),Good,48,"PM , O
+10 3",2/3,2024-08-19
+Aurangabad (Maharashtra),Good,42,"PM , NO
+2.5 2",2/3,2024-08-20
+Aurangabad (Maharashtra),Satisfactory,79,"O , PM
+3 10",2/3,2024-08-21
+Aurangabad (Maharashtra),Satisfactory,74,"PM , PM
+10 2.5",2/3,2024-08-22
+Aurangabad (Maharashtra),Moderate,104,"PM , O
+10 3",2/3,2024-08-23
+Aurangabad (Maharashtra),Good,27,"PM
+2.5",1/3,2024-08-24
+Aurangabad (Maharashtra),Moderate,110,"PM
+10",2/3,2024-08-25
+Aurangabad (Maharashtra),Moderate,106,"PM
+10",1/3,2024-08-26
+Aurangabad (Maharashtra),Satisfactory,74,"PM , O
+10 3",2/3,2024-08-27
+Aurangabad (Maharashtra),Good,40,"NO , PM
+2 10",2/3,2024-08-28
+Aurangabad (Maharashtra),Good,45,"NO , PM
+2 10",2/3,2024-08-29
+Aurangabad (Maharashtra),Satisfactory,56,"PM , NO
+10 2",2/3,2024-08-30
+Aurangabad (Maharashtra),Good,43,"PM , NO
+10 2",3/3,2024-08-31
+Aurangabad (Maharashtra),Good,48,"CO, PM
+10",3/3,2024-09-01
+Aurangabad (Maharashtra),Good,38,"PM , NO
+10 2",3/3,2024-09-02
+Aurangabad (Maharashtra),Good,34,"NO , CO
+2",2/3,2024-09-03
+Aurangabad (Maharashtra),Good,43,"NO , PM
+2 10",3/3,2024-09-04
+Aurangabad (Maharashtra),Good,50,"PM , NO
+10 2",3/3,2024-09-05
+Aurangabad (Maharashtra),Satisfactory,56,"O , PM
+3 10",3/3,2024-09-06
+Aurangabad (Maharashtra),Moderate,184,"PM , O
+10 3",2/3,2024-09-07
+Aurangabad (Maharashtra),Satisfactory,63,"O , PM
+3 10",3/3,2024-09-08
+Aurangabad (Maharashtra),Satisfactory,58,"CO, O , PM
+3 10",3/3,2024-09-09
+Aurangabad (Maharashtra),Good,40,"NO , PM
+2 10",3/3,2024-09-10
+Aurangabad (Maharashtra),Good,42,"PM
+10",3/3,2024-09-11
+Aurangabad (Maharashtra),Satisfactory,54,"PM
+10",3/3,2024-09-12
+Aurangabad (Maharashtra),Good,50,"PM
+10",3/3,2024-09-13
+Aurangabad (Maharashtra),Satisfactory,63,"PM , CO
+10",3/3,2024-09-14
+Aurangabad (Maharashtra),Satisfactory,99,"PM
+10",3/3,2024-09-15
+Aurangabad (Maharashtra),Moderate,174,"PM
+10",3/3,2024-09-16
+Aurangabad (Maharashtra),Satisfactory,66,"PM
+10",3/3,2024-09-17
+Aurangabad (Maharashtra),Satisfactory,63,"PM
+10",3/3,2024-09-18
+Aurangabad (Maharashtra),Satisfactory,82,"PM
+10",3/3,2024-09-19
+Aurangabad (Maharashtra),Satisfactory,79,"PM
+10",3/3,2024-09-20
+Aurangabad (Maharashtra),Satisfactory,84,"PM
+10",3/3,2024-09-21
+Aurangabad (Maharashtra),Satisfactory,78,"PM
+10",3/3,2024-09-22
+Aurangabad (Maharashtra),Satisfactory,82,"PM
+10",2/3,2024-09-23
+Aurangabad (Maharashtra),Satisfactory,60,"CO, PM
+10",2/3,2024-09-24
+Aurangabad (Maharashtra),Satisfactory,73,"CO, PM , PM
+2.5 10",3/3,2024-09-25
+Aurangabad (Maharashtra),Good,42,"CO, PM
+10",3/3,2024-09-26
+Aurangabad (Maharashtra),Good,44,"PM , CO
+10",3/3,2024-09-27
+Aurangabad (Maharashtra),Good,34,"O , NO
+3 2",3/3,2024-09-28
+Aurangabad (Maharashtra),Good,42,"PM , CO
+10",3/3,2024-09-29
+Aurangabad (Maharashtra),Good,41,"PM
+10",3/3,2024-09-30
+Aurangabad (Maharashtra),Satisfactory,63,"PM
+10",3/3,2024-10-01
+Aurangabad (Maharashtra),Satisfactory,89,"PM , PM
+10 2.5",3/3,2024-10-02
+Aurangabad (Maharashtra),Satisfactory,84,"PM , PM
+10 2.5",3/3,2024-10-03
+Aurangabad (Maharashtra),Satisfactory,79,"PM , PM
+2.5 10",3/3,2024-10-04
+Aurangabad (Maharashtra),Satisfactory,54,"PM
+10",3/3,2024-10-05
+Aurangabad (Maharashtra),Satisfactory,68,"PM , PM
+10 2.5",3/3,2024-10-06
+Aurangabad (Maharashtra),Satisfactory,96,"PM , PM
+2.5 10",3/3,2024-10-07
+Aurangabad (Maharashtra),Moderate,110,"PM , PM
+2.5 10",3/3,2024-10-08
+Aurangabad (Maharashtra),Moderate,115,"PM , PM
+10 2.5",3/3,2024-10-09
+Aurangabad (Maharashtra),Satisfactory,67,"PM , CO, PM
+2.5 10",3/3,2024-10-10
+Aurangabad (Maharashtra),Satisfactory,55,"PM
+10",3/3,2024-10-11
+Aurangabad (Maharashtra),Good,46,"PM
+10",2/3,2024-10-12
+Aurangabad (Maharashtra),Good,44,"CO, PM , PM
+2.5 10",3/3,2024-10-13
+Aurangabad (Maharashtra),Good,42,"PM , O
+10 3",3/3,2024-10-14
+Aurangabad (Maharashtra),Satisfactory,53,"PM , PM
+2.5 10",3/3,2024-10-15
+Aurangabad (Maharashtra),Satisfactory,75,"PM , PM
+10 2.5",3/3,2024-10-16
+Aurangabad (Maharashtra),Satisfactory,99,"PM , PM
+10 2.5",3/3,2024-10-17
+Aurangabad (Maharashtra),Satisfactory,98,"PM
+10",2/3,2024-10-18
+Aurangabad (Maharashtra),Satisfactory,51,"PM , CO
+10",3/3,2024-10-19
+Aurangabad (Maharashtra),Good,43,"PM , PM , O
+10 2.5 3",3/3,2024-10-20
+Aurangabad (Maharashtra),Satisfactory,60,"PM , PM
+2.5 10",3/3,2024-10-21
+Aurangabad (Maharashtra),Satisfactory,84,"CO, PM
+10",3/3,2024-10-22
+Aurangabad (Maharashtra),Satisfactory,97,"PM , PM
+2.5 10",3/3,2024-10-23
+Aurangabad (Maharashtra),Moderate,122,"PM
+10",2/3,2024-10-24
+Aurangabad (Maharashtra),Moderate,114,"PM
+10",3/3,2024-10-25
+Aurangabad (Maharashtra),Satisfactory,97,"PM
+10",3/3,2024-10-26
+Aurangabad (Maharashtra),Moderate,109,"PM
+10",3/3,2024-10-27
+Aurangabad (Maharashtra),Moderate,111,"PM
+10",3/3,2024-10-28
+Aurangabad (Maharashtra),Moderate,102,"PM
+10",3/3,2024-10-29
+Aurangabad (Maharashtra),Moderate,108,"PM
+10",2/3,2024-10-30
+Aurangabad (Maharashtra),Satisfactory,93,"O , PM
+3 10",3/3,2024-10-31
+Aurangabad (Maharashtra),Moderate,105,"PM
+10",3/3,2024-11-01
+Aurangabad (Maharashtra),Moderate,155,"PM
+10",3/3,2024-11-02
+Aurangabad (Maharashtra),Moderate,115,"PM , PM
+10 2.5",3/3,2024-11-03
+Aurangabad (Maharashtra),Moderate,114,"PM , PM
+2.5 10",3/3,2024-11-04
+Aurangabad (Maharashtra),Moderate,124,"PM , PM
+10 2.5",3/3,2024-11-05
+Aurangabad (Maharashtra),Moderate,122,"PM , PM
+10 2.5",3/3,2024-11-06
+Aurangabad (Maharashtra),Moderate,125,"PM , PM
+2.5 10",3/3,2024-11-07
+Aurangabad (Maharashtra),Moderate,115,"PM
+10",3/3,2024-11-08
+Aurangabad (Maharashtra),Moderate,112,"PM , PM
+10 2.5",3/3,2024-11-09
+Aurangabad (Maharashtra),Moderate,126,"PM , PM
+2.5 10",3/3,2024-11-10
+Aurangabad (Maharashtra),Moderate,116,"PM
+10",2/3,2024-11-11
+Aurangabad (Maharashtra),Moderate,106,"PM , PM
+10 2.5",3/3,2024-11-12
+Aurangabad (Maharashtra),Satisfactory,96,"O , PM
+3 10",3/3,2024-11-13
+Aurangabad (Maharashtra),Moderate,103,"PM , PM
+2.5 10",3/3,2024-11-14
+Aurangabad (Maharashtra),Moderate,104,"O , PM
+3 10",2/3,2024-11-15
+Aurangabad (Maharashtra),Moderate,104,"PM , PM
+2.5 10",3/3,2024-11-16
+Aurangabad (Maharashtra),Satisfactory,100,"O , PM
+3 10",3/3,2024-11-17
+Aurangabad (Maharashtra),Satisfactory,94,"PM , O
+10 3",3/3,2024-11-18
+Aurangabad (Maharashtra),Moderate,114,"O , PM
+3 10",3/3,2024-11-19
+Aurangabad (Maharashtra),Moderate,103,"PM , PM , O
+2.5 10 3",3/3,2024-11-20
+Aurangabad (Maharashtra),Moderate,118,"PM , O , PM
+10 3 2.5",3/3,2024-11-21
+Aurangabad (Maharashtra),Moderate,108,"PM , O
+2.5 3",2/3,2024-11-22
+Aurangabad (Maharashtra),Moderate,154,"O , PM , PM
+3 2.5 10",3/3,2024-11-23
+Aurangabad (Maharashtra),Moderate,156,"O , PM , PM
+3 2.5 10",3/3,2024-11-24
+Aurangabad (Maharashtra),Moderate,138,"O , PM , PM
+3 2.5 10",3/3,2024-11-25
+Aurangabad (Maharashtra),Moderate,118,"PM , O
+2.5 3",3/3,2024-11-26
+Aurangabad (Maharashtra),Moderate,102,"O , PM
+3 10",3/3,2024-11-27
+Aurangabad (Maharashtra),Satisfactory,92,"PM
+10",2/3,2024-11-28
+Aurangabad (Maharashtra),Moderate,101,"PM , O
+10 3",3/3,2024-11-29
+Aurangabad (Maharashtra),Moderate,149,"O , PM
+3 10",3/3,2024-11-30
+Aurangabad (Maharashtra),Moderate,132,"O , PM
+3 2.5",3/3,2024-12-01
+Aurangabad (Maharashtra),Moderate,105,"PM , PM
+10 2.5",3/3,2024-12-02
+Aurangabad (Maharashtra),Satisfactory,96,"PM
+10",3/3,2024-12-03
+Aurangabad (Maharashtra),Satisfactory,95,"PM
+10",3/3,2024-12-04
+Aurangabad (Maharashtra),Satisfactory,91,"PM , CO
+10",3/3,2024-12-05
+Aurangabad (Maharashtra),Satisfactory,88,"PM , CO
+10",3/3,2024-12-06
+Aurangabad (Maharashtra),Satisfactory,87,"PM , PM
+2.5 10",3/3,2024-12-07
+Aurangabad (Maharashtra),Satisfactory,98,"PM
+10",2/3,2024-12-08
+Aurangabad (Maharashtra),Satisfactory,94,"PM , O
+10 3",3/3,2024-12-09
+Aurangabad (Maharashtra),Satisfactory,96,"PM , O
+10 3",3/3,2024-12-10
+Aurangabad (Maharashtra),Moderate,110,"PM
+10",2/3,2024-12-11
+Aurangabad (Maharashtra),Moderate,110,"PM , O
+10 3",3/3,2024-12-12
+Aurangabad (Maharashtra),Moderate,106,"PM , O
+10 3",3/3,2024-12-13
+Aurangabad (Maharashtra),Satisfactory,84,"PM , O
+10 3",2/3,2024-12-14
+Aurangabad (Maharashtra),Satisfactory,94,"O , PM
+3 10",2/3,2024-12-15
+Aurangabad (Maharashtra),Moderate,105,"O , PM
+3 2.5",2/3,2024-12-16
+Aurangabad (Maharashtra),Moderate,137,"PM , PM , O
+10 2.5 3",3/3,2024-12-17
+Aurangabad (Maharashtra),Moderate,152,"PM , O
+2.5 3",2/3,2024-12-18
+Aurangabad (Maharashtra),Moderate,165,"PM , O , PM
+2.5 3 10",3/3,2024-12-19
+Aurangabad (Maharashtra),Moderate,175,"PM , PM
+10 2.5",3/3,2024-12-20
+Aurangabad (Maharashtra),Moderate,135,"PM , PM
+10 2.5",3/3,2024-12-21
+Aurangabad (Maharashtra),Moderate,103,"PM
+10",3/3,2024-12-22
+Aurangabad (Maharashtra),Moderate,113,"PM
+10",3/3,2024-12-23
+Aurangabad (Maharashtra),Moderate,107,"PM
+10",3/3,2024-12-24
+Aurangabad (Maharashtra),Moderate,104,"PM
+10",3/3,2024-12-25
+Aurangabad (Maharashtra),Satisfactory,87,"PM , PM
+10 2.5",3/3,2024-12-26
+Aurangabad (Maharashtra),Satisfactory,80,"PM , CO
+10",3/3,2024-12-27
+Aurangabad (Maharashtra),Satisfactory,82,"PM
+10",2/3,2024-12-28
+Aurangabad (Maharashtra),Satisfactory,89,"PM
+10",3/3,2024-12-29
+Aurangabad (Maharashtra),Satisfactory,96,"PM
+10",3/3,2024-12-30
+Aurangabad (Maharashtra),Moderate,113,"PM
+10",3/3,2024-12-31
+Aurangabad (Maharashtra),Satisfactory,99,"PM
+10",3/3,2025-01-02
+Aurangabad (Maharashtra),Satisfactory,89,"PM
+10",3/3,2025-01-03
+Aurangabad (Maharashtra),Moderate,114,"PM , PM
+2.5 10",3/3,2025-01-04
+Aurangabad (Maharashtra),Moderate,117,"PM
+10",3/3,2025-01-05
+Aurangabad (Maharashtra),Moderate,108,"PM
+10",3/3,2025-01-06
+Aurangabad (Maharashtra),Moderate,107,"PM
+10",3/3,2025-01-07
+Aurangabad (Maharashtra),Satisfactory,100,"PM
+10",3/3,2025-01-08
+Aurangabad (Maharashtra),Moderate,103,"O , PM , PM
+3 2.5 10",3/3,2025-01-09
+Aurangabad (Maharashtra),Moderate,101,"PM , PM
+2.5 10",3/3,2025-01-10
+Aurangabad (Maharashtra),Moderate,131,"PM , PM
+10 2.5",3/3,2025-01-11
+Aurangabad (Maharashtra),Moderate,134,"PM
+10",2/3,2025-01-12
+Aurangabad (Maharashtra),Moderate,113,"O , PM , PM
+3 2.5 10",3/3,2025-01-13
+Aurangabad (Maharashtra),Moderate,110,"PM , CO
+2.5",2/3,2025-01-14
+Aurangabad (Maharashtra),Moderate,104,"PM , CO, PM
+2.5 10",3/3,2025-01-15
+Aurangabad (Maharashtra),Satisfactory,90,"PM , PM
+2.5 10",3/3,2025-01-16
+Aurangabad (Maharashtra),Moderate,108,"PM , PM , O
+10 2.5 3",3/3,2025-01-17
+Aurangabad (Maharashtra),Moderate,113,"PM , O , PM
+10 3 2.5",3/3,2025-01-18
+Aurangabad (Maharashtra),Moderate,120,"O , PM , PM
+3 2.5 10",3/3,2025-01-19
+Aurangabad (Maharashtra),Moderate,125,"PM , PM , O
+2.5 10 3",3/3,2025-01-20
+Aurangabad (Maharashtra),Moderate,141,"PM , PM , O
+2.5 10 3",3/3,2025-01-21
+Aurangabad (Maharashtra),Moderate,118,"PM , PM
+10 2.5",3/3,2025-01-22
+Aurangabad (Maharashtra),Moderate,146,"PM , PM
+2.5 10",3/3,2025-01-23
+Aurangabad (Maharashtra),Moderate,119,"PM , PM
+2.5 10",3/3,2025-01-24
+Aurangabad (Maharashtra),Moderate,105,"PM , PM
+10 2.5",3/3,2025-01-25
+Aurangabad (Maharashtra),Moderate,115,"PM , PM
+2.5 10",3/3,2025-01-26
+Aurangabad (Maharashtra),Moderate,110,"PM , PM
+2.5 10",3/3,2025-01-27
+Aurangabad (Maharashtra),Moderate,111,"PM
+10",3/3,2025-01-28
+Aurangabad (Maharashtra),Moderate,140,"PM , PM
+2.5 10",2/3,2025-01-29
+Aurangabad (Maharashtra),Moderate,132,"PM , PM
+10 2.5",2/3,2025-01-30
+Aurangabad (Maharashtra),Moderate,117,"PM
+10",2/3,2025-01-31
+Aurangabad (Maharashtra),Moderate,127,"PM
+10",2/3,2025-02-01
+Aurangabad (Maharashtra),Satisfactory,95,"PM
+10",3/3,2025-02-02
+Aurangabad (Maharashtra),Moderate,101,"PM , PM
+10 2.5",3/3,2025-02-03
+Aurangabad (Maharashtra),Moderate,114,"PM , CO, PM
+2.5 10",3/3,2025-02-04
+Aurangabad (Maharashtra),Satisfactory,89,"O , PM
+3 10",3/3,2025-02-05
+Aurangabad (Maharashtra),Satisfactory,79,"O , PM
+3 10",3/3,2025-02-06
+Aurangabad (Maharashtra),Satisfactory,80,"PM , O
+10 3",3/3,2025-02-07
+Aurangabad (Maharashtra),Satisfactory,88,"O , PM
+3 10",3/3,2025-02-08
+Aurangabad (Maharashtra),Satisfactory,98,"O , PM , PM
+3 10 2.5",3/3,2025-02-09
+Aurangabad (Maharashtra),Moderate,128,"PM , PM
+10 2.5",3/3,2025-02-10
+Aurangabad (Maharashtra),Moderate,105,"PM
+10",3/3,2025-02-11
+Aurangabad (Maharashtra),Satisfactory,98,"PM
+10",3/3,2025-02-12
+Aurangabad (Maharashtra),Satisfactory,88,"PM
+10",3/3,2025-02-13
+Aurangabad (Maharashtra),Satisfactory,91,"PM
+10",3/3,2025-02-14
+Aurangabad (Maharashtra),Satisfactory,96,"PM
+10",3/3,2025-02-15
+Aurangabad (Maharashtra),Moderate,101,"PM
+10",3/3,2025-02-16
+Aurangabad (Maharashtra),Satisfactory,95,"PM
+10",3/3,2025-02-17
+Aurangabad (Maharashtra),Satisfactory,85,"PM
+10",3/3,2025-02-18
+Aurangabad (Maharashtra),Satisfactory,80,"PM
+10",3/3,2025-02-19
+Aurangabad (Maharashtra),Satisfactory,76,"PM
+10",3/3,2025-02-20
+Aurangabad (Maharashtra),Satisfactory,87,"PM
+10",3/3,2025-02-21
+Aurangabad (Maharashtra),Satisfactory,92,"PM
+10",3/3,2025-02-22
+Aurangabad (Maharashtra),Satisfactory,98,"PM
+10",3/3,2025-02-23
+Aurangabad (Maharashtra),Satisfactory,90,"PM
+10",3/3,2025-02-24
+Aurangabad (Maharashtra),Satisfactory,84,"PM
+10",3/3,2025-02-25
+Aurangabad (Maharashtra),Satisfactory,96,"PM
+10",3/3,2025-02-26
+Aurangabad (Maharashtra),Moderate,104,"PM
+10",3/3,2025-02-27
+Aurangabad (Maharashtra),Moderate,123,"PM
+10",3/3,2025-02-28
+Aurangabad (Maharashtra),Moderate,120,"PM
+10",3/3,2025-03-01
+Aurangabad (Maharashtra),Moderate,103,"PM , O
+10 3",3/3,2025-03-02
+Aurangabad (Maharashtra),Moderate,102,"O , PM
+3 10",3/3,2025-03-03
+Aurangabad (Maharashtra),Moderate,102,"PM , PM
+10 2.5",3/3,2025-03-04
+Aurangabad (Maharashtra),Satisfactory,94,"PM , PM
+2.5 10",3/3,2025-03-05
+Aurangabad (Maharashtra),Moderate,104,"PM , PM
+10 2.5",2/3,2025-03-06
+Aurangabad (Maharashtra),Moderate,102,"PM , PM
+2.5 10",3/3,2025-03-07
+Aurangabad (Maharashtra),Moderate,129,"PM , O
+10 3",3/3,2025-03-08
+Aurangabad (Maharashtra),Moderate,102,"PM , O
+10 3",3/3,2025-03-09
+Aurangabad (Maharashtra),Moderate,119,"PM , O
+10 3",3/3,2025-03-10
+Aurangabad (Maharashtra),Moderate,137,"PM , PM
+2.5 10",3/3,2025-03-11
+Aurangabad (Maharashtra),Moderate,148,"PM , O
+10 3",2/3,2025-03-12
+Aurangabad (Maharashtra),Moderate,122,"PM
+10",1/3,2025-03-13
+Aurangabad (Maharashtra),Moderate,107,"PM
+10",2/3,2025-03-14
+Aurangabad (Maharashtra),Satisfactory,84,"PM
+10",2/3,2025-03-15
+Aurangabad (Maharashtra),Moderate,104,"PM
+10",2/3,2025-03-16
+Aurangabad (Maharashtra),Satisfactory,91,"PM , O
+10 3",2/3,2025-03-17
+Aurangabad (Maharashtra),Satisfactory,100,"PM
+10",3/3,2025-03-18
+Aurangabad (Maharashtra),Moderate,120,"PM
+10",2/3,2025-03-19
+Aurangabad (Maharashtra),Satisfactory,93,"PM , O
+10 3",3/3,2025-03-20
+Aurangabad (Maharashtra),Satisfactory,74,"PM , O
+10 3",3/3,2025-03-21
+Aurangabad (Maharashtra),Satisfactory,90,"O , PM , PM
+3 10 2.5",3/3,2025-03-22
+Aurangabad (Maharashtra),Satisfactory,88,"O , PM
+3 10",3/3,2025-03-23
+Aurangabad (Maharashtra),Satisfactory,96,"PM
+10",3/3,2025-03-24
+Aurangabad (Maharashtra),Moderate,103,"PM
+10",2/3,2025-03-25
+Aurangabad (Maharashtra),Moderate,138,"O , PM
+3 10",3/3,2025-03-26
+Aurangabad (Maharashtra),Satisfactory,98,"PM , O
+10 3",3/3,2025-03-27
+Aurangabad (Maharashtra),Satisfactory,90,"PM , PM , O
+2.5 10 3",3/3,2025-03-28
+Aurangabad (Maharashtra),Moderate,145,"O , CO, PM
+3 2.5",3/3,2025-03-29
+Aurangabad (Maharashtra),Moderate,117,"O , PM , PM
+3 10 2.5",3/3,2025-03-30
+Aurangabad (Maharashtra),Moderate,135,"PM , O
+10 3",3/3,2025-03-31
+Aurangabad (Maharashtra),Moderate,112,"PM , O , PM
+2.5 3 10",3/3,2025-04-01
+Aurangabad (Maharashtra),Moderate,103,"PM , O
+2.5 3",2/3,2025-04-02
+Aurangabad (Maharashtra),Satisfactory,84,"PM , PM
+10 2.5",3/3,2025-04-03
+Aurangabad (Maharashtra),Satisfactory,70,"PM , PM
+2.5 10",2/3,2025-04-04
+Aurangabad (Maharashtra),Satisfactory,92,"PM
+10",3/3,2025-04-05
+Aurangabad (Maharashtra),Satisfactory,90,"PM
+10",3/3,2025-04-06
+Aurangabad (Maharashtra),Satisfactory,84,"PM , PM
+2.5 10",3/3,2025-04-07
+Aurangabad (Maharashtra),Satisfactory,87,"O , PM
+3 10",3/3,2025-04-08
+Aurangabad (Maharashtra),Satisfactory,97,"PM , PM
+2.5 10",3/3,2025-04-09
+Aurangabad (Maharashtra),Satisfactory,92,"PM , O
+10 3",3/3,2025-04-10
+Aurangabad (Maharashtra),Satisfactory,86,"PM , O
+10 3",2/3,2025-04-11
+Aurangabad (Maharashtra),Satisfactory,70,"O , PM
+3 10",3/3,2025-04-12
+Aurangabad (Maharashtra),Satisfactory,86,"PM , O
+10 3",2/3,2025-04-13
+Aurangabad (Maharashtra),Satisfactory,91,"O , PM
+3 10",2/3,2025-04-14
+Aurangabad (Maharashtra),Satisfactory,90,"O , PM
+3 10",2/3,2025-04-15
+Aurangabad (Maharashtra),Satisfactory,91,"O , PM
+3 10",3/3,2025-04-16
+Aurangabad (Maharashtra),Satisfactory,92,"O , PM
+3 10",2/3,2025-04-17
+Aurangabad (Maharashtra),Moderate,105,"O , PM
+3 10",3/3,2025-04-18
+Aurangabad (Maharashtra),Satisfactory,84,"PM , O
+10 3",3/3,2025-04-19
+Aurangabad (Maharashtra),Satisfactory,81,"PM , O
+10 3",3/3,2025-04-20
+Aurangabad (Maharashtra),Satisfactory,89,"O , PM , CO
+3 10",3/3,2025-04-21
+Aurangabad (Maharashtra),Moderate,117,"PM , O , PM
+2.5 3 10",3/3,2025-04-22
+Aurangabad (Maharashtra),Satisfactory,100,"PM
+10",3/3,2025-04-23
+Aurangabad (Maharashtra),Satisfactory,89,"PM , PM
+2.5 10",2/3,2025-04-24
+Aurangabad (Maharashtra),Moderate,113,"PM , O
+10 3",3/3,2025-04-25
+Aurangabad (Maharashtra),Satisfactory,81,"O , PM
+3 10",2/3,2025-04-26
+Aurangabad (Maharashtra),Moderate,107,"O , PM , PM
+3 10 2.5",3/3,2025-04-27
+Aurangabad (Maharashtra),Moderate,110,"O , PM
+3 10",3/3,2025-04-28
+Aurangabad (Maharashtra),Satisfactory,88,"PM , O
+10 3",3/3,2025-04-29
+Aurangabad (Maharashtra),Satisfactory,100,"O , PM
+3 10",3/3,2025-04-30
+Aurangabad (Maharashtra),Moderate,134,"O , CO
+3",2/3,2025-05-01
+Aurangabad (Maharashtra),Moderate,101,"PM , O
+10 3",3/3,2025-05-02
+Aurangabad (Maharashtra),Satisfactory,95,"CO, O
+3",3/3,2025-05-03
+Aurangabad (Maharashtra),Satisfactory,73,"PM , O
+10 3",3/3,2025-05-04
+Aurangabad (Maharashtra),Satisfactory,70,"O , PM
+3 10",3/3,2025-05-05
+Aurangabad (Maharashtra),Moderate,110,"O , CO
+3",2/3,2025-05-06
+Aurangabad (Maharashtra),Satisfactory,67,"O , PM
+3 10",3/3,2025-05-07
+Aurangabad (Maharashtra),Satisfactory,60,"O , PM
+3 10",2/3,2025-05-08
+Aurangabad (Maharashtra),Satisfactory,71,"PM , O
+10 3",3/3,2025-05-09
+Aurangabad (Maharashtra),Satisfactory,66,"O
+3",2/3,2025-05-10
+Aurangabad (Maharashtra),Satisfactory,73,"PM , O
+10 3",3/3,2025-05-11
+Aurangabad (Maharashtra),Satisfactory,72,"O , PM
+3 10",3/3,2025-05-12
+Aurangabad (Maharashtra),Satisfactory,82,"O , CO
+3",3/3,2025-05-13
+Aurangabad (Maharashtra),Satisfactory,61,"O , PM
+3 10",2/3,2025-05-14
+Aurangabad (Maharashtra),Satisfactory,87,"PM , O , CO
+2.5 3",3/3,2025-05-15
+Aurangabad (Maharashtra),Satisfactory,66,"PM , CO
+10",3/3,2025-05-16
+Aurangabad (Maharashtra),Satisfactory,69,"O , PM
+3 10",3/3,2025-05-17
+Aurangabad (Maharashtra),Satisfactory,69,"PM , CO
+10",3/3,2025-05-18
+Aurangabad (Maharashtra),Moderate,101,"PM , CO, PM
+10 2.5",3/3,2025-05-19
+Aurangabad (Maharashtra),Satisfactory,71,"O , PM
+3 10",3/3,2025-05-20
+Aurangabad (Maharashtra),Satisfactory,61,"PM
+10",3/3,2025-05-21
+Aurangabad (Maharashtra),Good,43,"PM , CO
+10",2/3,2025-05-22
+Aurangabad (Maharashtra),Satisfactory,52,"O , CO, PM
+3 10",3/3,2025-05-23
+Aurangabad (Maharashtra),Satisfactory,54,"CO, PM , O
+10 3",3/3,2025-05-24
+Aurangabad (Maharashtra),Satisfactory,54,"PM , O
+10 3",2/3,2025-05-25
+Aurangabad (Maharashtra),Satisfactory,61,"O
+3",1/3,2025-05-26
+Aurangabad (Maharashtra),Satisfactory,73,"PM , CO, O
+10 3",3/3,2025-05-27
+Aurangabad (Maharashtra),Satisfactory,57,"PM , O
+10 3",3/3,2025-05-28
+Aurangabad (Maharashtra),Satisfactory,56,"PM
+10",3/3,2025-05-29
+Aurangabad (Maharashtra),Satisfactory,79,"O , PM , CO
+3 10",3/3,2025-05-30
+Aurangabad (Maharashtra),Satisfactory,58,"PM , PM
+10 2.5",2/3,2025-05-31
+Aurangabad (Maharashtra),Satisfactory,82,"O , PM
+3 10",3/3,2025-06-01
+Aurangabad (Maharashtra),Moderate,108,"PM , O
+10 3",2/3,2025-06-02
+Aurangabad (Maharashtra),Satisfactory,80,"PM , O
+10 3",2/3,2025-06-03
+Aurangabad (Maharashtra),Satisfactory,64,"O , PM
+3 10",3/3,2025-06-04
+Aurangabad (Maharashtra),Satisfactory,71,"PM , O
+10 3",3/3,2025-06-05
+Aurangabad (Maharashtra),Satisfactory,82,"O , PM
+3 10",3/3,2025-06-06
+Aurangabad (Maharashtra),Satisfactory,74,"O
+3",2/3,2025-06-07
+Aurangabad (Maharashtra),Satisfactory,60,"PM , O
+10 3",2/3,2025-06-08
+Aurangabad (Maharashtra),Satisfactory,54,"PM , O
+10 3",2/3,2025-06-09
+Aurangabad (Maharashtra),Satisfactory,62,"PM , O
+10 3",3/3,2025-06-10
+Aurangabad (Maharashtra),Satisfactory,55,"O , PM
+3 10",3/3,2025-06-11
+Aurangabad (Maharashtra),Satisfactory,54,"PM
+10",2/3,2025-06-12
+Aurangabad (Maharashtra),Satisfactory,100,"CO, PM
+10",2/3,2025-06-13
+Aurangabad (Maharashtra),Satisfactory,76,"PM , PM
+2.5 10",2/3,2025-06-14
+Aurangabad (Maharashtra),Satisfactory,77,"PM , PM
+10 2.5",2/3,2025-06-15
+Aurangabad (Maharashtra),Good,36,"O
+3",2/3,2025-06-16
+Aurangabad (Maharashtra),Good,38,"O
+3",2/3,2025-06-17
+Aurangabad (Maharashtra),Good,46,"PM , CO
+10",2/3,2025-06-18
+Aurangabad (Maharashtra),Satisfactory,55,"O , PM
+3 10",2/3,2025-06-19
+Aurangabad (Maharashtra),Satisfactory,63,"PM
+10",2/3,2025-06-20
+Aurangabad (Maharashtra),Satisfactory,60,"PM
+10",2/3,2025-06-21
+Aurangabad (Maharashtra),Good,47,"PM , O
+10 3",3/3,2025-06-22
+Aurangabad (Maharashtra),Good,47,"PM , O
+10 3",3/3,2025-06-23
+Aurangabad (Maharashtra),Good,41,"PM
+10",3/3,2025-06-24
+Aurangabad (Maharashtra),Satisfactory,58,"PM
+10",3/3,2025-06-25
+Aurangabad (Maharashtra),Good,46,"PM
+10",3/3,2025-06-26
+Aurangabad (Maharashtra),Good,40,"O , PM
+3 10",2/3,2025-06-27
+Aurangabad (Maharashtra),Satisfactory,52,"O , PM
+3 10",2/3,2025-06-28
+Aurangabad (Maharashtra),Good,47,"O , PM
+3 10",2/3,2025-06-29
+Aurangabad (Maharashtra),Good,44,"PM , PM
+10 2.5",2/3,2025-06-30
+Aurangabad (Maharashtra),Good,44,"PM , CO
+2.5",2/3,2025-07-01
+Aurangabad (Maharashtra),Good,42,"PM , O
+10 3",3/3,2025-07-02
+Aurangabad (Maharashtra),Good,39,"PM , PM
+10 2.5",3/3,2025-07-03
+Aurangabad (Maharashtra),Satisfactory,52,"PM , O
+10 3",3/3,2025-07-04
+Aurangabad (Maharashtra),Good,44,"PM
+10",3/3,2025-07-05
+Aurangabad (Maharashtra),Good,40,"O
+3",2/3,2025-07-06
+Aurangabad (Maharashtra),Good,36,"PM
+10",1/3,2025-07-07
+Aurangabad (Maharashtra),Satisfactory,59,"PM
+10",3/3,2025-07-08
+Aurangabad (Maharashtra),Satisfactory,61,"PM
+10",3/3,2025-07-09
+Aurangabad (Maharashtra),Satisfactory,51,"O , PM
+3 10",3/3,2025-07-10
+Aurangabad (Maharashtra),Satisfactory,55,"PM
+10",3/3,2025-07-11
+Aurangabad (Maharashtra),Satisfactory,52,"O , PM
+3 10",3/3,2025-07-12
+Aurangabad (Maharashtra),Good,46,"O
+3",2/3,2025-07-13
+Aurangabad (Maharashtra),Good,43,"O , PM
+3 2.5",2/3,2025-07-14
+Aurangabad (Maharashtra),Good,38,"PM , O
+10 3",3/3,2025-07-15
+Aurangabad (Maharashtra),Good,45,"PM , O
+10 3",3/3,2025-07-16
+Aurangabad (Maharashtra),Satisfactory,62,"PM
+10",3/3,2025-07-17
+Aurangabad (Maharashtra),Satisfactory,72,"PM
+10",3/3,2025-07-18
+Aurangabad (Maharashtra),Satisfactory,65,"PM
+10",3/3,2025-07-19
+Aurangabad (Maharashtra),Satisfactory,54,"O , PM
+3 10",3/3,2025-07-20
+Aurangabad (Maharashtra),Satisfactory,56,"O
+3",2/3,2025-07-21
+Aurangabad (Maharashtra),Good,39,"PM , O
+10 3",2/3,2025-07-22
+Aurangabad (Maharashtra),Good,41,"PM , O , PM
+2.5 3 10",3/3,2025-07-23
+Aurangabad (Maharashtra),Good,43,"PM
+10",3/3,2025-07-24
+Aurangabad (Maharashtra),Good,38,"PM , PM
+10 2.5",3/3,2025-07-25
+Aurangabad (Maharashtra),Good,35,"O , PM , PM
+3 2.5 10",3/3,2025-07-26
+Aurangabad (Maharashtra),Good,34,"PM , PM , O
+10 2.5 3",3/3,2025-07-27
+Aurangabad (Maharashtra),Good,36,"PM
+10",3/3,2025-07-28
+Aurangabad (Maharashtra),Good,37,"PM
+10",3/3,2025-07-29
+Aurangabad (Maharashtra),Good,42,"PM
+10",3/3,2025-07-30
+Aurangabad (Maharashtra),Good,50,"PM
+10",2/3,2025-07-31
+Aurangabad (Maharashtra),Satisfactory,58,"PM
+10",3/3,2025-08-01
+Aurangabad (Maharashtra),Satisfactory,51,"O , PM
+3 10",3/3,2025-08-02
+Aurangabad (Maharashtra),Good,44,"O , PM
+3 10",3/3,2025-08-03
+Aurangabad (Maharashtra),Good,46,"PM
+10",2/3,2025-08-04
+Aurangabad (Maharashtra),Satisfactory,51,"PM , O
+10 3",3/3,2025-08-05
+Aurangabad (Maharashtra),Satisfactory,52,"PM , O
+10 3",3/3,2025-08-06
+Aurangabad (Maharashtra),Satisfactory,56,"PM
+10",3/3,2025-08-07
+Aurangabad (Maharashtra),Good,43,"PM
+10",3/3,2025-08-08
+Aurangabad (Maharashtra),Good,47,"PM
+10",3/3,2025-08-09
+Aurangabad (Maharashtra),Good,46,"PM , CO
+10",3/3,2025-08-10
+Aurangabad (Maharashtra),Good,47,"O , CO
+3",3/3,2025-08-11
+Aurangabad (Maharashtra),Good,49,"PM , O
+10 3",3/3,2025-08-12
+Aurangabad (Maharashtra),Good,38,"O , PM
+3 10",3/3,2025-08-13
+Aurangabad (Maharashtra),Good,32,"PM , PM
+10 2.5",3/3,2025-08-14
+Aurangabad (Maharashtra),Good,30,"PM , O
+10 3",3/3,2025-08-15
+Aurangabad (Maharashtra),Good,29,"O , PM
+3 10",3/3,2025-08-16
+Aurangabad (Maharashtra),Satisfactory,62,"O , PM
+3 10",3/3,2025-08-17
+Aurangabad (Maharashtra),Good,34,"PM , O
+2.5 3",3/3,2025-08-18
+Aurangabad (Maharashtra),Good,34,"PM , O
+10 3",2/3,2025-08-19
+Aurangabad (Maharashtra),Moderate,131,"O
+3",3/3,2025-08-20
+Aurangabad (Maharashtra),Good,38,"O , PM
+3 10",3/3,2025-08-21
+Aurangabad (Maharashtra),Good,44,"PM
+10",3/3,2025-08-22
+Aurangabad (Maharashtra),Good,38,"PM
+10",2/3,2025-08-23
+Aurangabad (Maharashtra),Satisfactory,70,"PM , O
+10 3",3/3,2025-08-24
+Aurangabad (Maharashtra),Satisfactory,62,"PM
+10",3/3,2025-08-25
+Aurangabad (Maharashtra),Good,40,"O , CO, PM
+3 10",3/3,2025-08-26
+Aurangabad (Maharashtra),Good,37,"O , PM
+3 10",3/3,2025-08-27
+Aurangabad (Maharashtra),Good,38,"PM , O
+10 3",3/3,2025-08-28
+Aurangabad (Maharashtra),Good,31,"PM
+10",3/3,2025-08-29
+Aurangabad (Maharashtra),Good,42,"PM , O
+10 3",3/3,2025-08-30
+Aurangabad (Maharashtra),Good,43,"PM , O
+10 3",3/3,2025-08-31
+Aurangabad (Maharashtra),Good,40,"O , PM
+3 10",3/3,2025-09-01
+Aurangabad (Maharashtra),Good,39,"PM , CO, O
+2.5 3",3/3,2025-09-02
+Aurangabad (Maharashtra),Good,38,"O , PM
+3 10",3/3,2025-09-03
+Aurangabad (Maharashtra),Good,37,"PM , O
+10 3",3/3,2025-09-04
+Aurangabad (Maharashtra),Good,42,"O
+3",3/3,2025-09-05
+Aurangabad (Maharashtra),Good,38,"PM , O
+10 3",2/3,2025-09-06
+Aurangabad (Maharashtra),Good,42,"O
+3",2/3,2025-09-07
+Aurangabad (Maharashtra),Good,33,"O , PM
+3 10",2/3,2025-09-08
+Aurangabad (Maharashtra),Good,45,"O , PM
+3 10",2/3,2025-09-09
+Aurangabad (Maharashtra),Satisfactory,56,"O , PM
+3 10",2/3,2025-09-10
+Aurangabad (Maharashtra),Satisfactory,54,"PM , O
+10 3",2/3,2025-09-11
+Aurangabad (Maharashtra),Satisfactory,60,"PM
+10",2/3,2025-09-12
+Aurangabad (Maharashtra),Satisfactory,54,"PM
+10",2/3,2025-09-13
+Aurangabad (Maharashtra),Satisfactory,54,"PM
+10",1/3,2025-09-14
+Aurangabad (Maharashtra),Satisfactory,62,"PM
+10",2/3,2025-09-15
+Aurangabad (Maharashtra),Satisfactory,57,"PM , PM , O
+2.5 10 3",3/3,2025-09-16
+Aurangabad (Maharashtra),Satisfactory,53,"PM , PM , O
+2.5 10 3",3/3,2025-09-17
+Aurangabad (Maharashtra),Satisfactory,67,"PM , PM , O
+10 2.5 3",3/3,2025-09-18
+Aurangabad (Maharashtra),Satisfactory,79,"CO, PM , PM
+2.5 10",3/3,2025-09-19
+Aurangabad (Maharashtra),Satisfactory,54,"O , PM
+3 2.5",3/3,2025-09-20
+Aurangabad (Maharashtra),Good,45,"PM
+2.5",2/3,2025-09-21
+Aurangabad (Maharashtra),Good,48,"PM , O
+2.5 3",2/3,2025-09-22
+Aurangabad (Maharashtra),Good,47,"PM , PM
+2.5 10",3/3,2025-09-23
+Aurangabad (Maharashtra),Good,47,"CO, O , PM
+3 2.5",3/3,2025-09-24
+Aurangabad (Maharashtra),Good,45,"O , CO, PM
+3 2.5",3/3,2025-09-25
+Aurangabad (Maharashtra),Satisfactory,53,"PM , PM
+10 2.5",3/3,2025-09-26
+Aurangabad (Maharashtra),Satisfactory,54,"PM , PM
+10 2.5",2/3,2025-09-27
+Aurangabad (Maharashtra),Satisfactory,67,"PM , PM
+10 2.5",2/3,2025-09-28
+Aurangabad (Maharashtra),Good,36,"O , PM
+3 10",2/3,2025-09-29
+Aurangabad (Maharashtra),Good,42,"O , PM
+3 10",2/3,2025-09-30
+Aurangabad (Maharashtra),Good,40,"PM , CO
+2.5",2/3,2025-10-01
+Aurangabad (Maharashtra),Good,46,"PM , PM
+10 2.5",3/3,2025-10-02
+Aurangabad (Maharashtra),Good,43,"PM , O , PM
+10 3 2.5",3/3,2025-10-03
+Aurangabad (Maharashtra),Good,42,"PM , O , PM
+2.5 3 10",3/3,2025-10-04
+Aurangabad (Maharashtra),Good,41,"PM , O , PM
+10 3 2.5",3/3,2025-10-05
+Aurangabad (Maharashtra),Good,45,"CO, O , PM
+3 2.5",3/3,2025-10-06
+Aurangabad (Maharashtra),Satisfactory,51,"PM , PM
+10 2.5",3/3,2025-10-07
+Aurangabad (Maharashtra),Satisfactory,64,"PM , PM
+10 2.5",3/3,2025-10-08
+Aurangabad (Maharashtra),Moderate,120,"PM , PM
+2.5 10",2/3,2025-10-09
+Aurangabad (Maharashtra),Moderate,103,"PM , PM
+2.5 10",2/3,2025-10-10
+Aurangabad (Maharashtra),Moderate,144,"PM , PM
+10 2.5",3/3,2025-10-11
+Aurangabad (Maharashtra),Moderate,130,"PM , PM
+2.5 10",3/3,2025-10-12
+Aurangabad (Maharashtra),Moderate,120,"PM , PM
+2.5 10",3/3,2025-10-13
+Aurangabad (Maharashtra),Moderate,107,"PM , PM
+10 2.5",3/3,2025-10-14
+Aurangabad (Maharashtra),Moderate,117,"PM , PM
+10 2.5",3/3,2025-10-15
+Aurangabad (Maharashtra),Satisfactory,85,"PM , CO
+2.5",3/3,2025-10-16
+Aurangabad (Maharashtra),Moderate,109,"PM , CO
+2.5",3/3,2025-10-17
+Aurangabad (Maharashtra),Moderate,122,"PM , PM
+10 2.5",3/3,2025-10-18
+Aurangabad (Maharashtra),Moderate,106,"PM , PM
+10 2.5",2/3,2025-10-19
+Aurangabad (Maharashtra),Moderate,131,"PM , PM
+2.5 10",2/3,2025-10-20
+Aurangabad (Maharashtra),Moderate,160,"PM , PM
+10 2.5",2/3,2025-10-21
+Aurangabad (Maharashtra),Moderate,128,"PM , PM
+2.5 10",2/3,2025-10-22
+Aurangabad (Maharashtra),Moderate,126,"PM , PM
+2.5 10",2/3,2025-10-23
+Aurangabad (Maharashtra),Moderate,102,"PM , PM
+10 2.5",2/3,2025-10-24
+Aurangabad (Maharashtra),Satisfactory,92,"PM , PM
+2.5 10",2/3,2025-10-25
+Aurangabad (Maharashtra),Satisfactory,88,"PM , PM
+10 2.5",2/3,2025-10-26
+Aurangabad (Maharashtra),Satisfactory,59,"PM , PM
+2.5 10",3/3,2025-10-27
+Aurangabad (Maharashtra),Good,45,"PM , O , PM
+2.5 3 10",3/3,2025-10-28
+Aurangabad (Maharashtra),Good,49,"PM , PM , O
+10 2.5 3",3/3,2025-10-29
+Aurangabad (Maharashtra),Satisfactory,61,"PM , PM
+2.5 10",3/3,2025-10-30
+Aurangabad (Maharashtra),Good,48,"PM , PM
+2.5 10",3/3,2025-10-31
+Aurangabad_(Maharashtra),Satisfactory,69,"PM , PM
+10 2.5",3/3,2025-11-01
+Aurangabad_(Maharashtra),Good,48,"O , PM
+3 2.5",2/3,2025-11-02
+Aurangabad_(Maharashtra),Satisfactory,70,"PM , PM
+2.5 10",2/3,2025-11-03
+Aurangabad_(Maharashtra),Satisfactory,69,"O , PM
+3 2.5",2/3,2025-11-04
+Aurangabad_(Maharashtra),Satisfactory,63,"O , PM
+3 2.5",2/3,2025-11-05
+Aurangabad_(Maharashtra),Satisfactory,82,"PM , O
+2.5 3",2/3,2025-11-06
+Aurangabad_(Maharashtra),Satisfactory,90,"O , PM
+3 2.5",2/3,2025-11-07
+Aurangabad_(Maharashtra),Moderate,117,"PM , O
+2.5 3",2/3,2025-11-08
+Aurangabad_(Maharashtra),Moderate,198,"O , PM
+3 2.5",2/3,2025-11-09
+Aurangabad_(Maharashtra),Moderate,185,"O
+3",1/3,2025-11-10
+Aurangabad_(Maharashtra),Moderate,154,"O
+3",1/3,2025-11-11
+Aurangabad_(Maharashtra),Moderate,118,"O , PM
+3 2.5",2/3,2025-11-12
+Aurangabad_(Maharashtra),Satisfactory,96,"PM , PM
+10 2.5",2/3,2025-11-13
+Aurangabad_(Maharashtra),Satisfactory,100,"PM
+10",2/3,2025-11-14
+Aurangabad_(Maharashtra),Moderate,116,"PM , PM
+2.5 10",2/3,2025-11-15
+Aurangabad_(Maharashtra),Satisfactory,91,"PM
+10",2/3,2025-11-16
+Aurangabad_(Maharashtra),Satisfactory,90,"PM , PM
+2.5 10",2/3,2025-11-17
+Aurangabad_(Maharashtra),Moderate,126,"PM , PM
+2.5 10",3/3,2025-11-18
+Aurangabad_(Maharashtra),Moderate,146,"PM , PM
+2.5 10",3/3,2025-11-19
+Aurangabad_(Maharashtra),Moderate,136,"PM , PM
+10 2.5",3/3,2025-11-20
+Aurangabad_(Maharashtra),Moderate,155,"PM
+2.5",3/3,2025-11-21
+Aurangabad_(Maharashtra),Moderate,126,"PM , PM
+10 2.5",3/3,2025-11-22
+Aurangabad_(Maharashtra),Moderate,110,"PM , PM
+2.5 10",3/3,2025-11-23
+Aurangabad_(Maharashtra),Moderate,101,"PM , PM
+2.5 10",3/3,2025-11-24
+Aurangabad_(Maharashtra),Moderate,109,"PM , PM
+10 2.5",3/3,2025-11-25
+Aurangabad_(Maharashtra),Moderate,108,"PM , PM
+10 2.5",3/3,2025-11-26
+Aurangabad_(Maharashtra),Moderate,112,"PM , PM
+10 2.5",3/3,2025-11-27
+Aurangabad_(Maharashtra),Moderate,142,"PM , PM
+2.5 10",2/3,2025-11-28
+Aurangabad_(Maharashtra),Moderate,111,"PM , PM
+10 2.5",3/3,2025-11-29
+Aurangabad_(Maharashtra),Moderate,115,"PM , PM
+10 2.5",3/3,2025-11-30
+Aurangabad_(Maharashtra),Moderate,112,"PM , PM
+10 2.5",3/3,2025-12-01
+Aurangabad_(Maharashtra),Moderate,134,"PM , PM
+10 2.5",3/3,2025-12-02
+Aurangabad_(Maharashtra),Moderate,154,"PM , PM
+10 2.5",3/3,2025-12-03
+Aurangabad_(Maharashtra),Moderate,133,"PM , PM
+2.5 10",3/3,2025-12-04
+Aurangabad_(Maharashtra),Moderate,162,"PM , O
+2.5 3",3/3,2025-12-05
+Aurangabad_(Maharashtra),Moderate,132,"O , PM
+3 2.5",3/3,2025-12-06
+Aurangabad_(Maharashtra),Moderate,140,"PM , O
+2.5 3",3/3,2025-12-07
+Aurangabad_(Maharashtra),Moderate,140,"O , PM
+3 2.5",3/3,2025-12-08
+Aurangabad_(Maharashtra),Moderate,148,"PM , O
+2.5 3",3/3,2025-12-09
+Aurangabad_(Maharashtra),Moderate,101,"PM , PM
+2.5 10",3/3,2025-12-10
+Aurangabad_(Maharashtra),Moderate,118,"PM
+10",2/3,2025-12-11
+Aurangabad_(Maharashtra),Moderate,116,"PM
+10",2/3,2025-12-12
+Aurangabad_(Maharashtra),Moderate,164,"PM , PM
+10 2.5",3/3,2025-12-13
+Aurangabad_(Maharashtra),Satisfactory,99,"PM , O
+2.5 3",3/3,2025-12-14

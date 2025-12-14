@@ -1,0 +1,5829 @@
+City,Air Quality,Index Value,Prominent Pollutant,No. of Stations Participated / Total Stations (Based on Number of Monitoring Stations),Date
+Nashik,Satisfactory,87,"PM
+10",1#,2016-05-19
+Nashik,Satisfactory,62,"PM
+10",1#,2016-05-23
+Nashik,Satisfactory,55,"PM
+10",1#,2016-05-24
+Nashik,Good,44,"PM
+10",1,2016-05-25
+Nashik,Good,40,"O
+3",1,2016-05-26
+Nashik,Satisfactory,55,"PM
+10",1#,2016-05-27
+Nashik,Good,45,"PM
+10",1#,2016-05-28
+Nashik,Good,39,"PM
+10",1#,2016-05-29
+Nashik,Good,36,"O
+3",1,2016-05-30
+Nashik,Good,47,"PM
+10",1,2016-06-01
+Nashik,Satisfactory,52,"PM
+10",1,2016-06-02
+Nashik,Satisfactory,57,"PM
+10",1,2016-06-03
+Nashik,Satisfactory,67,"PM
+10",1#,2016-06-04
+Nashik,Satisfactory,82,"PM
+10",1,2016-06-05
+Nashik,Moderate,116,"PM
+10",1#,2016-06-07
+Nashik,Satisfactory,83,"PM
+10",1#,2016-06-08
+Nashik,Satisfactory,60,"PM
+10",1#,2016-06-10
+Nashik,Satisfactory,84,"PM
+10",1,2016-06-11
+Nashik,Satisfactory,63,"PM
+10",1,2016-06-13
+Nashik,Satisfactory,68,"PM
+10",1,2016-06-14
+Nashik,Satisfactory,81,"PM
+10",1#,2016-06-15
+Nashik,Moderate,136,"PM
+10",1,2016-06-16
+Nashik,Moderate,126,"PM
+10",1,2016-06-17
+Nashik,Moderate,112,"PM
+10",1,2016-06-18
+Nashik,Satisfactory,100,"PM
+10",1,2016-06-19
+Nashik,Satisfactory,91,"PM
+10",1#,2016-06-20
+Nashik,Good,42,"O
+3",1,2016-06-21
+Nashik,Good,31,"O
+3",1#,2016-06-22
+Nashik,Good,46,"PM
+10",1,2016-06-23
+Nashik,Good,45,"PM
+10",1,2016-06-24
+Nashik,Satisfactory,57,"PM
+10",1#,2016-06-28
+Nashik,Good,47,"PM
+10",1,2016-06-29
+Nashik,Satisfactory,58,"PM
+10",1,2016-06-30
+Nashik,Good,38,"PM
+10",1,2016-07-01
+Nashik,Good,31,"PM
+10",1,2016-07-02
+Nashik,Good,31,"PM
+10",1,2016-07-03
+Nashik,Good,28,"PM
+10",1#,2016-07-05
+Nashik,Satisfactory,52,"PM
+10",1#,2016-07-06
+Nashik,Satisfactory,57,"PM
+10",1#,2016-07-07
+Nashik,Satisfactory,55,"PM
+10",1#,2016-07-08
+Nashik,Good,38,"PM
+10",1#,2016-07-09
+Nashik,Good,36,"PM
+10",1,2016-07-10
+Nashik,Good,35,"NO
+2",1,2016-07-19
+Nashik,Good,29,"NO
+2",1,2016-07-20
+Nashik,Good,23,"NO
+2",1,2016-07-26
+Nashik,Good,26,"NO
+2",1#,2016-07-27
+Nashik,Good,31,"NO
+2",1#,2016-07-28
+Nashik,Good,24,"PM
+10",1,2016-07-29
+Nashik,Good,42,CO,1,2016-07-30
+Nashik,Good,28,"PM
+10",1#,2016-07-31
+Nashik,Good,23,"PM
+10",1,2016-08-01
+Nashik,Good,28,CO,1,2016-08-02
+Nashik,Good,31,CO,1#,2016-08-05
+Nashik,Good,22,"NO
+2",1,2016-08-06
+Nashik,Good,39,"PM
+10",1#,2016-08-07
+Nashik,Good,37,"PM
+10",1#,2016-08-08
+Nashik,Good,24,CO,1#,2016-08-10
+Nashik,Good,26,"PM
+10",1#,2016-08-11
+Nashik,Good,44,"PM
+10",1,2016-08-12
+Nashik,Good,28,"PM
+10",1#,2016-08-13
+Nashik,Good,33,"PM
+10",1#,2016-08-14
+Nashik,Good,38,"PM
+10",1,2016-08-16
+Nashik,Good,42,"PM
+10",1#,2016-08-17
+Nashik,Good,31,"PM
+10",1,2016-08-18
+Nashik,Good,49,"PM
+10",1,2016-08-20
+Nashik,Good,32,"PM
+10",1#,2016-08-21
+Nashik,Good,31,"PM
+10",1,2016-08-22
+Nashik,Good,28,"PM
+10",1,2016-08-23
+Nashik,Good,41,"PM
+10",1#,2016-08-26
+Nashik,Good,31,"PM
+10",1#,2016-08-28
+Nashik,Good,40,"PM
+10",1#,2016-08-30
+Nashik,Good,34,"PM
+10",1,2016-08-31
+Nashik,Good,38,"PM
+10",1#,2016-09-01
+Nashik,Good,37,"PM
+10",1,2016-09-03
+Nashik,Good,33,"O
+3",1#,2016-09-05
+Nashik,Good,33,"O
+3",1#,2016-09-06
+Nashik,Good,37,"PM
+10",1#,2016-09-07
+Nashik,Good,35,"NO
+2",1,2016-09-08
+Nashik,Good,30,"PM
+10",1,2016-09-09
+Nashik,Good,30,"PM
+10",1,2016-09-10
+Nashik,Good,29,"PM
+10",1,2016-09-11
+Nashik,Good,33,"O
+3",1,2016-09-13
+Nashik,Good,42,"O
+3",1#,2016-09-15
+Nashik,Good,46,"O
+3",1,2016-09-16
+Nashik,Good,31,"O
+3",1#,2016-09-20
+Nashik,Good,41,"O
+3",1,2016-09-22
+Nashik,Good,50,"O
+3",1,2016-09-23
+Nashik,Good,45,"O
+3",1,2016-09-24
+Nashik,Satisfactory,58,"O
+3",1#,2016-09-25
+Nashik,Good,48,"O
+3",1#,2016-09-26
+Nashik,Satisfactory,52,"O
+3",1,2016-09-27
+Nashik,Satisfactory,51,"O
+3",1#,2016-09-28
+Nashik,Satisfactory,51,"O
+3",1,2016-09-29
+Nashik,Satisfactory,55,"O
+3",1,2016-09-30
+Nashik,Good,36,"O
+3",1,2016-10-01
+Nashik,Good,36,CO,1#,2016-10-02
+Nashik,Good,34,CO,1,2016-10-03
+Nashik,Good,38,"O
+3",1#,2016-10-04
+Nashik,Good,34,"PM
+2.5",1#,2016-10-05
+Nashik,Good,43,"O
+3",1#,2016-10-06
+Nashik,Good,42,"PM
+10",1,2016-10-07
+Nashik,Good,44,"PM
+2.5",1#,2016-10-08
+Nashik,Satisfactory,82,"O
+3",1,2016-10-10
+Nashik,Satisfactory,78,"O
+3",1,2016-10-11
+Nashik,Satisfactory,64,"O
+3",1,2016-10-12
+Nashik,Satisfactory,85,"O
+3",1#,2016-10-13
+Nashik,Satisfactory,68,"O
+3",1,2016-10-14
+Nashik,Satisfactory,87,"O
+3",1,2016-10-15
+Nashik,Moderate,106,"O
+3",1,2016-10-16
+Nashik,Moderate,131,"O
+3",1,2016-10-17
+Nashik,Moderate,123,"O
+3",1,2016-10-18
+Nashik,Satisfactory,95,"O
+3",1,2016-10-19
+Nashik,Moderate,124,"O
+3",1,2016-10-20
+Nashik,Moderate,168,"O
+3",1,2016-10-22
+Nashik,Moderate,156,"O
+3",1,2016-10-23
+Nashik,Moderate,105,"O
+3",1#,2016-10-25
+Nashik,Moderate,112,"O
+3",1,2016-10-26
+Nashik,Moderate,109,"O
+3",1,2016-10-27
+Nashik,Moderate,155,"O
+3",1,2016-10-28
+Nashik,Moderate,109,"O
+3",1#,2016-10-29
+Nashik,Moderate,162,"O
+3",1,2016-10-30
+Nashik,Moderate,114,"O
+3",1,2016-10-31
+Nashik,Moderate,174,"O
+3",1,2016-11-01
+Nashik,Moderate,176,"O
+3",1,2016-11-02
+Nashik,Moderate,173,"O
+3",1,2016-11-03
+Nashik,Moderate,153,"O
+3",1,2016-11-04
+Nashik,Moderate,160,"O
+3",1,2016-11-05
+Nashik,Moderate,159,"O
+3",1,2016-11-06
+Nashik,Moderate,155,"PM
+2.5",1,2016-11-08
+Nashik,Moderate,159,"PM
+2.5",1#,2016-11-09
+Nashik,Moderate,192,"PM
+2.5",1#,2016-11-10
+Nashik,Poor,206,"PM
+2.5",1,2016-11-11
+Nashik,Poor,256,"PM
+2.5",1#,2016-11-16
+Nashik,Poor,271,"PM
+2.5",1,2016-11-17
+Nashik,Moderate,190,"PM
+2.5",1,2016-11-18
+Nashik,Moderate,171,"O
+3",1#,2016-11-19
+Nashik,Poor,300,"PM
+2.5",1,2016-11-20
+Nashik,Moderate,119,"O
+3",1,2016-11-21
+Nashik,Poor,234,"PM
+2.5",1#,2016-11-22
+Nashik,Moderate,188,"PM
+2.5",1,2016-11-23
+Nashik,Poor,247,"PM
+2.5",1,2016-11-24
+Nashik,Poor,244,"PM
+2.5",1#,2016-11-25
+Nashik,Poor,216,"PM
+2.5",1,2016-11-26
+Nashik,Moderate,182,"PM
+2.5",1,2016-11-27
+Nashik,Moderate,174,"PM
+2.5",1#,2016-11-30
+Nashik,Moderate,162,"PM
+2.5",1,2016-12-01
+Nashik,Poor,249,"PM
+2.5",1,2016-12-02
+Nashik,Poor,221,"PM
+2.5",1,2016-12-03
+Nashik,Poor,223,"PM
+2.5",1,2016-12-06
+Nashik,Moderate,171,"PM
+2.5",1#,2016-12-07
+Nashik,Moderate,175,"PM
+2.5",1,2016-12-08
+Nashik,Poor,219,"PM
+2.5",1,2016-12-09
+Nashik,Moderate,181,"PM
+2.5",1,2016-12-11
+Nashik,Poor,206,"PM
+2.5",1,2016-12-12
+Nashik,Moderate,192,"PM
+2.5",1,2016-12-13
+Nashik,Poor,202,"PM
+2.5",1,2016-12-14
+Nashik,Moderate,148,"PM
+2.5",1,2016-12-15
+Nashik,Moderate,150,"PM
+2.5",1,2016-12-16
+Nashik,Poor,235,"PM
+2.5",1#,2016-12-17
+Nashik,Moderate,154,"O
+3",1,2016-12-20
+Nashik,Moderate,199,"PM
+2.5",1,2016-12-21
+Nashik,Moderate,193,"PM
+2.5",1#,2016-12-22
+Nashik,Moderate,198,"O
+3",1#,2016-12-23
+Nashik,Moderate,176,"PM
+2.5",1,2016-12-24
+Nashik,Poor,218,"O
+3",1#,2016-12-25
+Nashik,Moderate,189,"PM
+2.5",1,2016-12-26
+Nashik,Moderate,200,"PM
+2.5",1,2016-12-27
+Nashik,Poor,253,"PM
+2.5",1#,2016-12-29
+Nashik,Poor,264,"PM
+2.5",1,2016-12-30
+Nashik,Poor,201,"PM
+2.5",1#,2016-12-31
+Nashik,Moderate,173,"PM
+2.5",1,2017-01-01
+Nashik,Moderate,198,"PM
+2.5",1,2017-01-02
+Nashik,Poor,201,"PM
+2.5",1#,2017-01-03
+Nashik,Moderate,199,"PM
+2.5",1,2017-01-04
+Nashik,Moderate,183,"PM
+2.5",1,2017-01-05
+Nashik,Moderate,148,"PM
+2.5",1,2017-01-06
+Nashik,Moderate,149,"PM
+2.5",1,2017-01-07
+Nashik,Moderate,154,"O
+3",1#,2017-01-08
+Nashik,Moderate,116,"O
+3",1,2017-01-10
+Nashik,Moderate,188,"O
+3",1,2017-01-11
+Nashik,Moderate,192,"PM
+2.5",1,2017-01-12
+Nashik,Moderate,182,"O
+3",1#,2017-01-13
+Nashik,Moderate,155,"PM
+2.5",1#,2017-01-14
+Nashik,Poor,209,"PM
+2.5",1,2017-01-15
+Nashik,Moderate,199,"PM
+2.5",1,2017-01-16
+Nashik,Moderate,196,"PM
+2.5",1#,2017-01-17
+Nashik,Moderate,178,"O
+3",1,2017-01-18
+Nashik,Moderate,174,"PM
+2.5",1#,2017-01-19
+Nashik,Poor,240,"PM
+2.5",1,2017-01-21
+Nashik,Moderate,177,"PM
+2.5",1,2017-01-22
+Nashik,Moderate,156,"PM
+2.5",1#,2017-01-23
+Nashik,Moderate,182,"PM
+2.5",1#,2017-01-24
+Nashik,Moderate,181,"PM
+2.5",1,2017-01-25
+Nashik,Moderate,166,"PM
+2.5",1,2017-01-26
+Nashik,Moderate,112,"O
+3",1,2017-01-27
+Nashik,Moderate,171,"O
+3",1,2017-01-28
+Nashik,Moderate,184,"O
+3",1#,2017-01-29
+Nashik,Poor,221,"O
+3",1,2017-01-31
+Nashik,Moderate,199,"O
+3",1,2017-02-01
+Nashik,Poor,268,"O
+3",1#,2017-02-02
+Nashik,Moderate,173,"O
+3",1,2017-02-03
+Nashik,Poor,217,"O
+3",1,2017-02-04
+Nashik,Satisfactory,91,"O
+3",1,2017-02-05
+Nashik,Moderate,146,"O
+3",1,2017-02-06
+Nashik,Moderate,174,"O
+3",1,2017-02-09
+Nashik,Poor,292,"O
+3",1,2017-02-10
+Nashik,Poor,285,"PM
+2.5",1,2017-02-11
+Nashik,Poor,237,"O
+3",1,2017-02-12
+Nashik,Moderate,195,"PM
+2.5",1,2017-02-13
+Nashik,Moderate,185,"PM
+2.5",1#,2017-02-14
+Nashik,Poor,268,"PM
+2.5",1,2017-02-15
+Nashik,Poor,261,"PM
+2.5",1,2017-02-16
+Nashik,Poor,233,"PM
+2.5",1#,2017-02-17
+Nashik,Poor,203,"PM
+2.5",1,2017-02-18
+Nashik,Moderate,182,"PM
+2.5",1#,2017-02-19
+Nashik,Poor,208,"O
+3",1,2017-02-20
+Nashik,Moderate,101,"PM
+2.5",1,2017-02-21
+Nashik,Satisfactory,92,"O
+3",1#,2017-02-22
+Nashik,Moderate,118,"O
+3",1#,2017-02-23
+Nashik,Moderate,141,"O
+3",1#,2017-02-24
+Nashik,Moderate,163,"O
+3",1,2017-02-25
+Nashik,Moderate,173,"O
+3",1#,2017-02-26
+Nashik,Moderate,177,"O
+3",1#,2017-02-27
+Nashik,Moderate,194,"O
+3",1#,2017-02-28
+Nashik,Poor,239,"O
+3",1,2017-03-01
+Nashik,Moderate,199,"O
+3",1,2017-03-02
+Nashik,Moderate,185,"O
+3",1,2017-03-03
+Nashik,Moderate,155,"O
+3",1#,2017-03-04
+Nashik,Moderate,158,"O
+3",1#,2017-03-05
+Nashik,Poor,222,"O
+3",1,2017-03-06
+Nashik,Moderate,163,"O
+3",1,2017-03-07
+Nashik,Moderate,114,"PM
+2.5",1,2017-03-08
+Nashik,Satisfactory,72,"PM
+2.5",1,2017-03-09
+Nashik,Satisfactory,96,"PM
+10",1,2017-03-10
+Nashik,Moderate,121,"O
+3",1,2017-03-11
+Nashik,Poor,202,"O
+3",1,2017-03-12
+Nashik,Poor,244,"PM
+2.5",1#,2017-03-13
+Nashik,Moderate,198,"O
+3",1,2017-03-14
+Nashik,Moderate,194,"O
+3",1#,2017-03-15
+Nashik,Moderate,121,"PM
+2.5",1,2017-03-16
+Nashik,Moderate,144,"O
+3",1,2017-03-17
+Nashik,Moderate,120,"PM
+2.5",1,2017-03-18
+Nashik,Satisfactory,100,"PM
+2.5",1,2017-03-19
+Nashik,Moderate,159,"O
+3",1,2017-03-20
+Nashik,Moderate,192,"O
+3",1,2017-03-21
+Nashik,Poor,285,"O
+3",1,2017-03-22
+Nashik,Poor,225,"O
+3",1,2017-03-23
+Nashik,Poor,292,"O
+3",1,2017-03-24
+Nashik,Poor,213,"O
+3",1,2017-03-25
+Nashik,Moderate,165,"O
+3",1,2017-03-26
+Nashik,Moderate,178,"O
+3",1,2017-03-27
+Nashik,Moderate,184,"O
+3",1,2017-03-28
+Nashik,Poor,205,"O
+3",1,2017-03-29
+Nashik,Moderate,158,"O
+3",1,2017-03-30
+Nashik,Moderate,164,"O
+3",1,2017-03-31
+Nashik,Moderate,135,"O
+3",1#,2017-04-01
+Nashik,Satisfactory,100,"O
+3",1,2017-04-02
+Nashik,Satisfactory,94,"PM
+10",1,2017-04-03
+Nashik,Satisfactory,89,"O
+3",1,2017-04-04
+Nashik,Satisfactory,86,"O
+3",1,2017-04-05
+Nashik,Satisfactory,98,"PM
+10",1,2017-04-06
+Nashik,Satisfactory,100,"O
+3",1,2017-04-07
+Nashik,Poor,279,"O
+3",1,2017-04-08
+Nashik,Poor,271,"O
+3",1,2017-04-09
+Nashik,Poor,210,"O
+3",1,2017-04-10
+Nashik,Moderate,199,"O
+3",1#,2017-04-11
+Nashik,Moderate,176,"O
+3",1#,2017-04-12
+Nashik,Moderate,178,"O
+3",1,2017-04-13
+Nashik,Moderate,191,"O
+3",1#,2017-04-14
+Nashik,Moderate,172,"O
+3",1,2017-04-15
+Nashik,Moderate,179,"O
+3",1,2017-04-16
+Nashik,Satisfactory,100,"O
+3",1,2017-04-26
+Nashik,Moderate,167,"O
+3",1,2017-04-27
+Nashik,Moderate,104,"O
+3",1,2017-04-28
+Nashik,Satisfactory,93,"O
+3",1,2017-04-30
+Nashik,Moderate,103,"O
+3",1,2017-05-01
+Nashik,Moderate,195,"PM
+2.5",1,2017-05-02
+Nashik,Moderate,183,"O
+3",1,2017-05-03
+Nashik,Moderate,164,"O
+3",1,2017-05-04
+Nashik,Moderate,108,"O
+3",1,2017-05-05
+Nashik,Poor,203,"O
+3",1,2017-05-06
+Nashik,Moderate,164,"O
+3",1,2017-05-07
+Nashik,Moderate,150,"O
+3",1,2017-05-08
+Nashik,Satisfactory,95,"O
+3",1#,2017-05-09
+Nashik,Moderate,101,"O
+3",1#,2017-05-10
+Nashik,Satisfactory,91,"O
+3",1,2017-05-11
+Nashik,Satisfactory,97,"O
+3",1#,2017-05-12
+Nashik,Poor,224,"O
+3",1#,2017-05-13
+Nashik,Satisfactory,72,"O
+3",1#,2017-05-15
+Nashik,Satisfactory,68,"O
+3",1,2017-05-16
+Nashik,Satisfactory,66,"O
+3",1#,2017-05-17
+Nashik,Satisfactory,74,"O
+3",1,2017-05-18
+Nashik,Satisfactory,77,"O
+3",1,2017-05-19
+Nashik,Satisfactory,76,"O
+3",1,2017-05-20
+Nashik,Satisfactory,77,"O
+3",1#,2017-05-21
+Nashik,Satisfactory,63,"O
+3",1,2017-05-22
+Nashik,Satisfactory,68,"O
+3",1,2017-05-23
+Nashik,Satisfactory,75,"O
+3",1#,2017-05-24
+Nashik,Satisfactory,61,"O
+3",1#,2017-05-25
+Nashik,Satisfactory,70,"O
+3",1#,2017-05-26
+Nashik,Satisfactory,56,"O
+3",1,2017-05-27
+Nashik,Satisfactory,56,"O
+3",1,2017-05-28
+Nashik,Satisfactory,56,"O
+3",1,2017-05-29
+Nashik,Satisfactory,54,"O
+3",1,2017-05-30
+Nashik,Satisfactory,77,"O
+3",1,2017-05-31
+Nashik,Moderate,122,"O
+3",1#,2017-06-01
+Nashik,Satisfactory,85,"O
+3",1#,2017-06-02
+Nashik,Satisfactory,100,"O
+3",1#,2017-06-03
+Nashik,Satisfactory,62,"O
+3",1#,2017-06-04
+Nashik,Satisfactory,59,"O
+3",1,2017-06-05
+Nashik,Satisfactory,63,"PM
+10",1,2017-06-06
+Nashik,Satisfactory,56,"O
+3",1#,2017-06-07
+Nashik,Good,48,"O
+3",1#,2017-06-08
+Nashik,Good,50,"O
+3",1,2017-06-09
+Nashik,Good,48,"O
+3",1#,2017-06-10
+Nashik,Satisfactory,71,"O
+3",1#,2017-06-11
+Nashik,Satisfactory,62,"O
+3",1#,2017-06-12
+Nashik,Satisfactory,90,"O
+3",1#,2017-06-13
+Nashik,Satisfactory,55,"O
+3",1#,2017-06-14
+Nashik,Good,49,"O
+3",1#,2017-06-15
+Nashik,Satisfactory,52,"O
+3",1,2017-06-17
+Nashik,Good,46,"O
+3",1,2017-06-19
+Nashik,Good,45,"PM
+10",1,2017-06-20
+Nashik,Satisfactory,54,"PM
+10",1#,2017-06-21
+Nashik,Good,49,"PM
+10",1#,2017-06-22
+Nashik,Good,47,"PM
+10",1#,2017-06-23
+Nashik,Moderate,104,"PM
+10",1,2017-06-24
+Nashik,Satisfactory,55,"PM
+2.5",1#,2017-06-25
+Nashik,Satisfactory,52,"PM
+10",1,2017-06-26
+Nashik,Moderate,124,"O
+3",1,2017-06-27
+Nashik,Good,45,"O
+3",1#,2017-06-28
+Nashik,Good,45,"O
+3",1,2017-06-29
+Nashik,Good,43,"NO
+2",1,2017-06-30
+Nashik,Satisfactory,65,"NO
+2",1,2017-07-01
+Nashik,Satisfactory,67,"NO
+2",1,2017-07-02
+Nashik,Satisfactory,57,"NO
+2",1,2017-07-03
+Nashik,Satisfactory,57,"PM
+10",1,2017-07-06
+Nashik,Satisfactory,57,"PM
+10",1,2017-07-07
+Nashik,Good,37,"PM
+10",1,2017-07-08
+Nashik,Good,43,"O
+3",1,2017-07-09
+Nashik,Good,38,"O
+3",1,2017-07-10
+Nashik,Good,49,"PM
+10",1#,2017-07-12
+Nashik,Good,29,"PM
+10",1,2017-07-13
+Nashik,Good,44,"PM
+2.5",1,2017-07-14
+Nashik,Good,41,"PM
+2.5",1,2017-07-15
+Nashik,Good,34,"O
+3",1#,2017-07-16
+Nashik,Good,44,CO,1,2017-07-17
+Nashik,Satisfactory,61,CO,1#,2017-07-18
+Nashik,Good,39,CO,1#,2017-07-19
+Nashik,Satisfactory,51,CO,1,2017-07-20
+Nashik,Good,44,CO,1,2017-07-21
+Nashik,Good,38,"O
+3",1#,2017-07-22
+Nashik,Good,33,"O
+3",1,2017-07-23
+Nashik,Good,33,CO,1,2017-07-24
+Nashik,Satisfactory,52,"PM
+10",1,2017-07-25
+Nashik,Good,50,"PM
+10",1,2017-07-26
+Nashik,Good,34,CO,1,2017-07-27
+Nashik,Good,32,CO,1,2017-07-28
+Nashik,Good,39,"PM
+10",1,2017-07-29
+Nashik,Good,34,"O
+3",1,2017-07-30
+Nashik,Satisfactory,52,CO,1,2017-07-31
+Nashik,Good,46,CO,1,2017-08-01
+Nashik,Good,48,"PM
+10",1,2017-08-02
+Nashik,Good,40,"PM
+10",1,2017-08-03
+Nashik,Good,46,"PM
+10",1,2017-08-04
+Nashik,Satisfactory,56,"PM
+10",1,2017-08-05
+Nashik,Satisfactory,52,"PM
+10",1,2017-08-06
+Nashik,Good,49,"PM
+2.5",1,2017-08-07
+Nashik,Satisfactory,52,"PM
+10",1#,2017-08-08
+Nashik,Satisfactory,60,"PM
+10",1,2017-08-09
+Nashik,Good,44,"PM
+10",1,2017-08-10
+Nashik,Good,45,"PM
+10",1,2017-08-11
+Nashik,Satisfactory,54,"PM
+10",1,2017-08-12
+Nashik,Good,40,"PM
+10",1,2017-08-13
+Nashik,Good,30,"PM
+10",1,2017-08-14
+Nashik,Good,47,"PM
+10",1#,2017-08-15
+Nashik,Good,39,"PM
+10",1,2017-08-16
+Nashik,Satisfactory,57,"PM
+10",1,2017-08-17
+Nashik,Satisfactory,54,"O
+3",1#,2017-08-18
+Nashik,Good,34,"PM
+10",1,2017-08-19
+Nashik,Good,31,"PM
+2.5",1,2017-08-20
+Nashik,Good,43,CO,1#,2017-08-21
+Nashik,Good,40,CO,1#,2017-08-22
+Nashik,Good,49,"PM
+10",1,2017-08-23
+Nashik,Good,45,"PM
+10",1#,2017-08-24
+Nashik,Good,36,"PM
+2.5",1,2017-08-25
+Nashik,Good,34,CO,1,2017-08-26
+Nashik,Satisfactory,61,"O
+3",1,2017-08-29
+Nashik,Satisfactory,57,"O
+3",1#,2017-08-30
+Nashik,Good,39,"O
+3",1#,2017-08-31
+Nashik,Good,44,"O
+3",1#,2017-09-02
+Nashik,Good,49,"O
+3",1#,2017-09-03
+Nashik,Satisfactory,56,"PM
+10",1,2017-09-04
+Nashik,Satisfactory,54,"PM
+10",1,2017-09-05
+Nashik,Good,47,"PM
+10",1#,2017-09-06
+Nashik,Satisfactory,68,"O
+3",1,2017-09-07
+Nashik,Satisfactory,65,"O
+3",1,2017-09-08
+Nashik,Satisfactory,73,"PM
+2.5",1,2017-09-09
+Nashik,Satisfactory,63,"O
+3",1#,2017-09-10
+Nashik,Satisfactory,60,"O
+3",1,2017-09-11
+Nashik,Satisfactory,54,"O
+3",1,2017-09-12
+Nashik,Satisfactory,57,"O
+3",1,2017-09-13
+Nashik,Good,49,CO,1,2017-09-14
+Nashik,Satisfactory,55,"PM
+2.5",1#,2017-09-15
+Nashik,Good,43,"O
+3",1,2017-09-16
+Nashik,Good,44,"O
+3",1,2017-09-17
+Nashik,Satisfactory,70,"O
+3",1,2017-09-18
+Nashik,Satisfactory,58,"O
+3",1#,2017-09-19
+Nashik,Satisfactory,57,"O
+3",1,2017-09-20
+Nashik,Good,50,"O
+3",1,2017-09-21
+Nashik,Satisfactory,57,"O
+3",1#,2017-09-22
+Nashik,Satisfactory,53,"O
+3",1,2017-09-23
+Nashik,Satisfactory,55,"O
+3",1,2017-09-24
+Nashik,Satisfactory,58,"O
+3",1,2017-09-25
+Nashik,Satisfactory,87,"O
+3",1,2017-09-26
+Nashik,Satisfactory,93,"O
+3",1,2017-09-27
+Nashik,Satisfactory,83,"O
+3",1,2017-09-28
+Nashik,Satisfactory,78,"O
+3",1,2017-09-29
+Nashik,Satisfactory,85,"O
+3",1,2017-09-30
+Nashik,Moderate,101,"O
+3",1,2017-10-01
+Nashik,Moderate,119,"O
+3",1,2017-10-02
+Nashik,Moderate,118,"O
+3",1,2017-10-03
+Nashik,Moderate,157,"O
+3",1#,2017-10-04
+Nashik,Moderate,163,"O
+3",1,2017-10-05
+Nashik,Satisfactory,83,"O
+3",1#,2017-10-06
+Nashik,Satisfactory,64,"O
+3",1,2017-10-07
+Nashik,Satisfactory,71,"O
+3",1,2017-10-08
+Nashik,Satisfactory,77,"O
+3",1,2017-10-09
+Nashik,Satisfactory,55,"NO
+2",1,2017-10-10
+Nashik,Satisfactory,68,"NO
+2",1,2017-10-11
+Nashik,Satisfactory,71,"NO
+2",1,2017-10-12
+Nashik,Satisfactory,65,"NO
+2",1,2017-10-13
+Nashik,Satisfactory,87,"O
+3",1#,2017-10-15
+Nashik,Moderate,113,"O
+3",1,2017-10-16
+Nashik,Moderate,101,"O
+3",1,2017-10-17
+Nashik,Moderate,110,"O
+3",1,2017-10-18
+Nashik,Moderate,165,"O
+3",1,2017-10-19
+Nashik,Moderate,173,"PM
+2.5",1,2017-10-20
+Nashik,Moderate,154,"PM
+2.5",1,2017-10-21
+Nashik,Moderate,132,"PM
+2.5",1#,2017-10-22
+Nashik,Satisfactory,93,"O
+3",1,2017-10-23
+Nashik,Moderate,111,"O
+3",1,2017-10-24
+Nashik,Moderate,160,"O
+3",1,2017-10-25
+Nashik,Moderate,155,"O
+3",1,2017-10-26
+Nashik,Moderate,130,"O
+3",1#,2017-10-27
+Nashik,Moderate,160,"O
+3",1,2017-10-28
+Nashik,Moderate,159,"O
+3",1,2017-10-29
+Nashik,Moderate,111,"O
+3",1,2017-10-30
+Nashik,Moderate,156,"O
+3",1,2017-10-31
+Nashik,Moderate,173,"O
+3",1,2017-11-01
+Nashik,Moderate,178,"O
+3",1,2017-11-02
+Nashik,Moderate,163,"O
+3",1,2017-11-03
+Nashik,Moderate,167,"O
+3",1,2017-11-04
+Nashik,Moderate,152,"O
+3",1,2017-11-05
+Nashik,Moderate,110,"PM
+2.5",1,2017-11-06
+Nashik,Moderate,154,"O
+3",1,2017-11-07
+Nashik,Moderate,169,"O
+3",1,2017-11-08
+Nashik,Moderate,199,"O
+3",1,2017-11-09
+Nashik,Poor,211,"O
+3",1,2017-11-10
+Nashik,Moderate,199,"O
+3",1,2017-11-11
+Nashik,Poor,222,"O
+3",1,2017-11-12
+Nashik,Poor,267,"O
+3",1,2017-11-13
+Nashik,Poor,222,"O
+3",1#,2017-11-14
+Nashik,Moderate,174,"O
+3",1,2017-11-16
+Nashik,Poor,214,"O
+3",1,2017-11-17
+Nashik,Moderate,195,"O
+3",1,2017-11-18
+Nashik,Moderate,171,"O
+3",1,2017-11-19
+Nashik,Moderate,125,"PM
+2.5",1,2017-11-20
+Nashik,Moderate,155,"PM
+2.5",1,2017-11-21
+Nashik,Moderate,107,"PM
+2.5",1#,2017-11-22
+Nashik,Satisfactory,97,"O
+3",1#,2017-11-23
+Nashik,Poor,251,"O
+3",1#,2017-11-24
+Nashik,Moderate,189,"O
+3",1#,2017-11-25
+Nashik,Moderate,197,"O
+3",1,2017-11-27
+Nashik,Poor,223,"O
+3",1,2017-11-28
+Nashik,Moderate,189,"O
+3",1,2017-11-29
+Nashik,Moderate,182,"O
+3",1,2017-11-30
+Nashik,Moderate,169,"O
+3",1,2017-12-01
+Nashik,Moderate,167,"O
+3",1,2017-12-02
+Nashik,Moderate,177,"O
+3",1,2017-12-03
+Nashik,Moderate,118,"PM
+2.5",1,2017-12-04
+Nashik,Moderate,112,"PM
+2.5",1#,2017-12-05
+Nashik,Satisfactory,84,"PM
+2.5",1,2017-12-06
+Nashik,Satisfactory,95,"O
+3",1#,2017-12-07
+Nashik,Moderate,123,"PM
+2.5",1,2017-12-08
+Nashik,Moderate,195,"PM
+2.5",1,2017-12-09
+Nashik,Moderate,150,"O
+3",1,2017-12-10
+Nashik,Moderate,104,"O
+3",1,2017-12-11
+Nashik,Satisfactory,80,"O
+3",1,2017-12-12
+Nashik,Satisfactory,88,"PM
+10",1,2017-12-13
+Nashik,Satisfactory,88,"PM
+10",1,2017-12-14
+Nashik,Moderate,109,"PM
+10",1,2017-12-15
+Nashik,Moderate,132,"PM
+2.5",1,2017-12-16
+Nashik,Moderate,171,"PM
+2.5",1,2017-12-17
+Nashik,Moderate,127,"PM
+2.5",1,2017-12-18
+Nashik,Moderate,118,"PM
+2.5",1,2017-12-19
+Nashik,Moderate,141,"PM
+2.5",1,2017-12-20
+Nashik,Moderate,179,"PM
+2.5",1#,2017-12-21
+Nashik,Moderate,175,"PM
+2.5",1,2017-12-22
+Nashik,Poor,238,"PM
+2.5",1,2017-12-23
+Nashik,Poor,215,"PM
+2.5",1,2017-12-24
+Nashik,Moderate,181,"O
+3",1,2017-12-25
+Nashik,Moderate,183,"PM
+2.5",1,2017-12-26
+Nashik,Poor,209,"O
+3",1#,2017-12-27
+Nashik,Moderate,174,"PM
+2.5",1,2017-12-28
+Nashik,Poor,208,"O
+3",1#,2017-12-29
+Nashik,Moderate,173,"O
+3",1#,2017-12-30
+Nashik,Moderate,176,"PM
+2.5",1,2018-01-01
+Nashik,Moderate,151,"PM
+2.5",1,2018-01-02
+Nashik,Moderate,193,"PM
+2.5",1,2018-01-03
+Nashik,Moderate,149,"PM
+2.5",1,2018-01-04
+Nashik,Satisfactory,96,"PM
+10",1,2018-01-05
+Nashik,Satisfactory,93,"PM
+10",1#,2018-01-06
+Nashik,Satisfactory,74,"O
+3",1,2018-01-07
+Nashik,Satisfactory,87,"PM
+10",1,2018-01-08
+Nashik,Moderate,166,"PM
+2.5",1,2018-01-09
+Nashik,Moderate,195,"PM
+2.5",1,2018-01-10
+Nashik,Poor,224,"O
+3",1,2018-01-11
+Nashik,Moderate,192,"O
+3",1,2018-01-12
+Nashik,Moderate,172,"O
+3",1,2018-01-13
+Nashik,Poor,221,"O
+3",1,2018-01-14
+Nashik,Moderate,167,"O
+3",1,2018-01-15
+Nashik,Moderate,116,"O
+3",1,2018-01-16
+Nashik,Satisfactory,92,"O
+3",1,2018-01-17
+Nashik,Satisfactory,93,"O
+3",1,2018-01-18
+Nashik,Moderate,175,"O
+3",1,2018-01-19
+Nashik,Moderate,183,"O
+3",1,2018-01-20
+Nashik,Poor,208,"O
+3",1,2018-01-21
+Nashik,Moderate,190,"O
+3",1,2018-01-22
+Nashik,Moderate,158,"O
+3",1,2018-01-23
+Nashik,Poor,221,"O
+3",1,2018-01-24
+Nashik,Poor,283,"O
+3",1,2018-01-25
+Nashik,Poor,219,"O
+3",1,2018-01-26
+Nashik,Moderate,196,"O
+3",1#,2018-01-27
+Nashik,Poor,262,OZONE,1,2018-01-30
+Nashik,Poor,217,OZONE,1,2018-01-31
+Nashik,Poor,214,OZONE,1,2018-02-01
+Nashik,Poor,266,OZONE,1,2018-02-02
+Nashik,Moderate,103,"PM
+10",1,2018-02-03
+Nashik,Satisfactory,91,"PM
+10",1,2018-02-04
+Nashik,Moderate,125,OZONE,1,2018-02-05
+Nashik,Poor,224,OZONE,1,2018-02-06
+Nashik,Moderate,166,OZONE,1,2018-02-07
+Nashik,Moderate,170,OZONE,1,2018-02-08
+Nashik,Satisfactory,99,OZONE,1,2018-02-09
+Nashik,Moderate,112,"PM
+2.5",1,2018-02-10
+Nashik,Satisfactory,97,OZONE,1,2018-02-11
+Nashik,Satisfactory,98,OZONE,1,2018-02-12
+Nashik,Moderate,168,OZONE,1,2018-02-13
+Nashik,Moderate,121,OZONE,1,2018-02-14
+Nashik,Poor,206,OZONE,1,2018-02-15
+Nashik,Poor,207,OZONE,1,2018-02-16
+Nashik,Poor,203,OZONE,1,2018-02-17
+Nashik,Moderate,197,OZONE,1,2018-02-18
+Nashik,Moderate,160,OZONE,1,2018-02-19
+Nashik,Moderate,140,OZONE,1,2018-02-20
+Nashik,Poor,279,OZONE,1,2018-02-21
+Nashik,Poor,224,OZONE,1,2018-02-22
+Nashik,Moderate,153,OZONE,1,2018-02-23
+Nashik,Poor,210,"PM
+2.5",1,2018-02-24
+Nashik,Poor,218,OZONE,1,2018-02-25
+Nashik,Poor,226,OZONE,1,2018-02-26
+Nashik,Moderate,193,OZONE,1,2018-02-27
+Nashik,Poor,243,OZONE,1,2018-02-28
+Nashik,Poor,232,OZONE,1,2018-03-01
+Nashik,Poor,217,OZONE,1,2018-03-02
+Nashik,Poor,230,OZONE,1,2018-03-03
+Nashik,Poor,264,OZONE,1,2018-03-04
+Nashik,Poor,231,OZONE,1,2018-03-05
+Nashik,Poor,212,OZONE,1,2018-03-06
+Nashik,Moderate,116,"PM
+2.5",1,2018-03-07
+Nashik,Poor,255,OZONE,1,2018-03-08
+Nashik,Poor,233,OZONE,1,2018-03-09
+Nashik,Poor,242,OZONE,1,2018-03-10
+Nashik,Poor,221,OZONE,1,2018-03-11
+Nashik,Poor,253,OZONE,1,2018-03-12
+Nashik,Poor,218,OZONE,1,2018-03-13
+Nashik,Moderate,103,OZONE,1,2018-03-14
+Nashik,Moderate,103,OZONE,1,2018-03-15
+Nashik,Moderate,195,OZONE,1,2018-03-16
+Nashik,Moderate,171,OZONE,1,2018-03-18
+Nashik,Moderate,193,OZONE,1,2018-03-19
+Nashik,Moderate,112,OZONE,1,2018-03-20
+Nashik,Moderate,108,OZONE,1,2018-03-21
+Nashik,Satisfactory,92,OZONE,1,2018-03-22
+Nashik,Poor,212,OZONE,1,2018-03-23
+Nashik,Poor,201,OZONE,1,2018-03-24
+Nashik,Satisfactory,90,"PM
+2.5",1,2018-03-25
+Nashik,Poor,255,OZONE,1,2018-03-26
+Nashik,Poor,235,OZONE,1,2018-03-27
+Nashik,Moderate,174,OZONE,1,2018-03-28
+Nashik,Moderate,174,OZONE,1,2018-03-29
+Nashik,Moderate,184,OZONE,1,2018-03-30
+Nashik,Moderate,183,OZONE,1,2018-03-31
+Nashik,Moderate,179,OZONE,1,2018-04-01
+Nashik,Poor,213,OZONE,1,2018-04-02
+Nashik,Poor,225,OZONE,1,2018-04-03
+Nashik,Moderate,151,OZONE,1,2018-04-05
+Nashik,Moderate,131,"PM
+2.5",1,2018-04-06
+Nashik,Moderate,121,"PM
+2.5",1,2018-04-07
+Nashik,Moderate,118,"PM
+2.5",1,2018-04-08
+Nashik,Moderate,152,OZONE,1,2018-04-10
+Nashik,Satisfactory,80,"PM
+10",1,2018-04-11
+Nashik,Satisfactory,79,OZONE,1,2018-04-12
+Nashik,Moderate,121,"PM
+2.5",1,2018-04-13
+Nashik,Satisfactory,89,"PM
+10",1,2018-04-14
+Nashik,Satisfactory,85,OZONE,1,2018-04-15
+Nashik,Moderate,151,OZONE,1,2018-04-16
+Nashik,Moderate,155,OZONE,1,2018-04-17
+Nashik,Moderate,131,OZONE,1,2018-04-18
+Nashik,Moderate,113,"PM
+2.5",1,2018-04-19
+Nashik,Satisfactory,86,"PM
+2.5",1,2018-04-20
+Nashik,Satisfactory,57,"PM
+10",1,2018-04-21
+Nashik,Satisfactory,88,OZONE,1,2018-04-22
+Nashik,Moderate,124,OZONE,1,2018-04-23
+Nashik,Poor,210,OZONE,1,2018-04-24
+Nashik,Poor,232,OZONE,1,2018-04-25
+Nashik,Poor,212,OZONE,1,2018-04-26
+Nashik,Poor,255,OZONE,1,2018-04-27
+Nashik,Poor,276,OZONE,1,2018-04-28
+Nashik,Moderate,188,OZONE,1,2018-04-29
+Nashik,Satisfactory,83,OZONE,1,2018-04-30
+Nashik,Moderate,162,OZONE,1,2018-05-01
+Nashik,Satisfactory,95,OZONE,1,2018-05-02
+Nashik,Moderate,153,OZONE,1,2018-05-03
+Nashik,Moderate,124,OZONE,1,2018-05-04
+Nashik,Moderate,165,OZONE,1,2018-05-05
+Nashik,Moderate,195,OZONE,1,2018-05-06
+Nashik,Moderate,161,OZONE,1,2018-05-07
+Nashik,Satisfactory,96,OZONE,1,2018-05-08
+Nashik,Satisfactory,96,OZONE,1,2018-05-09
+Nashik,Moderate,183,OZONE,1,2018-05-10
+Nashik,Moderate,198,OZONE,1,2018-05-11
+Nashik,Moderate,152,OZONE,1,2018-05-12
+Nashik,Moderate,170,OZONE,1,2018-05-13
+Nashik,Satisfactory,91,OZONE,1,2018-05-14
+Nashik,Satisfactory,92,OZONE,1,2018-05-15
+Nashik,Moderate,154,OZONE,1,2018-05-16
+Nashik,Satisfactory,98,"PM
+10",1,2018-05-17
+Nashik,Satisfactory,92,"PM
+10",1,2018-05-18
+Nashik,Moderate,104,OZONE,1,2018-05-20
+Nashik,Moderate,171,OZONE,1,2018-05-21
+Nashik,Moderate,177,OZONE,1,2018-05-22
+Nashik,Moderate,185,OZONE,1,2018-05-23
+Nashik,Moderate,157,OZONE,1,2018-05-24
+Nashik,Moderate,174,OZONE,1,2018-05-25
+Nashik,Satisfactory,80,OZONE,1,2018-05-26
+Nashik,Satisfactory,66,OZONE,1,2018-05-29
+Nashik,Satisfactory,64,OZONE,1,2018-05-30
+Nashik,Satisfactory,78,OZONE,1,2018-05-31
+Nashik,Moderate,168,OZONE,1,2018-06-01
+Nashik,Satisfactory,91,OZONE,1,2018-06-03
+Nashik,Satisfactory,79,OZONE,1,2018-06-04
+Nashik,Satisfactory,93,OZONE,1,2018-06-05
+Nashik,Moderate,102,OZONE,1,2018-06-06
+Nashik,Satisfactory,64,OZONE,1,2018-06-07
+Nashik,Satisfactory,70,OZONE,1,2018-06-08
+Nashik,Satisfactory,53,OZONE,1,2018-06-09
+Nashik,Satisfactory,54,OZONE,1,2018-06-10
+Nashik,Satisfactory,81,"PM
+10",1,2018-06-11
+Nashik,Satisfactory,92,"PM
+10",1,2018-06-12
+Nashik,Satisfactory,83,"PM
+10",1,2018-06-13
+Nashik,Satisfactory,94,"PM
+10",1,2018-06-14
+Nashik,Satisfactory,78,"PM
+10",1,2018-06-15
+Nashik,Satisfactory,64,"PM
+10",1,2018-06-16
+Nashik,Satisfactory,55,OZONE,1,2018-06-18
+Nashik,Satisfactory,65,OZONE,1,2018-06-19
+Nashik,Satisfactory,68,"PM
+10",1,2018-06-20
+Nashik,Satisfactory,70,"PM
+10",1,2018-06-21
+Nashik,Satisfactory,64,"PM
+10",1,2018-06-22
+Nashik,Moderate,105,"PM
+2.5",1,2018-06-23
+Nashik,Good,48,OZONE,1,2018-06-25
+Nashik,Good,38,OZONE,1,2018-06-26
+Nashik,Satisfactory,53,"PM
+10",1,2018-06-27
+Nashik,Satisfactory,59,"PM
+10",1,2018-06-28
+Nashik,Satisfactory,51,OZONE,1,2018-06-29
+Nashik,Satisfactory,52,OZONE,1,2018-06-30
+Nashik,Satisfactory,53,OZONE,1,2018-07-01
+Nashik,Good,47,OZONE,1,2018-07-02
+Nashik,Good,41,OZONE,1,2018-07-03
+Nashik,Good,35,OZONE,1,2018-07-04
+Nashik,Good,39,OZONE,1,2018-07-05
+Nashik,Good,46,OZONE,1,2018-07-06
+Nashik,Good,48,OZONE,1,2018-07-07
+Nashik,Satisfactory,52,OZONE,1,2018-07-08
+Nashik,Good,46,OZONE,1,2018-07-09
+Nashik,Good,44,OZONE,1,2018-07-10
+Nashik,Good,39,OZONE,1,2018-07-11
+Nashik,Good,34,OZONE,1,2018-07-12
+Nashik,Good,41,OZONE,1,2018-07-13
+Nashik,Good,36,OZONE,1,2018-07-14
+Nashik,Good,34,OZONE,1,2018-07-15
+Nashik,Good,35,OZONE,1,2018-07-16
+Nashik,Good,32,"PM
+2.5",1,2018-07-17
+Nashik,Good,41,"PM
+10",1,2018-07-18
+Nashik,Good,44,"PM
+10",1,2018-07-19
+Nashik,Good,37,OZONE,1,2018-07-20
+Nashik,Good,41,OZONE,1,2018-07-21
+Nashik,Satisfactory,52,"PM
+10",1,2018-07-22
+Nashik,Satisfactory,58,"PM
+10",1,2018-07-23
+Nashik,Satisfactory,54,"PM
+2.5",1,2018-07-24
+Nashik,Satisfactory,63,"PM
+10",1,2018-07-25
+Nashik,Satisfactory,60,"PM
+10",1,2018-07-26
+Nashik,Satisfactory,54,"PM
+10",1,2018-07-27
+Nashik,Good,46,"PM
+10",1,2018-07-28
+Nashik,Satisfactory,60,"PM
+10",1,2018-07-29
+Nashik,Satisfactory,58,"PM
+10",1,2018-07-30
+Nashik,Satisfactory,75,"PM
+10",1,2018-07-31
+Nashik,Moderate,102,"PM
+10",1,2018-08-01
+Nashik,Moderate,112,"PM
+10",1,2018-08-02
+Nashik,Satisfactory,78,"PM
+10",1,2018-08-03
+Nashik,Good,40,"PM
+10",1,2018-08-04
+Nashik,Satisfactory,55,"PM
+10",1,2018-08-05
+Nashik,Good,48,"PM
+10",1,2018-08-07
+Nashik,Good,29,OZONE,1,2018-08-08
+Nashik,Good,27,OZONE,1,2018-08-09
+Nashik,Good,33,OZONE,1,2018-08-10
+Nashik,Good,33,OZONE,1,2018-08-11
+Nashik,Good,37,OZONE,1,2018-08-12
+Nashik,Good,30,OZONE,1,2018-08-13
+Nashik,Good,46,CO,1,2018-08-14
+Nashik,Good,43,"PM
+2.5",1,2018-08-15
+Nashik,Good,43,"PM
+2.5",1,2018-08-16
+Nashik,Good,43,"PM
+2.5",1,2018-08-17
+Nashik,Good,44,"PM
+10",1,2018-08-18
+Nashik,Good,29,OZONE,1,2018-08-20
+Nashik,Good,27,"PM
+2.5",1,2018-08-21
+Nashik,Good,31,"PM
+2.5",1,2018-08-22
+Nashik,Good,36,"PM
+2.5",1,2018-08-23
+Nashik,Good,31,OZONE,1,2018-08-24
+Nashik,Good,30,OZONE,1,2018-08-25
+Nashik,Good,31,OZONE,1,2018-08-26
+Nashik,Good,42,"PM
+10",1,2018-08-27
+Nashik,Satisfactory,55,"PM
+10",1,2018-08-28
+Nashik,Satisfactory,73,"PM
+10",1,2018-08-29
+Nashik,Satisfactory,62,"PM
+10",1,2018-08-30
+Nashik,Satisfactory,53,"PM
+10",1,2018-08-31
+Nashik,Good,39,OZONE,1,2018-09-01
+Nashik,Good,41,OZONE,1,2018-09-02
+Nashik,Good,37,OZONE,1,2018-09-03
+Nashik,Good,38,"PM
+2.5",1,2018-09-04
+Nashik,Good,40,OZONE,1,2018-09-05
+Nashik,Good,43,OZONE,1,2018-09-06
+Nashik,Satisfactory,57,"PM
+10",1,2018-09-07
+Nashik,Satisfactory,63,"PM
+10",1,2018-09-08
+Nashik,Satisfactory,51,"PM
+10",1,2018-09-09
+Nashik,Satisfactory,54,OZONE,1,2018-09-10
+Nashik,Satisfactory,50,"PM
+10",1,2018-09-11
+Nashik,Good,47,"PM
+10",1,2018-09-12
+Nashik,Good,44,OZONE,1,2018-09-13
+Nashik,Good,46,OZONE,1,2018-09-14
+Nashik,Satisfactory,56,OZONE,1,2018-09-15
+Nashik,Good,44,OZONE,1,2018-09-16
+Nashik,Satisfactory,59,OZONE,1,2018-09-17
+Nashik,Satisfactory,69,OZONE,1,2018-09-20
+Nashik,Satisfactory,77,OZONE,1,2018-09-21
+Nashik,Satisfactory,74,"PM
+10",1,2018-09-22
+Nashik,Satisfactory,64,OZONE,1,2018-09-23
+Nashik,Good,49,"PM
+2.5",1,2018-09-24
+Nashik,Satisfactory,72,OZONE,1,2018-09-25
+Nashik,Satisfactory,74,OZONE,1,2018-09-26
+Nashik,Satisfactory,71,OZONE,1,2018-09-27
+Nashik,Satisfactory,78,OZONE,1,2018-09-28
+Nashik,Satisfactory,81,OZONE,1,2018-09-29
+Nashik,Satisfactory,94,OZONE,1,2018-09-30
+Nashik,Satisfactory,91,OZONE,1,2018-10-01
+Nashik,Satisfactory,71,OZONE,1,2018-10-02
+Nashik,Satisfactory,66,OZONE,1,2018-10-03
+Nashik,Satisfactory,80,OZONE,1,2018-10-04
+Nashik,Satisfactory,57,"PM
+10",1,2018-10-05
+Nashik,Satisfactory,74,"PM
+10",1,2018-10-06
+Nashik,Satisfactory,96,OZONE,1,2018-10-09
+Nashik,Moderate,111,OZONE,1,2018-10-10
+Nashik,Moderate,123,OZONE,1,2018-10-11
+Nashik,Moderate,101,OZONE,1,2018-10-12
+Nashik,Satisfactory,99,"PM
+10",1,2018-10-13
+Nashik,Moderate,106,OZONE,1,2018-10-14
+Nashik,Moderate,102,OZONE,1,2018-10-15
+Nashik,Moderate,155,OZONE,1,2018-10-16
+Nashik,Satisfactory,78,"PM
+10",1,2018-10-17
+Nashik,Moderate,103,OZONE,1,2018-10-20
+Nashik,Moderate,122,"PM
+2.5",1,2018-10-21
+Nashik,Moderate,151,OZONE,1,2018-10-22
+Nashik,Moderate,103,OZONE,1,2018-10-23
+Nashik,Satisfactory,94,OZONE,1,2018-10-25
+Nashik,Moderate,170,OZONE,1,2018-10-26
+Nashik,Moderate,128,"PM
+2.5",1,2018-10-27
+Nashik,Moderate,104,OZONE,1,2018-10-28
+Nashik,Moderate,169,OZONE,1,2018-10-29
+Nashik,Moderate,183,OZONE,1,2018-10-30
+Nashik,Moderate,179,OZONE,1,2018-10-31
+Nashik,Moderate,107,OZONE,1,2018-11-01
+Nashik,Satisfactory,100,OZONE,1,2018-11-02
+Nashik,Satisfactory,84,OZONE,1,2018-11-03
+Nashik,Moderate,118,OZONE,1,2018-11-04
+Nashik,Satisfactory,96,OZONE,1,2018-11-06
+Nashik,Poor,263,OZONE,1,2018-11-08
+Nashik,Moderate,142,"PM
+2.5",1,2018-11-09
+Nashik,Moderate,166,OZONE,1,2018-11-11
+Nashik,Moderate,171,OZONE,1,2018-11-12
+Nashik,Poor,211,OZONE,1,2018-11-13
+Nashik,Poor,229,OZONE,1,2018-11-14
+Nashik,Moderate,113,OZONE,1,2018-11-15
+Nashik,Moderate,184,OZONE,1,2018-11-16
+Nashik,Poor,271,OZONE,1,2018-11-17
+Nashik,Poor,240,OZONE,1,2018-11-18
+Nashik,Moderate,103,OZONE,1,2018-11-19
+Nashik,Moderate,102,OZONE,1,2018-11-20
+Nashik,Moderate,110,OZONE,1,2018-11-21
+Nashik,Moderate,172,OZONE,1,2018-11-22
+Nashik,Poor,205,OZONE,1,2018-11-23
+Nashik,Moderate,180,OZONE,1,2018-11-24
+Nashik,Poor,214,OZONE,1,2018-11-25
+Nashik,Poor,213,OZONE,1,2018-11-26
+Nashik,Moderate,178,OZONE,1,2018-11-27
+Nashik,Moderate,191,OZONE,1,2018-11-28
+Nashik,Moderate,173,OZONE,1,2018-11-29
+Nashik,Moderate,182,OZONE,1,2018-11-30
+Nashik,Moderate,188,OZONE,1,2018-12-01
+Nashik,Poor,245,OZONE,1,2018-12-02
+Nashik,Moderate,192,OZONE,1,2018-12-03
+Nashik,Moderate,185,OZONE,1,2018-12-04
+Nashik,Poor,220,OZONE,1,2018-12-05
+Nashik,Moderate,116,OZONE,1,2018-12-06
+Nashik,Satisfactory,69,"PM
+10",1,2018-12-07
+Nashik,Satisfactory,97,OZONE,1,2018-12-08
+Nashik,Moderate,113,OZONE,1,2018-12-09
+Nashik,Moderate,124,OZONE,1,2018-12-10
+Nashik,Moderate,185,OZONE,1,2018-12-11
+Nashik,Moderate,191,OZONE,1,2018-12-12
+Nashik,Moderate,172,OZONE,1,2018-12-13
+Nashik,Moderate,179,OZONE,1,2018-12-14
+Nashik,Moderate,190,OZONE,1,2018-12-15
+Nashik,Moderate,183,OZONE,1,2018-12-16
+Nashik,Moderate,199,OZONE,1,2018-12-17
+Nashik,Moderate,154,OZONE,1,2018-12-18
+Nashik,Satisfactory,76,OZONE,1,2018-12-19
+Nashik,Moderate,157,OZONE,1,2018-12-20
+Nashik,Moderate,198,OZONE,1,2018-12-21
+Nashik,Poor,206,OZONE,1,2018-12-22
+Nashik,Moderate,194,OZONE,1,2018-12-23
+Nashik,Poor,212,OZONE,1,2018-12-24
+Nashik,Moderate,126,OZONE,1,2018-12-25
+Nashik,Moderate,155,OZONE,1,2018-12-26
+Nashik,Moderate,200,OZONE,1,2018-12-29
+Nashik,Poor,216,OZONE,1,2018-12-30
+Nashik,Moderate,197,OZONE,1,2018-12-31
+Nashik,Poor,219,OZONE,1,2019-01-01
+Nashik,Poor,204,OZONE,1,2019-01-02
+Nashik,Moderate,119,"PM
+2.5",1,2019-01-03
+Nashik,Poor,241,OZONE,1,2019-01-04
+Nashik,Poor,206,OZONE,1,2019-01-05
+Nashik,Moderate,113,OZONE,1,2019-01-06
+Nashik,Moderate,169,OZONE,1,2019-01-07
+Nashik,Poor,271,OZONE,1,2019-01-08
+Nashik,Moderate,128,OZONE,1,2019-01-09
+Nashik,Moderate,197,OZONE,1,2019-01-10
+Nashik,Moderate,198,OZONE,1,2019-01-11
+Nashik,Moderate,152,OZONE,1,2019-01-12
+Nashik,Moderate,146,OZONE,1,2019-01-13
+Nashik,Moderate,177,OZONE,1,2019-01-14
+Nashik,Moderate,179,OZONE,1,2019-01-15
+Nashik,Moderate,173,OZONE,1,2019-01-16
+Nashik,Moderate,150,OZONE,1,2019-01-17
+Nashik,Moderate,181,OZONE,1,2019-01-18
+Nashik,Moderate,180,OZONE,1,2019-01-19
+Nashik,Poor,210,OZONE,1,2019-01-20
+Nashik,Moderate,121,OZONE,1,2019-01-21
+Nashik,Satisfactory,90,"PM
+10",1,2019-01-22
+Nashik,Satisfactory,84,"PM
+10",1,2019-01-23
+Nashik,Satisfactory,73,"PM
+10",1,2019-01-24
+Nashik,Moderate,126,OZONE,1,2019-01-25
+Nashik,Satisfactory,77,OZONE,1,2019-01-26
+Nashik,Satisfactory,80,OZONE,1,2019-01-27
+Nashik,Satisfactory,96,OZONE,1,2019-01-28
+Nashik,Moderate,154,OZONE,1,2019-01-29
+Nashik,Poor,204,OZONE,1,2019-01-30
+Nashik,Moderate,199,OZONE,1,2019-01-31
+Nashik,Satisfactory,81,OZONE,1,2019-02-01
+Nashik,Moderate,175,OZONE,1,2019-02-02
+Nashik,Satisfactory,87,OZONE,1,2019-02-03
+Nashik,Satisfactory,83,"PM
+2.5",1,2019-02-04
+Nashik,Satisfactory,95,"PM
+2.5",1,2019-02-05
+Nashik,Satisfactory,90,OZONE,1,2019-02-06
+Nashik,Moderate,124,"PM
+10",1,2019-02-07
+Nashik,Moderate,109,"PM
+10",1,2019-02-08
+Nashik,Moderate,132,"PM
+10",1,2019-02-09
+Nashik,Moderate,153,OZONE,1,2019-02-10
+Nashik,Moderate,115,"PM
+10",1,2019-02-11
+Nashik,Moderate,154,OZONE,1,2019-02-12
+Nashik,Satisfactory,92,OZONE,1,2019-02-13
+Nashik,Satisfactory,86,"PM
+2.5",1,2019-02-14
+Nashik,Satisfactory,86,OZONE,1,2019-02-15
+Nashik,Moderate,159,OZONE,1,2019-02-16
+Nashik,Moderate,176,OZONE,1,2019-02-17
+Nashik,Moderate,113,OZONE,1,2019-02-18
+Nashik,Moderate,107,OZONE,1,2019-02-19
+Nashik,Moderate,160,OZONE,1,2019-02-20
+Nashik,Moderate,102,OZONE,1,2019-02-21
+Nashik,Satisfactory,85,OZONE,1,2019-02-22
+Nashik,Satisfactory,83,OZONE,1,2019-02-23
+Nashik,Satisfactory,85,OZONE,1,2019-02-24
+Nashik,Satisfactory,76,"PM
+10",1,2019-02-25
+Nashik,Moderate,114,"PM
+10",1,2019-02-26
+Nashik,Moderate,112,"PM
+10",1,2019-02-27
+Nashik,Satisfactory,88,OZONE,1,2019-02-28
+Nashik,Moderate,150,OZONE,1,2019-03-01
+Nashik,Satisfactory,93,"PM
+10",1,2019-03-02
+Nashik,Satisfactory,76,OZONE,1,2019-03-03
+Nashik,Satisfactory,91,"PM
+2.5",1,2019-03-05
+Nashik,Satisfactory,95,OZONE,1,2019-03-06
+Nashik,Moderate,122,OZONE,1,2019-03-07
+Nashik,Moderate,136,OZONE,1,2019-03-08
+Nashik,Satisfactory,92,"PM
+10",1,2019-03-09
+Nashik,Satisfactory,92,OZONE,1,2019-03-10
+Nashik,Satisfactory,85,"PM
+10",1,2019-03-11
+Nashik,Satisfactory,97,OZONE,1,2019-03-12
+Nashik,Moderate,112,OZONE,1,2019-03-13
+Nashik,Satisfactory,85,OZONE,1,2019-03-14
+Nashik,Moderate,177,OZONE,1,2019-03-15
+Nashik,Satisfactory,96,OZONE,1,2019-03-16
+Nashik,Moderate,155,OZONE,1,2019-03-17
+Nashik,Moderate,116,OZONE,1,2019-03-18
+Nashik,Moderate,106,OZONE,1,2019-03-19
+Nashik,Moderate,101,OZONE,1,2019-03-20
+Nashik,Satisfactory,73,OZONE,1,2019-03-21
+Nashik,Satisfactory,79,OZONE,1,2019-03-22
+Nashik,Moderate,157,OZONE,1,2019-03-23
+Nashik,Moderate,174,OZONE,1,2019-03-24
+Nashik,Satisfactory,93,"PM
+2.5",1,2019-03-26
+Nashik,Moderate,165,OZONE,1,2019-03-27
+Nashik,Moderate,155,OZONE,1,2019-03-28
+Nashik,Moderate,153,OZONE,1,2019-03-29
+Nashik,Moderate,141,"PM
+2.5",1,2019-03-30
+Nashik,Moderate,120,"PM
+2.5",1,2019-03-31
+Nashik,Satisfactory,91,OZONE,1,2019-04-01
+Nashik,Satisfactory,100,OZONE,1,2019-04-02
+Nashik,Moderate,151,OZONE,1,2019-04-03
+Nashik,Moderate,108,OZONE,1,2019-04-04
+Nashik,Satisfactory,93,"PM
+10",1,2019-04-05
+Nashik,Satisfactory,69,OZONE,1,2019-04-06
+Nashik,Satisfactory,65,OZONE,1,2019-04-07
+Nashik,Satisfactory,74,"PM
+10",1,2019-04-08
+Nashik,Satisfactory,78,"PM
+10",1,2019-04-09
+Nashik,Satisfactory,69,OZONE,1,2019-04-10
+Nashik,Moderate,191,"PM
+2.5",1,2019-04-11
+Nashik,Satisfactory,86,"PM
+2.5",1,2019-04-12
+Nashik,Moderate,106,OZONE,1,2019-04-13
+Nashik,Moderate,110,OZONE,1,2019-04-14
+Nashik,Moderate,107,OZONE,1,2019-04-16
+Nashik,Satisfactory,98,OZONE,1,2019-04-17
+Nashik,Moderate,107,OZONE,1,2019-04-18
+Nashik,Moderate,116,OZONE,1,2019-04-20
+Nashik,Satisfactory,86,OZONE,1,2019-04-21
+Nashik,Satisfactory,84,OZONE,1,2019-04-22
+Nashik,Satisfactory,94,OZONE,1,2019-04-23
+Nashik,Satisfactory,87,OZONE,1,2019-04-24
+Nashik,Satisfactory,69,"PM
+10",1,2019-04-26
+Nashik,Satisfactory,82,"PM
+10",1,2019-04-27
+Nashik,Satisfactory,92,"PM
+10",1,2019-04-28
+Nashik,Satisfactory,99,"PM
+10",1,2019-04-29
+Nashik,Satisfactory,91,"PM
+10",1,2019-04-30
+Nashik,Moderate,116,"PM
+10",1,2019-05-01
+Nashik,Satisfactory,100,"PM
+10",1,2019-05-02
+Nashik,Satisfactory,94,"PM
+10",1,2019-05-03
+Nashik,Satisfactory,88,"PM
+10",1,2019-05-04
+Nashik,Satisfactory,85,"PM
+10",1,2019-05-05
+Nashik,Satisfactory,71,"PM
+10",1,2019-05-06
+Nashik,Satisfactory,70,"PM
+10",1,2019-05-07
+Nashik,Satisfactory,62,"PM
+10",1,2019-05-08
+Nashik,Satisfactory,53,"PM
+10",1,2019-05-09
+Nashik,Good,41,"PM
+10",1,2019-05-10
+Nashik,Satisfactory,51,"NO
+2",1,2019-05-11
+Nashik,Satisfactory,55,"PM
+10",1,2019-05-12
+Nashik,Satisfactory,63,"PM
+10",1,2019-05-13
+Nashik,Satisfactory,63,"PM
+10",1,2019-05-14
+Nashik,Satisfactory,64,"PM
+10",1,2019-05-15
+Nashik,Satisfactory,61,"PM
+10",1,2019-05-16
+Nashik,Satisfactory,70,"PM
+10",1,2019-05-17
+Nashik,Satisfactory,86,"PM
+10",1,2019-05-18
+Nashik,Satisfactory,74,"PM
+10",1,2019-05-19
+Nashik,Satisfactory,52,"PM
+10",1,2019-05-20
+Nashik,Satisfactory,65,"PM
+10",1,2019-05-21
+Nashik,Satisfactory,62,"PM
+10",1,2019-05-22
+Nashik,Satisfactory,52,"PM
+10",1,2019-05-23
+Nashik,Satisfactory,79,"PM
+10",1,2019-05-24
+Nashik,Satisfactory,64,"PM
+10",1,2019-05-25
+Nashik,Satisfactory,59,"PM
+10",1,2019-05-26
+Nashik,Satisfactory,82,"PM
+10",1,2019-05-27
+Nashik,Satisfactory,82,"PM
+10",1,2019-05-28
+Nashik,Satisfactory,69,"PM
+10",1,2019-05-29
+Nashik,Satisfactory,68,"PM
+10",1,2019-05-30
+Nashik,Good,50,"PM
+10",1,2019-05-31
+Nashik,Satisfactory,54,"PM
+10",1,2019-06-01
+Nashik,Satisfactory,53,"PM
+10",1,2019-06-02
+Nashik,Satisfactory,60,"PM
+10",1,2019-06-03
+Nashik,Satisfactory,86,"PM
+10",1,2019-06-08
+Nashik,Satisfactory,54,"PM
+10",1,2019-06-10
+Nashik,Good,50,"PM
+2.5",1,2019-06-11
+Nashik,Good,39,"PM
+2.5",1,2019-06-12
+Nashik,Satisfactory,64,"PM
+10",1,2019-06-14
+Nashik,Good,50,"PM
+10",1,2019-06-15
+Nashik,Satisfactory,58,"PM
+10",1,2019-06-16
+Nashik,Satisfactory,59,"PM
+10",1,2019-06-17
+Nashik,Satisfactory,67,"PM
+10",1,2019-06-18
+Nashik,Satisfactory,68,"PM
+10",1,2019-06-19
+Nashik,Satisfactory,87,"PM
+10",1,2019-06-20
+Nashik,Satisfactory,86,"PM
+10",1,2019-06-21
+Nashik,Good,44,"PM
+2.5",1,2019-06-22
+Nashik,Good,41,"PM
+2.5",1,2019-06-23
+Nashik,Good,41,"PM
+2.5",1,2019-06-24
+Nashik,Satisfactory,51,"PM
+10",1,2019-06-25
+Nashik,Satisfactory,62,"PM
+2.5",1,2019-06-27
+Nashik,Good,32,OZONE,1,2019-06-29
+Nashik,Good,42,"PM
+2.5",1,2019-07-09
+Nashik,Good,40,CO,1,2019-07-10
+Nashik,Good,32,CO,1,2019-07-11
+Nashik,Good,41,"PM
+10",1,2019-07-12
+Nashik,Good,47,"PM
+10",1,2019-07-13
+Nashik,Good,44,"PM
+2.5",1,2019-07-14
+Nashik,Satisfactory,65,"PM
+10",1,2019-07-15
+Nashik,Satisfactory,91,"PM
+10",1,2019-07-16
+Nashik,Satisfactory,85,"PM
+10",1,2019-07-17
+Nashik,Satisfactory,96,"PM
+10",1,2019-07-18
+Nashik,Satisfactory,80,"PM
+10",1,2019-07-19
+Nashik,Good,39,"PM
+10",1,2019-07-20
+Nashik,Good,46,"PM
+2.5",1,2019-07-21
+Nashik,Good,43,"PM
+2.5",1,2019-07-22
+Nashik,Satisfactory,80,"PM
+2.5",1,2019-07-23
+Nashik,Good,36,CO,1,2019-07-24
+Nashik,Good,36,"PM
+10",1,2019-07-26
+Nashik,Good,35,"PM
+2.5",1,2019-07-27
+Nashik,Good,31,OZONE,1,2019-07-28
+Nashik,Moderate,102,"PM
+10",1,2019-07-29
+Nashik,Good,29,OZONE,1,2019-07-31
+Nashik,Good,32,OZONE,1,2019-08-01
+Nashik,Good,33,CO,1,2019-08-02
+Nashik,Good,41,CO,1,2019-08-03
+Nashik,Good,30,OZONE,1,2019-08-06
+Nashik,Good,37,"PM
+2.5",1,2019-08-07
+Nashik,Good,45,"PM
+10",1,2019-08-08
+Nashik,Good,36,"PM
+2.5",1,2019-08-09
+Nashik,Good,34,"PM
+10",1,2019-08-10
+Nashik,Good,43,"PM
+10",1,2019-08-11
+Nashik,Satisfactory,66,"PM
+10",1,2019-08-12
+Nashik,Satisfactory,77,"PM
+10",1,2019-08-13
+Nashik,Good,49,"PM
+2.5",1,2019-08-14
+Nashik,Good,39,"PM
+10",1,2019-08-15
+Nashik,Good,31,OZONE,1,2019-08-16
+Nashik,Good,31,OZONE,1,2019-08-17
+Nashik,Good,45,"PM
+10",1,2019-08-18
+Nashik,Good,34,OZONE,1,2019-08-19
+Nashik,Good,41,CO,1,2019-08-20
+Nashik,Good,45,"PM
+10",1,2019-08-21
+Nashik,Good,48,"PM
+10",1,2019-08-22
+Nashik,Satisfactory,51,"PM
+2.5",1,2019-08-23
+Nashik,Good,39,"PM
+2.5",1,2019-08-25
+Nashik,Good,44,"PM
+10",1,2019-08-26
+Nashik,Satisfactory,57,"PM
+10",1,2019-08-27
+Nashik,Satisfactory,53,"PM
+10",1,2019-08-28
+Nashik,Satisfactory,51,"PM
+10",1,2019-08-29
+Nashik,Good,40,"PM
+2.5",1,2019-08-30
+Nashik,Good,36,CO,1,2019-08-31
+Nashik,Good,33,OZONE,1,2019-09-01
+Nashik,Good,33,OZONE,1,2019-09-02
+Nashik,Good,34,"PM
+10",1,2019-09-03
+Nashik,Good,35,"PM
+10",1,2019-09-04
+Nashik,Good,37,CO,1,2019-09-05
+Nashik,Good,34,OZONE,1,2019-09-06
+Nashik,Good,33,OZONE,1,2019-09-07
+Nashik,Good,32,OZONE,1,2019-09-10
+Nashik,Good,33,OZONE,1,2019-09-11
+Nashik,Good,32,OZONE,1,2019-09-12
+Nashik,Good,33,OZONE,1,2019-09-13
+Nashik,Good,33,OZONE,1,2019-09-14
+Nashik,Good,34,OZONE,1,2019-09-15
+Nashik,Good,41,"PM
+10",1,2019-09-16
+Nashik,Good,42,"PM
+10",1,2019-09-17
+Nashik,Good,48,"PM
+10",1,2019-09-18
+Nashik,Good,42,"PM
+10",1,2019-09-19
+Nashik,Good,35,CO,1,2019-09-20
+Nashik,Satisfactory,51,"PM
+10",1,2019-09-21
+Nashik,Good,46,"PM
+10",1,2019-09-22
+Nashik,Good,50,"PM
+10",1,2019-09-23
+Nashik,Good,46,"PM
+10",1,2019-09-24
+Nashik,Good,40,CO,1,2019-09-26
+Nashik,Good,39,CO,1,2019-09-28
+Nashik,Good,33,OZONE,1,2019-09-29
+Nashik,Good,40,"PM
+10",1,2019-09-30
+Nashik,Good,31,OZONE,1,2019-10-02
+Nashik,Good,29,OZONE,1,2019-10-03
+Nashik,Good,46,CO,1,2019-10-04
+Nashik,Good,45,"PM
+10",1,2019-10-05
+Nashik,Good,38,"PM
+2.5",1,2019-10-06
+Nashik,Satisfactory,58,"PM
+2.5",1,2019-10-08
+Nashik,Satisfactory,53,"PM
+10",1,2019-10-09
+Nashik,Satisfactory,58,"PM
+10",1,2019-10-10
+Nashik,Satisfactory,74,"PM
+2.5",1,2019-10-11
+Nashik,Satisfactory,71,"PM
+2.5",1,2019-10-12
+Nashik,Satisfactory,88,"PM
+2.5",1,2019-10-13
+Nashik,Satisfactory,62,"PM
+2.5",1,2019-10-14
+Nashik,Satisfactory,63,"PM
+10",1,2019-10-15
+Nashik,Satisfactory,78,"PM
+10",1,2019-10-16
+Nashik,Satisfactory,77,"PM
+10",1,2019-10-17
+Nashik,Good,33,CO,1,2019-10-23
+Nashik,Good,40,CO,1,2019-10-24
+Nashik,Satisfactory,51,"PM
+2.5",1,2019-10-25
+Nashik,Good,33,"PM
+10",1,2019-10-27
+Nashik,Satisfactory,73,"PM
+2.5",1,2019-10-28
+Nashik,Good,31,OZONE,1,2019-10-29
+Nashik,Satisfactory,53,"PM
+10",1,2019-10-30
+Nashik,Good,38,"PM
+2.5",1,2019-11-01
+Nashik,Good,37,OZONE,1,2019-11-03
+Nashik,Good,36,"PM
+2.5",1,2019-11-05
+Nashik,Satisfactory,69,OZONE,1,2019-11-06
+Nashik,Satisfactory,52,"PM
+2.5",1,2019-11-07
+Nashik,Good,45,"PM
+10",1,2019-11-08
+Nashik,Satisfactory,52,"PM
+10",1,2019-11-09
+Nashik,Good,50,"PM
+2.5",1,2019-11-10
+Nashik,Satisfactory,94,"PM
+2.5",1,2019-11-11
+Nashik,Moderate,125,"PM
+2.5",1,2019-11-12
+Nashik,Moderate,138,"PM
+2.5",1,2019-11-13
+Nashik,Satisfactory,89,"PM
+2.5",1,2019-11-14
+Nashik,Moderate,140,"PM
+2.5",1,2019-11-15
+Nashik,Satisfactory,85,"PM
+10",1,2019-11-16
+Nashik,Satisfactory,83,"PM
+2.5",1,2019-11-17
+Nashik,Moderate,114,"PM
+2.5",1,2019-11-18
+Nashik,Moderate,146,"PM
+2.5",1,2019-11-19
+Nashik,Moderate,139,"PM
+2.5",1,2019-11-20
+Nashik,Satisfactory,100,"PM
+2.5",1,2019-11-21
+Nashik,Moderate,125,"PM
+2.5",1,2019-11-22
+Nashik,Moderate,128,"PM
+2.5",1,2019-11-23
+Nashik,Moderate,143,"PM
+2.5",1,2019-11-24
+Nashik,Moderate,146,"PM
+2.5",1,2019-11-25
+Nashik,Moderate,108,"PM
+2.5",1,2019-11-26
+Nashik,Satisfactory,98,"PM
+2.5",1,2019-11-27
+Nashik,Satisfactory,97,"PM
+2.5",1,2019-11-28
+Nashik,Moderate,122,"PM
+2.5",1,2019-11-29
+Nashik,Moderate,118,"PM
+2.5",1,2019-11-30
+Nashik,Satisfactory,93,"PM
+2.5",1,2019-12-01
+Nashik,Satisfactory,100,"PM
+2.5",1,2019-12-02
+Nashik,Satisfactory,63,"PM
+10",1,2019-12-03
+Nashik,Satisfactory,90,"PM
+2.5",1,2019-12-04
+Nashik,Satisfactory,88,"PM
+10",1,2019-12-05
+Nashik,Satisfactory,92,"PM
+2.5",1,2019-12-06
+Nashik,Satisfactory,77,"PM
+10",1,2019-12-07
+Nashik,Moderate,101,"PM
+10",1,2019-12-10
+Nashik,Satisfactory,96,"PM
+10",1,2019-12-11
+Nashik,Moderate,115,"PM
+10",1,2019-12-12
+Nashik,Satisfactory,100,"PM
+10",1,2019-12-13
+Nashik,Satisfactory,86,"PM
+10",1,2019-12-14
+Nashik,Moderate,107,"PM
+2.5",1,2019-12-16
+Nashik,Moderate,108,"PM
+2.5",1,2019-12-17
+Nashik,Moderate,114,"PM
+2.5",1,2019-12-18
+Nashik,Moderate,181,"PM
+2.5",1,2019-12-19
+Nashik,Moderate,153,"PM
+2.5",1,2019-12-20
+Nashik,Moderate,137,"PM
+2.5",1,2019-12-21
+Nashik,Moderate,173,"PM
+2.5",1,2019-12-22
+Nashik,Moderate,158,"PM
+2.5",1,2019-12-23
+Nashik,Moderate,134,"PM
+2.5",1,2019-12-24
+Nashik,Moderate,132,"PM
+2.5",1,2019-12-25
+Nashik,Moderate,138,"PM
+2.5",1,2019-12-26
+Nashik,Moderate,108,"PM
+2.5",1,2019-12-27
+Nashik,Satisfactory,62,"PM
+10",1,2019-12-28
+Nashik,Satisfactory,58,"PM
+10",1,2019-12-29
+Nashik,Satisfactory,55,"PM
+10",1,2019-12-30
+Nashik,Moderate,126,"PM
+2.5",1,2019-12-31
+Nashik,Moderate,190,"PM
+2.5",1,2020-01-01
+Nashik,Moderate,123,"PM
+2.5",1,2020-01-02
+Nashik,Satisfactory,96,"PM
+2.5",1,2020-01-03
+Nashik,Moderate,118,"PM
+2.5",1,2020-01-04
+Nashik,Moderate,101,"PM
+2.5",1,2020-01-05
+Nashik,Satisfactory,78,"PM
+10",1,2020-01-06
+Nashik,Moderate,111,"PM
+2.5",1,2020-01-07
+Nashik,Moderate,106,"PM
+10",1,2020-01-08
+Nashik,Satisfactory,95,"PM
+10",1,2020-01-09
+Nashik,Satisfactory,70,"PM
+10",1,2020-01-10
+Nashik,Satisfactory,84,"PM
+2.5",1,2020-01-11
+Nashik,Moderate,144,"PM
+2.5",1,2020-01-12
+Nashik,Moderate,107,"PM
+2.5",1,2020-01-13
+Nashik,Satisfactory,68,"PM
+10",1,2020-01-14
+Nashik,Satisfactory,62,"PM
+10",1,2020-01-15
+Nashik,Satisfactory,59,"PM
+10",1,2020-01-16
+Nashik,Satisfactory,60,"PM
+2.5",1,2020-01-17
+Nashik,Moderate,118,"PM
+2.5",1,2020-01-18
+Nashik,Moderate,159,"PM
+2.5",1,2020-01-19
+Nashik,Moderate,142,"PM
+2.5",1,2020-01-20
+Nashik,Moderate,125,"PM
+2.5",1,2020-01-21
+Nashik,Satisfactory,98,"PM
+2.5",1,2020-01-22
+Nashik,Moderate,125,"PM
+2.5",1,2020-01-23
+Nashik,Moderate,148,"PM
+2.5",1,2020-01-24
+Nashik,Moderate,101,"PM
+2.5",1,2020-01-26
+Nashik,Moderate,110,"PM
+10",1,2020-01-27
+Nashik,Moderate,127,"PM
+10",1,2020-01-28
+Nashik,Satisfactory,86,"PM
+10",1,2020-01-29
+Nashik,Satisfactory,79,"PM
+10",1,2020-01-30
+Nashik,Satisfactory,86,"PM
+10",1,2020-01-31
+Nashik,Satisfactory,81,"PM
+10",1,2020-02-01
+Nashik,Satisfactory,75,"PM
+10",1,2020-02-02
+Nashik,Moderate,135,"PM
+2.5",1,2020-02-03
+Nashik,Moderate,115,"PM
+10",1,2020-02-04
+Nashik,Satisfactory,95,"PM
+10",1,2020-02-05
+Nashik,Satisfactory,98,"PM
+10",1,2020-02-06
+Nashik,Satisfactory,98,"PM
+10",1,2020-02-07
+Nashik,Moderate,139,"PM
+2.5",1,2020-02-08
+Nashik,Satisfactory,100,"PM
+2.5",1,2020-02-09
+Nashik,Moderate,106,"PM
+2.5",1,2020-02-10
+Nashik,Satisfactory,78,"PM
+2.5",1,2020-02-11
+Nashik,Satisfactory,83,"PM
+2.5",1,2020-02-12
+Nashik,Moderate,124,"PM
+2.5",1,2020-02-13
+Nashik,Moderate,175,"O
+3",1,2020-02-15
+Nashik,Moderate,180,"O
+3",1,2020-02-16
+Nashik,Moderate,180,"O
+3",1,2020-02-17
+Nashik,Moderate,160,"PM
+2.5",1,2020-02-18
+Nashik,Moderate,165,"O
+3",1,2020-02-19
+Nashik,Moderate,152,"O
+3",1,2020-02-20
+Nashik,Moderate,116,"O
+3",1,2020-02-21
+Nashik,Poor,213,"O
+3",1,2020-02-22
+Nashik,Moderate,125,"O
+3",1,2020-02-23
+Nashik,Moderate,112,"O
+3",1,2020-02-24
+Nashik,Satisfactory,84,"PM
+10",1,2020-02-25
+Nashik,Satisfactory,82,"O
+3",1,2020-02-26
+Nashik,Satisfactory,78,"PM
+10",1,2020-02-27
+Nashik,Moderate,154,"O
+3",1,2020-02-28
+Nashik,Moderate,112,"PM
+2.5",1,2020-02-29
+Nashik,Satisfactory,74,"PM
+10",1,2020-03-01
+Nashik,Satisfactory,87,"PM
+10",1,2020-03-02
+Nashik,Moderate,124,"PM
+10",1,2020-03-03
+Nashik,Moderate,114,"PM
+10",1,2020-03-04
+Nashik,Moderate,110,"PM
+10",1,2020-03-05
+Nashik,Moderate,110,"PM
+10",1,2020-03-06
+Nashik,Satisfactory,99,"PM
+10",1,2020-03-07
+Nashik,Satisfactory,77,"PM
+10",1,2020-03-08
+Nashik,Satisfactory,85,"PM
+10",1,2020-03-09
+Nashik,Satisfactory,85,"PM
+10",1,2020-03-10
+Nashik,Satisfactory,86,"O
+3",1,2020-03-11
+Nashik,Satisfactory,89,"PM
+10",1,2020-03-12
+Nashik,Moderate,135,"O
+3",1,2020-03-13
+Nashik,Moderate,196,"O
+3",1,2020-03-14
+Nashik,Poor,201,"O
+3",1,2020-03-15
+Nashik,Poor,221,"O
+3",1,2020-03-16
+Nashik,Satisfactory,87,"O
+3",1,2020-03-17
+Nashik,Satisfactory,85,"O
+3",1,2020-03-18
+Nashik,Satisfactory,73,"O
+3",1,2020-03-19
+Nashik,Satisfactory,64,"PM
+10",1,2020-03-20
+Nashik,Satisfactory,52,"O
+3",1,2020-03-22
+Nashik,Satisfactory,77,"O
+3",1,2020-03-23
+Nashik,Satisfactory,80,"O
+3",1,2020-03-24
+Nashik,Satisfactory,67,"O
+3",1,2020-03-25
+Nashik,Satisfactory,67,"O
+3",1,2020-03-27
+Nashik,Satisfactory,73,"O
+3",1,2020-03-28
+Nashik,Satisfactory,88,"O
+3",1,2020-03-29
+Nashik,Satisfactory,80,"O
+3",1,2020-03-30
+Nashik,Satisfactory,67,"O
+3",1,2020-04-01
+Nashik,Satisfactory,69,"O
+3",1,2020-04-02
+Nashik,Satisfactory,75,"O
+3",1,2020-04-03
+Nashik,Satisfactory,87,"O
+3",1,2020-04-04
+Nashik,Satisfactory,98,"O
+3",1,2020-04-05
+Nashik,Satisfactory,93,"O
+3",1,2020-04-06
+Nashik,Satisfactory,74,"O
+3",1,2020-04-07
+Nashik,Satisfactory,66,"PM
+10",1,2020-04-08
+Nashik,Satisfactory,68,"O
+3",1,2020-04-09
+Nashik,Satisfactory,87,"O
+3",1,2020-04-10
+Nashik,Satisfactory,91,"O
+3",1,2020-04-11
+Nashik,Satisfactory,91,"O
+3",1,2020-04-12
+Nashik,Satisfactory,84,"O
+3",1,2020-04-13
+Nashik,Satisfactory,89,"O
+3",1,2020-04-14
+Nashik,Satisfactory,86,"O
+3",1,2020-04-15
+Nashik,Satisfactory,85,"O
+3",1,2020-04-16
+Nashik,Satisfactory,70,"O
+3",1,2020-04-18
+Nashik,Satisfactory,68,"O
+3",1,2020-04-19
+Nashik,Satisfactory,82,"O
+3",1,2020-04-20
+Nashik,Satisfactory,56,"O
+3",1,2020-04-21
+Nashik,Satisfactory,60,"O
+3",1,2020-04-22
+Nashik,Satisfactory,63,"O
+3",1,2020-04-23
+Nashik,Good,49,"O
+3",1,2020-04-24
+Nashik,Satisfactory,57,"O
+3",1,2020-04-25
+Nashik,Satisfactory,61,"O
+3",1,2020-04-26
+Nashik,Satisfactory,57,"O
+3",1,2020-04-27
+Nashik,Satisfactory,77,"O
+3",1,2020-04-28
+Nashik,Satisfactory,88,"O
+3",1,2020-04-29
+Nashik,Satisfactory,74,"O
+3",1,2020-04-30
+Nashik,Satisfactory,70,"O
+3",1,2020-05-01
+Nashik,Satisfactory,73,"O
+3",1,2020-05-02
+Nashik,Satisfactory,67,"O
+3",1,2020-05-03
+Nashik,Satisfactory,51,"O
+3",1,2020-05-04
+Nashik,Satisfactory,51,"O
+3",1,2020-05-05
+Nashik,Satisfactory,82,"PM
+10",1,2020-05-06
+Nashik,Satisfactory,69,"O
+3",1,2020-05-07
+Nashik,Satisfactory,60,"O
+3",1,2020-05-08
+Nashik,Satisfactory,57,"O
+3",1,2020-05-09
+Nashik,Satisfactory,68,"O
+3",1,2020-05-10
+Nashik,Satisfactory,89,"O
+3",1,2020-05-11
+Nashik,Satisfactory,57,"O
+3",1,2020-05-12
+Nashik,Satisfactory,66,"O
+3",1,2020-05-13
+Nashik,Satisfactory,76,"O
+3",1,2020-05-14
+Nashik,Satisfactory,61,"O
+3",1,2020-05-15
+Nashik,Satisfactory,65,"O
+3",1,2020-05-16
+Nashik,Satisfactory,98,"PM
+10",1,2020-05-17
+Nashik,Satisfactory,82,"PM
+10",1,2020-05-18
+Nashik,Satisfactory,55,"PM
+10",1,2020-05-19
+Nashik,Satisfactory,55,"O
+3",1,2020-05-20
+Nashik,Satisfactory,54,"O
+3",1,2020-05-21
+Nashik,Satisfactory,56,"O
+3",1,2020-05-22
+Nashik,Satisfactory,64,"O
+3",1,2020-05-23
+Nashik,Good,42,"O
+3",1,2020-05-24
+Nashik,Satisfactory,55,"O
+3",1,2020-05-26
+Nashik,Good,39,"O
+3",1,2020-05-27
+Nashik,Good,42,"O
+3",1,2020-05-28
+Nashik,Good,39,"O
+3",1,2020-05-29
+Nashik,Good,37,"O
+3",1,2020-05-30
+Nashik,Good,30,"PM
+10",1,2020-05-31
+Nashik,Satisfactory,77,"O
+3",1,2020-06-01
+Nashik,Good,41,"O
+3",1,2020-06-06
+Nashik,Good,31,"O
+3",1,2020-06-07
+Nashik,Good,41,"O
+3",1,2020-06-08
+Nashik,Good,33,"O
+3",1,2020-06-09
+Nashik,Good,34,"O
+3",1,2020-06-10
+Nashik,Good,28,"O
+3",1,2020-06-11
+Nashik,Good,42,"O
+3",1,2020-06-12
+Nashik,Good,48,"O
+3",1,2020-06-13
+Nashik,Good,36,"O
+3",1,2020-06-14
+Nashik,Good,39,"O
+3",1,2020-06-16
+Nashik,Good,40,"O
+3",1,2020-06-17
+Nashik,Good,42,"PM
+10",1,2020-06-20
+Nashik,Good,37,"PM
+10",1,2020-06-21
+Nashik,Good,32,"PM
+10",1,2020-06-22
+Nashik,Good,47,"PM
+10",1,2020-06-23
+Nashik,Good,33,"O
+3",1,2020-06-25
+Nashik,Good,24,"PM
+10",1,2020-06-27
+Nashik,Good,29,"PM
+10",1,2020-06-28
+Nashik,Good,26,"PM
+10",1,2020-06-29
+Nashik,Good,32,"O
+3",1,2020-06-30
+Nashik,Good,23,CO,1,2020-07-01
+Nashik,Good,24,"PM
+2.5",1,2020-07-02
+Nashik,Good,24,"PM
+10",1,2020-07-03
+Nashik,Good,23,CO,1,2020-07-04
+Nashik,Good,22,CO,1,2020-07-05
+Nashik,Good,25,"PM
+10",1,2020-07-06
+Nashik,Good,32,"O
+3",1,2020-07-07
+Nashik,Good,29,CO,1,2020-07-08
+Nashik,Good,32,"PM
+10",1,2020-07-09
+Nashik,Good,30,"PM
+10",1,2020-07-10
+Nashik,Good,34,"PM
+10",1,2020-07-11
+Nashik,Good,28,"PM
+10",1,2020-07-12
+Nashik,Good,27,CO,1,2020-07-14
+Nashik,Good,23,"O
+3",1,2020-07-17
+Nashik,Good,24,"PM
+10",1,2020-07-18
+Nashik,Good,21,CO,1,2020-07-19
+Nashik,Good,31,"PM
+10",1,2020-07-20
+Nashik,Good,35,"PM
+10",1,2020-07-21
+Nashik,Good,25,CO,1,2020-07-22
+Nashik,Good,23,CO,1,2020-07-23
+Nashik,Good,36,"PM
+10",1,2020-07-24
+Nashik,Good,29,CO,1,2020-07-25
+Nashik,Good,26,CO,1,2020-07-27
+Nashik,Good,20,CO,1,2020-07-28
+Nashik,Good,19,"PM
+10",1,2020-07-29
+Nashik,Good,22,CO,1,2020-07-30
+Nashik,Good,29,"O
+3",1,2020-07-31
+Nashik,Good,27,"O
+3",1,2020-08-01
+Nashik,Good,30,"O
+3",1,2020-08-02
+Nashik,Good,26,"O
+3",1,2020-08-04
+Nashik,Good,31,CO,1,2020-08-05
+Nashik,Good,34,"O
+3",1,2020-08-06
+Nashik,Good,28,"O
+3",1,2020-08-07
+Nashik,Good,24,CO,1,2020-08-08
+Nashik,Good,29,CO,1,2020-08-12
+Nashik,Good,27,CO,1,2020-08-13
+Nashik,Good,27,CO,1,2020-08-14
+Nashik,Good,28,CO,1,2020-08-15
+Nashik,Good,25,"PM
+2.5",1,2020-08-16
+Nashik,Good,37,CO,1,2020-08-17
+Nashik,Good,27,CO,1,2020-08-18
+Nashik,Good,26,CO,1,2020-08-19
+Nashik,Good,26,CO,1,2020-08-20
+Nashik,Good,29,CO,1,2020-08-21
+Nashik,Good,25,CO,1,2020-08-24
+Nashik,Good,24,"PM
+2.5",1,2020-08-25
+Nashik,Good,32,"PM
+10",1,2020-08-26
+Nashik,Good,30,"PM
+2.5",1,2020-08-27
+Nashik,Good,30,"PM
+10",1,2020-08-28
+Nashik,Good,27,"NO
+2",1,2020-08-31
+Nashik,Good,26,"NO
+2",1,2020-09-01
+Nashik,Good,31,"PM
+10",1,2020-09-02
+Nashik,Good,41,"PM
+10",1,2020-09-03
+Nashik,Good,38,"O
+3",1,2020-09-04
+Nashik,Good,32,"O
+3",1,2020-09-05
+Nashik,Good,46,"PM
+10",1,2020-09-06
+Nashik,Good,32,"NO
+2",1,2020-09-07
+Nashik,Good,41,"PM
+2.5",1,2020-09-08
+Nashik,Good,40,"O
+3",1,2020-09-09
+Nashik,Good,32,"PM
+10",1,2020-09-10
+Nashik,Good,32,"O
+3",1,2020-09-11
+Nashik,Good,34,"O
+3",1,2020-09-12
+Nashik,Good,26,"O
+3",1,2020-09-13
+Nashik,Good,23,"PM
+10",1,2020-09-14
+Nashik,Good,24,"PM
+2.5",1,2020-09-15
+Nashik,Good,20,"PM
+10",1,2020-09-16
+Nashik,Good,23,"PM
+2.5",1,2020-09-17
+Nashik,Good,26,"PM
+2.5",1,2020-09-18
+Nashik,Good,22,CO,1,2020-09-19
+Nashik,Good,36,"PM
+2.5",1,2020-09-20
+Nashik,Good,40,"PM
+2.5",1,2020-09-21
+Nashik,Good,34,"O
+3",1,2020-09-22
+Nashik,Good,37,"O
+3",1,2020-09-23
+Nashik,Good,35,"O
+3",1,2020-09-24
+Nashik,Good,25,"O
+3",1,2020-09-25
+Nashik,Good,24,"PM
+10",1,2020-09-26
+Nashik,Good,32,"PM
+10",1,2020-09-27
+Nashik,Good,31,"O
+3",1,2020-09-28
+Nashik,Good,36,"O
+3",1,2020-09-29
+Nashik,Good,46,"O
+3",1,2020-09-30
+Nashik,Good,48,"O
+3",1,2020-10-01
+Nashik,Good,50,"O
+3",1,2020-10-02
+Nashik,Satisfactory,51,"O
+3",1,2020-10-03
+Nashik,Good,47,"O
+3",1,2020-10-04
+Nashik,Good,44,"O
+3",1,2020-10-05
+Nashik,Satisfactory,54,"O
+3",1,2020-10-06
+Nashik,Satisfactory,64,"O
+3",1,2020-10-07
+Nashik,Satisfactory,69,"O
+3",1,2020-10-08
+Nashik,Satisfactory,82,"O
+3",1,2020-10-09
+Nashik,Satisfactory,83,"O
+3",1,2020-10-10
+Nashik,Satisfactory,78,"O
+3",1,2020-10-11
+Nashik,Satisfactory,89,"O
+3",1,2020-10-12
+Nashik,Satisfactory,70,"PM
+2.5",1,2020-10-13
+Nashik,Satisfactory,66,"PM
+2.5",1,2020-10-14
+Nashik,Good,39,"PM
+2.5",1,2020-10-15
+Nashik,Good,49,"O
+3",1,2020-10-17
+Nashik,Good,42,"O
+3",1,2020-10-18
+Nashik,Satisfactory,66,"O
+3",1,2020-10-20
+Nashik,Good,44,"PM
+2.5",1,2020-10-21
+Nashik,Satisfactory,65,"O
+3",1,2020-10-23
+Nashik,Satisfactory,75,"PM
+2.5",1,2020-10-24
+Nashik,Satisfactory,68,"O
+3",1,2020-10-25
+Nashik,Satisfactory,75,"O
+3",1,2020-10-26
+Nashik,Satisfactory,73,"O
+3",1,2020-10-27
+Nashik,Satisfactory,65,"O
+3",1,2020-10-28
+Nashik,Satisfactory,67,"O
+3",1,2020-10-29
+Nashik,Satisfactory,71,"O
+3",1,2020-10-30
+Nashik,Satisfactory,73,"O
+3",1,2020-10-31
+Nashik,Satisfactory,60,"PM
+2.5",1,2020-11-01
+Nashik,Moderate,106,"O
+3",1,2020-11-05
+Nashik,Satisfactory,95,"PM
+2.5",1,2020-11-06
+Nashik,Satisfactory,100,"O
+3",1,2020-11-08
+Nashik,Moderate,129,"PM
+2.5",1,2020-11-09
+Nashik,Moderate,107,"PM
+2.5",1,2020-11-10
+Nashik,Moderate,132,"PM
+2.5",1,2020-11-11
+Nashik,Moderate,190,"PM
+2.5",1,2020-11-12
+Nashik,Satisfactory,94,"PM
+2.5",1,2020-11-13
+Nashik,Satisfactory,81,"PM
+10",1,2020-11-14
+Nashik,Moderate,131,"PM
+2.5",1,2020-11-15
+Nashik,Moderate,117,"PM
+2.5",1,2020-11-16
+Nashik,Satisfactory,83,"PM
+2.5",1,2020-11-18
+Nashik,Satisfactory,89,"PM
+2.5",1,2020-11-19
+Nashik,Satisfactory,61,"PM
+2.5",1,2020-11-20
+Nashik,Satisfactory,73,"O
+3",1,2020-11-21
+Nashik,Satisfactory,92,"PM
+2.5",1,2020-11-22
+Nashik,Satisfactory,83,"PM
+2.5",1,2020-11-23
+Nashik,Satisfactory,73,"PM
+2.5",1,2020-11-24
+Nashik,Moderate,145,"PM
+2.5",1,2020-11-25
+Nashik,Moderate,121,"PM
+2.5",1,2020-11-26
+Nashik,Satisfactory,100,"PM
+2.5",1,2020-11-27
+Nashik,Satisfactory,89,"PM
+2.5",1,2020-11-28
+Nashik,Satisfactory,67,"O
+3",1,2020-11-29
+Nashik,Satisfactory,74,"PM
+2.5",1,2020-11-30
+Nashik,Satisfactory,92,"PM
+2.5",1,2020-12-01
+Nashik,Satisfactory,97,"PM
+2.5",1,2020-12-02
+Nashik,Moderate,102,"PM
+2.5",1,2020-12-03
+Nashik,Moderate,127,"PM
+2.5",1,2020-12-04
+Nashik,Moderate,130,"PM
+2.5",1,2020-12-05
+Nashik,Moderate,129,"PM
+2.5",1,2020-12-06
+Nashik,Moderate,135,"PM
+2.5",1,2020-12-07
+Nashik,Moderate,144,"PM
+2.5",1,2020-12-08
+Nashik,Satisfactory,98,"PM
+2.5",1,2020-12-09
+Nashik,Moderate,110,"PM
+2.5",1,2020-12-10
+Nashik,Moderate,136,"PM
+2.5",1,2020-12-11
+Nashik,Satisfactory,83,"PM
+2.5",1,2020-12-12
+Nashik,Satisfactory,69,"PM
+2.5",1,2020-12-13
+Nashik,Satisfactory,68,"PM
+2.5",1,2020-12-14
+Nashik,Satisfactory,88,"PM
+2.5",1,2020-12-15
+Nashik,Satisfactory,76,"O
+3",1,2020-12-16
+Nashik,Satisfactory,91,"PM
+2.5",1,2020-12-17
+Nashik,Moderate,124,"PM
+2.5",1,2020-12-18
+Nashik,Moderate,112,"PM
+2.5",1,2020-12-19
+Nashik,Moderate,107,"PM
+2.5",1,2020-12-20
+Nashik,Satisfactory,90,"PM
+2.5",1,2020-12-21
+Nashik,Moderate,125,"PM
+2.5",1,2020-12-22
+Nashik,Moderate,153,"PM
+2.5",1,2020-12-23
+Nashik,Moderate,126,"PM
+2.5",1,2020-12-24
+Nashik,Moderate,137,"PM
+2.5",1,2020-12-25
+Nashik,Moderate,147,"PM
+2.5",1,2020-12-26
+Nashik,Moderate,110,"PM
+2.5",1,2020-12-27
+Nashik,Satisfactory,80,"O
+3",1,2020-12-28
+Nashik,Satisfactory,80,"PM
+10",1,2020-12-29
+Nashik,Moderate,107,"PM
+2.5",1,2020-12-30
+Nashik,Moderate,124,"PM
+2.5",1,2020-12-31
+Nashik,Moderate,163,"PM
+2.5",1,2021-01-02
+Nashik,Poor,242,"PM
+2.5",1,2021-01-03
+Nashik,Poor,202,"PM
+2.5",1,2021-01-04
+Nashik,Moderate,152,"PM
+2.5",1,2021-01-06
+Nashik,Moderate,165,"PM
+2.5",1,2021-01-07
+Nashik,Good,47,"NO
+2",1,2021-01-08
+Nashik,Satisfactory,52,"PM
+2.5",1,2021-01-09
+Nashik,Moderate,105,"PM
+2.5",1,2021-01-10
+Nashik,Satisfactory,86,"PM
+2.5",1,2021-01-11
+Nashik,Moderate,111,"PM
+2.5",1,2021-01-12
+Nashik,Satisfactory,95,"PM
+2.5",1,2021-01-13
+Nashik,Satisfactory,63,"O
+3",1,2021-01-14
+Nashik,Satisfactory,67,"PM
+2.5",1,2021-01-15
+Nashik,Satisfactory,92,"PM
+2.5",1,2021-01-16
+Nashik,Moderate,133,"PM
+2.5",1,2021-01-17
+Nashik,Satisfactory,98,"PM
+2.5",1,2021-01-18
+Nashik,Satisfactory,58,"PM
+2.5",1,2021-01-19
+Nashik,Satisfactory,58,"PM
+2.5",1,2021-01-20
+Nashik,Satisfactory,70,"PM
+2.5",1,2021-01-21
+Nashik,Moderate,110,"O
+3",1,2021-01-22
+Nashik,Moderate,142,"PM
+2.5",1,2021-01-23
+Nashik,Moderate,110,"PM
+2.5",1,2021-01-24
+Nashik,Satisfactory,95,"PM
+2.5",1,2021-01-25
+Nashik,Moderate,109,"PM
+2.5",1,2021-01-26
+Nashik,Moderate,109,"PM
+2.5",1,2021-01-27
+Nashik,Moderate,123,"PM
+2.5",1,2021-01-28
+Nashik,Moderate,118,"PM
+2.5",1,2021-01-29
+Nashik,Moderate,140,"PM
+2.5",1,2021-01-30
+Nashik,Moderate,101,"PM
+2.5",1,2021-01-31
+Nashik,Moderate,150,"PM
+2.5",1,2021-02-01
+Nashik,Moderate,136,"PM
+2.5",1,2021-02-02
+Nashik,Satisfactory,96,"PM
+2.5",1,2021-02-03
+Nashik,Satisfactory,85,"PM
+10",1,2021-02-04
+Nashik,Moderate,109,"PM
+2.5",1,2021-02-05
+Nashik,Satisfactory,72,"PM
+10",1,2021-02-06
+Nashik,Satisfactory,79,"PM
+10",1,2021-02-07
+Nashik,Satisfactory,95,"PM
+2.5",1,2021-02-08
+Nashik,Moderate,125,"PM
+2.5",1,2021-02-09
+Nashik,Satisfactory,89,"PM
+10",1,2021-02-10
+Nashik,Satisfactory,93,"PM
+2.5",1,2021-02-11
+Nashik,Moderate,130,"PM
+2.5",1,2021-02-12
+Nashik,Moderate,108,"PM
+10",1,2021-02-13
+Nashik,Satisfactory,100,"PM
+2.5",1,2021-02-14
+Nashik,Moderate,130,"PM
+2.5",1,2021-02-15
+Nashik,Satisfactory,95,"PM
+10",1,2021-02-16
+Nashik,Satisfactory,95,"PM
+2.5",1,2021-02-17
+Nashik,Moderate,105,"PM
+2.5",1,2021-02-18
+Nashik,Satisfactory,60,"PM
+2.5",1,2021-02-19
+Nashik,Moderate,155,"NO
+2",1,2021-02-20
+Nashik,Satisfactory,75,"PM
+2.5",1,2021-02-21
+Nashik,Moderate,145,"PM
+2.5",1,2021-02-22
+Nashik,Moderate,107,"PM
+2.5",1,2021-02-23
+Nashik,Moderate,103,"PM
+2.5",1,2021-02-24
+Nashik,Moderate,109,"PM
+2.5",1,2021-02-25
+Nashik,Satisfactory,79,"PM
+2.5",1,2021-02-26
+Nashik,Satisfactory,70,"PM
+10",1,2021-02-27
+Nashik,Satisfactory,79,"PM
+2.5",1,2021-02-28
+Nashik,Satisfactory,72,"PM
+2.5",1,2021-03-01
+Nashik,Satisfactory,69,"PM
+10",1,2021-03-02
+Nashik,Satisfactory,73,"PM
+2.5",1,2021-03-03
+Nashik,Satisfactory,82,"PM
+10",1,2021-03-04
+Nashik,Satisfactory,97,"PM
+2.5",1,2021-03-05
+Nashik,Satisfactory,96,"PM
+2.5",1,2021-03-06
+Nashik,Satisfactory,87,"PM
+2.5",1,2021-03-07
+Nashik,Satisfactory,66,"PM
+2.5",1,2021-03-08
+Nashik,Satisfactory,64,"PM
+10",1,2021-03-09
+Nashik,Satisfactory,73,"PM
+2.5",1,2021-03-10
+Nashik,Satisfactory,93,"PM
+2.5",1,2021-03-11
+Nashik,Moderate,118,"PM
+10",1,2021-03-12
+Nashik,Satisfactory,91,"PM
+2.5",1,2021-03-13
+Nashik,Satisfactory,98,"PM
+2.5",1,2021-03-14
+Nashik,Moderate,124,"PM
+2.5",1,2021-03-15
+Nashik,Moderate,132,"PM
+2.5",1,2021-03-16
+Nashik,Moderate,105,"PM
+10",1,2021-03-17
+Nashik,Moderate,123,"PM
+2.5",1,2021-03-18
+Nashik,Satisfactory,98,"PM
+10",1,2021-03-19
+Nashik,Satisfactory,91,"PM
+10",1,2021-03-20
+Nashik,Satisfactory,94,"PM
+2.5",1,2021-03-21
+Nashik,Moderate,102,"PM
+2.5",1,2021-03-22
+Nashik,Satisfactory,98,"PM
+2.5",1,2021-03-23
+Nashik,Satisfactory,90,"PM
+2.5",1,2021-03-24
+Nashik,Satisfactory,85,"PM
+10",1,2021-03-25
+Nashik,Satisfactory,78,"PM
+10",1,2021-03-26
+Nashik,Moderate,113,"PM
+10",1,2021-03-27
+Nashik,Satisfactory,86,"PM
+10",1,2021-03-28
+Nashik,Moderate,162,"PM
+2.5",1,2021-03-29
+Nashik,Satisfactory,75,"PM
+2.5",1,2021-03-30
+Nashik,Satisfactory,64,"PM
+10",1,2021-03-31
+Nashik,Moderate,111,"PM
+10",1,2021-04-01
+Nashik,Moderate,106,"PM
+10",1,2021-04-02
+Nashik,Moderate,108,"PM
+10",1,2021-04-03
+Nashik,Satisfactory,84,"PM
+10",1,2021-04-04
+Nashik,Satisfactory,67,"PM
+10",1,2021-04-05
+Nashik,Satisfactory,62,"PM
+10",1,2021-04-06
+Nashik,Satisfactory,75,"PM
+2.5",1,2021-04-07
+Nashik,Satisfactory,84,"PM
+10",1,2021-04-08
+Nashik,Satisfactory,91,"PM
+2.5",1,2021-04-15
+Nashik,Satisfactory,80,"PM
+2.5",1,2021-04-18
+Nashik,Satisfactory,78,"PM
+2.5",1,2021-04-19
+Nashik,Satisfactory,69,"PM
+2.5",1,2021-04-20
+Nashik,Satisfactory,58,"PM
+2.5",1,2021-04-21
+Nashik,Satisfactory,76,"PM
+10",1,2021-04-22
+Nashik,Satisfactory,66,"PM
+10",1,2021-04-23
+Nashik,Satisfactory,55,"PM
+2.5",1,2021-04-24
+Nashik,Satisfactory,78,"PM
+10",1,2021-04-25
+Nashik,Satisfactory,82,"O
+3",1,2021-04-26
+Nashik,Satisfactory,99,"PM
+10",1,2021-04-27
+Nashik,Moderate,164,"PM
+2.5",1,2021-05-02
+Nashik,Satisfactory,100,"O
+3",1,2021-05-03
+Nashik,Satisfactory,64,"O
+3",1,2021-05-04
+Nashik,Satisfactory,74,"PM
+2.5",1,2021-05-05
+Nashik,Satisfactory,77,"PM
+2.5",1,2021-05-06
+Nashik,Satisfactory,60,"PM
+2.5",1,2021-05-07
+Nashik,Satisfactory,55,"O
+3",1,2021-05-08
+Nashik,Satisfactory,75,"PM
+2.5",1,2021-05-09
+Nashik,Satisfactory,51,"PM
+2.5",1,2021-05-10
+Nashik,Good,42,"PM
+10",1,2021-05-11
+Nashik,Good,37,"PM
+2.5",1,2021-05-12
+Nashik,Good,42,"O
+3",1,2021-05-13
+Nashik,Satisfactory,62,"O
+3",1,2021-05-14
+Nashik,Satisfactory,59,"O
+3",1,2021-05-15
+Nashik,Good,32,"PM
+2.5",1,2021-05-18
+Nashik,Satisfactory,62,"PM
+2.5",1,2021-05-19
+Nashik,Satisfactory,85,"PM
+10",1,2021-05-21
+Nashik,Satisfactory,62,"PM
+10",1,2021-05-22
+Nashik,Good,48,"O
+3",1,2021-05-30
+Nashik,Good,44,"PM
+2.5",1,2021-06-01
+Nashik,Good,46,"O
+3",1,2021-06-02
+Nashik,Satisfactory,76,"O
+3",1,2021-06-03
+Nashik,Good,31,"O
+3",1,2021-06-05
+Nashik,Good,27,"O
+3",1,2021-06-06
+Nashik,Good,26,"PM
+2.5",1,2021-06-07
+Nashik,Good,28,"PM
+10",1,2021-06-08
+Nashik,Good,23,"PM
+10",1,2021-06-09
+Nashik,Good,25,CO,1,2021-06-10
+Nashik,Good,35,"PM
+2.5",1,2021-06-14
+Nashik,Good,44,"PM
+10",1,2021-06-15
+Nashik,Good,45,"PM
+2.5",1,2021-06-16
+Nashik,Good,40,"PM
+2.5",1,2021-06-17
+Nashik,Satisfactory,66,"NO
+2",1,2021-06-19
+Nashik,Satisfactory,66,"PM
+10",1,2021-06-20
+Nashik,Moderate,106,"PM
+2.5",1,2021-06-21
+Nashik,Moderate,106,"PM
+2.5",1,2021-06-22
+Nashik,Satisfactory,89,"PM
+2.5",1,2021-06-23
+Nashik,Good,50,"NO
+2",1,2021-06-24
+Nashik,Satisfactory,52,"NO
+2",1,2021-06-25
+Nashik,Good,42,"NO
+2",1,2021-06-26
+Nashik,Good,37,"NO
+2",1,2021-06-27
+Nashik,Good,39,"NO
+2",1,2021-06-28
+Nashik,Good,34,"NO
+2",1,2021-06-30
+Nashik,Good,37,"NO
+2",1,2021-07-01
+Nashik,Good,33,"NO
+2",1,2021-07-03
+Nashik,Good,33,"PM
+10",1,2021-07-04
+Nashik,Good,48,"PM
+2.5",1,2021-07-06
+Nashik,Good,48,"PM
+10",1,2021-07-07
+Nashik,Good,42,"PM
+10",1,2021-07-08
+Nashik,Good,34,"PM
+10",1,2021-07-09
+Nashik,Good,30,"NO
+2",1,2021-07-10
+Nashik,Good,30,"NO
+2",1,2021-07-11
+Nashik,Good,34,"NO
+2",1,2021-07-13
+Nashik,Good,29,"NO
+2",1,2021-07-14
+Nashik,Good,30,"NO
+2",1,2021-07-15
+Nashik,Good,28,"O
+3",1,2021-07-17
+Nashik,Good,23,"NO
+2",1,2021-07-18
+Nashik,Good,24,"NO
+2",1,2021-07-19
+Nashik,Good,37,"PM
+2.5",1,2021-07-20
+Nashik,Good,27,"PM
+10",1,2021-07-21
+Nashik,Good,28,"PM
+2.5",1,2021-07-22
+Nashik,Good,41,"PM
+10",1,2021-07-23
+Nashik,Good,40,"PM
+10",1,2021-07-24
+Nashik,Good,34,"PM
+2.5",1,2021-07-25
+Nashik,Good,30,"PM
+2.5",1,2021-07-26
+Nashik,Good,35,"PM
+2.5",1,2021-07-27
+Nashik,Good,35,"PM
+2.5",1,2021-07-28
+Nashik,Good,50,"PM
+2.5",1,2021-07-29
+Nashik,Good,35,"PM
+10",1,2021-07-30
+Nashik,Good,34,"PM
+2.5",1,2021-07-31
+Nashik,Good,27,"PM
+10",1,2021-08-02
+Nashik,Good,42,"PM
+2.5",1,2021-08-04
+Nashik,Good,29,"PM
+10",1,2021-08-05
+Nashik,Good,41,"PM
+10",1,2021-08-06
+Nashik,Good,44,"PM
+10",1,2021-08-07
+Nashik,Good,44,"PM
+2.5",1,2021-08-08
+Nashik,Good,42,"PM
+10",1,2021-08-09
+Nashik,Good,43,"PM
+2.5",1,2021-08-10
+Nashik,Good,37,"PM
+10",1,2021-08-11
+Nashik,Good,33,"PM
+2.5",1,2021-08-12
+Nashik,Good,38,"PM
+10",1,2021-08-13
+Nashik,Good,33,"PM
+10",1,2021-08-14
+Nashik,Good,28,"PM
+10",1,2021-08-15
+Nashik,Good,28,"PM
+2.5",1,2021-08-16
+Nashik,Good,33,"PM
+10",1,2021-08-17
+Nashik,Good,27,"PM
+2.5",1,2021-08-18
+Nashik,Good,28,"PM
+2.5",1,2021-08-19
+Nashik,Good,27,"NO
+2",1,2021-08-21
+Nashik,Good,31,"NO
+2",1,2021-08-22
+Nashik,Good,36,"PM
+10",1,2021-08-23
+Nashik,Good,31,"PM
+10",1,2021-08-24
+Nashik,Good,30,"PM
+2.5",1,2021-08-25
+Nashik,Good,25,"PM
+10",1,2021-08-26
+Nashik,Good,33,"PM
+10",1,2021-08-27
+Nashik,Good,39,"PM
+10",1,2021-08-28
+Nashik,Good,49,"PM
+10",1,2021-08-29
+Nashik,Good,49,"PM
+10",1,2021-08-30
+Nashik,Good,39,"PM
+2.5",1,2021-08-31
+Nashik,Good,27,"NO
+2",1,2021-09-01
+Nashik,Good,26,"PM
+2.5",1,2021-09-02
+Nashik,Good,22,"NO
+2",1,2021-09-09
+Nashik,Good,23,"PM
+10",1,2021-09-10
+Nashik,Good,22,CO,1,2021-09-11
+Nashik,Good,25,CO,1,2021-09-12
+Nashik,Good,33,CO,1,2021-09-13
+Nashik,Good,28,CO,1,2021-09-14
+Nashik,Satisfactory,55,"PM
+10",1,2021-09-16
+Nashik,Satisfactory,55,"PM
+10",1,2021-09-17
+Nashik,Good,42,"PM
+10",1,2021-09-18
+Nashik,Good,32,"PM
+10",1,2021-09-19
+Nashik,Good,22,"PM
+10",1,2021-09-20
+Nashik,Good,23,"PM
+2.5",1,2021-09-21
+Nashik,Moderate,138,"PM
+10",1,2021-09-22
+Nashik,Good,27,"PM
+10",1,2021-09-23
+Nashik,Good,38,"PM
+10",1,2021-09-24
+Nashik,Good,36,"PM
+10",1,2021-09-25
+Nashik,Good,31,"PM
+10",1,2021-09-26
+Nashik,Good,28,"PM
+10",1,2021-09-27
+Nashik,Good,21,"PM
+2.5",1,2021-09-28
+Nashik,Good,23,"NO
+2",1,2021-09-29
+Nashik,Good,31,CO,1,2021-09-30
+Nashik,Good,33,"PM
+10",1,2021-10-01
+Nashik,Good,38,"PM
+2.5",1,2021-10-02
+Nashik,Good,48,"PM
+10",1,2021-10-03
+Nashik,Satisfactory,57,"O
+3",1,2021-10-04
+Nashik,Satisfactory,52,"PM
+2.5",1,2021-10-05
+Nashik,Good,47,"PM
+2.5",1,2021-10-06
+Nashik,Satisfactory,51,"PM
+2.5",1,2021-10-07
+Nashik,Satisfactory,60,"PM
+2.5",1,2021-10-08
+Nashik,Good,45,"PM
+2.5",1,2021-10-09
+Nashik,Good,32,"PM
+2.5",1,2021-10-10
+Nashik,Satisfactory,53,"PM
+2.5",1,2021-10-11
+Nashik,Satisfactory,67,"PM
+2.5",1,2021-10-12
+Nashik,Satisfactory,55,"PM
+2.5",1,2021-10-13
+Nashik,Satisfactory,91,"PM
+2.5",1,2021-10-14
+Nashik,Satisfactory,89,"PM
+2.5",1,2021-10-15
+Nashik,Satisfactory,81,"O
+3",1,2021-10-16
+Nashik,Satisfactory,72,"PM
+10",1,2021-10-17
+Nashik,Satisfactory,71,"O
+3",1,2021-10-18
+Nashik,Satisfactory,61,"PM
+10",1,2021-10-19
+Nashik,Satisfactory,77,"O
+3",1,2021-10-20
+Nashik,Satisfactory,68,"O
+3",1,2021-10-21
+Nashik,Satisfactory,67,"O
+3",1,2021-10-22
+Nashik,Satisfactory,62,"PM
+10",1,2021-10-23
+Nashik,Satisfactory,56,"PM
+10",1,2021-10-24
+Nashik,Satisfactory,52,"O
+3",1,2021-10-25
+Nashik,Satisfactory,63,"PM
+10",1,2021-10-26
+Nashik,Satisfactory,75,"PM
+2.5",1,2021-10-27
+Nashik,Satisfactory,83,"PM
+2.5",1,2021-10-28
+Nashik,Satisfactory,89,"PM
+10",1,2021-10-29
+Nashik,Satisfactory,88,"PM
+10",1,2021-10-30
+Nashik,Satisfactory,99,"PM
+2.5",1,2021-10-31
+Nashik,Moderate,143,"PM
+2.5",1,2021-11-01
+Nashik,Moderate,101,"PM
+2.5",1,2021-11-02
+Nashik,Satisfactory,100,"PM
+2.5",1,2021-11-03
+Nashik,Moderate,120,"PM
+2.5",1,2021-11-04
+Nashik,Poor,206,"PM
+2.5",1,2021-11-05
+Nashik,Satisfactory,76,"PM
+2.5",1,2021-11-06
+Nashik,Moderate,124,"PM
+2.5",1,2021-11-07
+Nashik,Moderate,140,"PM
+2.5",1,2021-11-08
+Nashik,Moderate,135,"PM
+2.5",1,2021-11-09
+Nashik,Moderate,118,"PM
+2.5",1,2021-11-10
+Nashik,Moderate,125,"PM
+2.5",1,2021-11-11
+Nashik,Moderate,154,"O
+3",1,2021-11-12
+Nashik,Moderate,165,"PM
+2.5",1,2021-11-13
+Nashik,Moderate,149,"PM
+2.5",1,2021-11-14
+Nashik,Moderate,127,"PM
+2.5",1,2021-11-15
+Nashik,Moderate,118,"PM
+2.5",1,2021-11-16
+Nashik,Moderate,122,"PM
+2.5",1,2021-11-17
+Nashik,Satisfactory,53,"PM
+2.5",1,2021-11-18
+Nashik,Good,43,"PM
+2.5",1,2021-11-19
+Nashik,Satisfactory,97,"PM
+2.5",1,2021-11-20
+Nashik,Satisfactory,60,"PM
+2.5",1,2021-11-21
+Nashik,Good,32,"O
+3",1,2021-11-22
+Nashik,Good,44,"O
+3",1,2021-11-23
+Nashik,Satisfactory,67,"PM
+2.5",1,2021-11-24
+Nashik,Satisfactory,67,"PM
+2.5",1,2021-11-25
+Nashik,Satisfactory,91,"PM
+2.5",1,2021-11-26
+Nashik,Moderate,106,"PM
+2.5",1,2021-11-27
+Nashik,Moderate,116,"PM
+2.5",1,2021-11-28
+Nashik,Satisfactory,97,"PM
+2.5",1,2021-11-29
+Nashik,Moderate,143,"PM
+2.5",1,2021-11-30
+Nashik,Moderate,112,"PM
+2.5",1,2021-12-01
+Nashik,Moderate,104,"PM
+2.5",1,2021-12-03
+Nashik,Moderate,125,"PM
+2.5",1,2021-12-04
+Nashik,Satisfactory,79,"PM
+2.5",1,2021-12-05
+Nashik,Satisfactory,76,"PM
+2.5",1,2021-12-06
+Nashik,Poor,240,"PM
+2.5",1,2021-12-07
+Nashik,Poor,258,"PM
+2.5",1,2021-12-08
+Nashik,Poor,253,"PM
+2.5",1,2021-12-09
+Nashik,Moderate,145,"PM
+2.5",1,2021-12-10
+Nashik,Moderate,159,"PM
+2.5",1,2021-12-11
+Nashik,Moderate,160,"PM
+2.5",1,2021-12-12
+Nashik,Moderate,155,"PM
+2.5",1,2021-12-13
+Nashik,Satisfactory,98,"PM
+2.5",1,2021-12-14
+Nashik,Moderate,128,"PM
+2.5",1,2021-12-15
+Nashik,Moderate,106,"PM
+2.5",1,2021-12-16
+Nashik,Moderate,110,"PM
+2.5",1,2021-12-17
+Nashik,Moderate,147,"PM
+2.5",1,2021-12-18
+Nashik,Moderate,145,"PM
+2.5",1,2021-12-19
+Nashik,Moderate,158,"PM
+2.5",1,2021-12-20
+Nashik,Moderate,174,"PM
+2.5",1,2021-12-21
+Nashik,Moderate,137,"PM
+2.5",1,2021-12-22
+Nashik,Moderate,125,"PM
+2.5",1,2021-12-23
+Nashik,Moderate,118,"PM
+2.5",1,2021-12-24
+Nashik,Satisfactory,88,"PM
+2.5",1,2021-12-25
+Nashik,Satisfactory,74,"PM
+2.5",1,2021-12-26
+Nashik,Satisfactory,97,"PM
+2.5",1,2021-12-27
+Nashik,Satisfactory,100,"PM
+2.5",1,2021-12-28
+Nashik,Satisfactory,80,"PM
+2.5",1,2021-12-29
+Nashik,Moderate,115,"PM
+2.5",1,2021-12-30
+Nashik,Moderate,142,"PM
+2.5",1,2021-12-31
+Nashik,Moderate,117,"PM
+2.5",1,2022-01-01
+Nashik,Moderate,145,"PM
+2.5",1,2022-01-02
+Nashik,Moderate,130,"PM
+2.5",1,2022-01-04
+Nashik,Satisfactory,97,"PM
+10",1,2022-01-05
+Nashik,Moderate,103,"PM
+2.5",1,2022-01-07
+Nashik,Satisfactory,82,"PM
+10",1,2022-01-08
+Nashik,Good,45,"O
+3",1,2022-01-09
+Nashik,Good,45,"O
+3",1,2022-01-10
+Nashik,Satisfactory,72,"PM
+10",1,2022-01-11
+Nashik,Satisfactory,56,"PM
+2.5",1,2022-01-12
+Nashik,Satisfactory,85,"PM
+2.5",1,2022-01-13
+Nashik,Moderate,120,"PM
+2.5",1,2022-01-14
+Nashik,Satisfactory,91,"PM
+2.5",1,2022-01-15
+Nashik,Moderate,113,"PM
+2.5",1,2022-01-16
+Nashik,Moderate,113,"PM
+2.5",1,2022-01-17
+Nashik,Satisfactory,64,"PM
+10",1,2022-01-19
+Nashik,Satisfactory,71,"PM
+10",1,2022-01-20
+Nashik,Satisfactory,60,"PM
+10",1,2022-01-21
+Nashik,Good,50,"PM
+10",1,2022-01-22
+Nashik,Poor,243,"PM
+10",1,2022-01-23
+Nashik,Poor,293,"PM
+10",1,2022-01-24
+Nashik,Moderate,143,"PM
+10",1,2022-01-25
+Nashik,Moderate,138,"PM
+10",1,2022-01-26
+Nashik,Satisfactory,82,"PM
+10",1,2022-01-27
+Nashik,Satisfactory,78,"PM
+10",1,2022-01-28
+Nashik,Moderate,127,"PM
+2.5",1,2022-01-29
+Nashik,Satisfactory,80,"PM
+2.5",1,2022-02-03
+Nashik,Satisfactory,88,"PM
+10",1,2022-02-04
+Nashik,Moderate,119,"PM
+10",1,2022-02-05
+Nashik,Satisfactory,75,"PM
+10",1,2022-02-12
+Nashik,Satisfactory,70,"PM
+10",1,2022-02-13
+Nashik,Satisfactory,74,"PM
+10",1,2022-02-14
+Nashik,Satisfactory,60,"PM
+2.5",1,2022-02-15
+Nashik,Satisfactory,61,"PM
+10",1,2022-02-16
+Nashik,Satisfactory,56,"PM
+10",1,2022-02-17
+Nashik,Satisfactory,67,"PM
+10",1,2022-02-18
+Nashik,Satisfactory,56,"PM
+10",1,2022-02-19
+Nashik,Satisfactory,57,"PM
+2.5",1,2022-02-20
+Nashik,Satisfactory,52,"PM
+10",1,2022-02-21
+Nashik,Satisfactory,75,"PM
+10",1,2022-02-22
+Nashik,Satisfactory,64,"PM
+10",1,2022-02-23
+Nashik,Satisfactory,69,"PM
+10",1,2022-02-24
+Nashik,Satisfactory,66,"PM
+10",1,2022-02-25
+Nashik,Satisfactory,71,"PM
+10",1,2022-02-26
+Nashik,Satisfactory,78,"PM
+10",1,2022-02-27
+Nashik,Satisfactory,64,"PM
+10",1,2022-02-28
+Nashik,Satisfactory,81,"PM
+2.5",1,2022-03-01
+Nashik,Satisfactory,72,"PM
+10",1,2022-03-02
+Nashik,Satisfactory,76,"PM
+10",1,2022-03-03
+Nashik,Satisfactory,58,"PM
+10",1,2022-03-04
+Nashik,Satisfactory,68,"PM
+10",1,2022-03-05
+Nashik,Satisfactory,73,"PM
+10",1,2022-03-06
+Nashik,Satisfactory,82,"PM
+2.5",1,2022-03-07
+Nashik,Satisfactory,61,"PM
+2.5",1,2022-03-08
+Nashik,Moderate,170,"PM
+10",1,2022-03-09
+Nashik,Satisfactory,66,"PM
+10",1,2022-03-11
+Nashik,Good,47,"PM
+2.5",1,2022-03-12
+Nashik,Satisfactory,88,"PM
+10",1,2022-03-13
+Nashik,Satisfactory,75,"PM
+10",1,2022-03-14
+Nashik,Satisfactory,78,"PM
+10",1,2022-03-15
+Nashik,Satisfactory,78,"PM
+10",1,2022-03-16
+Nashik,Satisfactory,79,"PM
+10",1,2022-03-17
+Nashik,Moderate,130,"PM
+2.5",1,2022-03-18
+Nashik,Satisfactory,59,"PM
+10",1,2022-03-19
+Nashik,Satisfactory,53,"PM
+10",1,2022-03-20
+Nashik,Satisfactory,77,"PM
+10",1,2022-03-21
+Nashik,Satisfactory,70,"PM
+10",1,2022-03-22
+Nashik,Satisfactory,67,"PM
+10",1,2022-03-23
+Nashik,Satisfactory,89,"PM
+10",1,2022-03-24
+Nashik,Satisfactory,80,"PM
+10",1,2022-03-25
+Nashik,Satisfactory,63,"PM
+10",1,2022-03-27
+Nashik,Satisfactory,79,"PM
+10",1,2022-03-28
+Nashik,Satisfactory,67,"PM
+10",1,2022-03-29
+Nashik,Satisfactory,74,"PM
+10",1,2022-03-30
+Nashik,Satisfactory,63,"PM
+10",1,2022-03-31
+Nashik,Satisfactory,87,"PM
+10",1,2022-04-01
+Nashik,Satisfactory,83,"PM
+10",1,2022-04-02
+Nashik,Satisfactory,82,"PM
+10",1,2022-04-03
+Nashik,Satisfactory,84,"PM
+10",1,2022-04-04
+Nashik,Satisfactory,80,"PM
+10",1,2022-04-05
+Nashik,Satisfactory,82,"PM
+10",1,2022-04-06
+Nashik,Satisfactory,66,"PM
+10",1,2022-04-07
+Nashik,Satisfactory,67,"O
+3",1,2022-04-08
+Nashik,Satisfactory,74,"PM
+10",1,2022-04-09
+Nashik,Satisfactory,56,"PM
+10",1,2022-04-10
+Nashik,Satisfactory,68,"PM
+10",1,2022-04-11
+Nashik,Satisfactory,69,"PM
+10",1,2022-04-12
+Nashik,Satisfactory,85,"PM
+10",1,2022-04-13
+Nashik,Satisfactory,72,"PM
+10",1,2022-04-14
+Nashik,Satisfactory,56,"PM
+2.5",1,2022-04-15
+Nashik,Satisfactory,65,"PM
+10",1,2022-04-16
+Nashik,Satisfactory,65,"PM
+10",1,2022-04-17
+Nashik,Satisfactory,64,"PM
+10",1,2022-04-18
+Nashik,Satisfactory,68,"PM
+10",1,2022-04-19
+Nashik,Satisfactory,75,"PM
+10",1,2022-04-20
+Nashik,Satisfactory,57,"O
+3",1,2022-04-21
+Nashik,Satisfactory,79,"PM
+2.5",1,2022-04-26
+Nashik,Satisfactory,64,"PM
+2.5",1,2022-04-30
+Nashik,Satisfactory,51,"PM
+10",1,2022-05-01
+Nashik,Good,46,"PM
+10",1,2022-05-02
+Nashik,Satisfactory,60,"PM
+10",1,2022-05-03
+Nashik,Satisfactory,56,"PM
+10",1,2022-05-04
+Nashik,Satisfactory,71,"PM
+10",1,2022-05-05
+Nashik,Satisfactory,74,"PM
+10",1,2022-05-13
+Nashik,Satisfactory,86,"PM
+10",1,2022-05-14
+Nashik,Satisfactory,74,"PM
+10",1,2022-05-15
+Nashik,Satisfactory,68,"PM
+10",1,2022-05-16
+Nashik,Satisfactory,95,"PM
+10",1,2022-05-17
+Nashik,Moderate,111,"PM
+10",1,2022-05-18
+Nashik,Moderate,137,"PM
+10",1,2022-05-19
+Nashik,Moderate,115,"PM
+10",1,2022-05-20
+Nashik,Satisfactory,98,"PM
+10",1,2022-05-21
+Nashik,Satisfactory,78,"PM
+10",1,2022-05-22
+Nashik,Satisfactory,57,"PM
+10",1,2022-05-23
+Nashik,Satisfactory,63,"PM
+10",1,2022-05-24
+Nashik,Moderate,102,"PM
+10",1,2022-05-25
+Nashik,Satisfactory,70,"PM
+10",1,2022-05-26
+Nashik,Good,50,"PM
+10",1,2022-05-28
+Nashik,Satisfactory,52,"PM
+10",1,2022-05-29
+Nashik,Satisfactory,66,"PM
+10",1,2022-05-30
+Nashik,Satisfactory,62,"PM
+10",1,2022-05-31
+Nashik,Satisfactory,59,"PM
+10",1,2022-06-01
+Nashik,Satisfactory,60,"PM
+10",1,2022-06-02
+Nashik,Satisfactory,66,"PM
+10",1,2022-06-03
+Nashik,Satisfactory,63,"PM
+10",1,2022-06-04
+Nashik,Good,50,"PM
+10",1,2022-06-05
+Nashik,Good,50,"PM
+10",1,2022-06-06
+Nashik,Good,49,"PM
+10",1,2022-06-07
+Nashik,Good,39,"O
+3",1,2022-06-08
+Nashik,Good,38,"PM
+10",1,2022-06-09
+Nashik,Good,38,"O
+3",1,2022-06-10
+Nashik,Good,27,"O
+3",1,2022-06-12
+Nashik,Good,45,"PM
+10",1,2022-06-13
+Nashik,Good,50,"PM
+10",1,2022-06-16
+Nashik,Satisfactory,66,"PM
+10",1,2022-06-17
+Nashik,Satisfactory,73,"PM
+10",1,2022-06-18
+Nashik,Good,49,"PM
+10",1,2022-06-19
+Nashik,Good,42,"PM
+10",1,2022-06-20
+Nashik,Good,35,"PM
+10",1,2022-06-21
+Nashik,Good,43,"PM
+10",1,2022-06-22
+Nashik,Good,42,CO,1,2022-06-24
+Nashik,Good,35,"O
+3",1,2022-06-25
+Nashik,Good,44,"O
+3",1,2022-06-26
+Nashik,Good,23,"O
+3",1,2022-06-27
+Nashik,Good,28,"PM
+10",1,2022-06-28
+Nashik,Good,27,CO,1,2022-06-29
+Nashik,Good,32,"PM
+10",1,2022-06-30
+Nashik,Good,27,"PM
+10",1,2022-07-01
+Nashik,Good,31,CO,1,2022-07-02
+Nashik,Good,27,"PM
+10",1,2022-07-03
+Nashik,Good,32,CO,1,2022-07-04
+Nashik,Good,30,CO,1,2022-07-07
+Nashik,Good,31,CO,1,2022-07-08
+Nashik,Good,23,"PM
+2.5",1,2022-07-09
+Nashik,Good,39,CO,1,2022-07-10
+Nashik,Good,29,CO,1,2022-07-11
+Nashik,Good,37,CO,1,2022-07-16
+Nashik,Good,36,"PM
+10",1,2022-07-18
+Nashik,Good,27,CO,1,2022-07-21
+Nashik,Good,38,"PM
+10",1,2022-07-23
+Nashik,Good,39,"PM
+10",1,2022-07-26
+Nashik,Good,28,"PM
+10",1,2022-07-27
+Nashik,Good,36,"PM
+10",1,2022-07-28
+Nashik,Good,36,"PM
+10",1,2022-07-29
+Nashik,Good,43,"PM
+10",1,2022-07-30
+Nashik,Good,44,"PM
+10",1,2022-07-31
+Nashik,Good,38,"PM
+10",1,2022-08-01
+Nashik,Good,30,"PM
+2.5",1,2022-08-06
+Nashik,Good,32,"PM
+2.5",1,2022-08-07
+Nashik,Good,46,"O
+3",1,2022-08-10
+Nashik,Good,45,"O
+3",1,2022-08-11
+Nashik,Good,45,"O
+3",1,2022-08-12
+Nashik,Good,45,"O
+3",1,2022-08-13
+Nashik,Good,45,"O
+3",1,2022-08-19
+Nashik,Satisfactory,55,"PM
+10",1,2022-08-29
+Nashik,Satisfactory,73,"PM
+10",1,2022-08-30
+Nashik,Good,45,"O
+3",1,2022-08-31
+Nashik,Good,45,"O
+3",1,2022-09-01
+Nashik,Good,45,"O
+3",1,2022-09-06
+Nashik,Good,45,"O
+3",1,2022-09-13
+Nashik,Good,45,"O
+3",1,2022-09-16
+Nashik,Good,45,"O
+3",1,2022-09-21
+Nashik,Good,45,"O
+3",1,2022-09-22
+Nashik,Good,45,"O
+3",1,2022-09-23
+Nashik,Good,45,"O
+3",1,2022-09-24
+Nashik,Good,45,"O
+3",1,2022-09-25
+Nashik,Good,45,"O
+3",1,2022-09-27
+Nashik,Satisfactory,61,"PM
+10",1,2022-09-29
+Nashik,Good,45,"O
+3",1,2022-09-30
+Nashik,Satisfactory,54,"PM
+2.5",1,2022-10-01
+Nashik,Good,50,"PM
+2.5",1,2022-10-02
+Nashik,Good,45,"O
+3",1,2022-10-03
+Nashik,Satisfactory,63,"PM
+2.5",1,2022-10-05
+Nashik,Satisfactory,55,"PM
+2.5",1,2022-10-06
+Nashik,Satisfactory,53,"PM
+2.5",1,2022-10-07
+Nashik,Good,45,"O
+3",1,2022-10-09
+Nashik,Good,48,"PM
+2.5",1,2022-10-10
+Nashik,Good,43,"PM
+2.5",1,2022-10-12
+Nashik,Satisfactory,66,"PM
+2.5",1,2022-10-14
+Nashik,Satisfactory,61,"PM
+2.5",1,2022-10-15
+Nashik,Good,38,"PM
+2.5",1,2022-10-17
+Nashik,Satisfactory,55,"PM
+10",1,2022-10-18
+Nashik,Good,36,"PM
+10",1,2022-10-19
+Nashik,Good,35,CO,1,2022-10-20
+Nashik,Satisfactory,62,"PM
+2.5",1,2022-10-21
+Nashik,Satisfactory,66,"PM
+2.5",1,2022-10-22
+Nashik,Moderate,116,"PM
+2.5",1,2022-10-23
+Nashik,Moderate,102,"PM
+2.5",1,2022-10-24
+Nashik,Moderate,143,"PM
+10",1,2022-10-25
+Nashik,Satisfactory,84,"PM
+2.5",1,2022-10-26
+Nashik,Satisfactory,97,"PM
+2.5",1,2022-10-27
+Nashik,Moderate,137,"PM
+2.5",1,2022-10-28
+Nashik,Moderate,101,"PM
+10",1,2022-10-29
+Nashik,Moderate,130,"PM
+2.5",1,2022-10-30
+Nashik,Satisfactory,96,"PM
+10",1,2022-10-31
+Nashik,Moderate,136,"PM
+2.5",1,2022-11-01
+Nashik,Moderate,133,"PM
+2.5",1,2022-11-02
+Nashik,Moderate,104,"PM
+2.5",1,2022-11-03
+Nashik,Moderate,120,"PM
+10",1,2022-11-04
+Nashik,Moderate,196,"PM
+2.5",1,2022-11-05
+Nashik,Moderate,162,"PM
+2.5",1,2022-11-06
+Nashik,Moderate,122,"PM
+2.5",1,2022-11-07
+Nashik,Moderate,116,"PM
+2.5",1,2022-11-08
+Nashik,Moderate,124,"PM
+2.5",1,2022-11-09
+Nashik,Moderate,147,"PM
+2.5",1,2022-11-10
+Nashik,Moderate,112,"PM
+2.5",1,2022-11-11
+Nashik,Moderate,128,"PM
+2.5",1,2022-11-12
+Nashik,Moderate,182,"PM
+2.5",1,2022-11-13
+Nashik,Poor,223,"PM
+2.5",1,2022-11-14
+Nashik,Moderate,177,"PM
+2.5",1,2022-11-15
+Nashik,Moderate,109,"PM
+2.5",1,2022-11-16
+Nashik,Moderate,104,"PM
+2.5",1,2022-11-18
+Nashik,Satisfactory,98,"PM
+2.5",1,2022-11-20
+Nashik,Moderate,128,"PM
+2.5",1,2022-11-21
+Nashik,Poor,209,"PM
+2.5",1,2022-11-22
+Nashik,Poor,223,"PM
+2.5",1,2022-11-23
+Nashik,Poor,239,"PM
+2.5",1,2022-11-25
+Nashik,Moderate,116,"PM
+2.5",1,2022-11-30
+Nashik,Moderate,178,"PM
+2.5",1,2022-12-01
+Nashik,Moderate,159,"PM
+2.5",1,2022-12-04
+Nashik,Moderate,143,"PM
+2.5",1,2022-12-05
+Nashik,Moderate,114,"PM
+10",1,2022-12-06
+Nashik,Moderate,115,"PM
+10",1,2022-12-07
+Nashik,Moderate,169,"PM
+2.5",1,2022-12-08
+Nashik,Satisfactory,57,"PM
+2.5",1,2022-12-14
+Nashik,Good,36,"PM
+2.5",1,2022-12-15
+Nashik,Satisfactory,70,"PM
+2.5",1,2022-12-19
+Nashik,Moderate,152,"PM
+2.5",1,2022-12-21
+Nashik,Moderate,138,"PM
+2.5",1,2022-12-22
+Nashik,Satisfactory,87,"PM
+2.5",1,2022-12-25
+Nashik,Moderate,104,"PM
+2.5",1,2022-12-26
+Nashik,Moderate,149,"PM
+2.5",1,2022-12-27
+Nashik,Satisfactory,65,"PM
+2.5",1,2023-01-01
+Nashik,Moderate,105,"PM
+2.5",1,2023-01-02
+Nashik,Moderate,175,"PM
+2.5",1,2023-01-03
+Nashik,Satisfactory,84,"PM
+2.5",1,2023-01-04
+Nashik,Moderate,104,"PM
+2.5",1,2023-01-05
+Nashik,Moderate,174,"PM
+2.5",1,2023-01-06
+Nashik,Moderate,144,"PM
+2.5",1,2023-01-07
+Nashik,Moderate,135,"PM
+2.5",1,2023-01-08
+Nashik,Moderate,114,"PM
+2.5",1,2023-01-09
+Nashik,Moderate,148,"PM
+2.5",1,2023-01-10
+Nashik,Moderate,156,"PM
+2.5",1,2023-01-11
+Nashik,Moderate,127,"PM
+2.5",1,2023-01-12
+Nashik,Moderate,113,"PM
+2.5",1,2023-01-13
+Nashik,Poor,246,"PM
+2.5",1,2023-01-14
+Nashik,Moderate,112,"PM
+2.5",1,2023-01-15
+Nashik,Satisfactory,94,"PM
+2.5",1,2023-01-16
+Nashik,Satisfactory,99,"PM
+2.5",1,2023-01-17
+Nashik,Moderate,112,"PM
+2.5",1,2023-01-19
+Nashik,Moderate,110,"PM
+2.5",1,2023-01-20
+Nashik,Satisfactory,95,"PM
+2.5",1,2023-01-21
+Nashik,Satisfactory,82,"PM
+2.5",1,2023-01-24
+Nashik,Moderate,107,"PM
+2.5",1,2023-01-25
+Nashik,Moderate,103,"PM
+2.5",1,2023-01-26
+Nashik,Satisfactory,74,"PM
+10",1,2023-01-27
+Nashik,Satisfactory,74,"PM
+10",1,2023-01-28
+Nashik,Satisfactory,74,"PM
+2.5",1,2023-01-29
+Nashik,Satisfactory,71,"O
+3",1,2023-01-30
+Nashik,Satisfactory,81,"PM
+2.5",1,2023-01-31
+Nashik,Satisfactory,60,"PM
+10",1,2023-02-01
+Nashik,Satisfactory,80,"PM
+2.5",1,2023-02-02
+Nashik,Satisfactory,94,"PM
+2.5",1,2023-02-04
+Nashik,Satisfactory,83,"PM
+2.5",1,2023-02-06
+Nashik,Satisfactory,90,"PM
+2.5",1,2023-02-09
+Nashik,Satisfactory,79,"PM
+10",1,2023-02-12
+Nashik,Satisfactory,98,"PM
+10",1,2023-02-13
+Nashik,Moderate,117,"PM
+10",1,2023-02-14
+Nashik,Moderate,135,"PM
+2.5",1,2023-02-15
+Nashik,Moderate,116,"PM
+2.5",1,2023-02-17
+Nashik,Moderate,109,"PM
+2.5",1,2023-02-18
+Nashik,Moderate,107,"PM
+2.5",1,2023-02-19
+Nashik,Moderate,106,"PM
+2.5",1,2023-02-20
+Nashik,Satisfactory,79,"PM
+10",1,2023-02-21
+Nashik,Satisfactory,87,"PM
+10",1,2023-02-22
+Nashik,Satisfactory,93,"PM
+2.5",1,2023-02-23
+Nashik,Satisfactory,87,"PM
+2.5",1,2023-02-24
+Nashik,Satisfactory,83,"PM
+2.5",1,2023-02-25
+Nashik,Satisfactory,88,"PM
+2.5",1,2023-02-26
+Nashik,Satisfactory,74,"PM
+10",1,2023-02-27
+Nashik,Satisfactory,88,"PM
+10",1,2023-02-28
+Nashik,Satisfactory,85,"PM
+10",1,2023-03-01
+Nashik,Satisfactory,97,"PM
+2.5",1,2023-03-02
+Nashik,Moderate,113,"PM
+2.5",1,2023-03-03
+Nashik,Moderate,145,"PM
+2.5",1,2023-03-04
+Nashik,Satisfactory,96,"PM
+2.5",1,2023-03-08
+Nashik,Satisfactory,61,"PM
+10",1,2023-03-09
+Nashik,Satisfactory,75,"PM
+10",1,2023-03-10
+Nashik,Satisfactory,92,"PM
+2.5",1,2023-03-11
+Nashik,Satisfactory,93,"PM
+2.5",1,2023-03-12
+Nashik,Moderate,123,"PM
+2.5",1,2023-03-13
+Nashik,Moderate,118,"PM
+2.5",1,2023-03-14
+Nashik,Satisfactory,92,"PM
+2.5",1,2023-03-15
+Nashik,Satisfactory,88,"PM
+2.5",1,2023-03-16
+Nashik,Satisfactory,93,"PM
+2.5",1,2023-03-17
+Nashik,Satisfactory,60,"PM
+2.5",1,2023-03-18
+Nashik,Satisfactory,63,"PM
+2.5",1,2023-03-19
+Nashik,Good,47,"PM
+2.5",1,2023-03-20
+Nashik,Good,49,"PM
+10",1,2023-03-21
+Nashik,Good,32,"PM
+10",1,2023-03-22
+Nashik,Good,28,"PM
+10",1,2023-03-23
+Nashik,Good,41,"PM
+10",1,2023-03-24
+Nashik,Satisfactory,60,"PM
+10",1,2023-03-25
+Nashik,Good,46,"PM
+10",1,2023-03-26
+Nashik,Satisfactory,64,"PM
+10",1,2023-03-27
+Nashik,Satisfactory,78,"PM
+10",1,2023-03-28
+Nashik,Satisfactory,90,"PM
+10",1,2023-03-29
+Nashik,Satisfactory,67,"PM
+10",1,2023-03-30
+Nashik,Satisfactory,63,"PM
+10",1,2023-03-31
+Nashik,Satisfactory,70,"PM
+10",1,2023-04-01
+Nashik,Good,48,"PM
+10",1,2023-04-02
+Nashik,Satisfactory,62,"PM
+10",1,2023-04-03
+Nashik,Satisfactory,62,"PM
+10",1,2023-04-05
+Nashik,Satisfactory,73,"PM
+10",1,2023-04-06
+Nashik,Satisfactory,83,"PM
+2.5",1,2023-04-07
+Nashik,Satisfactory,59,"PM
+10",1,2023-04-08
+Nashik,Satisfactory,58,"PM
+10",1,2023-04-09
+Nashik,Satisfactory,58,"PM
+10",1,2023-04-10
+Nashik,Satisfactory,76,"O
+3",1,2023-04-12
+Nashik,Satisfactory,63,"PM
+10",1,2023-04-13
+Nashik,Satisfactory,58,"PM
+10",1,2023-04-14
+Nashik,Satisfactory,81,"O
+3",1,2023-04-15
+Nashik,Satisfactory,58,"O
+3",1,2023-04-16
+Nashik,Satisfactory,51,"O
+3",1,2023-04-17
+Nashik,Satisfactory,69,"PM
+10",1,2023-04-18
+Nashik,Satisfactory,71,"PM
+10",1,2023-04-20
+Nashik,Satisfactory,57,"PM
+10",1,2023-04-21
+Nashik,Good,41,"PM
+10",1,2023-04-23
+Nashik,Good,49,"PM
+10",1,2023-04-24
+Nashik,Satisfactory,75,"O
+3",1,2023-04-25
+Nashik,Satisfactory,68,"PM
+10",1,2023-04-26
+Nashik,Satisfactory,62,"PM
+10",1,2023-04-27
+Nashik,Good,41,"PM
+10",1,2023-04-30
+Nashik,Good,34,"PM
+10",1,2023-05-02
+Nashik,Good,33,"PM
+10",1,2023-05-03
+Nashik,Good,46,"PM
+10",1,2023-05-04
+Nashik,Satisfactory,57,"PM
+2.5",1,2023-05-05
+Nashik,Good,44,"PM
+2.5",1,2023-05-06
+Nashik,Satisfactory,52,"PM
+2.5",1,2023-05-07
+Nashik,Satisfactory,67,"PM
+10",1,2023-05-09
+Nashik,Satisfactory,88,"PM
+10",1,2023-05-10
+Nashik,Satisfactory,86,"PM
+10",1,2023-05-11
+Nashik,Satisfactory,69,"PM
+10",1,2023-05-12
+Nashik,Satisfactory,66,"PM
+10",1,2023-05-13
+Nashik,Satisfactory,51,"PM
+10",1,2023-05-14
+Nashik,Good,49,"PM
+10",1,2023-05-15
+Nashik,Satisfactory,54,"PM
+10",1,2023-05-16
+Nashik,Good,46,"PM
+10",1,2023-05-17
+Nashik,Good,50,"PM
+10",1,2023-05-18
+Nashik,Satisfactory,57,"PM
+10",1,2023-05-19
+Nashik,Satisfactory,60,"PM
+10",1,2023-05-20
+Nashik,Satisfactory,51,"PM
+10",1,2023-05-21
+Nashik,Good,48,"PM
+10",1,2023-05-22
+Nashik,Satisfactory,54,"O , PM
+3 10",2,2023-05-23
+Nashik,Satisfactory,65,"PM
+10",3,2023-05-24
+Nashik,Satisfactory,54,"PM
+10",3,2023-05-25
+Nashik,Satisfactory,52,"PM
+10",3,2023-05-26
+Nashik,Satisfactory,54,"PM
+10",3,2023-05-27
+Nashik,Satisfactory,52,"PM , O
+10 3",3,2023-05-28
+Nashik,Satisfactory,58,"PM , O
+10 3",2,2023-05-29
+Nashik,Satisfactory,74,"O , PM
+3 10",3,2023-05-30
+Nashik,Satisfactory,85,"PM , O
+10 3",3,2023-05-31
+Nashik,Satisfactory,82,"PM
+10",3,2023-06-01
+Nashik,Satisfactory,61,"PM
+10",3,2023-06-02
+Nashik,Satisfactory,61,"PM
+10",3,2023-06-03
+Nashik,Satisfactory,65,"PM
+10",3,2023-06-04
+Nashik,Satisfactory,64,"PM
+10",3,2023-06-05
+Nashik,Satisfactory,62,"PM
+10",3,2023-06-06
+Nashik,Good,50,"PM
+10",3,2023-06-07
+Nashik,Satisfactory,60,"PM
+10",3,2023-06-08
+Nashik,Satisfactory,60,"PM , O
+10 3",3,2023-06-09
+Nashik,Satisfactory,52,"PM
+10",3,2023-06-10
+Nashik,Satisfactory,58,"PM
+10",3,2023-06-11
+Nashik,Satisfactory,100,"PM
+10",2,2023-06-12
+Nashik,Satisfactory,65,"PM
+10",3,2023-06-13
+Nashik,Satisfactory,51,"PM
+10",3,2023-06-14
+Nashik,Satisfactory,66,"PM
+10",4,2023-06-15
+Nashik,Satisfactory,83,"PM
+10",4,2023-06-16
+Nashik,Satisfactory,73,"PM
+10",4,2023-06-17
+Nashik,Satisfactory,84,"PM
+10",3,2023-06-18
+Nashik,Satisfactory,93,"PM
+10",4,2023-06-19
+Nashik,Satisfactory,90,"PM
+2.5",4,2023-06-20
+Nashik,Satisfactory,64,"PM
+10",3,2023-06-21
+Nashik,Satisfactory,58,"PM
+10",2,2023-06-22
+Nashik,Satisfactory,67,"PM
+10",4,2023-06-23
+Nashik,Satisfactory,63,"PM
+10",4,2023-06-24
+Nashik,Good,36,"PM
+10",3,2023-06-25
+Nashik,Good,31,"PM , CO
+10",3,2023-06-26
+Nashik,Good,38,"PM
+10",4,2023-06-27
+Nashik,Good,37,"PM
+10",4,2023-06-28
+Nashik,Good,28,"O , PM
+3 10",3,2023-06-29
+Nashik,Good,39,"PM
+10",3,2023-06-30
+Nashik,Good,30,"PM
+10",3,2023-07-01
+Nashik,Good,30,"PM , CO
+10",4,2023-07-02
+Nashik,Good,34,"PM , CO
+10",4,2023-07-03
+Nashik,Satisfactory,59,"PM , PM
+2.5 10",4,2023-07-04
+Nashik,Good,41,"PM
+10",4,2023-07-05
+Nashik,Good,48,"PM
+2.5",3,2023-07-06
+Nashik,Good,36,"O
+3",3,2023-07-07
+Nashik,Good,26,"PM , CO
+10",4,2023-07-08
+Nashik,Good,37,"PM
+10",4,2023-07-09
+Nashik,Good,35,"PM
+10",4,2023-07-10
+Nashik,Satisfactory,72,"PM
+10",4,2023-07-11
+Nashik,Good,45,"PM
+10",4,2023-07-12
+Nashik,Satisfactory,57,"PM
+10",4,2023-07-13
+Nashik,Good,36,"PM
+10",4,2023-07-14
+Nashik,Good,31,"PM
+10",4,2023-07-15
+Nashik,Good,33,"PM
+10",4,2023-07-16
+Nashik,Good,29,"PM
+10",4,2023-07-17
+Nashik,Good,25,"PM , O
+10 3",4,2023-07-18
+Nashik,Good,30,"PM , CO
+10",4,2023-07-19
+Nashik,Good,38,"PM , CO
+10",4,2023-07-20
+Nashik,Satisfactory,52,"PM
+10",4,2023-07-21
+Nashik,Good,27,"PM , CO
+10",4,2023-07-22
+Nashik,Good,25,"PM , CO
+10",3,2023-07-23
+Nashik,Good,45,"PM , CO
+10",3,2023-07-24
+Nashik,Good,30,"PM , CO
+10",3,2023-07-25
+Nashik,Good,23,"PM
+10",3,2023-07-26
+Nashik,Good,28,"PM
+10",3,2023-07-27
+Nashik,Good,23,"PM
+10",3,2023-07-28
+Nashik,Good,23,"PM
+10",3,2023-07-29
+Nashik,Good,35,"PM
+10",3,2023-07-30
+Nashik,Good,44,"PM
+10",3,2023-07-31
+Nashik,Good,46,"PM
+10",3,2023-08-01
+Nashik,Good,42,"PM
+10",2,2023-08-02
+Nashik,Good,34,"PM
+10",2,2023-08-03
+Nashik,Good,50,"PM
+10",2,2023-08-04
+Nashik,Good,44,"PM
+10",3,2023-08-05
+Nashik,Good,39,"PM
+10",3,2023-08-06
+Nashik,Good,39,"PM
+10",3,2023-08-07
+Nashik,Satisfactory,52,"PM
+10",3,2023-08-08
+Nashik,Good,48,"PM
+10",3,2023-08-09
+Nashik,Good,41,"PM
+10",3,2023-08-10
+Nashik,Good,40,"PM
+10",3,2023-08-11
+Nashik,Good,35,"PM
+10",3,2023-08-12
+Nashik,Good,32,"PM
+10",2,2023-08-13
+Nashik,Good,41,"PM
+10",3,2023-08-14
+Nashik,Good,42,"PM
+2.5",3,2023-08-15
+Nashik,Good,36,"PM
+2.5",3,2023-08-16
+Nashik,Good,42,"PM
+10",2,2023-08-17
+Nashik,Good,47,"PM
+10",1,2023-08-18
+Nashik,Good,47,"PM
+10",2,2023-08-19
+Nashik,Good,43,"PM
+10",1,2023-08-20
+Nashik,Good,42,"PM
+10",1,2023-08-21
+Nashik,Satisfactory,61,"PM
+10",2,2023-08-22
+Nashik,Good,32,"PM
+10",3,2023-08-23
+Nashik,Good,40,"PM , PM
+10 2.5",3,2023-08-24
+Nashik,Good,46,"PM
+10",2,2023-08-25
+Nashik,Good,31,"PM , CO
+10",3,2023-08-26
+Nashik,Good,25,"CO, PM
+10",4,2023-08-27
+Nashik,Satisfactory,51,"PM
+10",1,2023-08-28
+Nashik,Good,40,"PM
+10",4,2023-08-29
+Nashik,Good,42,"PM
+10",4,2023-08-30
+Nashik,Good,46,"PM
+10",4,2023-08-31
+Nashik,Satisfactory,53,"PM
+10",4,2023-09-01
+Nashik,Satisfactory,68,"PM
+10",4,2023-09-02
+Nashik,Satisfactory,61,"PM , PM
+2.5 10",3,2023-09-03
+Nashik,Good,40,"PM
+10",3,2023-09-04
+Nashik,Satisfactory,56,"PM
+10",4,2023-09-05
+Nashik,Satisfactory,59,"PM
+10",3,2023-09-06
+Nashik,Good,42,"PM
+10",4,2023-09-07
+Nashik,Good,39,"PM , CO
+10",4,2023-09-08
+Nashik,Good,31,"PM , CO
+10",4,2023-09-09
+Nashik,Good,30,"PM
+10",3,2023-09-10
+Nashik,Good,32,"PM
+10",3,2023-09-11
+Nashik,Good,40,"PM
+10",4,2023-09-12
+Nashik,Good,42,"PM
+10",4,2023-09-13
+Nashik,Good,39,"PM
+10",4,2023-09-14
+Nashik,Good,38,"PM , O
+10 3",2,2023-09-15
+Nashik,Good,32,"PM
+10",4,2023-09-16
+Nashik,Good,29,"PM , O
+10 3",3,2023-09-17
+Nashik,Good,36,"PM , CO
+2.5",4,2023-09-18
+Nashik,Good,31,"PM , PM
+10 2.5",4,2023-09-19
+Nashik,Good,37,"PM , O
+10 3",4,2023-09-20
+Nashik,Good,37,"PM
+10",4,2023-09-21
+Nashik,Good,34,CO,4,2023-09-22
+Nashik,Good,34,"PM , O
+10 3",4,2023-09-23
+Nashik,Good,34,"PM
+10",4,2023-09-24
+Nashik,Good,35,"PM , CO
+10",4,2023-09-25
+Nashik,Good,46,"PM
+10",4,2023-09-26
+Nashik,Satisfactory,55,"PM , CO
+10",4,2023-09-27
+Nashik,Satisfactory,64,"PM
+10",2,2023-09-28
+Nashik,Satisfactory,70,"PM
+10",3,2023-09-29
+Nashik,Satisfactory,56,"PM , PM
+2.5 10",4,2023-09-30
+Nashik,Satisfactory,94,"PM , PM
+2.5 10",4,2023-10-01
+Nashik,Satisfactory,91,"PM , PM
+2.5 10",3,2023-10-02
+Nashik,Satisfactory,80,"PM
+10",3,2023-10-03
+Nashik,Satisfactory,67,"PM
+10",3/4,2023-10-04
+Nashik,Satisfactory,83,"PM , PM
+2.5 10",4/4,2023-10-05
+Nashik,Satisfactory,80,"PM
+10",4/4,2023-10-06
+Nashik,Satisfactory,80,"PM
+10",4/4,2023-10-07
+Nashik,Moderate,123,"PM
+2.5",3/4,2023-10-08
+Nashik,Satisfactory,90,"PM , PM
+2.5 10",2/4,2023-10-09
+Nashik,Satisfactory,74,"PM
+10",3/4,2023-10-10
+Nashik,Satisfactory,88,"PM , PM
+2.5 10",4/4,2023-10-11
+Nashik,Satisfactory,98,"PM , PM
+2.5 10",4/4,2023-10-12
+Nashik,Moderate,144,"PM , PM
+2.5 10",4/4,2023-10-13
+Nashik,Moderate,141,"PM , PM
+2.5 10",4/4,2023-10-14
+Nashik,Moderate,127,"PM , PM
+2.5 10",4/4,2023-10-15
+Nashik,Moderate,152,"PM
+2.5",3/4,2023-10-16
+Nashik,Moderate,165,"PM
+2.5",3/4,2023-10-17
+Nashik,Moderate,122,"PM , PM
+2.5 10",4/4,2023-10-18
+Nashik,Moderate,112,"PM , PM
+2.5 10",4/4,2023-10-19
+Nashik,Satisfactory,89,"PM
+10",1/4,2023-10-20
+Nashik,Moderate,116,"PM , PM
+2.5 10",4/4,2023-10-21
+Nashik,Moderate,170,"PM
+2.5",4/4,2023-10-22
+Nashik,Moderate,135,"PM , PM
+2.5 10",4/4,2023-10-23
+Nashik,Moderate,108,"PM
+2.5",4/4,2023-10-24
+Nashik,Satisfactory,87,"PM , PM
+2.5 10",4/4,2023-10-25
+Nashik,Moderate,113,"PM
+2.5",4/4,2023-10-26
+Nashik,Moderate,164,"O , PM
+3 2.5",4/4,2023-10-27
+Nashik,Moderate,172,"O , PM
+3 2.5",4/4,2023-10-28
+Nashik,Moderate,114,"PM , PM
+2.5 10",3/4,2023-10-29
+Nashik,Moderate,132,"PM , PM
+2.5 10",3/4,2023-10-30
+Nashik,Moderate,134,"PM
+2.5",4/4,2023-10-31
+Nashik,Moderate,163,"PM
+2.5",1/4,2023-11-01
+Nashik,Moderate,156,"PM
+2.5",4/4,2023-11-02
+Nashik,Moderate,168,"PM
+2.5",4/4,2023-11-03
+Nashik,Moderate,154,"PM
+2.5",4/4,2023-11-04
+Nashik,Moderate,140,"PM
+2.5",4/4,2023-11-05
+Nashik,Moderate,145,"PM
+2.5",4/4,2023-11-06
+Nashik,Moderate,160,"PM
+2.5",4/4,2023-11-07
+Nashik,Moderate,122,"PM
+2.5",4/4,2023-11-08
+Nashik,Moderate,134,"PM
+2.5",4/4,2023-11-09
+Nashik,Moderate,121,"PM
+2.5",4/4,2023-11-10
+Nashik,Moderate,124,"PM
+2.5",4/4,2023-11-11
+Nashik,Moderate,163,"PM
+2.5",4/4,2023-11-12
+Nashik,Poor,222,"PM
+2.5",4/4,2023-11-13
+Nashik,Moderate,149,"PM
+2.5",4/4,2023-11-14
+Nashik,Moderate,154,"PM
+2.5",4/4,2023-11-15
+Nashik,Moderate,155,"PM
+2.5",4/4,2023-11-16
+Nashik,Moderate,168,"PM
+2.5",4/4,2023-11-17
+Nashik,Poor,202,"PM
+2.5",4/4,2023-11-18
+Nashik,Moderate,146,"PM , PM
+2.5 10",4/4,2023-11-19
+Nashik,Moderate,124,"PM , PM
+2.5 10",4/4,2023-11-20
+Nashik,Moderate,110,"PM , PM
+2.5 10",4/4,2023-11-21
+Nashik,Moderate,120,"PM
+2.5",4/4,2023-11-22
+Nashik,Moderate,131,"PM , PM
+2.5 10",4/4,2023-11-23
+Nashik,Moderate,136,"PM
+2.5",4/4,2023-11-24
+Nashik,Moderate,102,"PM , PM
+2.5 10",4/4,2023-11-25
+Nashik,Satisfactory,88,"PM , PM
+2.5 10",4/4,2023-11-26
+Nashik,Satisfactory,54,"PM , CO
+10",3/4,2023-11-27
+Nashik,Satisfactory,67,"PM , PM
+2.5 10",3/4,2023-11-28
+Nashik,Satisfactory,58,"PM
+10",4/4,2023-11-29
+Nashik,Satisfactory,75,"PM , PM
+2.5 10",4/4,2023-11-30
+Nashik,Satisfactory,70,"PM
+10",4/4,2023-12-01
+Nashik,Satisfactory,86,"PM , PM
+10 2.5",4/4,2023-12-02
+Nashik,Moderate,105,"PM , PM
+10 2.5",4/4,2023-12-03
+Nashik,Satisfactory,95,"PM , PM
+10 2.5",4/4,2023-12-04
+Nashik,Moderate,101,"PM , PM
+10 2.5",4/4,2023-12-05
+Nashik,Moderate,145,"PM
+2.5",4/4,2023-12-06
+Nashik,Satisfactory,90,"PM , PM
+10 2.5",4/4,2023-12-07
+Nashik,Satisfactory,98,"PM , PM
+10 2.5",3/4,2023-12-08
+Nashik,Satisfactory,84,"PM
+10",3/4,2023-12-09
+Nashik,Satisfactory,82,"PM
+10",3/4,2023-12-10
+Nashik,Satisfactory,90,"PM
+10",3/4,2023-12-11
+Nashik,Satisfactory,82,"PM
+10",1/4,2023-12-12
+Nashik,Satisfactory,85,"PM , PM
+2.5 10",4/4,2023-12-13
+Nashik,Moderate,115,"PM , PM
+10 2.5",4/4,2023-12-14
+Nashik,Moderate,119,"PM
+2.5",3/4,2023-12-15
+Nashik,Moderate,126,"PM
+2.5",4/4,2023-12-16
+Nashik,Moderate,137,"PM
+2.5",4/4,2023-12-17
+Nashik,Moderate,117,"PM
+2.5",3/4,2023-12-18
+Nashik,Moderate,102,"PM , PM
+10 2.5",4/4,2023-12-19
+Nashik,Moderate,101,"PM , PM
+2.5 10",3/4,2023-12-20
+Nashik,Moderate,101,"PM , PM
+2.5 10",4/4,2023-12-21
+Nashik,Moderate,117,"PM
+2.5",4/4,2023-12-22
+Nashik,Moderate,198,"PM
+2.5",4/4,2023-12-23
+Nashik,Moderate,142,"PM
+2.5",4/4,2023-12-24
+Nashik,Moderate,185,"PM
+2.5",4/4,2023-12-25
+Nashik,Moderate,188,"PM
+2.5",4/4,2023-12-26
+Nashik,Moderate,197,"PM
+2.5",4/4,2023-12-27
+Nashik,Moderate,199,"PM
+2.5",3/4,2023-12-28
+Nashik,Moderate,154,"PM
+2.5",4/4,2023-12-29
+Nashik,Moderate,170,"PM
+2.5",4/4,2023-12-30
+Nashik,Moderate,113,"PM , PM
+10 2.5",4/4,2023-12-31
+Nashik,Moderate,130,"PM
+2.5",4/4,2024-01-01
+Nashik,Moderate,168,"PM
+2.5",3/4,2024-01-02
+Nashik,Poor,206,"PM
+2.5",3/4,2024-01-03
+Nashik,Moderate,122,"PM , PM
+10 2.5",2/4,2024-01-04
+Nashik,Moderate,143,"PM , PM
+10 2.5",3/4,2024-01-05
+Nashik,Moderate,119,"PM , PM
+10 2.5",3/4,2024-01-06
+Nashik,Moderate,146,"PM
+2.5",3/4,2024-01-07
+Nashik,Moderate,124,"PM , PM
+10 2.5",2/4,2024-01-08
+Nashik,Satisfactory,98,"PM
+10",3/4,2024-01-09
+Nashik,Satisfactory,66,"PM
+10",2/4,2024-01-10
+Nashik,Moderate,104,"PM , PM
+10 2.5",2/4,2024-01-11
+Nashik,Moderate,112,"PM
+2.5",3/4,2024-01-12
+Nashik,Moderate,118,"PM , PM
+10 2.5",4/4,2024-01-13
+Nashik,Satisfactory,70,"PM
+10",4/4,2024-01-14
+Nashik,Satisfactory,70,"PM , O
+10 3",3/4,2024-01-15
+Nashik,Satisfactory,85,"PM , PM
+10 2.5",3/4,2024-01-16
+Nashik,Moderate,125,"PM , PM
+10 2.5",4/4,2024-01-17
+Nashik,Moderate,134,"PM , O , PM
+10 3 2.5",4/4,2024-01-18
+Nashik,Moderate,113,"PM , PM
+10 2.5",4/4,2024-01-19
+Nashik,Moderate,127,"PM
+2.5",4/4,2024-01-20
+Nashik,Satisfactory,92,"PM , O , PM
+10 3 2.5",4/4,2024-01-21
+Nashik,Satisfactory,98,"PM , PM
+10 2.5",4/4,2024-01-22
+Nashik,Satisfactory,90,"PM , PM
+10 2.5",4/4,2024-01-23
+Nashik,Satisfactory,99,"PM , PM
+10 2.5",4/4,2024-01-24
+Nashik,Satisfactory,96,"PM , PM
+10 2.5",4/4,2024-01-25
+Nashik,Moderate,150,"PM , O , PM
+10 3 2.5",4/4,2024-01-26
+Nashik,Moderate,119,"PM , PM
+10 2.5",3/4,2024-01-27
+Nashik,Moderate,154,"PM , PM
+10 2.5",4/4,2024-01-28
+Nashik,Moderate,116,"PM , PM
+10 2.5",4/4,2024-01-29
+Nashik,Moderate,138,"PM , PM
+10 2.5",4/4,2024-01-30
+Nashik,Moderate,109,"PM , PM
+10 2.5",4/4,2024-01-31
+Nashik,Satisfactory,79,"PM , PM
+10 2.5",3/4,2024-02-01
+Nashik,Satisfactory,89,"PM , PM
+10 2.5",4/4,2024-02-02
+Nashik,Moderate,146,"PM , O , PM
+10 3 2.5",4/4,2024-02-03
+Nashik,Moderate,113,"PM , PM
+10 2.5",4/4,2024-02-04
+Nashik,Moderate,124,"PM , PM
+10 2.5",4/4,2024-02-05
+Nashik,Satisfactory,98,"PM , PM
+10 2.5",4/4,2024-02-06
+Nashik,Moderate,123,"PM , PM
+10 2.5",4/4,2024-02-07
+Nashik,Moderate,104,"PM , PM
+10 2.5",4/4,2024-02-08
+Nashik,Satisfactory,98,"PM , PM
+10 2.5",3/4,2024-02-09
+Nashik,Moderate,117,"PM , PM
+10 2.5",3/4,2024-02-10
+Nashik,Moderate,109,"PM , PM
+10 2.5",3/4,2024-02-11
+Nashik,Moderate,104,"PM , PM
+10 2.5",4/4,2024-02-12
+Nashik,Satisfactory,94,"PM , PM
+10 2.5",4/4,2024-02-13
+Nashik,Moderate,108,"PM , PM
+10 2.5",4/4,2024-02-14
+Nashik,Satisfactory,82,"PM , O
+10 3",4/4,2024-02-15
+Nashik,Satisfactory,87,"PM , PM
+10 2.5",4/4,2024-02-16
+Nashik,Satisfactory,98,"PM , PM
+10 2.5",4/4,2024-02-17
+Nashik,Satisfactory,90,"PM , PM
+10 2.5",4/4,2024-02-18
+Nashik,Satisfactory,64,"PM , O
+10 3",4/4,2024-02-19
+Nashik,Satisfactory,62,"PM , PM , O
+10 2.5 3",4/4,2024-02-20
+Nashik,Satisfactory,73,"PM , O
+2.5 3",4/4,2024-02-21
+Nashik,Satisfactory,68,"PM , PM
+10 2.5",4/4,2024-02-22
+Nashik,Satisfactory,70,"PM , O
+10 3",3/4,2024-02-23
+Nashik,Satisfactory,78,"PM , O
+10 3",4/4,2024-02-24
+Nashik,Satisfactory,68,"PM , O
+10 3",4/4,2024-02-25
+Nashik,Satisfactory,91,"PM , PM
+10 2.5",4/4,2024-02-26
+Nashik,Satisfactory,97,"PM , PM
+10 2.5",3/4,2024-02-27
+Nashik,Satisfactory,83,"PM , PM , O
+10 2.5 3",4/4,2024-02-28
+Nashik,Satisfactory,91,"PM , PM
+10 2.5",3/4,2024-02-29
+Nashik,Satisfactory,81,"PM , PM
+10 2.5",4/4,2024-03-01
+Nashik,Satisfactory,61,"PM , PM
+10 2.5",4/4,2024-03-02
+Nashik,Good,50,"PM , PM , O
+10 2.5 3",4/4,2024-03-03
+Nashik,Satisfactory,61,"O
+3",4/4,2024-03-04
+Nashik,Satisfactory,63,"PM , PM , O
+10 2.5 3",4/4,2024-03-05
+Nashik,Satisfactory,92,"PM , PM , O
+10 2.5 3",4/4,2024-03-06
+Nashik,Satisfactory,81,"PM , PM
+10 2.5",4/4,2024-03-07
+Nashik,Satisfactory,60,"PM , O
+10 3",4/4,2024-03-08
+Nashik,Satisfactory,86,"PM , PM
+10 2.5",2/4,2024-03-09
+Nashik,Satisfactory,70,"PM , PM
+10 2.5",2/4,2024-03-10
+Nashik,Satisfactory,76,"PM , PM
+10 2.5",3/4,2024-03-11
+Nashik,Satisfactory,86,"PM
+10",2/4,2024-03-12
+Nashik,Satisfactory,62,"PM
+10",4/4,2024-03-13
+Nashik,Satisfactory,72,"PM
+10",3/4,2024-03-14
+Nashik,Satisfactory,86,"PM
+10",4/4,2024-03-15
+Nashik,Satisfactory,100,"PM
+10",4/4,2024-03-16
+Nashik,Satisfactory,99,"PM
+10",3/4,2024-03-17
+Nashik,Satisfactory,77,"PM
+10",4/4,2024-03-18
+Nashik,Satisfactory,81,"PM , PM
+10 2.5",4/4,2024-03-19
+Nashik,Satisfactory,79,"PM , PM
+10 2.5",4/4,2024-03-20
+Nashik,Satisfactory,84,"PM , PM
+10 2.5",4/4,2024-03-21
+Nashik,Satisfactory,93,"PM
+10",3/4,2024-03-22
+Nashik,Satisfactory,97,"PM , PM
+10 2.5",4/4,2024-03-23
+Nashik,Satisfactory,74,"PM
+10",4/4,2024-03-24
+Nashik,Satisfactory,76,"PM , PM
+10 2.5",4/4,2024-03-25
+Nashik,Satisfactory,74,"PM
+10",4/4,2024-03-26
+Nashik,Satisfactory,79,"PM
+10",3/4,2024-03-27
+Nashik,Satisfactory,78,"PM
+10",4/4,2024-03-28
+Nashik,Satisfactory,86,"PM , PM
+10 2.5",4/4,2024-03-29
+Nashik,Satisfactory,81,"PM , PM
+10 2.5",4/4,2024-03-30
+Nashik,Satisfactory,68,"PM , CO
+10",3/4,2024-03-31
+Nashik,Satisfactory,77,"PM , PM
+2.5 10",4/4,2024-04-01
+Nashik,Satisfactory,85,"PM
+10",4/4,2024-04-02
+Nashik,Moderate,103,"PM
+10",4/4,2024-04-03
+Nashik,Satisfactory,82,"PM
+10",4/4,2024-04-04
+Nashik,Satisfactory,78,"PM
+10",4/4,2024-04-05
+Nashik,Satisfactory,66,"PM
+10",4/4,2024-04-06
+Nashik,Satisfactory,66,"O , CO
+3",4/4,2024-04-07
+Nashik,Satisfactory,67,"O , CO, PM
+3 10",4/4,2024-04-08
+Nashik,Satisfactory,81,"PM
+10",4/4,2024-04-09
+Nashik,Satisfactory,84,"O , PM
+3 10",4/4,2024-04-10
+Nashik,Satisfactory,86,"CO, PM
+10",4/4,2024-04-11
+Nashik,Satisfactory,80,"O , CO
+3",4/4,2024-04-12
+Nashik,Satisfactory,76,"O , PM
+3 10",4/4,2024-04-13
+Nashik,Satisfactory,96,"O , CO
+3",4/4,2024-04-14
+Nashik,Satisfactory,84,"O , CO, PM
+3 10",4/4,2024-04-15
+Nashik,Satisfactory,90,"CO, PM
+10",4/4,2024-04-16
+Nashik,Satisfactory,80,"O , CO, PM
+3 10",4/4,2024-04-17
+Nashik,Satisfactory,75,"PM
+10",4/4,2024-04-18
+Nashik,Satisfactory,71,"PM
+10",4/4,2024-04-19
+Nashik,Satisfactory,84,"PM , PM
+2.5 10",4/4,2024-04-20
+Nashik,Satisfactory,74,"PM , PM
+2.5 10",4/4,2024-04-21
+Nashik,Satisfactory,56,"PM
+10",4/4,2024-04-22
+Nashik,Satisfactory,70,"PM , PM
+10 2.5",4/4,2024-04-23
+Nashik,Satisfactory,82,"PM
+10",4/4,2024-04-24
+Nashik,Satisfactory,79,"PM , PM
+10 2.5",4/4,2024-04-25
+Nashik,Satisfactory,66,"PM , O , PM
+10 3 2.5",4/4,2024-04-26
+Nashik,Satisfactory,84,"PM , PM
+10 2.5",4/4,2024-04-27
+Nashik,Satisfactory,71,"PM
+10",4/4,2024-04-28
+Nashik,Satisfactory,83,"PM
+10",4/4,2024-04-29
+Nashik,Satisfactory,79,"PM
+10",4/4,2024-04-30
+Nashik,Satisfactory,89,"PM , PM
+10 2.5",3/4,2024-05-01
+Nashik,Satisfactory,78,"PM
+10",4/4,2024-05-02
+Nashik,Satisfactory,100,"PM
+10",4/4,2024-05-03
+Nashik,Satisfactory,98,"PM
+10",4/4,2024-05-04
+Nashik,Satisfactory,78,"PM
+10",4/4,2024-05-05
+Nashik,Satisfactory,57,"PM
+10",4/4,2024-05-06
+Nashik,Satisfactory,63,"PM
+10",4/4,2024-05-07
+Nashik,Satisfactory,66,"PM , O
+10 3",4/4,2024-05-08
+Nashik,Satisfactory,67,"PM , O
+10 3",3/4,2024-05-09
+Nashik,Satisfactory,60,"PM , O
+10 3",4/4,2024-05-10
+Nashik,Satisfactory,97,"PM , O
+10 3",3/4,2024-05-11
+Nashik,Satisfactory,78,"PM , O , PM
+10 3 2.5",4/4,2024-05-12
+Nashik,Moderate,113,"PM , PM
+10 2.5",4/4,2024-05-13
+Nashik,Moderate,117,"O , PM
+3 2.5",2/4,2024-05-14
+Nashik,Satisfactory,78,"O
+3",2/4,2024-05-15
+Nashik,Satisfactory,88,"O
+3",4/4,2024-05-16
+Nashik,Satisfactory,77,"PM , O , PM
+10 3 2.5",3/4,2024-05-17
+Nashik,Satisfactory,79,"O
+3",3/4,2024-05-18
+Nashik,Satisfactory,92,"PM
+10",3/4,2024-05-19
+Nashik,Satisfactory,80,"PM
+10",3/4,2024-05-20
+Nashik,Satisfactory,66,"PM
+10",3/4,2024-05-21
+Nashik,Satisfactory,95,"PM , O
+10 3",4/4,2024-05-22
+Nashik,Satisfactory,99,"PM
+10",4/4,2024-05-23
+Nashik,Satisfactory,75,"PM
+10",4/4,2024-05-24
+Nashik,Satisfactory,72,"PM
+10",4/4,2024-05-25
+Nashik,Satisfactory,67,"PM
+10",4/4,2024-05-26
+Nashik,Satisfactory,69,"PM
+10",4/4,2024-05-27
+Nashik,Satisfactory,74,"PM
+10",4/4,2024-05-28
+Nashik,Satisfactory,77,"PM , O
+10 3",4/4,2024-05-29
+Nashik,Satisfactory,75,"PM
+10",4/4,2024-05-30
+Nashik,Satisfactory,66,"PM
+10",4/4,2024-05-31
+Nashik,Satisfactory,53,"O , PM
+3 10",3/4,2024-06-01
+Nashik,Satisfactory,56,"PM
+10",4/4,2024-06-02
+Nashik,Satisfactory,68,"PM , CO
+10",4/4,2024-06-03
+Nashik,Satisfactory,72,"PM
+10",4/4,2024-06-04
+Nashik,Satisfactory,63,"PM , O
+10 3",4/4,2024-06-05
+Nashik,Good,50,"PM , O
+10 3",4/4,2024-06-06
+Nashik,Satisfactory,58,"PM , O
+10 3",4/4,2024-06-07
+Nashik,Good,50,"PM , PM
+2.5 10",4/4,2024-06-08
+Nashik,Satisfactory,64,"PM , CO, O
+10 3",4/4,2024-06-09
+Nashik,Satisfactory,52,"PM , O
+10 3",4/4,2024-06-10
+Nashik,Good,50,"PM , PM , O
+2.5 10 3",4/4,2024-06-11
+Nashik,Good,46,"PM , CO
+10",4/4,2024-06-12
+Nashik,Good,46,"PM , O
+10 3",4/4,2024-06-13
+Nashik,Good,42,"NO , PM , O
+2 10 3",4/4,2024-06-14
+Nashik,Good,39,"PM , O
+10 3",3/4,2024-06-15
+Nashik,Good,41,"PM , O
+10 3",4/4,2024-06-16
+Nashik,Good,49,"PM , O , PM
+10 3 2.5",4/4,2024-06-17
+Nashik,Good,48,"CO, O
+3",4/4,2024-06-18
+Nashik,Good,42,"PM , O , CO
+10 3",4/4,2024-06-19
+Nashik,Good,39,"CO, PM , O
+2.5 3",4/4,2024-06-20
+Nashik,Good,48,"O , PM , PM
+3 2.5 10",4/4,2024-06-21
+Nashik,Satisfactory,60,"CO, PM , PM
+10 2.5",4/4,2024-06-22
+Nashik,Satisfactory,53,"PM , PM , O
+10 2.5 3",3/4,2024-06-23
+Nashik,Good,43,"CO, O
+3",3/4,2024-06-24
+Nashik,Good,40,"O
+3",2/4,2024-06-25
+Nashik,Good,42,"CO, O
+3",3/4,2024-06-26
+Nashik,Good,35,"NO , CO, O
+2 3",4/4,2024-06-27
+Nashik,Good,33,"CO, PM , O
+10 3",4/4,2024-06-28
+Nashik,Good,39,"PM , CO
+10",4/4,2024-06-29
+Nashik,Good,42,"CO, PM
+10",4/4,2024-06-30
+Nashik,Good,32,"CO, PM , O
+10 3",4/4,2024-07-01
+Nashik,Good,45,"O , CO
+3",4/4,2024-07-02
+Nashik,Good,42,"PM
+10",3/4,2024-07-03
+Nashik,Good,44,"PM , O , PM
+2.5 3 10",4/4,2024-07-04
+Nashik,Good,34,"PM , O , CO
+10 3",4/4,2024-07-05
+Nashik,Good,36,"PM , O
+10 3",3/4,2024-07-06
+Nashik,Good,31,"CO, PM
+2.5",4/4,2024-07-07
+Nashik,Good,43,"PM , PM
+10 2.5",4/4,2024-07-08
+Nashik,Good,38,"PM , CO, NO
+2.5 2",4/4,2024-07-09
+Nashik,Good,38,"O , CO, PM
+3 10",4/4,2024-07-10
+Nashik,Good,42,"CO, PM , PM
+2.5 10",4/4,2024-07-11
+Nashik,Good,38,"PM , CO, NO
+10 2",4/4,2024-07-12
+Nashik,Good,37,"CO, O , NO
+3 2",4/4,2024-07-13
+Nashik,Good,34,"PM , CO, O
+10 3",4/4,2024-07-14
+Nashik,Good,44,"CO, PM
+2.5",4/4,2024-07-15
+Nashik,Satisfactory,67,"PM , CO
+2.5",4/4,2024-07-16
+Nashik,Satisfactory,56,"O , PM
+3 10",4/4,2024-07-17
+Nashik,Satisfactory,54,"PM , CO
+10",4/4,2024-07-18
+Nashik,Good,39,"CO, PM
+10",4/4,2024-07-19
+Nashik,Good,43,"PM , CO
+10",4/4,2024-07-20
+Nashik,Good,28,"CO, O
+3",3/4,2024-07-21
+Nashik,Good,46,"PM , PM , CO
+2.5 10",4/4,2024-07-22
+Nashik,Good,42,"CO, PM
+10",3/4,2024-07-23
+Nashik,Good,42,"PM , PM , CO
+10 2.5",4/4,2024-07-24
+Nashik,Good,29,"PM , O
+2.5 3",3/4,2024-07-25
+Nashik,Good,34,"PM , PM , CO
+2.5 10",4/4,2024-07-26
+Nashik,Good,37,"PM , PM
+2.5 10",4/4,2024-07-27
+Nashik,Good,45,"PM , CO, PM
+10 2.5",4/4,2024-07-28
+Nashik,Satisfactory,52,"PM , CO
+10",4/4,2024-07-29
+Nashik,Good,50,"PM , NO , CO
+10 2",4/4,2024-07-30
+Nashik,Good,44,"PM , NO , CO
+10 2",4/4,2024-07-31
+Nashik,Good,42,"CO, PM
+10",4/4,2024-08-01
+Nashik,Good,35,"NO , PM
+2 10",3/4,2024-08-02
+Nashik,Good,39,"PM , PM , CO
+10 2.5",4/4,2024-08-03
+Nashik,Good,31,"PM , NO , CO
+10 2",4/4,2024-08-04
+Nashik,Good,38,"PM , PM
+2.5 10",4/4,2024-08-05
+Nashik,Good,50,"PM , CO
+10",4/4,2024-08-06
+Nashik,Satisfactory,56,"PM , CO
+10",4/4,2024-08-07
+Nashik,Good,46,"PM , CO
+10",4/4,2024-08-08
+Nashik,Good,49,"CO, PM
+10",4/4,2024-08-09
+Nashik,Good,44,"NO , CO, PM
+2 10",4/4,2024-08-10
+Nashik,Good,38,"PM , CO, PM
+2.5 10",3/4,2024-08-11
+Nashik,Good,47,"CO, NO , PM
+2 10",3/4,2024-08-12
+Nashik,Good,47,"CO, PM
+10",4/4,2024-08-13
+Nashik,Good,49,"PM , CO, PM
+2.5 10",3/4,2024-08-14
+Nashik,Good,50,"PM , PM
+10 2.5",4/4,2024-08-15
+Nashik,Satisfactory,51,"PM , PM
+2.5 10",4/4,2024-08-16
+Nashik,Satisfactory,52,"PM , PM
+10 2.5",4/4,2024-08-17
+Nashik,Satisfactory,54,"PM , PM
+10 2.5",4/4,2024-08-18
+Nashik,Satisfactory,54,"PM , NO
+10 2",4/4,2024-08-19
+Nashik,Satisfactory,53,"NO , PM
+2 10",4/4,2024-08-20
+Nashik,Good,50,"NO , PM
+2 10",4/4,2024-08-21
+Nashik,Satisfactory,76,"PM , PM
+10 2.5",4/4,2024-08-22
+Nashik,Satisfactory,53,"PM , PM
+2.5 10",4/4,2024-08-23
+Nashik,Good,32,"O , PM
+3 10",4/4,2024-08-24
+Nashik,Good,26,"CO, PM , PM
+2.5 10",4/4,2024-08-25
+Nashik,Good,32,"PM , PM
+2.5 10",4/4,2024-08-26
+Nashik,Good,36,"PM , PM
+10 2.5",4/4,2024-08-27
+Nashik,Good,41,"PM , CO, PM
+2.5 10",4/4,2024-08-28
+Nashik,Satisfactory,55,"O , PM
+3 10",3/4,2024-08-29
+Nashik,Satisfactory,61,"PM
+10",3/4,2024-08-30
+Nashik,Satisfactory,51,"PM
+10",3/4,2024-08-31
+Nashik,Satisfactory,59,"PM
+10",3/4,2024-09-01
+Nashik,Satisfactory,62,"PM
+10",3/4,2024-09-02
+Nashik,Good,35,"PM , PM
+10 2.5",4/4,2024-09-03
+Nashik,Good,47,"PM , PM
+2.5 10",4/4,2024-09-04
+Nashik,Good,39,"PM , PM
+10 2.5",4/4,2024-09-05
+Nashik,Good,44,"PM , PM
+2.5 10",4/4,2024-09-06
+Nashik,Good,39,"PM , O
+10 3",4/4,2024-09-07
+Nashik,Good,32,"PM , PM
+10 2.5",4/4,2024-09-08
+Nashik,Good,33,"PM , O
+10 3",4/4,2024-09-09
+Nashik,Good,35,"PM , PM
+2.5 10",4/4,2024-09-10
+Nashik,Good,36,"PM , O
+10 3",4/4,2024-09-11
+Nashik,Good,39,"PM , O
+10 3",4/4,2024-09-12
+Nashik,Satisfactory,68,"PM , PM
+10 2.5",4/4,2024-09-13
+Nashik,Satisfactory,52,"PM , PM
+10 2.5",4/4,2024-09-14
+Nashik,Good,32,"O , PM
+3 10",4/4,2024-09-15
+Nashik,Good,46,"PM , PM
+10 2.5",4/4,2024-09-16
+Nashik,Satisfactory,57,"PM
+10",4/4,2024-09-17
+Nashik,Satisfactory,60,"PM
+10",4/4,2024-09-18
+Nashik,Satisfactory,82,"PM
+10",4/4,2024-09-19
+Nashik,Satisfactory,77,"PM
+10",4/4,2024-09-20
+Nashik,Satisfactory,77,"PM
+10",3/4,2024-09-21
+Nashik,Satisfactory,64,"PM
+10",4/4,2024-09-22
+Nashik,Satisfactory,85,"PM
+10",4/4,2024-09-23
+Nashik,Satisfactory,56,"PM
+10",4/4,2024-09-24
+Nashik,Good,42,"PM , O
+2.5 3",3/4,2024-09-25
+Nashik,Good,40,"CO, PM , O
+10 3",4/4,2024-09-26
+Nashik,Good,34,"PM , CO
+10",4/4,2024-09-27
+Nashik,Good,33,"PM , CO
+10",4/4,2024-09-28
+Nashik,Good,39,"PM , CO, O
+10 3",4/4,2024-09-29
+Nashik,Good,39,"PM , PM
+10 2.5",4/4,2024-09-30
+Nashik,Satisfactory,71,"PM
+10",4/4,2024-10-01
+Nashik,Satisfactory,93,"PM , PM
+10 2.5",4/4,2024-10-02
+Nashik,Satisfactory,82,"PM , PM
+10 2.5",4/4,2024-10-03
+Nashik,Satisfactory,51,"PM , PM
+2.5 10",4/4,2024-10-04
+Nashik,Good,44,"PM , PM
+10 2.5",4/4,2024-10-05
+Nashik,Satisfactory,65,"PM , PM , O
+10 2.5 3",3/4,2024-10-06
+Nashik,Moderate,103,"PM , PM
+10 2.5",4/4,2024-10-07
+Nashik,Moderate,113,"PM , PM
+2.5 10",4/4,2024-10-08
+Nashik,Satisfactory,95,"PM , PM
+10 2.5",4/4,2024-10-09
+Nashik,Satisfactory,70,"PM , PM
+2.5 10",4/4,2024-10-10
+Nashik,Good,40,"PM , PM
+10 2.5",2/4,2024-10-11
+Nashik,Good,41,"PM , PM
+2.5 10",3/4,2024-10-12
+Nashik,Good,38,"O , PM
+3 2.5",3/4,2024-10-13
+Nashik,Good,37,"PM , O , PM
+10 3 2.5",3/4,2024-10-14
+Nashik,Good,47,"PM , O , PM
+2.5 3 10",3/4,2024-10-15
+Nashik,Satisfactory,74,"PM
+10",4/4,2024-10-16
+Nashik,Satisfactory,82,"PM , PM
+10 2.5",4/4,2024-10-17
+Nashik,Moderate,104,"PM , PM
+2.5 10",4/4,2024-10-18
+Nashik,Good,48,"PM , O
+10 3",4/4,2024-10-19
+Nashik,Satisfactory,55,"CO, PM , O
+10 3",3/4,2024-10-20
+Nashik,Satisfactory,53,"O , PM
+3 10",3/4,2024-10-21
+Nashik,Satisfactory,52,"PM
+10",2/4,2024-10-22
+Nashik,Satisfactory,84,"PM
+10",3/4,2024-10-23
+Nashik,Moderate,111,"PM , PM
+10 2.5",4/4,2024-10-24
+Nashik,Moderate,111,"PM , PM
+2.5 10",4/4,2024-10-25
+Nashik,Moderate,115,"PM , PM
+2.5 10",4/4,2024-10-26
+Nashik,Moderate,110,"PM , PM
+2.5 10",4/4,2024-10-27
+Nashik,Moderate,120,"PM , PM
+2.5 10",4/4,2024-10-28
+Nashik,Moderate,120,"PM , PM
+2.5 10",4/4,2024-10-29
+Nashik,Moderate,148,"PM , PM
+10 2.5",4/4,2024-10-30
+Nashik,Moderate,141,"PM , PM
+2.5 10",4/4,2024-10-31
+Nashik,Moderate,164,"PM , PM
+2.5 10",4/4,2024-11-01
+Nashik,Poor,255,"PM
+2.5",3/4,2024-11-02
+Nashik,Moderate,166,"PM , PM
+10 2.5",4/4,2024-11-03
+Nashik,Moderate,183,"PM
+2.5",4/4,2024-11-04
+Nashik,Moderate,183,"PM , PM
+10 2.5",4/4,2024-11-05
+Nashik,Moderate,144,"PM , PM
+10 2.5",3/4,2024-11-06
+Nashik,Moderate,169,"PM , PM
+2.5 10",4/4,2024-11-07
+Nashik,Moderate,156,"PM , PM
+2.5 10",4/4,2024-11-08
+Nashik,Moderate,149,"PM , PM
+10 2.5",3/4,2024-11-09
+Nashik,Moderate,176,"PM , PM
+2.5 10",4/4,2024-11-10
+Nashik,Moderate,177,"PM
+2.5",4/4,2024-11-11
+Nashik,Moderate,164,"PM , PM
+10 2.5",3/4,2024-11-12
+Nashik,Moderate,144,"PM , PM
+2.5 10",3/4,2024-11-13
+Nashik,Moderate,153,"PM , PM
+2.5 10",4/4,2024-11-14
+Nashik,Moderate,135,"PM , PM
+10 2.5",3/4,2024-11-15
+Nashik,Moderate,194,"PM
+2.5",4/4,2024-11-16
+Nashik,Moderate,177,"PM
+2.5",4/4,2024-11-17
+Nashik,Moderate,142,"PM , PM
+10 2.5",4/4,2024-11-18
+Nashik,Moderate,147,"PM , PM
+2.5 10",4/4,2024-11-19
+Nashik,Moderate,182,"PM , PM
+2.5 10",4/4,2024-11-20
+Nashik,Moderate,196,"PM
+2.5",4/4,2024-11-21
+Nashik,Poor,239,"PM
+2.5",4/4,2024-11-22
+Nashik,Poor,270,"PM
+2.5",3/4,2024-11-23
+Nashik,Poor,259,"PM
+2.5",4/4,2024-11-24
+Nashik,Poor,263,"PM
+2.5",4/4,2024-11-25
+Nashik,Moderate,192,"PM , PM
+2.5 10",4/4,2024-11-26
+Nashik,Moderate,127,"PM , PM
+10 2.5",3/4,2024-11-27
+Nashik,Moderate,120,"PM , PM
+2.5 10",4/4,2024-11-28
+Nashik,Moderate,116,"PM , PM
+10 2.5",4/4,2024-11-29
+Nashik,Moderate,140,"PM , PM
+2.5 10",4/4,2024-11-30
+Nashik,Poor,204,"PM
+2.5",4/4,2024-12-01
+Nashik,Moderate,195,"PM
+2.5",4/4,2024-12-02
+Nashik,Moderate,140,"PM
+2.5",4/4,2024-12-03
+Nashik,Moderate,141,"PM
+2.5",4/4,2024-12-04
+Nashik,Satisfactory,86,"PM
+2.5",4/4,2024-12-05
+Nashik,Satisfactory,59,"PM , PM , CO
+2.5 10",4/4,2024-12-06
+Nashik,Satisfactory,73,"PM , PM
+2.5 10",4/4,2024-12-07
+Nashik,Satisfactory,61,"PM
+10",4/4,2024-12-08
+Nashik,Satisfactory,77,"PM
+10",3/4,2024-12-09
+Nashik,Satisfactory,91,"PM
+10",3/4,2024-12-10
+Nashik,Moderate,108,"PM , PM
+10 2.5",4/4,2024-12-11
+Nashik,Moderate,152,"PM
+2.5",4/4,2024-12-12
+Nashik,Moderate,111,"PM
+10",2/4,2024-12-13
+Nashik,Moderate,106,"PM , PM
+2.5 10",4/4,2024-12-14
+Nashik,Moderate,152,"PM
+2.5",4/4,2024-12-15
+Nashik,Moderate,145,"PM , PM
+10 2.5",4/4,2024-12-16
+Nashik,Moderate,169,"PM
+2.5",4/4,2024-12-17
+Nashik,Moderate,165,"PM
+2.5",4/4,2024-12-18
+Nashik,Moderate,175,"PM
+2.5",4/4,2024-12-19
+Nashik,Moderate,134,"PM
+2.5",4/4,2024-12-20
+Nashik,Moderate,169,"PM , PM
+10 2.5",3/4,2024-12-21
+Nashik,Moderate,184,"PM
+2.5",4/4,2024-12-22
+Nashik,Moderate,130,"PM
+2.5",4/4,2024-12-23
+Nashik,Moderate,163,"PM
+2.5",3/4,2024-12-24
+Nashik,Moderate,131,"PM , PM
+10 2.5",3/4,2024-12-25
+Nashik,Moderate,118,"PM
+2.5",4/4,2024-12-26
+Nashik,Moderate,110,"PM
+2.5",3/4,2024-12-27
+Nashik,Moderate,156,"PM
+2.5",4/4,2024-12-28
+Nashik,Moderate,111,"PM
+2.5",4/4,2024-12-29
+Nashik,Satisfactory,85,"PM , PM
+10 2.5",3/4,2024-12-30
+Nashik,Moderate,104,"PM , PM
+2.5 10",4/4,2024-12-31
+Nashik,Moderate,102,"PM , PM
+2.5 10",3/4,2025-01-02
+Nashik,Satisfactory,86,"PM , PM
+10 2.5",4/4,2025-01-03
+Nashik,Moderate,108,"PM , PM
+2.5 10",4/4,2025-01-04
+Nashik,Moderate,103,"PM
+2.5",3/4,2025-01-05
+Nashik,Moderate,101,"PM , PM
+2.5 10",4/4,2025-01-06
+Nashik,Satisfactory,98,"PM
+10",4/4,2025-01-07
+Nashik,Satisfactory,98,"PM , PM
+10 2.5",4/4,2025-01-08
+Nashik,Moderate,108,"PM , PM
+2.5 10",4/4,2025-01-09
+Nashik,Moderate,133,"PM , PM
+2.5 10",4/4,2025-01-10
+Nashik,Moderate,180,"PM
+2.5",3/4,2025-01-11
+Nashik,Moderate,159,"PM
+2.5",4/4,2025-01-12
+Nashik,Moderate,146,"PM
+2.5",4/4,2025-01-13
+Nashik,Moderate,134,"PM
+2.5",4/4,2025-01-14
+Nashik,Moderate,166,"PM
+2.5",3/4,2025-01-15
+Nashik,Moderate,166,"PM
+2.5",4/4,2025-01-16
+Nashik,Moderate,139,"PM
+2.5",4/4,2025-01-17
+Nashik,Moderate,133,"PM , PM
+10 2.5",3/4,2025-01-18
+Nashik,Moderate,120,"PM , PM
+2.5 10",3/4,2025-01-19
+Nashik,Moderate,136,"PM , PM
+2.5 10",3/4,2025-01-20
+Nashik,Moderate,139,"PM
+2.5",3/4,2025-01-21
+Nashik,Moderate,143,"PM , PM
+10 2.5",4/4,2025-01-22
+Nashik,Moderate,124,"PM , PM
+2.5 10",4/4,2025-01-23
+Nashik,Moderate,106,"PM , PM
+2.5 10",4/4,2025-01-24
+Nashik,Moderate,130,"PM , PM
+10 2.5",4/4,2025-01-25
+Nashik,Moderate,122,"PM , PM
+2.5 10",4/4,2025-01-26
+Nashik,Moderate,106,"PM , PM
+2.5 10",4/4,2025-01-27
+Nashik,Moderate,114,"PM , PM
+10 2.5",4/4,2025-01-28
+Nashik,Moderate,129,"PM
+2.5",4/4,2025-01-29
+Nashik,Moderate,111,"PM , PM
+10 2.5",4/4,2025-01-30
+Nashik,Satisfactory,87,"PM
+10",4/4,2025-01-31
+Nashik,Satisfactory,72,"PM
+10",4/4,2025-02-01
+Nashik,Satisfactory,99,"PM , PM
+10 2.5",4/4,2025-02-02
+Nashik,Moderate,115,"PM , PM
+10 2.5",3/4,2025-02-03
+Nashik,Moderate,111,"PM , PM
+2.5 10",4/4,2025-02-04
+Nashik,Satisfactory,89,"PM , PM
+2.5 10",4/4,2025-02-05
+Nashik,Satisfactory,92,"PM , PM
+10 2.5",4/4,2025-02-06
+Nashik,Satisfactory,94,"PM
+10",4/4,2025-02-07
+Nashik,Moderate,117,"PM , PM
+2.5 10",4/4,2025-02-08
+Nashik,Moderate,126,"PM , PM
+10 2.5",4/4,2025-02-09
+Nashik,Moderate,117,"PM , PM
+10 2.5",3/4,2025-02-10
+Nashik,Moderate,112,"PM
+10",4/4,2025-02-11
+Nashik,Moderate,104,"PM
+10",4/4,2025-02-12
+Nashik,Moderate,105,"PM
+10",4/4,2025-02-13
+Nashik,Moderate,114,"PM
+10",4/4,2025-02-14
+Nashik,Moderate,145,"PM , PM
+10 2.5",4/4,2025-02-15
+Nashik,Satisfactory,96,"PM
+10",4/4,2025-02-16
+Nashik,Satisfactory,81,"PM
+10",4/4,2025-02-17
+Nashik,Satisfactory,96,"PM
+10",4/4,2025-02-18
+Nashik,Moderate,104,"PM
+10",4/4,2025-02-19
+Nashik,Satisfactory,84,"PM , PM
+2.5 10",4/4,2025-02-20
+Nashik,Moderate,104,"PM
+10",4/4,2025-02-21
+Nashik,Moderate,115,"PM
+10",4/4,2025-02-22
+Nashik,Moderate,114,"PM
+10",3/4,2025-02-23
+Nashik,Moderate,124,"PM
+10",3/4,2025-02-24
+Nashik,Moderate,116,"PM , PM
+10 2.5",4/4,2025-02-25
+Nashik,Moderate,143,"PM , PM
+2.5 10",4/4,2025-02-26
+Nashik,Moderate,151,"PM , PM
+10 2.5",4/4,2025-02-27
+Nashik,Moderate,120,"PM , PM
+10 2.5",4/4,2025-02-28
+Nashik,Moderate,149,"PM , PM
+2.5 10",4/4,2025-03-01
+Nashik,Moderate,111,"PM
+10",4/4,2025-03-02
+Nashik,Moderate,126,"PM
+10",4/4,2025-03-03
+Nashik,Moderate,111,"PM
+10",4/4,2025-03-04
+Nashik,Moderate,112,"PM
+10",4/4,2025-03-05
+Nashik,Moderate,118,"PM
+10",4/4,2025-03-06
+Nashik,Moderate,124,"PM
+10",4/4,2025-03-07
+Nashik,Moderate,128,"PM
+10",3/4,2025-03-08
+Nashik,Moderate,114,"PM , PM
+10 2.5",4/4,2025-03-09
+Nashik,Moderate,120,"PM
+10",2/4,2025-03-10
+Nashik,Moderate,168,"PM
+2.5",3/4,2025-03-11
+Nashik,Moderate,163,"PM
+2.5",3/4,2025-03-12
+Nashik,Moderate,157,"PM , PM
+2.5 10",3/4,2025-03-13
+Nashik,Moderate,133,"PM , PM
+2.5 10",4/4,2025-03-14
+Nashik,Satisfactory,70,"PM
+10",3/4,2025-03-15
+Nashik,Satisfactory,76,"PM
+10",3/4,2025-03-16
+Nashik,Satisfactory,92,"PM , PM
+2.5 10",3/4,2025-03-17
+Nashik,Moderate,120,"PM
+10",4/4,2025-03-18
+Nashik,Moderate,118,"PM , PM
+10 2.5",4/4,2025-03-19
+Nashik,Moderate,103,"PM
+10",4/4,2025-03-20
+Nashik,Satisfactory,92,"PM
+10",4/4,2025-03-21
+Nashik,Satisfactory,90,"PM
+10",4/4,2025-03-22
+Nashik,Moderate,107,"PM
+10",4/4,2025-03-23
+Nashik,Moderate,103,"PM , PM
+2.5 10",4/4,2025-03-24
+Nashik,Moderate,134,"PM , PM
+10 2.5",3/4,2025-03-25
+Nashik,Moderate,122,"PM , PM
+2.5 10",4/4,2025-03-26
+Nashik,Satisfactory,85,"PM
+10",4/4,2025-03-27
+Nashik,Satisfactory,87,"PM
+10",3/4,2025-03-28
+Nashik,Moderate,126,"PM
+10",4/4,2025-03-29
+Nashik,Moderate,127,"PM , PM
+10 2.5",4/4,2025-03-30
+Nashik,Moderate,134,"PM , PM
+2.5 10",4/4,2025-03-31
+Nashik,Moderate,148,"PM , PM
+2.5 10",4/4,2025-04-01
+Nashik,Moderate,125,"PM , PM
+2.5 10",4/4,2025-04-02
+Nashik,Moderate,127,"PM
+2.5",4/4,2025-04-03
+Nashik,Moderate,133,"PM , PM
+2.5 10",3/4,2025-04-04
+Nashik,Satisfactory,96,"PM
+10",4/4,2025-04-05
+Nashik,Moderate,116,"PM , PM
+2.5 10",4/4,2025-04-06
+Nashik,Moderate,115,"PM , PM
+2.5 10",4/4,2025-04-07
+Nashik,Satisfactory,96,"PM
+10",4/4,2025-04-08
+Nashik,Moderate,102,"PM
+10",4/4,2025-04-09
+Nashik,Moderate,105,"PM , PM
+10 2.5",4/4,2025-04-10
+Nashik,Satisfactory,93,"PM
+10",4/4,2025-04-11
+Nashik,Satisfactory,98,"PM
+10",4/4,2025-04-12
+Nashik,Satisfactory,82,"PM
+10",3/4,2025-04-13
+Nashik,Satisfactory,79,"PM
+10",3/4,2025-04-14
+Nashik,Satisfactory,83,"PM
+10",4/4,2025-04-15
+Nashik,Satisfactory,96,"PM , PM
+2.5 10",4/4,2025-04-16
+Nashik,Satisfactory,94,"PM
+10",4/4,2025-04-17
+Nashik,Satisfactory,77,"PM
+10",4/4,2025-04-18
+Nashik,Satisfactory,80,"PM , O
+10 3",4/4,2025-04-19
+Nashik,Satisfactory,96,"PM
+10",4/4,2025-04-20
+Nashik,Moderate,114,"PM
+10",4/4,2025-04-21
+Nashik,Moderate,112,"PM
+10",4/4,2025-04-22
+Nashik,Moderate,116,"PM , PM
+2.5 10",4/4,2025-04-23
+Nashik,Moderate,111,"PM , PM
+2.5 10",4/4,2025-04-24
+Nashik,Satisfactory,94,"PM
+10",4/4,2025-04-25
+Nashik,Satisfactory,90,"PM
+10",4/4,2025-04-26
+Nashik,Satisfactory,89,"PM
+10",4/4,2025-04-27
+Nashik,Moderate,101,"PM
+10",4/4,2025-04-28
+Nashik,Moderate,106,"PM
+10",4/4,2025-04-29
+Nashik,Satisfactory,91,"PM
+10",4/4,2025-04-30
+Nashik,Satisfactory,87,"PM
+10",3/4,2025-05-01
+Nashik,Satisfactory,72,"PM
+10",3/4,2025-05-02
+Nashik,Satisfactory,66,"PM
+10",3/4,2025-05-03
+Nashik,Satisfactory,68,"PM
+10",3/4,2025-05-04
+Nashik,Satisfactory,80,"PM
+10",3/4,2025-05-05
+Nashik,Satisfactory,79,"PM
+10",3/4,2025-05-06
+Nashik,Satisfactory,84,"PM
+10",4/4,2025-05-07
+Nashik,Good,48,"PM , O
+10 3",4/4,2025-05-08
+Nashik,Good,46,"PM , O
+10 3",3/4,2025-05-09
+Nashik,Good,50,"O , PM
+3 10",4/4,2025-05-10
+Nashik,Good,50,"PM , O
+10 3",4/4,2025-05-11
+Nashik,Satisfactory,64,"PM , PM
+10 2.5",4/4,2025-05-12
+Nashik,Satisfactory,56,"PM , PM
+10 2.5",3/4,2025-05-13
+Nashik,Satisfactory,65,"PM
+10",3/4,2025-05-14
+Nashik,Satisfactory,76,"PM
+10",4/4,2025-05-15
+Nashik,Satisfactory,61,"PM
+10",2/4,2025-05-16
+Nashik,Satisfactory,54,"NO , PM
+2 10",4/4,2025-05-17
+Nashik,Satisfactory,54,"PM
+10",4/4,2025-05-18
+Nashik,Satisfactory,63,"PM
+10",4/4,2025-05-19
+Nashik,Satisfactory,72,"PM
+10",4/4,2025-05-20
+Nashik,Satisfactory,63,"PM
+10",4/4,2025-05-21
+Nashik,Satisfactory,61,"PM
+10",3/4,2025-05-22
+Nashik,Satisfactory,66,"PM
+10",4/4,2025-05-23
+Nashik,Satisfactory,54,"PM
+10",4/4,2025-05-24
+Nashik,Satisfactory,70,"PM
+10",4/4,2025-05-25
+Nashik,Satisfactory,81,"PM
+10",4/4,2025-05-26
+Nashik,Satisfactory,72,"PM
+10",3/4,2025-05-27
+Nashik,Satisfactory,60,"PM
+10",4/4,2025-05-28
+Nashik,Satisfactory,70,"PM
+10",4/4,2025-05-29
+Nashik,Satisfactory,100,"PM
+10",4/4,2025-05-30
+Nashik,Satisfactory,90,"PM
+10",4/4,2025-05-31
+Nashik,Satisfactory,74,"PM
+10",4/4,2025-06-01
+Nashik,Satisfactory,68,"PM
+10",4/4,2025-06-02
+Nashik,Satisfactory,80,"PM
+10",4/4,2025-06-03
+Nashik,Satisfactory,56,"PM
+10",3/4,2025-06-04
+Nashik,Satisfactory,85,"PM
+10",3/4,2025-06-05
+Nashik,Satisfactory,53,"PM
+10",3/4,2025-06-06
+Nashik,Satisfactory,52,"PM
+10",3/4,2025-06-07
+Nashik,Satisfactory,63,"PM
+10",4/4,2025-06-08
+Nashik,Satisfactory,75,"PM , PM
+2.5 10",4/4,2025-06-09
+Nashik,Satisfactory,69,"PM , PM
+10 2.5",4/4,2025-06-10
+Nashik,Satisfactory,52,"PM
+10",4/4,2025-06-11
+Nashik,Satisfactory,84,"PM , PM
+10 2.5",4/4,2025-06-12
+Nashik,Satisfactory,62,"PM
+10",4/4,2025-06-13
+Nashik,Satisfactory,64,"PM
+10",4/4,2025-06-14
+Nashik,Satisfactory,62,"PM , PM
+10 2.5",3/4,2025-06-15
+Nashik,Good,46,"PM , PM
+10 2.5",4/4,2025-06-16
+Nashik,Satisfactory,51,"PM , PM
+10 2.5",4/4,2025-06-17
+Nashik,Satisfactory,57,"PM
+10",4/4,2025-06-18
+Nashik,Good,42,"O , PM
+3 10",2/4,2025-06-19
+Nashik,Satisfactory,52,"PM
+10",4/4,2025-06-20
+Nashik,Satisfactory,53,"PM
+10",4/4,2025-06-21
+Nashik,Satisfactory,54,"PM
+10",4/4,2025-06-22
+Nashik,Good,45,"PM
+10",4/4,2025-06-23
+Nashik,Good,47,"PM
+10",4/4,2025-06-24
+Nashik,Satisfactory,72,"PM
+10",4/4,2025-06-25
+Nashik,Satisfactory,67,"PM
+10",4/4,2025-06-26
+Nashik,Satisfactory,61,"PM
+10",4/4,2025-06-27
+Nashik,Satisfactory,67,"PM
+10",4/4,2025-06-28
+Nashik,Satisfactory,51,"PM
+10",3/4,2025-06-29
+Nashik,Satisfactory,53,"PM
+10",4/4,2025-06-30
+Nashik,Good,39,"PM
+10",4/4,2025-07-01
+Nashik,Good,32,"PM , O
+10 3",4/4,2025-07-02
+Nashik,Good,33,"O , PM
+3 10",3/4,2025-07-03
+Nashik,Good,31,"PM , O
+10 3",4/4,2025-07-04
+Nashik,Good,40,"PM
+10",4/4,2025-07-05
+Nashik,Good,25,"O , NO , CO
+3 2",3/4,2025-07-06
+Nashik,Good,27,"NO , PM
+2 10",3/4,2025-07-07
+Nashik,Good,45,"PM
+10",3/4,2025-07-08
+Nashik,Satisfactory,59,"PM
+10",4/4,2025-07-09
+Nashik,Satisfactory,71,"PM
+10",4/4,2025-07-10
+Nashik,Satisfactory,66,"PM
+10",4/4,2025-07-11
+Nashik,Satisfactory,56,"PM
+10",4/4,2025-07-12
+Nashik,Satisfactory,59,"PM
+10",3/4,2025-07-13
+Nashik,Good,35,"PM
+10",3/4,2025-07-14
+Nashik,Good,28,"PM
+10",4/4,2025-07-15
+Nashik,Satisfactory,55,"PM
+10",3/4,2025-07-16
+Nashik,Satisfactory,82,"PM
+10",4/4,2025-07-17
+Nashik,Satisfactory,82,"PM
+10",3/4,2025-07-18
+Nashik,Satisfactory,69,"PM
+10",3/4,2025-07-19
+Nashik,Satisfactory,60,"PM
+10",4/4,2025-07-20
+Nashik,Satisfactory,52,"PM , PM
+2.5 10",4/4,2025-07-21
+Nashik,Good,43,"PM
+10",4/4,2025-07-22
+Nashik,Good,38,"PM
+10",4/4,2025-07-23
+Nashik,Good,39,"PM
+10",4/4,2025-07-24
+Nashik,Good,30,"PM
+10",4/4,2025-07-25
+Nashik,Good,22,"CO, PM , NO
+10 2",4/4,2025-07-26
+Nashik,Good,32,"PM
+10",4/4,2025-07-27
+Nashik,Good,34,"PM
+10",4/4,2025-07-28
+Nashik,Good,32,"PM
+10",4/4,2025-07-29
+Nashik,Good,40,"PM , PM
+10 2.5",4/4,2025-07-30
+Nashik,Satisfactory,51,"PM
+10",4/4,2025-07-31
+Nashik,Satisfactory,60,"PM
+10",4/4,2025-08-01
+Nashik,Satisfactory,60,"PM
+10",4/4,2025-08-02
+Nashik,Satisfactory,54,"PM
+10",3/4,2025-08-03
+Nashik,Satisfactory,66,"PM
+10",4/4,2025-08-04
+Nashik,Satisfactory,64,"PM
+10",4/4,2025-08-05
+Nashik,Satisfactory,68,"PM
+10",4/4,2025-08-06
+Nashik,Satisfactory,68,"PM
+10",4/4,2025-08-07
+Nashik,Satisfactory,72,"PM
+10",4/4,2025-08-08
+Nashik,Satisfactory,62,"PM
+10",4/4,2025-08-09
+Nashik,Satisfactory,64,"PM
+10",4/4,2025-08-10
+Nashik,Good,50,"PM
+10",3/4,2025-08-11
+Nashik,Satisfactory,62,"PM
+10",4/4,2025-08-12
+Nashik,Good,50,"PM
+10",4/4,2025-08-13
+Nashik,Good,38,"PM
+10",4/4,2025-08-14
+Nashik,Good,41,"PM
+10",4/4,2025-08-15
+Nashik,Good,28,"O , PM
+3 10",3/4,2025-08-16
+Nashik,Good,32,"PM
+10",4/4,2025-08-17
+Nashik,Good,34,"PM , NO
+10 2",3/4,2025-08-18
+Nashik,Good,26,"NO , PM
+2 10",4/4,2025-08-19
+Nashik,Good,22,"PM , O , CO
+10 3",4/4,2025-08-20
+Nashik,Good,21,"PM , O , PM
+2.5 3 10",4/4,2025-08-21
+Nashik,Good,28,"PM
+10",4/4,2025-08-22
+Nashik,Good,28,"PM , PM
+2.5 10",4/4,2025-08-23
+Nashik,Good,26,"PM , PM
+2.5 10",4/4,2025-08-24
+Nashik,Good,43,"PM
+10",4/4,2025-08-25
+Nashik,Good,24,"PM , PM
+2.5 10",4/4,2025-08-26
+Nashik,Good,24,"PM
+10",4/4,2025-08-27
+Nashik,Good,38,"PM
+10",4/4,2025-08-28
+Nashik,Good,36,"PM
+10",4/4,2025-08-29
+Nashik,Good,29,"PM
+10",3/4,2025-08-30
+Nashik,Good,39,"PM
+10",3/4,2025-08-31
+Nashik,Good,26,"PM , PM
+10 2.5",2/4,2025-09-01
+Nashik,Good,28,"PM , PM
+2.5 10",3/4,2025-09-02
+Nashik,Good,49,"PM
+10",4/4,2025-09-03
+Nashik,Satisfactory,53,"PM
+10",4/4,2025-09-04
+Nashik,Good,35,"O , PM
+3 10",4/4,2025-09-05
+Nashik,Good,30,"PM , PM
+10 2.5",4/4,2025-09-06
+Nashik,Good,18,"PM , O
+10 3",4/4,2025-09-07
+Nashik,Good,44,"PM
+10",4/4,2025-09-08
+Nashik,Satisfactory,75,"PM
+10",4/4,2025-09-09
+Nashik,Satisfactory,75,"PM
+10",4/4,2025-09-10
+Nashik,Satisfactory,75,"PM
+10",4/4,2025-09-11
+Nashik,Satisfactory,64,"PM
+10",4/4,2025-09-12
+Nashik,Satisfactory,51,"PM
+10",4/4,2025-09-13
+Nashik,Satisfactory,58,"PM , PM
+2.5 10",4/4,2025-09-14
+Nashik,Satisfactory,74,"PM , PM
+2.5 10",4/4,2025-09-15
+Nashik,Good,45,"PM
+10",3/4,2025-09-16
+Nashik,Good,38,"PM , PM
+2.5 10",4/4,2025-09-17
+Nashik,Good,37,"PM
+10",4/4,2025-09-18
+Nashik,Good,38,"PM , PM
+2.5 10",4/4,2025-09-19
+Nashik,Good,31,"PM , PM
+10 2.5",4/4,2025-09-20
+Nashik,Good,47,"PM
+10",4/4,2025-09-21
+Nashik,Good,46,"PM
+10",4/4,2025-09-22
+Nashik,Good,27,"PM
+10",4/4,2025-09-23
+Nashik,Good,39,"PM
+10",4/4,2025-09-24
+Nashik,Good,43,"PM
+10",4/4,2025-09-25
+Nashik,Good,44,"PM
+10",4/4,2025-09-26
+Nashik,Good,48,"PM
+10",4/4,2025-09-27
+Nashik,Good,34,"PM , CO
+10",4/4,2025-09-28
+Nashik,Good,29,"O , CO
+3",4/4,2025-09-29
+Nashik,Good,34,"PM
+10",4/4,2025-09-30
+Nashik,Good,39,"PM
+10",4/4,2025-10-01
+Nashik,Good,42,"PM
+10",4/4,2025-10-02
+Nashik,Good,39,"PM
+10",4/4,2025-10-03
+Nashik,Good,48,"PM
+10",4/4,2025-10-04
+Nashik,Good,40,"PM
+10",3/4,2025-10-05
+Nashik,Satisfactory,53,"PM
+10",4/4,2025-10-06
+Nashik,Good,50,"PM
+10",4/4,2025-10-07
+Nashik,Satisfactory,59,"PM
+10",4/4,2025-10-08
+Nashik,Moderate,116,"PM
+10",4/4,2025-10-09
+Nashik,Moderate,134,"PM
+10",4/4,2025-10-10
+Nashik,Moderate,165,"PM
+10",3/4,2025-10-11
+Nashik,Moderate,147,"PM
+10",3/4,2025-10-12
+Nashik,Moderate,130,"PM
+10",3/4,2025-10-13
+Nashik,Moderate,112,"PM
+10",4/4,2025-10-14
+Nashik,Moderate,130,"PM
+10",4/4,2025-10-15
+Nashik,Satisfactory,82,"PM , PM
+10 2.5",4/4,2025-10-16
+Nashik,Satisfactory,92,"PM
+10",4/4,2025-10-17
+Nashik,Satisfactory,96,"PM , PM
+10 2.5",4/4,2025-10-18
+Nashik,Moderate,111,"PM , PM
+10 2.5",4/4,2025-10-19
+Nashik,Moderate,176,"PM
+2.5",4/4,2025-10-20
+Nashik,Moderate,158,"PM
+2.5",4/4,2025-10-21
+Nashik,Moderate,117,"PM
+2.5",4/4,2025-10-22
+Nashik,Satisfactory,66,"PM , PM
+2.5 10",4/4,2025-10-23
+Nashik,Satisfactory,58,"PM , PM
+2.5 10",4/4,2025-10-24
+Nashik,Good,34,"PM , CO
+10",4/4,2025-10-25
+Nashik,Good,32,"PM , CO
+10",4/4,2025-10-26
+Nashik,Good,31,"CO, PM , O
+2.5 3",4/4,2025-10-27
+Nashik,Good,31,"CO, PM
+10",4/4,2025-10-28
+Nashik,Good,46,"PM
+10",4/4,2025-10-29
+Nashik,Satisfactory,70,"PM
+10",3/4,2025-10-30
+Nashik,Satisfactory,62,"PM
+10",4/4,2025-10-31
+Nashik,Good,43,"PM
+10",4/4,2025-11-01
+Nashik,Good,30,"O , PM , PM
+3 2.5 10",4/4,2025-11-02
+Nashik,Good,30,"O , PM
+3 10",4/4,2025-11-03
+Nashik,Good,47,"PM , PM
+10 2.5",3/4,2025-11-04
+Nashik,Good,50,"PM
+10",4/4,2025-11-05
+Nashik,Satisfactory,71,"PM
+10",4/4,2025-11-06
+Nashik,Satisfactory,89,"PM
+10",4/4,2025-11-07
+Nashik,Moderate,102,"PM
+10",4/4,2025-11-08
+Nashik,Satisfactory,90,"PM
+10",3/4,2025-11-09
+Nashik,Moderate,118,"PM
+10",2/4,2025-11-10
+Nashik,Moderate,144,"PM , PM
+10 2.5",3/4,2025-11-11
+Nashik,Moderate,146,"PM , PM
+10 2.5",3/4,2025-11-12
+Nashik,Moderate,175,"PM , PM
+10 2.5",4/4,2025-11-13
+Nashik,Moderate,150,"PM
+2.5",3/4,2025-11-14
+Nashik,Moderate,145,"PM
+2.5",4/4,2025-11-15
+Nashik,Moderate,139,"PM
+2.5",4/4,2025-11-16
+Nashik,Moderate,142,"PM
+2.5",4/4,2025-11-17
+Nashik,Moderate,139,"PM
+2.5",4/4,2025-11-18
+Nashik,Moderate,169,"PM , PM
+2.5 10",4/4,2025-11-19
+Nashik,Moderate,176,"PM , PM
+10 2.5",4/4,2025-11-20
+Nashik,Moderate,170,"PM , PM
+10 2.5",3/4,2025-11-21
+Nashik,Moderate,182,"PM
+2.5",4/4,2025-11-22
+Nashik,Moderate,115,"PM , PM
+2.5 10",3/4,2025-11-23
+Nashik,Moderate,107,"PM
+10",3/4,2025-11-24
+Nashik,Moderate,102,"PM
+10",3/4,2025-11-25
+Nashik,Moderate,105,"PM
+10",4/4,2025-11-26
+Nashik,Moderate,102,"PM
+10",4/4,2025-11-27
+Nashik,Moderate,146,"PM
+2.5",4/4,2025-11-28
+Nashik,Moderate,129,"PM , PM
+2.5 10",3/4,2025-11-29
+Nashik,Satisfactory,99,"PM
+10",3/4,2025-11-30
+Nashik,Moderate,110,"PM , PM
+10 2.5",3/4,2025-12-01
+Nashik,Moderate,142,"PM , PM
+10 2.5",4/4,2025-12-02
+Nashik,Moderate,136,"PM
+2.5",4/4,2025-12-03
+Nashik,Moderate,135,"PM , PM
+2.5 10",4/4,2025-12-04
+Nashik,Moderate,127,"PM
+2.5",4/4,2025-12-05
+Nashik,Moderate,116,"PM , PM
+2.5 10",4/4,2025-12-06
+Nashik,Moderate,107,"PM
+10",4/4,2025-12-07
+Nashik,Moderate,104,"PM
+10",4/4,2025-12-08
+Nashik,Moderate,106,"PM
+10",4/4,2025-12-09
+Nashik,Satisfactory,95,"PM
+10",4/4,2025-12-10
+Nashik,Moderate,112,"PM
+10",4/4,2025-12-11
+Nashik,Moderate,111,"PM
+10",4/4,2025-12-12
+Nashik,Moderate,125,"PM , PM
+10 2.5",3/4,2025-12-13
+Nashik,Moderate,107,"PM
+10",4/4,2025-12-14

@@ -1,0 +1,3323 @@
+City,Air Quality,Index Value,Prominent Pollutant,No. of Stations Participated / Total Stations (Based on Number of Monitoring Stations),Date
+Charkhi Dadri,Moderate,134,"PM
+10",1,2020-04-23
+Charkhi Dadri,Moderate,147,"PM
+10",1,2020-04-24
+Charkhi Dadri,Moderate,119,"PM
+2.5",1,2020-04-28
+Charkhi Dadri,Poor,233,"PM
+2.5",1,2020-04-29
+Charkhi Dadri,Very Poor,320,"PM
+2.5",1,2020-04-30
+Charkhi Dadri,Very Poor,367,"PM
+2.5",1,2020-05-01
+Charkhi Dadri,Poor,227,"PM
+10",1,2020-05-13
+Charkhi Dadri,Moderate,143,"PM
+10",1,2020-05-14
+Charkhi Dadri,Poor,206,"PM
+2.5",1,2020-05-15
+Charkhi Dadri,Poor,275,"PM
+2.5",1,2020-05-19
+Charkhi Dadri,Poor,206,"PM
+10",1,2020-05-22
+Charkhi Dadri,Moderate,165,"O
+3",1,2020-06-02
+Charkhi Dadri,Moderate,155,"PM
+2.5",1,2020-06-03
+Charkhi Dadri,Moderate,197,"PM
+2.5",1,2020-06-04
+Charkhi Dadri,Moderate,156,"PM
+2.5",1,2020-06-05
+Charkhi Dadri,Moderate,112,"PM
+10",1,2020-06-08
+Charkhi Dadri,Moderate,148,"PM
+10",1,2020-06-09
+Charkhi Dadri,Moderate,142,"PM
+10",1,2020-06-10
+Charkhi Dadri,Moderate,110,"PM
+10",1,2020-06-11
+Charkhi Dadri,Moderate,134,"PM
+10",1,2020-06-12
+Charkhi Dadri,Moderate,151,"O
+3",1,2020-06-15
+Charkhi Dadri,Moderate,187,"PM
+2.5",1,2020-06-16
+Charkhi Dadri,Moderate,174,"O
+3",1,2020-06-17
+Charkhi Dadri,Poor,236,"PM
+2.5",1,2020-06-18
+Charkhi Dadri,Very Poor,351,"PM
+2.5",1,2020-06-19
+Charkhi Dadri,Moderate,121,"PM
+2.5",1,2020-06-22
+Charkhi Dadri,Moderate,158,"O
+3",1,2020-06-23
+Charkhi Dadri,Moderate,103,"PM
+2.5",1,2020-06-24
+Charkhi Dadri,Moderate,103,"PM
+2.5",1,2020-06-25
+Charkhi Dadri,Moderate,151,"PM
+2.5",1,2020-06-26
+Charkhi Dadri,Poor,255,"PM
+2.5",1,2020-06-29
+Charkhi Dadri,Moderate,183,"PM
+2.5",1,2020-06-30
+Charkhi Dadri,Moderate,173,"PM
+2.5",1,2020-07-01
+Charkhi Dadri,Moderate,161,"PM
+10",1,2020-07-02
+Charkhi Dadri,Very Poor,308,"PM
+2.5",1,2020-07-03
+Charkhi Dadri,Moderate,110,"PM
+2.5",1,2020-07-07
+Charkhi Dadri,Satisfactory,67,"PM
+2.5",1,2020-07-08
+Charkhi Dadri,Satisfactory,54,"PM
+2.5",1,2020-07-09
+Charkhi Dadri,Satisfactory,90,"PM
+2.5",1,2020-07-10
+Charkhi Dadri,Good,42,CO,1,2020-07-22
+Charkhi Dadri,Satisfactory,64,"O
+3",1,2020-07-23
+Charkhi Dadri,Satisfactory,94,"PM
+10",1,2020-07-24
+Charkhi Dadri,Moderate,107,"PM
+10",1,2020-07-27
+Charkhi Dadri,Satisfactory,80,"PM
+10",1,2020-07-28
+Charkhi Dadri,Satisfactory,93,"PM
+10",1,2020-07-29
+Charkhi Dadri,Satisfactory,94,"PM
+2.5",1,2020-07-30
+Charkhi Dadri,Satisfactory,70,"PM
+2.5",1,2020-07-31
+Charkhi Dadri,Satisfactory,83,"PM
+2.5",1,2020-08-03
+Charkhi Dadri,Moderate,103,"PM
+2.5",1,2020-08-04
+Charkhi Dadri,Moderate,164,"PM
+2.5",1,2020-08-05
+Charkhi Dadri,Moderate,108,"PM
+2.5",1,2020-08-06
+Charkhi Dadri,Satisfactory,58,"PM
+2.5",1,2020-08-07
+Charkhi Dadri,Satisfactory,58,"PM
+10",1,2020-08-11
+Charkhi Dadri,Satisfactory,60,"PM
+10",1,2020-08-12
+Charkhi Dadri,Satisfactory,55,"PM
+10",1,2020-08-13
+Charkhi Dadri,Good,48,"PM
+10",1,2020-08-14
+Charkhi Dadri,Satisfactory,67,"PM
+2.5",1,2020-08-17
+Charkhi Dadri,Satisfactory,95,"PM
+2.5",1,2020-08-18
+Charkhi Dadri,Satisfactory,64,"PM
+2.5",1,2020-08-19
+Charkhi Dadri,Good,49,"O
+3",1,2020-08-20
+Charkhi Dadri,Satisfactory,66,"O
+3",1,2020-08-21
+Charkhi Dadri,Good,49,"PM
+2.5",1,2020-08-24
+Charkhi Dadri,Satisfactory,63,"PM
+2.5",1,2020-08-25
+Charkhi Dadri,Good,38,"O
+3",1,2020-08-31
+Charkhi Dadri,Satisfactory,63,"PM
+10",1,2020-09-01
+Charkhi Dadri,Satisfactory,51,"PM
+10",1,2020-09-02
+Charkhi Dadri,Satisfactory,73,"PM
+10",1,2020-09-03
+Charkhi Dadri,Satisfactory,82,"PM
+10",1,2020-09-04
+Charkhi Dadri,Satisfactory,55,"PM
+10",1,2020-09-07
+Charkhi Dadri,Satisfactory,54,"O
+3",1,2020-09-08
+Charkhi Dadri,Poor,202,"PM
+2.5",1,2020-09-09
+Charkhi Dadri,Poor,245,"PM
+2.5",1,2020-09-10
+Charkhi Dadri,Poor,222,"PM
+2.5",1,2020-09-11
+Charkhi Dadri,Satisfactory,76,"O
+3",1,2020-09-14
+Charkhi Dadri,Satisfactory,90,"PM
+2.5",1,2020-09-15
+Charkhi Dadri,Moderate,154,"PM
+10",1,2020-09-16
+Charkhi Dadri,Poor,244,"PM
+2.5",1,2020-09-17
+Charkhi Dadri,Moderate,171,"PM
+2.5",1,2020-09-18
+Charkhi Dadri,Moderate,121,"PM
+2.5",1,2020-09-24
+Charkhi Dadri,Poor,248,"PM
+2.5",1,2020-09-25
+Charkhi Dadri,Very Poor,305,"PM
+2.5",1,2020-09-29
+Charkhi Dadri,Poor,246,"PM
+2.5",1,2020-09-30
+Charkhi Dadri,Poor,270,"PM
+2.5",1,2020-10-01
+Charkhi Dadri,Poor,300,"PM
+2.5",1,2020-10-02
+Charkhi Dadri,Very Poor,313,"PM
+2.5",1,2020-10-06
+Charkhi Dadri,Very Poor,320,"PM
+2.5",1,2020-10-07
+Charkhi Dadri,Poor,275,"PM
+2.5",1,2020-10-08
+Charkhi Dadri,Poor,233,"PM
+2.5",1,2020-10-09
+Charkhi Dadri,Poor,253,"PM
+10",1,2020-10-12
+Charkhi Dadri,Very Poor,314,"PM
+2.5",1,2020-10-13
+Charkhi Dadri,Very Poor,343,"PM
+2.5",1,2020-10-14
+Charkhi Dadri,Very Poor,337,"PM
+2.5",1,2020-10-15
+Charkhi Dadri,Poor,268,"PM
+2.5",1,2020-10-16
+Charkhi Dadri,Poor,279,"PM
+2.5",1,2020-10-20
+Charkhi Dadri,Poor,290,"PM
+2.5",1,2020-10-21
+Charkhi Dadri,Poor,240,"PM
+2.5",1,2020-10-22
+Charkhi Dadri,Very Poor,338,"PM
+2.5",1,2020-10-23
+Charkhi Dadri,Severe,411,"PM
+2.5",1,2020-10-27
+Charkhi Dadri,Very Poor,386,"PM
+2.5",1,2020-10-28
+Charkhi Dadri,Severe,418,"PM
+2.5",1,2020-10-29
+Charkhi Dadri,Very Poor,338,"PM
+2.5",1,2020-10-30
+Charkhi Dadri,Poor,233,"PM
+2.5",1,2020-11-03
+Charkhi Dadri,Very Poor,362,"PM
+2.5",1,2020-11-05
+Charkhi Dadri,Very Poor,339,"PM
+2.5",1,2020-11-06
+Charkhi Dadri,Severe,434,"PM
+2.5",1,2020-11-09
+Charkhi Dadri,Severe,431,"PM
+2.5",1,2020-11-10
+Charkhi Dadri,Very Poor,326,"PM
+2.5",1,2020-11-11
+Charkhi Dadri,Very Poor,388,"PM
+2.5",1,2020-11-12
+Charkhi Dadri,Poor,241,"PM
+2.5",1,2020-11-13
+Charkhi Dadri,Severe,432,"PM
+10",1,2020-11-25
+Charkhi Dadri,Moderate,138,"PM
+2.5",1,2020-11-26
+Charkhi Dadri,Moderate,128,"PM
+2.5",1,2020-11-27
+Charkhi Dadri,Moderate,143,"PM
+2.5",1,2020-11-28
+Charkhi Dadri,Moderate,192,"PM
+2.5",1,2020-11-29
+Charkhi Dadri,Poor,240,"PM
+10",1,2020-11-30
+Charkhi Dadri,Poor,244,"PM
+10",1,2020-12-01
+Charkhi Dadri,Poor,263,"PM
+2.5",1,2020-12-02
+Charkhi Dadri,Poor,236,"PM
+2.5",1,2020-12-03
+Charkhi Dadri,Poor,278,"PM
+2.5",1,2020-12-04
+Charkhi Dadri,Poor,274,"PM
+2.5",1,2020-12-05
+Charkhi Dadri,Poor,299,"PM
+2.5",1,2020-12-06
+Charkhi Dadri,Very Poor,318,"PM
+2.5",1,2020-12-09
+Charkhi Dadri,Moderate,146,"PM
+2.5",1,2020-12-10
+Charkhi Dadri,Poor,228,"PM
+2.5",1,2020-12-11
+Charkhi Dadri,Moderate,166,"PM
+10",1,2020-12-12
+Charkhi Dadri,Moderate,126,"PM
+10",1,2020-12-13
+Charkhi Dadri,Moderate,135,"PM
+10",1,2020-12-14
+Charkhi Dadri,Moderate,124,"PM
+10",1,2020-12-15
+Charkhi Dadri,Moderate,160,"PM
+10",1,2020-12-16
+Charkhi Dadri,Moderate,173,"PM
+10",1,2020-12-17
+Charkhi Dadri,Moderate,142,"PM
+10",1,2020-12-18
+Charkhi Dadri,Moderate,173,"PM
+10",1,2020-12-19
+Charkhi Dadri,Moderate,163,"PM
+10",1,2020-12-20
+Charkhi Dadri,Moderate,199,"PM
+10",1,2020-12-21
+Charkhi Dadri,Very Poor,308,"PM
+2.5",1,2020-12-22
+Charkhi Dadri,Very Poor,311,"PM
+2.5",1,2020-12-23
+Charkhi Dadri,Very Poor,320,"PM
+2.5",1,2020-12-24
+Charkhi Dadri,Poor,254,"PM
+10",1,2020-12-25
+Charkhi Dadri,Poor,260,"PM
+10",1,2020-12-26
+Charkhi Dadri,Poor,262,"PM
+2.5",1,2020-12-27
+Charkhi Dadri,Poor,267,"PM
+10",1,2020-12-28
+Charkhi Dadri,Poor,246,"PM
+10",1,2020-12-29
+Charkhi Dadri,Moderate,169,"PM
+10",1,2020-12-30
+Charkhi Dadri,Poor,298,"PM
+2.5",1,2020-12-31
+Charkhi Dadri,Very Poor,334,"PM
+2.5",1,2021-01-01
+Charkhi Dadri,Poor,224,"PM
+2.5",1,2021-01-03
+Charkhi Dadri,Satisfactory,89,"PM
+2.5",1,2021-01-06
+Charkhi Dadri,Moderate,164,"PM
+2.5",1,2021-01-07
+Charkhi Dadri,Moderate,105,"PM
+2.5",1,2021-01-08
+Charkhi Dadri,Moderate,132,"PM
+10",1,2021-01-09
+Charkhi Dadri,Moderate,133,"PM
+10",1,2021-01-10
+Charkhi Dadri,Moderate,146,"PM
+10",1,2021-01-11
+Charkhi Dadri,Moderate,171,"PM
+10",1,2021-01-12
+Charkhi Dadri,Poor,216,"PM
+2.5",1,2021-01-13
+Charkhi Dadri,Poor,254,"PM
+10",1,2021-01-14
+Charkhi Dadri,Poor,216,"PM
+2.5",1,2021-01-15
+Charkhi Dadri,Poor,213,"PM
+10",1,2021-01-16
+Charkhi Dadri,Moderate,167,"PM
+10",1,2021-01-17
+Charkhi Dadri,Poor,254,"PM
+2.5",1,2021-01-18
+Charkhi Dadri,Moderate,184,"PM
+10",1,2021-01-19
+Charkhi Dadri,Satisfactory,85,"PM
+10",1,2021-01-20
+Charkhi Dadri,Moderate,150,"PM
+10",1,2021-01-21
+Charkhi Dadri,Very Poor,337,"PM
+2.5",1,2021-01-22
+Charkhi Dadri,Very Poor,319,"PM
+2.5",1,2021-01-23
+Charkhi Dadri,Poor,297,"PM
+2.5",1,2021-01-24
+Charkhi Dadri,Poor,300,"PM
+2.5",1,2021-01-25
+Charkhi Dadri,Poor,236,"PM
+10",1,2021-01-26
+Charkhi Dadri,Poor,211,"PM
+10",1,2021-01-27
+Charkhi Dadri,Moderate,156,"PM
+10",1,2021-01-28
+Charkhi Dadri,Moderate,191,"PM
+2.5",1,2021-01-29
+Charkhi Dadri,Poor,280,"PM
+2.5",1,2021-01-30
+Charkhi Dadri,Very Poor,315,"PM
+2.5",1,2021-01-31
+Charkhi Dadri,Very Poor,314,"PM
+2.5",1,2021-02-01
+Charkhi Dadri,Very Poor,349,"PM
+2.5",1,2021-02-02
+Charkhi Dadri,Very Poor,312,"PM
+2.5",1,2021-02-03
+Charkhi Dadri,Poor,277,"PM
+2.5",1,2021-02-04
+Charkhi Dadri,Moderate,126,"PM
+2.5",1,2021-02-05
+Charkhi Dadri,Moderate,169,"PM
+2.5",1,2021-02-06
+Charkhi Dadri,Moderate,143,"PM
+2.5",1,2021-02-07
+Charkhi Dadri,Moderate,155,"PM
+10",1,2021-02-08
+Charkhi Dadri,Moderate,136,"PM
+10",1,2021-02-09
+Charkhi Dadri,Moderate,102,"PM
+10",1,2021-02-10
+Charkhi Dadri,Poor,212,"PM
+10",1,2021-02-11
+Charkhi Dadri,Moderate,129,"PM
+2.5",1,2021-02-12
+Charkhi Dadri,Moderate,103,"PM
+2.5",1,2021-02-13
+Charkhi Dadri,Very Poor,325,"PM
+2.5",1,2021-02-14
+Charkhi Dadri,Very Poor,377,"PM
+2.5",1,2021-02-15
+Charkhi Dadri,Very Poor,347,"PM
+2.5",1,2021-02-16
+Charkhi Dadri,Moderate,186,"PM
+10",1,2021-02-17
+Charkhi Dadri,Poor,291,"PM
+10",1,2021-02-18
+Charkhi Dadri,Satisfactory,93,"PM
+2.5",1,2021-02-19
+Charkhi Dadri,Poor,236,"PM
+2.5",1,2021-02-20
+Charkhi Dadri,Poor,273,"PM
+2.5",1,2021-02-25
+Charkhi Dadri,Moderate,162,"PM
+10",1,2021-02-26
+Charkhi Dadri,Moderate,153,"PM
+10",1,2021-02-27
+Charkhi Dadri,Poor,202,"PM
+10",1,2021-02-28
+Charkhi Dadri,Moderate,176,"PM
+10",1,2021-03-01
+Charkhi Dadri,Moderate,121,"PM
+10",1,2021-03-02
+Charkhi Dadri,Moderate,124,"PM
+10",1,2021-03-03
+Charkhi Dadri,Poor,203,"PM
+10",1,2021-03-04
+Charkhi Dadri,Moderate,167,"PM
+10",1,2021-03-05
+Charkhi Dadri,Moderate,136,"PM
+10",1,2021-03-06
+Charkhi Dadri,Moderate,133,"PM
+10",1,2021-03-07
+Charkhi Dadri,Moderate,140,"PM
+10",1,2021-03-08
+Charkhi Dadri,Moderate,196,"PM
+10",1,2021-03-09
+Charkhi Dadri,Satisfactory,92,"PM
+10",1,2021-03-10
+Charkhi Dadri,Moderate,199,"PM
+2.5",1,2021-03-11
+Charkhi Dadri,Satisfactory,82,"PM
+10",1,2021-03-12
+Charkhi Dadri,Moderate,106,"PM
+10",1,2021-03-13
+Charkhi Dadri,Moderate,121,"PM
+10",1,2021-03-14
+Charkhi Dadri,Moderate,133,"PM
+10",1,2021-03-15
+Charkhi Dadri,Moderate,162,"PM
+10",1,2021-03-16
+Charkhi Dadri,Moderate,198,"PM
+10",1,2021-03-17
+Charkhi Dadri,Moderate,200,"PM
+10",1,2021-03-18
+Charkhi Dadri,Moderate,176,"PM
+10",1,2021-03-19
+Charkhi Dadri,Moderate,131,"PM
+10",1,2021-03-20
+Charkhi Dadri,Moderate,146,"PM
+10",1,2021-03-21
+Charkhi Dadri,Moderate,111,"PM
+10",1,2021-03-22
+Charkhi Dadri,Moderate,133,"PM
+10",1,2021-03-23
+Charkhi Dadri,Moderate,102,"PM
+10",1,2021-03-24
+Charkhi Dadri,Moderate,103,"PM
+10",1,2021-03-25
+Charkhi Dadri,Satisfactory,91,"PM
+10",1,2021-03-26
+Charkhi Dadri,Moderate,125,"PM
+10",1,2021-03-27
+Charkhi Dadri,Moderate,139,"PM
+10",1,2021-03-28
+Charkhi Dadri,Moderate,138,"PM
+10",1,2021-03-29
+Charkhi Dadri,Poor,216,"PM
+10",1,2021-03-30
+Charkhi Dadri,Poor,211,"PM
+10",1,2021-03-31
+Charkhi Dadri,Moderate,148,"PM
+2.5",1,2021-04-02
+Charkhi Dadri,Moderate,158,"PM
+2.5",1,2021-04-03
+Charkhi Dadri,Moderate,142,"PM
+10",1,2021-04-04
+Charkhi Dadri,Moderate,146,"PM
+10",1,2021-04-05
+Charkhi Dadri,Moderate,163,"PM
+10",1,2021-04-06
+Charkhi Dadri,Moderate,148,"PM
+10",1,2021-04-07
+Charkhi Dadri,Moderate,120,"PM
+10",1,2021-04-08
+Charkhi Dadri,Moderate,116,"PM
+10",1,2021-04-09
+Charkhi Dadri,Moderate,111,"PM
+10",1,2021-04-10
+Charkhi Dadri,Moderate,125,"PM
+10",1,2021-04-11
+Charkhi Dadri,Moderate,178,"PM
+10",1,2021-04-12
+Charkhi Dadri,Moderate,155,"PM
+10",1,2021-04-13
+Charkhi Dadri,Moderate,155,"PM
+10",1,2021-04-14
+Charkhi Dadri,Moderate,170,"PM
+10",1,2021-04-15
+Charkhi Dadri,Moderate,184,"PM
+10",1,2021-04-16
+Charkhi Dadri,Satisfactory,96,"PM
+10",1,2021-04-17
+Charkhi Dadri,Moderate,151,"PM
+10",1,2021-04-18
+Charkhi Dadri,Moderate,163,"PM
+10",1,2021-04-19
+Charkhi Dadri,Moderate,130,"PM
+10",1,2021-04-20
+Charkhi Dadri,Moderate,102,"PM
+10",1,2021-04-21
+Charkhi Dadri,Satisfactory,85,"PM
+10",1,2021-04-22
+Charkhi Dadri,Satisfactory,94,"PM
+10",1,2021-04-23
+Charkhi Dadri,Moderate,106,"PM
+10",1,2021-04-24
+Charkhi Dadri,Moderate,113,"PM
+10",1,2021-04-25
+Charkhi Dadri,Moderate,135,"PM
+10",1,2021-04-26
+Charkhi Dadri,Moderate,178,"PM
+10",1,2021-04-27
+Charkhi Dadri,Moderate,162,"PM
+10",1,2021-04-28
+Charkhi Dadri,Moderate,167,"PM
+10",1,2021-04-30
+Charkhi Dadri,Moderate,119,"PM
+10",1,2021-05-01
+Charkhi Dadri,Moderate,135,"PM
+2.5",1,2021-05-02
+Charkhi Dadri,Poor,242,"PM
+10",1,2021-05-03
+Charkhi Dadri,Moderate,102,"PM
+10",1,2021-05-04
+Charkhi Dadri,Satisfactory,100,"PM
+10",1,2021-05-05
+Charkhi Dadri,Moderate,126,"PM
+10",1,2021-05-06
+Charkhi Dadri,Moderate,103,"PM
+10",1,2021-05-07
+Charkhi Dadri,Moderate,108,"PM
+10",1,2021-05-08
+Charkhi Dadri,Moderate,101,"PM
+10",1,2021-05-09
+Charkhi Dadri,Satisfactory,88,"PM
+10",1,2021-05-10
+Charkhi Dadri,Satisfactory,76,"PM
+10",1,2021-05-11
+Charkhi Dadri,Satisfactory,83,"PM
+10",1,2021-05-12
+Charkhi Dadri,Satisfactory,91,"PM
+10",1,2021-05-13
+Charkhi Dadri,Moderate,118,"PM
+2.5",1,2021-05-14
+Charkhi Dadri,Moderate,107,"PM
+2.5",1,2021-05-15
+Charkhi Dadri,Moderate,163,"PM
+2.5",1,2021-05-16
+Charkhi Dadri,Moderate,179,"PM
+2.5",1,2021-05-17
+Charkhi Dadri,Moderate,106,"PM
+2.5",1,2021-05-18
+Charkhi Dadri,Moderate,136,"PM
+2.5",1,2021-05-19
+Charkhi Dadri,Satisfactory,54,"O
+3",1,2021-05-20
+Charkhi Dadri,Satisfactory,84,"PM
+2.5",1,2021-05-21
+Charkhi Dadri,Satisfactory,54,"O
+3",1,2021-05-22
+Charkhi Dadri,Poor,273,"PM
+2.5",1,2021-05-23
+Charkhi Dadri,Moderate,120,"PM
+2.5",1,2021-05-24
+Charkhi Dadri,Moderate,143,"PM
+2.5",1,2021-05-25
+Charkhi Dadri,Poor,209,"PM
+2.5",1,2021-05-26
+Charkhi Dadri,Moderate,120,"PM
+2.5",1,2021-05-27
+Charkhi Dadri,Moderate,176,"PM
+2.5",1,2021-05-28
+Charkhi Dadri,Moderate,120,"PM
+2.5",1,2021-05-29
+Charkhi Dadri,Good,42,"NO
+2",1,2021-05-30
+Charkhi Dadri,Good,45,"PM
+10",1,2021-05-31
+Charkhi Dadri,Satisfactory,70,"PM
+10",1,2021-06-01
+Charkhi Dadri,Moderate,135,"PM
+2.5",1,2021-06-02
+Charkhi Dadri,Moderate,120,"PM
+10",1,2021-06-03
+Charkhi Dadri,Moderate,163,"PM
+2.5",1,2021-06-04
+Charkhi Dadri,Satisfactory,98,"PM
+10",1,2021-06-05
+Charkhi Dadri,Satisfactory,80,"PM
+10",1,2021-06-06
+Charkhi Dadri,Moderate,111,"PM
+10",1,2021-06-07
+Charkhi Dadri,Moderate,148,"PM
+10",1,2021-06-08
+Charkhi Dadri,Poor,236,"PM
+10",1,2021-06-09
+Charkhi Dadri,Moderate,158,"PM
+10",1,2021-06-10
+Charkhi Dadri,Moderate,186,"PM
+10",1,2021-06-11
+Charkhi Dadri,Moderate,170,"PM
+10",1,2021-06-12
+Charkhi Dadri,Satisfactory,99,"PM
+10",1,2021-06-13
+Charkhi Dadri,Moderate,102,"PM
+10",1,2021-06-15
+Charkhi Dadri,Moderate,123,"PM
+2.5",1,2021-06-16
+Charkhi Dadri,Moderate,145,"PM
+2.5",1,2021-06-17
+Charkhi Dadri,Moderate,174,"PM
+2.5",1,2021-06-18
+Charkhi Dadri,Satisfactory,71,"PM
+2.5",1,2021-06-19
+Charkhi Dadri,Moderate,123,"PM
+2.5",1,2021-06-20
+Charkhi Dadri,Moderate,120,"PM
+2.5",1,2021-06-21
+Charkhi Dadri,Moderate,123,"PM
+10",1,2021-06-22
+Charkhi Dadri,Poor,205,"PM
+10",1,2021-06-23
+Charkhi Dadri,Moderate,146,"PM
+2.5",1,2021-06-24
+Charkhi Dadri,Moderate,107,"PM
+10",1,2021-06-26
+Charkhi Dadri,Moderate,191,"PM
+2.5",1,2021-06-27
+Charkhi Dadri,Very Poor,343,"PM
+2.5",1,2021-06-30
+Charkhi Dadri,Very Poor,354,"PM
+2.5",1,2021-07-01
+Charkhi Dadri,Moderate,161,"PM
+2.5",1,2021-07-03
+Charkhi Dadri,Moderate,118,"PM
+2.5",1,2021-07-04
+Charkhi Dadri,Moderate,153,"PM
+2.5",1,2021-07-06
+Charkhi Dadri,Moderate,150,"PM
+10",1,2021-07-07
+Charkhi Dadri,Moderate,155,"PM
+10",1,2021-07-08
+Charkhi Dadri,Moderate,133,"PM
+10",1,2021-07-09
+Charkhi Dadri,Moderate,111,"PM
+10",1,2021-07-10
+Charkhi Dadri,Satisfactory,89,"PM
+10",1,2021-07-11
+Charkhi Dadri,Satisfactory,77,"PM
+10",1,2021-07-12
+Charkhi Dadri,Satisfactory,52,"PM
+2.5",1,2021-07-13
+Charkhi Dadri,Good,33,"PM
+10",1,2021-07-15
+Charkhi Dadri,Satisfactory,63,"PM
+2.5",1,2021-07-16
+Charkhi Dadri,Moderate,116,"PM
+2.5",1,2021-07-17
+Charkhi Dadri,Satisfactory,64,"PM
+10",1,2021-07-18
+Charkhi Dadri,Good,29,"NO
+2",1,2021-07-19
+Charkhi Dadri,Good,32,"PM
+10",1,2021-07-20
+Charkhi Dadri,Good,39,"PM
+10",1,2021-07-21
+Charkhi Dadri,Satisfactory,52,"PM
+10",1,2021-07-23
+Charkhi Dadri,Satisfactory,75,"PM
+10",1,2021-07-24
+Charkhi Dadri,Satisfactory,66,"PM
+2.5",1,2021-07-26
+Charkhi Dadri,Good,33,"PM
+10",1,2021-07-29
+Charkhi Dadri,Good,28,"NO
+2",1,2021-07-30
+Charkhi Dadri,Satisfactory,60,"PM
+10",1,2021-08-01
+Charkhi Dadri,Satisfactory,54,"PM
+10",1,2021-08-02
+Charkhi Dadri,Satisfactory,58,"PM
+2.5",1,2021-08-03
+Charkhi Dadri,Good,45,"PM
+2.5",1,2021-08-04
+Charkhi Dadri,Moderate,103,"PM
+10",1,2021-08-05
+Charkhi Dadri,Satisfactory,97,"PM
+2.5",1,2021-08-06
+Charkhi Dadri,Poor,228,"PM
+2.5",1,2021-08-07
+Charkhi Dadri,Satisfactory,73,"PM
+2.5",1,2021-08-08
+Charkhi Dadri,Satisfactory,90,"PM
+2.5",1,2021-08-09
+Charkhi Dadri,Satisfactory,100,"PM
+2.5",1,2021-08-10
+Charkhi Dadri,Moderate,118,"PM
+2.5",1,2021-08-11
+Charkhi Dadri,Moderate,127,"PM
+2.5",1,2021-08-12
+Charkhi Dadri,Moderate,136,"PM
+2.5",1,2021-08-13
+Charkhi Dadri,Moderate,152,"PM
+2.5",1,2021-08-15
+Charkhi Dadri,Moderate,150,"PM
+2.5",1,2021-08-16
+Charkhi Dadri,Moderate,177,"PM
+2.5",1,2021-08-17
+Charkhi Dadri,Moderate,122,"PM
+2.5",1,2021-08-20
+Charkhi Dadri,Good,44,"PM
+2.5",1,2021-08-21
+Charkhi Dadri,Good,46,"PM
+2.5",1,2021-08-23
+Charkhi Dadri,Satisfactory,56,"PM
+10",1,2021-08-24
+Charkhi Dadri,Satisfactory,90,"PM
+10",1,2021-08-25
+Charkhi Dadri,Satisfactory,78,"PM
+10",1,2021-08-26
+Charkhi Dadri,Satisfactory,63,"PM
+10",1,2021-08-28
+Charkhi Dadri,Satisfactory,77,"PM
+10",1,2021-09-02
+Charkhi Dadri,Satisfactory,86,"PM
+2.5",1,2021-09-03
+Charkhi Dadri,Satisfactory,70,"PM
+10",1,2021-09-04
+Charkhi Dadri,Satisfactory,88,"PM
+10",1,2021-09-05
+Charkhi Dadri,Satisfactory,90,"PM
+10",1,2021-09-06
+Charkhi Dadri,Satisfactory,92,"PM
+10",1,2021-09-07
+Charkhi Dadri,Moderate,108,"PM
+10",1,2021-09-08
+Charkhi Dadri,Moderate,110,"PM
+10",1,2021-09-09
+Charkhi Dadri,Moderate,108,"PM
+10",1,2021-09-10
+Charkhi Dadri,Good,41,"PM
+2.5",1,2021-09-11
+Charkhi Dadri,Good,49,"PM
+2.5",1,2021-09-13
+Charkhi Dadri,Good,39,"PM
+2.5",1,2021-09-14
+Charkhi Dadri,Good,45,"PM
+2.5",1,2021-09-15
+Charkhi Dadri,Satisfactory,76,"PM
+10",1,2021-09-16
+Charkhi Dadri,Good,38,"PM
+10",1,2021-09-17
+Charkhi Dadri,Good,49,"PM
+2.5",1,2021-09-18
+Charkhi Dadri,Satisfactory,60,"PM
+10",1,2021-09-19
+Charkhi Dadri,Satisfactory,66,"PM
+10",1,2021-09-20
+Charkhi Dadri,Good,34,"PM
+2.5",1,2021-09-21
+Charkhi Dadri,Satisfactory,56,"PM
+2.5",1,2021-09-22
+Charkhi Dadri,Good,40,"PM
+2.5",1,2021-09-23
+Charkhi Dadri,Satisfactory,54,CO,1,2021-09-24
+Charkhi Dadri,Satisfactory,70,"PM
+10",1,2021-09-25
+Charkhi Dadri,Satisfactory,62,"PM
+2.5",1,2021-09-26
+Charkhi Dadri,Moderate,117,"PM
+2.5",1,2021-09-28
+Charkhi Dadri,Satisfactory,77,"PM
+10",1,2021-09-29
+Charkhi Dadri,Satisfactory,78,"PM
+10",1,2021-09-30
+Charkhi Dadri,Satisfactory,100,"PM
+10",1,2021-10-01
+Charkhi Dadri,Satisfactory,72,"PM
+10",1,2021-10-02
+Charkhi Dadri,Satisfactory,88,"PM
+10",1,2021-10-03
+Charkhi Dadri,Satisfactory,58,"PM
+10",1,2021-10-04
+Charkhi Dadri,Moderate,108,"PM
+10",1,2021-10-05
+Charkhi Dadri,Satisfactory,53,"PM
+10",1,2021-10-06
+Charkhi Dadri,Moderate,128,"PM
+2.5",1,2021-10-07
+Charkhi Dadri,Moderate,172,"PM
+2.5",1,2021-10-08
+Charkhi Dadri,Moderate,180,"PM
+10",1,2021-10-09
+Charkhi Dadri,Moderate,153,"PM
+10",1,2021-10-10
+Charkhi Dadri,Moderate,133,"PM
+10",1,2021-10-11
+Charkhi Dadri,Moderate,161,"PM
+10",1,2021-10-12
+Charkhi Dadri,Moderate,150,"PM
+10",1,2021-10-13
+Charkhi Dadri,Moderate,147,"PM
+10",1,2021-10-14
+Charkhi Dadri,Moderate,157,"PM
+10",1,2021-10-15
+Charkhi Dadri,Poor,266,"PM
+2.5",1,2021-10-16
+Charkhi Dadri,Moderate,193,"PM
+2.5",1,2021-10-17
+Charkhi Dadri,Good,24,"PM
+2.5",1,2021-10-18
+Charkhi Dadri,Good,46,"PM
+2.5",1,2021-10-19
+Charkhi Dadri,Moderate,190,"PM
+2.5",1,2021-10-20
+Charkhi Dadri,Poor,285,"PM
+2.5",1,2021-10-21
+Charkhi Dadri,Moderate,147,"PM
+10",1,2021-10-22
+Charkhi Dadri,Poor,263,"PM
+2.5",1,2021-10-23
+Charkhi Dadri,Moderate,109,"PM
+10",1,2021-10-24
+Charkhi Dadri,Satisfactory,69,"PM
+10",1,2021-10-25
+Charkhi Dadri,Moderate,135,"PM
+2.5",1,2021-10-26
+Charkhi Dadri,Poor,223,"PM
+2.5",1,2021-10-27
+Charkhi Dadri,Poor,212,"PM
+2.5",1,2021-10-28
+Charkhi Dadri,Poor,262,"PM
+2.5",1,2021-10-29
+Charkhi Dadri,Poor,281,"PM
+2.5",1,2021-10-30
+Charkhi Dadri,Poor,252,"PM
+2.5",1,2021-10-31
+Charkhi Dadri,Poor,213,"PM
+2.5",1,2021-11-01
+Charkhi Dadri,Poor,216,"PM
+2.5",1,2021-11-02
+Charkhi Dadri,Poor,284,"PM
+2.5",1,2021-11-03
+Charkhi Dadri,Severe,424,"PM
+2.5",1,2021-11-05
+Charkhi Dadri,Severe,408,"PM
+2.5",1,2021-11-06
+Charkhi Dadri,Very Poor,376,"PM
+2.5",1,2021-11-07
+Charkhi Dadri,Very Poor,374,"PM
+2.5",1,2021-11-08
+Charkhi Dadri,Very Poor,347,"PM
+2.5",1,2021-11-09
+Charkhi Dadri,Very Poor,333,"PM
+2.5",1,2021-11-10
+Charkhi Dadri,Very Poor,389,"PM
+2.5",1,2021-11-11
+Charkhi Dadri,Severe,470,"PM
+2.5",1,2021-11-12
+Charkhi Dadri,Very Poor,343,"PM
+2.5",1,2021-11-13
+Charkhi Dadri,Very Poor,309,"PM
+2.5",1,2021-11-14
+Charkhi Dadri,Very Poor,323,"PM
+2.5",1,2021-11-15
+Charkhi Dadri,Very Poor,399,"PM
+2.5",1,2021-11-16
+Charkhi Dadri,Very Poor,345,"PM
+2.5",1,2021-11-17
+Charkhi Dadri,Very Poor,355,"PM
+2.5",1,2021-11-21
+Charkhi Dadri,Very Poor,318,"PM
+2.5",1,2021-11-22
+Charkhi Dadri,Poor,244,"PM
+2.5",1,2021-11-23
+Charkhi Dadri,Poor,245,"PM
+2.5",1,2021-11-24
+Charkhi Dadri,Poor,292,"PM
+2.5",1,2021-11-25
+Charkhi Dadri,Very Poor,321,"PM
+2.5",1,2021-11-26
+Charkhi Dadri,Very Poor,392,"PM
+2.5",1,2021-11-27
+Charkhi Dadri,Very Poor,336,"PM
+2.5",1,2021-11-29
+Charkhi Dadri,Poor,240,"PM
+2.5",1,2021-11-30
+Charkhi Dadri,Poor,300,"PM
+2.5",1,2021-12-01
+Charkhi Dadri,Very Poor,343,"PM
+2.5",1,2021-12-02
+Charkhi Dadri,Very Poor,306,"PM
+2.5",1,2021-12-03
+Charkhi Dadri,Poor,270,"PM
+2.5",1,2021-12-04
+Charkhi Dadri,Poor,214,"PM
+2.5",1,2021-12-05
+Charkhi Dadri,Moderate,187,"PM
+2.5",1,2021-12-06
+Charkhi Dadri,Moderate,192,"PM
+2.5",1,2021-12-07
+Charkhi Dadri,Moderate,146,"PM
+2.5",1,2021-12-08
+Charkhi Dadri,Moderate,189,"PM
+2.5",1,2021-12-09
+Charkhi Dadri,Moderate,198,"PM
+2.5",1,2021-12-10
+Charkhi Dadri,Moderate,182,"PM
+2.5",1,2021-12-11
+Charkhi Dadri,Moderate,187,"PM
+2.5",1,2021-12-12
+Charkhi Dadri,Poor,233,"PM
+2.5",1,2021-12-13
+Charkhi Dadri,Poor,285,"PM
+2.5",1,2021-12-14
+Charkhi Dadri,Very Poor,308,"PM
+2.5",1,2021-12-15
+Charkhi Dadri,Poor,276,"PM
+2.5",1,2021-12-16
+Charkhi Dadri,Poor,297,"PM
+2.5",1,2021-12-17
+Charkhi Dadri,Poor,206,"PM
+2.5",1,2021-12-18
+Charkhi Dadri,Moderate,120,"PM
+10",1,2021-12-19
+Charkhi Dadri,Poor,215,"PM
+2.5",1,2021-12-20
+Charkhi Dadri,Poor,242,"PM
+2.5",1,2021-12-21
+Charkhi Dadri,Poor,293,"PM
+2.5",1,2021-12-22
+Charkhi Dadri,Very Poor,323,"PM
+2.5",1,2021-12-23
+Charkhi Dadri,Poor,270,"PM
+2.5",1,2021-12-24
+Charkhi Dadri,Very Poor,323,"PM
+2.5",1,2021-12-25
+Charkhi Dadri,Very Poor,381,"PM
+2.5",1,2021-12-26
+Charkhi Dadri,Very Poor,304,"PM
+2.5",1,2021-12-27
+Charkhi Dadri,Moderate,198,"PM
+2.5",1,2021-12-28
+Charkhi Dadri,Poor,253,"PM
+2.5",1,2021-12-29
+Charkhi Dadri,Poor,227,"PM
+2.5",1,2021-12-30
+Charkhi Dadri,Poor,241,"PM
+2.5",1,2021-12-31
+Charkhi Dadri,Poor,264,"PM
+2.5",1,2022-01-01
+Charkhi Dadri,Very Poor,360,"PM
+2.5",1,2022-01-02
+Charkhi Dadri,Very Poor,306,"PM
+2.5",1,2022-01-03
+Charkhi Dadri,Poor,298,"PM
+2.5",1,2022-01-04
+Charkhi Dadri,Poor,262,"PM
+2.5",1,2022-01-05
+Charkhi Dadri,Poor,236,"PM
+2.5",1,2022-01-06
+Charkhi Dadri,Moderate,170,"PM
+2.5",1,2022-01-07
+Charkhi Dadri,Moderate,119,CO,1,2022-01-10
+Charkhi Dadri,Moderate,122,CO,1,2022-01-11
+Charkhi Dadri,Moderate,122,CO,1,2022-01-12
+Charkhi Dadri,Moderate,177,"PM
+2.5",1,2022-01-13
+Charkhi Dadri,Poor,237,"PM
+2.5",1,2022-01-14
+Charkhi Dadri,Moderate,128,"PM
+2.5",1,2022-01-16
+Charkhi Dadri,Poor,227,"PM
+2.5",1,2022-01-18
+Charkhi Dadri,Poor,285,"PM
+2.5",1,2022-01-19
+Charkhi Dadri,Poor,264,"PM
+2.5",1,2022-01-20
+Charkhi Dadri,Very Poor,330,"PM
+2.5",1,2022-01-21
+Charkhi Dadri,Poor,284,"PM
+2.5",1,2022-01-22
+Charkhi Dadri,Moderate,134,CO,1,2022-01-23
+Charkhi Dadri,Moderate,132,CO,1,2022-01-24
+Charkhi Dadri,Moderate,133,CO,1,2022-01-25
+Charkhi Dadri,Moderate,134,CO,1,2022-01-26
+Charkhi Dadri,Moderate,122,CO,1,2022-01-27
+Charkhi Dadri,Moderate,102,"PM
+10",1,2022-01-28
+Charkhi Dadri,Poor,244,"PM
+2.5",1,2022-01-30
+Charkhi Dadri,Poor,299,"PM
+2.5",1,2022-01-31
+Charkhi Dadri,Moderate,160,"PM
+2.5",1,2022-02-04
+Charkhi Dadri,Moderate,142,"PM
+2.5",1,2022-02-05
+Charkhi Dadri,Poor,220,"PM
+2.5",1,2022-02-06
+Charkhi Dadri,Poor,205,"PM
+2.5",1,2022-02-07
+Charkhi Dadri,Poor,238,"PM
+2.5",1,2022-02-08
+Charkhi Dadri,Moderate,196,"PM
+2.5",1,2022-02-09
+Charkhi Dadri,Moderate,135,"PM
+2.5",1,2022-02-10
+Charkhi Dadri,Moderate,115,"PM
+10",1,2022-02-11
+Charkhi Dadri,Moderate,125,"PM
+2.5",1,2022-02-12
+Charkhi Dadri,Poor,219,"PM
+2.5",1,2022-02-13
+Charkhi Dadri,Moderate,175,"PM
+2.5",1,2022-02-14
+Charkhi Dadri,Moderate,162,"PM
+2.5",1,2022-02-15
+Charkhi Dadri,Moderate,175,"PM
+2.5",1,2022-02-16
+Charkhi Dadri,Poor,224,"PM
+2.5",1,2022-02-17
+Charkhi Dadri,Poor,229,"PM
+10",1,2022-02-18
+Charkhi Dadri,Moderate,119,"PM
+10",1,2022-02-19
+Charkhi Dadri,Moderate,179,"PM
+2.5",1,2022-02-20
+Charkhi Dadri,Moderate,120,"PM
+10",1,2022-02-21
+Charkhi Dadri,Moderate,138,"PM
+10",1,2022-02-22
+Charkhi Dadri,Moderate,137,"PM
+2.5",1,2022-02-23
+Charkhi Dadri,Very Poor,323,"PM
+2.5",1,2022-02-24
+Charkhi Dadri,Poor,267,"PM
+2.5",1,2022-02-25
+Charkhi Dadri,Satisfactory,64,"PM
+10",1,2022-02-26
+Charkhi Dadri,Good,41,"PM
+10",1,2022-02-27
+Charkhi Dadri,Satisfactory,69,"PM
+2.5",1,2022-02-28
+Charkhi Dadri,Moderate,114,"PM
+10",1,2022-03-01
+Charkhi Dadri,Moderate,135,"PM
+2.5",1,2022-03-04
+Charkhi Dadri,Satisfactory,85,"PM
+10",1,2022-03-05
+Charkhi Dadri,Poor,237,"PM
+2.5",1,2022-03-08
+Charkhi Dadri,Moderate,146,"PM
+10",1,2022-03-09
+Charkhi Dadri,Moderate,118,"PM
+10",1,2022-03-10
+Charkhi Dadri,Moderate,169,"PM
+2.5",1,2022-03-11
+Charkhi Dadri,Moderate,121,"PM
+10",1,2022-03-12
+Charkhi Dadri,Moderate,132,"PM
+10",1,2022-03-13
+Charkhi Dadri,Moderate,104,"PM
+2.5",1,2022-03-14
+Charkhi Dadri,Poor,224,"PM
+2.5",1,2022-03-15
+Charkhi Dadri,Moderate,142,"PM
+10",1,2022-03-16
+Charkhi Dadri,Moderate,138,"PM
+10",1,2022-03-17
+Charkhi Dadri,Poor,281,"PM
+2.5",1,2022-03-18
+Charkhi Dadri,Poor,242,"PM
+2.5",1,2022-03-19
+Charkhi Dadri,Poor,234,"PM
+2.5",1,2022-03-20
+Charkhi Dadri,Moderate,168,"PM
+2.5",1,2022-03-21
+Charkhi Dadri,Poor,229,"PM
+2.5",1,2022-03-22
+Charkhi Dadri,Poor,204,"PM
+2.5",1,2022-03-23
+Charkhi Dadri,Moderate,176,"PM
+10",1,2022-03-24
+Charkhi Dadri,Poor,205,"PM
+2.5",1,2022-03-25
+Charkhi Dadri,Moderate,160,"PM
+10",1,2022-03-26
+Charkhi Dadri,Moderate,173,"PM
+2.5",1,2022-03-27
+Charkhi Dadri,Moderate,188,"PM
+2.5",1,2022-03-28
+Charkhi Dadri,Moderate,183,"PM
+10",1,2022-03-29
+Charkhi Dadri,Poor,220,"PM
+10",1,2022-03-30
+Charkhi Dadri,Poor,274,"PM
+2.5",1,2022-03-31
+Charkhi Dadri,Poor,211,"PM
+2.5",1,2022-04-01
+Charkhi Dadri,Poor,227,"PM
+2.5",1,2022-04-02
+Charkhi Dadri,Poor,242,"PM
+2.5",1,2022-04-03
+Charkhi Dadri,Poor,257,"PM
+2.5",1,2022-04-04
+Charkhi Dadri,Poor,259,"PM
+2.5",1,2022-04-05
+Charkhi Dadri,Poor,269,"PM
+2.5",1,2022-04-06
+Charkhi Dadri,Poor,253,"PM
+2.5",1,2022-04-07
+Charkhi Dadri,Poor,261,"PM
+2.5",1,2022-04-08
+Charkhi Dadri,Poor,250,"PM
+2.5",1,2022-04-09
+Charkhi Dadri,Poor,241,"PM
+2.5",1,2022-04-10
+Charkhi Dadri,Poor,257,"PM
+2.5",1,2022-04-11
+Charkhi Dadri,Poor,202,"PM
+2.5",1,2022-04-12
+Charkhi Dadri,Poor,237,"PM
+2.5",1,2022-04-13
+Charkhi Dadri,Poor,265,"PM
+10",1,2022-04-14
+Charkhi Dadri,Poor,231,"PM
+10",1,2022-04-15
+Charkhi Dadri,Poor,270,"PM
+10",1,2022-04-16
+Charkhi Dadri,Poor,250,"PM
+2.5",1,2022-04-17
+Charkhi Dadri,Poor,225,"PM
+2.5",1,2022-04-18
+Charkhi Dadri,Poor,264,"PM
+2.5",1,2022-04-19
+Charkhi Dadri,Poor,246,"PM
+2.5",1,2022-04-20
+Charkhi Dadri,Poor,263,"PM
+2.5",1,2022-04-21
+Charkhi Dadri,Moderate,180,"PM
+2.5",1,2022-04-22
+Charkhi Dadri,Poor,257,"PM
+2.5",1,2022-04-23
+Charkhi Dadri,Poor,278,"PM
+2.5",1,2022-04-24
+Charkhi Dadri,Very Poor,308,"PM
+2.5",1,2022-04-25
+Charkhi Dadri,Poor,285,"PM
+2.5",1,2022-04-27
+Charkhi Dadri,Very Poor,334,"PM
+2.5",1,2022-04-28
+Charkhi Dadri,Moderate,171,"PM
+2.5",1,2022-04-29
+Charkhi Dadri,Moderate,172,"PM
+2.5",1,2022-04-30
+Charkhi Dadri,Poor,218,"PM
+2.5",1,2022-05-01
+Charkhi Dadri,Moderate,142,"PM
+10",1,2022-05-02
+Charkhi Dadri,Poor,293,"PM
+10",1,2022-05-03
+Charkhi Dadri,Very Poor,306,"PM
+2.5",1,2022-05-04
+Charkhi Dadri,Moderate,195,"PM
+2.5",1,2022-05-05
+Charkhi Dadri,Very Poor,312,"PM
+2.5",1,2022-05-06
+Charkhi Dadri,Poor,275,"PM
+2.5",1,2022-05-07
+Charkhi Dadri,Poor,244,"PM
+2.5",1,2022-05-08
+Charkhi Dadri,Moderate,160,"PM
+2.5",1,2022-05-12
+Charkhi Dadri,Moderate,188,"PM
+2.5",1,2022-05-13
+Charkhi Dadri,Poor,252,"PM
+2.5",1,2022-05-14
+Charkhi Dadri,Moderate,182,"PM
+2.5",1,2022-05-15
+Charkhi Dadri,Poor,254,"PM
+10",1,2022-05-16
+Charkhi Dadri,Poor,248,"PM
+2.5",1,2022-05-17
+Charkhi Dadri,Very Poor,330,"PM
+2.5",1,2022-05-18
+Charkhi Dadri,Poor,280,"PM
+2.5",1,2022-05-19
+Charkhi Dadri,Poor,298,"PM
+2.5",1,2022-05-20
+Charkhi Dadri,Very Poor,307,"PM
+2.5",1,2022-05-21
+Charkhi Dadri,Moderate,166,"PM
+10",1,2022-05-22
+Charkhi Dadri,Moderate,138,"PM
+10",1,2022-05-23
+Charkhi Dadri,Satisfactory,70,"PM
+10",1,2022-05-24
+Charkhi Dadri,Moderate,180,"PM
+2.5",1,2022-05-25
+Charkhi Dadri,Moderate,145,"PM
+2.5",1,2022-05-26
+Charkhi Dadri,Moderate,157,"PM
+10",1,2022-05-27
+Charkhi Dadri,Poor,201,"PM
+10",1,2022-05-30
+Charkhi Dadri,Poor,268,"PM
+10",1,2022-06-01
+Charkhi Dadri,Moderate,170,"PM
+10",1,2022-06-02
+Charkhi Dadri,Moderate,162,"PM
+10",1,2022-06-03
+Charkhi Dadri,Moderate,186,"PM
+10",1,2022-06-04
+Charkhi Dadri,Moderate,186,"PM
+10",1,2022-06-05
+Charkhi Dadri,Moderate,164,"PM
+10",1,2022-06-06
+Charkhi Dadri,Poor,288,"PM
+10",1,2022-06-07
+Charkhi Dadri,Very Poor,350,"PM
+10",1,2022-06-08
+Charkhi Dadri,Poor,228,"PM
+10",1,2022-06-09
+Charkhi Dadri,Poor,218,"PM
+10",1,2022-06-10
+Charkhi Dadri,Poor,242,"PM
+2.5",1,2022-06-11
+Charkhi Dadri,Moderate,192,"PM
+10",1,2022-06-12
+Charkhi Dadri,Moderate,174,"PM
+10",1,2022-06-13
+Charkhi Dadri,Moderate,156,"PM
+10",1,2022-06-14
+Charkhi Dadri,Moderate,112,"PM
+10",1,2022-06-15
+Charkhi Dadri,Moderate,133,"PM
+10",1,2022-06-16
+Charkhi Dadri,Satisfactory,98,"PM
+10",1,2022-06-17
+Charkhi Dadri,Satisfactory,58,"PM
+10",1,2022-06-18
+Charkhi Dadri,Satisfactory,53,"PM
+10",1,2022-06-19
+Charkhi Dadri,Satisfactory,88,"PM
+10",1,2022-06-20
+Charkhi Dadri,Satisfactory,77,"PM
+10",1,2022-06-21
+Charkhi Dadri,Satisfactory,85,"PM
+10",1,2022-06-22
+Charkhi Dadri,Moderate,128,"PM
+2.5",1,2022-06-23
+Charkhi Dadri,Moderate,190,"PM
+10",1,2022-06-24
+Charkhi Dadri,Poor,204,"PM
+10",1,2022-06-25
+Charkhi Dadri,Moderate,160,"PM
+10",1,2022-06-26
+Charkhi Dadri,Moderate,126,"PM
+2.5",1,2022-06-27
+Charkhi Dadri,Moderate,124,"PM
+2.5",1,2022-06-28
+Charkhi Dadri,Moderate,162,"PM
+10",1,2022-06-29
+Charkhi Dadri,Satisfactory,69,"PM
+10",1,2022-06-30
+Charkhi Dadri,Satisfactory,95,"PM
+2.5",1,2022-07-01
+Charkhi Dadri,Satisfactory,91,"PM
+10",1,2022-07-02
+Charkhi Dadri,Moderate,101,"PM
+10",1,2022-07-03
+Charkhi Dadri,Moderate,116,"PM
+10",1,2022-07-04
+Charkhi Dadri,Satisfactory,100,"PM
+10",1,2022-07-05
+Charkhi Dadri,Moderate,144,"PM
+2.5",1,2022-07-06
+Charkhi Dadri,Moderate,150,"PM
+10",1,2022-07-07
+Charkhi Dadri,Moderate,107,"PM
+2.5",1,2022-07-08
+Charkhi Dadri,Moderate,111,"PM
+10",1,2022-07-09
+Charkhi Dadri,Satisfactory,91,"PM
+2.5",1,2022-07-10
+Charkhi Dadri,Good,50,"PM
+10",1,2022-07-11
+Charkhi Dadri,Satisfactory,81,"PM
+10",1,2022-07-12
+Charkhi Dadri,Moderate,176,"PM
+2.5",1,2022-07-13
+Charkhi Dadri,Satisfactory,81,"PM
+10",1,2022-07-14
+Charkhi Dadri,Satisfactory,59,"PM
+10",1,2022-07-15
+Charkhi Dadri,Good,46,"PM
+10",1,2022-07-16
+Charkhi Dadri,Satisfactory,64,"PM
+2.5",1,2022-07-17
+Charkhi Dadri,Satisfactory,53,"PM
+10",1,2022-07-18
+Charkhi Dadri,Moderate,128,"PM
+2.5",1,2022-07-19
+Charkhi Dadri,Satisfactory,66,"PM
+10",1,2022-07-20
+Charkhi Dadri,Good,21,CO,1,2022-07-21
+Charkhi Dadri,Good,46,"PM
+10",1,2022-07-22
+Charkhi Dadri,Satisfactory,63,"PM
+2.5",1,2022-07-23
+Charkhi Dadri,Satisfactory,54,"PM
+10",1,2022-07-25
+Charkhi Dadri,Satisfactory,60,"PM
+10",1,2022-07-26
+Charkhi Dadri,Satisfactory,54,"PM
+10",1,2022-07-27
+Charkhi Dadri,Satisfactory,52,"PM
+10",1,2022-07-28
+Charkhi Dadri,Good,48,"PM
+10",1,2022-07-29
+Charkhi Dadri,Good,42,"PM
+10",1,2022-07-30
+Charkhi Dadri,Satisfactory,66,"PM
+10",1,2022-07-31
+Charkhi Dadri,Satisfactory,51,"PM
+10",1,2022-08-01
+Charkhi Dadri,Satisfactory,76,"PM
+10",1,2022-08-02
+Charkhi Dadri,Satisfactory,89,"PM
+10",1,2022-08-03
+Charkhi Dadri,Satisfactory,83,"PM
+10",1,2022-08-04
+Charkhi Dadri,Satisfactory,85,"PM
+2.5",1,2022-08-05
+Charkhi Dadri,Satisfactory,58,"PM
+10",1,2022-08-06
+Charkhi Dadri,Moderate,121,"PM
+2.5",1,2022-08-07
+Charkhi Dadri,Good,41,"PM
+2.5",1,2022-08-08
+Charkhi Dadri,Satisfactory,61,"PM
+10",1,2022-08-09
+Charkhi Dadri,Satisfactory,63,"PM
+10",1,2022-08-10
+Charkhi Dadri,Satisfactory,65,"PM
+2.5",1,2022-08-13
+Charkhi Dadri,Satisfactory,66,"PM
+10",1,2022-08-14
+Charkhi Dadri,Good,46,"PM
+2.5",1,2022-08-15
+Charkhi Dadri,Good,50,"PM
+10",1,2022-08-16
+Charkhi Dadri,Good,38,"PM
+10",1,2022-08-17
+Charkhi Dadri,Good,38,"PM
+10",1,2022-08-18
+Charkhi Dadri,Good,45,"PM
+10",1,2022-08-19
+Charkhi Dadri,Satisfactory,72,"PM
+10",1,2022-08-20
+Charkhi Dadri,Satisfactory,76,"PM
+10",1,2022-08-21
+Charkhi Dadri,Satisfactory,72,"PM
+10",1,2022-08-22
+Charkhi Dadri,Satisfactory,96,"PM
+10",1,2022-08-23
+Charkhi Dadri,Satisfactory,51,"PM
+10",1,2022-08-24
+Charkhi Dadri,Satisfactory,71,"PM
+10",1,2022-08-25
+Charkhi Dadri,Satisfactory,81,"PM
+10",1,2022-08-26
+Charkhi Dadri,Satisfactory,83,"PM
+10",1,2022-08-27
+Charkhi Dadri,Moderate,120,"PM
+10",1,2022-08-28
+Charkhi Dadri,Moderate,130,"PM
+10",1,2022-08-29
+Charkhi Dadri,Moderate,116,"PM
+10",1,2022-08-30
+Charkhi Dadri,Satisfactory,98,"PM
+10",1,2022-08-31
+Charkhi Dadri,Moderate,101,"PM
+10",1,2022-09-01
+Charkhi Dadri,Satisfactory,75,"PM
+10",1,2022-09-02
+Charkhi Dadri,Satisfactory,82,"PM
+10",1,2022-09-03
+Charkhi Dadri,Satisfactory,71,"PM
+10",1,2022-09-04
+Charkhi Dadri,Satisfactory,81,"PM
+10",1,2022-09-05
+Charkhi Dadri,Moderate,105,"PM
+10",1,2022-09-07
+Charkhi Dadri,Moderate,110,"PM
+2.5",1,2022-09-08
+Charkhi Dadri,Moderate,170,"PM
+2.5",1,2022-09-09
+Charkhi Dadri,Moderate,133,"PM
+2.5",1,2022-09-10
+Charkhi Dadri,Satisfactory,78,"PM
+2.5",1,2022-09-11
+Charkhi Dadri,Satisfactory,76,"PM
+10",1,2022-09-12
+Charkhi Dadri,Satisfactory,56,"PM
+10",1,2022-09-13
+Charkhi Dadri,Satisfactory,62,"PM
+10",1,2022-09-14
+Charkhi Dadri,Good,46,"PM
+10",1,2022-09-15
+Charkhi Dadri,Good,26,"PM
+2.5",1,2022-09-16
+Charkhi Dadri,Satisfactory,55,"PM
+10",1,2022-09-17
+Charkhi Dadri,Moderate,107,"PM
+10",1,2022-09-18
+Charkhi Dadri,Moderate,121,"PM
+10",1,2022-09-19
+Charkhi Dadri,Moderate,144,"PM
+2.5",1,2022-09-20
+Charkhi Dadri,Satisfactory,76,"PM
+2.5",1,2022-09-21
+Charkhi Dadri,Good,41,"PM
+2.5",1,2022-09-22
+Charkhi Dadri,Good,46,"PM
+2.5",1,2022-09-24
+Charkhi Dadri,Good,28,"PM
+10",1,2022-09-25
+Charkhi Dadri,Satisfactory,96,"PM
+10",1,2022-09-26
+Charkhi Dadri,Moderate,102,"PM
+10",1,2022-09-27
+Charkhi Dadri,Satisfactory,78,"PM
+10",1,2022-09-28
+Charkhi Dadri,Moderate,113,"PM
+10",1,2022-09-29
+Charkhi Dadri,Poor,217,"PM
+2.5",1,2022-10-01
+Charkhi Dadri,Moderate,137,"PM
+2.5",1,2022-10-02
+Charkhi Dadri,Moderate,114,"PM
+10",1,2022-10-03
+Charkhi Dadri,Moderate,120,"PM
+10",1,2022-10-04
+Charkhi Dadri,Moderate,138,"PM
+2.5",1,2022-10-06
+Charkhi Dadri,Good,42,"PM
+2.5",1,2022-10-07
+Charkhi Dadri,Good,25,"PM
+2.5",1,2022-10-09
+Charkhi Dadri,Good,31,"PM
+2.5",1,2022-10-10
+Charkhi Dadri,Satisfactory,57,"PM
+2.5",1,2022-10-11
+Charkhi Dadri,Satisfactory,54,"PM
+10",1,2022-10-12
+Charkhi Dadri,Satisfactory,91,"PM
+10",1,2022-10-13
+Charkhi Dadri,Moderate,185,"PM
+2.5",1,2022-10-15
+Charkhi Dadri,Poor,215,"PM
+2.5",1,2022-10-16
+Charkhi Dadri,Moderate,179,"PM
+10",1,2022-10-17
+Charkhi Dadri,Moderate,168,"PM
+10",1,2022-10-18
+Charkhi Dadri,Moderate,198,"PM
+2.5",1,2022-10-19
+Charkhi Dadri,Moderate,153,"PM
+10",1,2022-10-20
+Charkhi Dadri,Moderate,189,"PM
+2.5",1,2022-10-21
+Charkhi Dadri,Poor,225,"PM
+2.5",1,2022-10-22
+Charkhi Dadri,Poor,265,"PM
+2.5",1,2022-10-23
+Charkhi Dadri,Poor,295,"PM
+2.5",1,2022-10-24
+Charkhi Dadri,Poor,272,"PM
+2.5",1,2022-10-25
+Charkhi Dadri,Poor,219,"PM
+2.5",1,2022-10-26
+Charkhi Dadri,Very Poor,313,"PM
+2.5",1,2022-10-27
+Charkhi Dadri,Very Poor,339,"PM
+2.5",1,2022-10-28
+Charkhi Dadri,Very Poor,360,"PM
+2.5",1,2022-10-29
+Charkhi Dadri,Very Poor,324,"PM
+2.5",1,2022-10-30
+Charkhi Dadri,Very Poor,319,"PM
+2.5",1,2022-10-31
+Charkhi Dadri,Very Poor,315,"PM
+2.5",1,2022-11-01
+Charkhi Dadri,Poor,212,"PM
+2.5",1,2022-11-02
+Charkhi Dadri,Severe,460,"PM
+2.5",1,2022-11-03
+Charkhi Dadri,Severe,412,"PM
+2.5",1,2022-11-04
+Charkhi Dadri,Severe,401,"PM
+2.5",1,2022-11-05
+Charkhi Dadri,Poor,242,"PM
+2.5",1,2022-11-06
+Charkhi Dadri,Moderate,135,"PM
+10",1,2022-11-07
+Charkhi Dadri,Poor,294,"PM
+2.5",1,2022-11-08
+Charkhi Dadri,Satisfactory,95,"PM
+2.5",1,2022-11-09
+Charkhi Dadri,Moderate,115,"PM
+10",1,2022-11-10
+Charkhi Dadri,Very Poor,314,"PM
+2.5",1,2022-11-11
+Charkhi Dadri,Moderate,173,"PM
+2.5",1,2022-11-12
+Charkhi Dadri,Moderate,176,"PM
+2.5",1,2022-11-13
+Charkhi Dadri,Moderate,177,"PM
+2.5",1,2022-11-14
+Charkhi Dadri,Moderate,170,"PM
+2.5",1,2022-11-15
+Charkhi Dadri,Poor,212,"PM
+2.5",1,2022-11-16
+Charkhi Dadri,Moderate,173,"PM
+2.5",1,2022-11-17
+Charkhi Dadri,Moderate,134,"PM
+2.5",1,2022-11-18
+Charkhi Dadri,Moderate,144,"PM
+10",1,2022-11-19
+Charkhi Dadri,Poor,255,"PM
+2.5",1,2022-11-20
+Charkhi Dadri,Poor,237,"PM
+2.5",1,2022-11-21
+Charkhi Dadri,Moderate,126,"PM
+10",1,2022-11-22
+Charkhi Dadri,Moderate,117,"PM
+10",1,2022-11-23
+Charkhi Dadri,Moderate,118,"PM
+10",1,2022-11-24
+Charkhi Dadri,Moderate,179,"PM
+10",1,2022-11-25
+Charkhi Dadri,Moderate,144,"PM
+10",1,2022-11-26
+Charkhi Dadri,Moderate,200,"PM
+2.5",1,2022-11-27
+Charkhi Dadri,Moderate,200,"PM
+10",1,2022-11-28
+Charkhi Dadri,Poor,207,"PM
+2.5",1,2022-11-29
+Charkhi Dadri,Poor,286,"PM
+2.5",1,2022-11-30
+Charkhi Dadri,Poor,276,"PM
+2.5",1,2022-12-01
+Charkhi Dadri,Poor,283,"PM
+2.5",1,2022-12-02
+Charkhi Dadri,Poor,286,"PM
+2.5",1,2022-12-03
+Charkhi Dadri,Very Poor,306,"PM
+2.5",1,2022-12-04
+Charkhi Dadri,Poor,276,"PM
+2.5",1,2022-12-05
+Charkhi Dadri,Poor,259,"PM
+2.5",1,2022-12-06
+Charkhi Dadri,Moderate,196,"PM
+2.5",1,2022-12-07
+Charkhi Dadri,Moderate,149,"PM
+2.5",1,2022-12-08
+Charkhi Dadri,Moderate,149,"PM
+10",1,2022-12-09
+Charkhi Dadri,Poor,220,"PM
+10",1,2022-12-10
+Charkhi Dadri,Poor,206,"PM
+2.5",1,2022-12-11
+Charkhi Dadri,Moderate,114,"PM
+10",1,2022-12-12
+Charkhi Dadri,Moderate,126,"PM
+2.5",1,2022-12-13
+Charkhi Dadri,Moderate,127,"PM
+2.5",1,2022-12-15
+Charkhi Dadri,Moderate,194,"PM
+2.5",1,2022-12-16
+Charkhi Dadri,Moderate,180,"PM
+10",1,2022-12-17
+Charkhi Dadri,Moderate,185,"PM
+10",1,2022-12-18
+Charkhi Dadri,Poor,241,"PM
+10",1,2022-12-19
+Charkhi Dadri,Poor,237,"PM
+2.5",1,2022-12-20
+Charkhi Dadri,Moderate,190,"PM
+2.5",1,2022-12-21
+Charkhi Dadri,Moderate,182,"PM
+2.5",1,2022-12-22
+Charkhi Dadri,Moderate,155,"PM
+2.5",1,2022-12-23
+Charkhi Dadri,Moderate,120,"PM
+2.5",1,2022-12-24
+Charkhi Dadri,Moderate,171,"PM
+2.5",1,2022-12-25
+Charkhi Dadri,Moderate,149,"PM
+2.5",1,2022-12-26
+Charkhi Dadri,Moderate,167,"PM
+2.5",1,2022-12-27
+Charkhi Dadri,Moderate,184,"PM
+2.5",1,2022-12-28
+Charkhi Dadri,Poor,239,"PM
+2.5",1,2022-12-29
+Charkhi Dadri,Very Poor,305,"PM
+2.5",1,2022-12-30
+Charkhi Dadri,Poor,246,"PM
+2.5",1,2022-12-31
+Charkhi Dadri,Moderate,156,"PM
+2.5",1,2023-01-01
+Charkhi Dadri,Moderate,196,"PM
+2.5",1,2023-01-02
+Charkhi Dadri,Poor,257,"PM
+2.5",1,2023-01-03
+Charkhi Dadri,Poor,224,"PM
+2.5",1,2023-01-04
+Charkhi Dadri,Poor,254,"PM
+2.5",1,2023-01-05
+Charkhi Dadri,Moderate,192,"PM
+2.5",1,2023-01-06
+Charkhi Dadri,Moderate,176,"PM
+2.5",1,2023-01-07
+Charkhi Dadri,Moderate,186,"PM
+2.5",1,2023-01-08
+Charkhi Dadri,Poor,241,"PM
+2.5",1,2023-01-09
+Charkhi Dadri,Poor,297,"PM
+2.5",1,2023-01-10
+Charkhi Dadri,Moderate,171,"PM
+2.5",1,2023-01-11
+Charkhi Dadri,Very Poor,307,"PM
+2.5",1,2023-01-12
+Charkhi Dadri,Poor,235,"PM
+2.5",1,2023-01-13
+Charkhi Dadri,Moderate,147,"PM
+10",1,2023-01-14
+Charkhi Dadri,Satisfactory,95,"PM
+10",1,2023-01-15
+Charkhi Dadri,Moderate,138,"PM
+10",1,2023-01-16
+Charkhi Dadri,Moderate,196,"PM
+2.5",1,2023-01-17
+Charkhi Dadri,Poor,215,"PM
+2.5",1,2023-01-18
+Charkhi Dadri,Poor,237,"PM
+2.5",1,2023-01-19
+Charkhi Dadri,Moderate,127,"PM
+2.5",1,2023-01-20
+Charkhi Dadri,Moderate,138,"PM
+2.5",1,2023-01-21
+Charkhi Dadri,Very Poor,301,"PM
+2.5",1,2023-01-22
+Charkhi Dadri,Very Poor,303,"PM
+2.5",1,2023-01-23
+Charkhi Dadri,Poor,244,"PM
+2.5",1,2023-01-24
+Charkhi Dadri,Moderate,150,"PM
+2.5",1,2023-01-25
+Charkhi Dadri,Poor,263,"PM
+2.5",1,2023-01-26
+Charkhi Dadri,Moderate,177,"PM
+2.5",1,2023-01-27
+Charkhi Dadri,Moderate,149,"PM
+2.5",1,2023-01-28
+Charkhi Dadri,Poor,271,"PM
+2.5",1,2023-01-29
+Charkhi Dadri,Satisfactory,90,"PM
+2.5",1,2023-01-30
+Charkhi Dadri,Moderate,123,"PM
+2.5",1,2023-01-31
+Charkhi Dadri,Satisfactory,90,"PM
+2.5",1,2023-02-01
+Charkhi Dadri,Moderate,114,"PM
+10",1,2023-02-02
+Charkhi Dadri,Moderate,128,"PM
+10",1,2023-02-03
+Charkhi Dadri,Moderate,178,"PM
+10",1,2023-02-04
+Charkhi Dadri,Moderate,149,"PM
+2.5",1,2023-02-05
+Charkhi Dadri,Moderate,172,"PM
+2.5",1,2023-02-06
+Charkhi Dadri,Moderate,178,"PM
+2.5",1,2023-02-07
+Charkhi Dadri,Moderate,123,"PM
+10",1,2023-02-08
+Charkhi Dadri,Moderate,153,"PM
+10",1,2023-02-09
+Charkhi Dadri,Moderate,133,"PM
+10",1,2023-02-10
+Charkhi Dadri,Moderate,162,"PM
+10",1,2023-02-11
+Charkhi Dadri,Moderate,132,"PM
+10",1,2023-02-12
+Charkhi Dadri,Moderate,110,"PM
+10",1,2023-02-13
+Charkhi Dadri,Moderate,101,"PM
+10",1,2023-02-14
+Charkhi Dadri,Moderate,138,"PM
+10",1,2023-02-15
+Charkhi Dadri,Moderate,167,"PM
+10",1,2023-02-16
+Charkhi Dadri,Poor,297,"PM
+2.5",1,2023-02-17
+Charkhi Dadri,Very Poor,308,"PM
+2.5",1,2023-02-18
+Charkhi Dadri,Very Poor,314,"PM
+2.5",1,2023-02-19
+Charkhi Dadri,Poor,267,"PM
+2.5",1,2023-02-20
+Charkhi Dadri,Moderate,133,"PM
+10",1,2023-02-21
+Charkhi Dadri,Poor,253,"PM
+2.5",1,2023-02-22
+Charkhi Dadri,Poor,204,"PM
+2.5",1,2023-02-23
+Charkhi Dadri,Moderate,165,"PM
+2.5",1,2023-02-24
+Charkhi Dadri,Moderate,185,"PM
+2.5",1,2023-02-25
+Charkhi Dadri,Poor,226,"PM
+2.5",1,2023-02-26
+Charkhi Dadri,Poor,210,"PM
+2.5",1,2023-02-27
+Charkhi Dadri,Moderate,179,"PM
+2.5",1,2023-02-28
+Charkhi Dadri,Moderate,112,"PM
+10",1,2023-03-01
+Charkhi Dadri,Moderate,117,"PM
+10",1,2023-03-02
+Charkhi Dadri,Moderate,143,"PM
+2.5",1,2023-03-03
+Charkhi Dadri,Moderate,118,"PM
+2.5",1,2023-03-04
+Charkhi Dadri,Moderate,127,"PM
+2.5",1,2023-03-05
+Charkhi Dadri,Moderate,159,"PM
+2.5",1,2023-03-06
+Charkhi Dadri,Moderate,174,"PM
+2.5",1,2023-03-07
+Charkhi Dadri,Moderate,113,"PM
+2.5",1,2023-03-08
+Charkhi Dadri,Moderate,105,"PM
+2.5",1,2023-03-09
+Charkhi Dadri,Moderate,173,"PM
+2.5",1,2023-03-10
+Charkhi Dadri,Moderate,183,"PM
+2.5",1,2023-03-11
+Charkhi Dadri,Moderate,177,"PM
+2.5",1,2023-03-12
+Charkhi Dadri,Poor,234,"PM
+2.5",1,2023-03-13
+Charkhi Dadri,Poor,240,"PM
+2.5",1,2023-03-14
+Charkhi Dadri,Moderate,196,"PM
+2.5",1,2023-03-15
+Charkhi Dadri,Moderate,198,"PM
+2.5",1,2023-03-16
+Charkhi Dadri,Moderate,127,"PM
+2.5",1,2023-03-17
+Charkhi Dadri,Moderate,123,"PM
+10",1,2023-03-18
+Charkhi Dadri,Moderate,198,"PM
+2.5",1,2023-03-19
+Charkhi Dadri,Moderate,195,"PM
+2.5",1,2023-03-20
+Charkhi Dadri,Moderate,136,"PM
+2.5",1,2023-03-22
+Charkhi Dadri,Moderate,113,"PM
+2.5",1,2023-03-23
+Charkhi Dadri,Satisfactory,93,"PM
+2.5",1,2023-03-24
+Charkhi Dadri,Poor,207,"PM
+2.5",1,2023-03-26
+Charkhi Dadri,Moderate,139,"PM
+2.5",1,2023-03-27
+Charkhi Dadri,Moderate,165,"PM
+2.5",1,2023-03-28
+Charkhi Dadri,Moderate,192,"PM
+2.5",1,2023-03-29
+Charkhi Dadri,Moderate,175,"PM
+2.5",1,2023-03-30
+Charkhi Dadri,Good,42,"PM
+2.5",1,2023-03-31
+Charkhi Dadri,Satisfactory,78,"PM
+2.5",1,2023-04-01
+Charkhi Dadri,Moderate,141,"PM
+2.5",1,2023-04-02
+Charkhi Dadri,Poor,222,"PM
+2.5",1,2023-04-03
+Charkhi Dadri,Satisfactory,100,"PM
+2.5",1,2023-04-04
+Charkhi Dadri,Moderate,145,"PM
+2.5",1,2023-04-05
+Charkhi Dadri,Moderate,159,"PM
+2.5",1,2023-04-06
+Charkhi Dadri,Moderate,165,"PM
+2.5",1,2023-04-07
+Charkhi Dadri,Poor,208,"PM
+2.5",1,2023-04-08
+Charkhi Dadri,Poor,214,"PM
+2.5",1,2023-04-09
+Charkhi Dadri,Poor,223,"PM
+2.5",1,2023-04-10
+Charkhi Dadri,Poor,240,"PM
+2.5",1,2023-04-11
+Charkhi Dadri,Poor,261,"PM
+2.5",1,2023-04-12
+Charkhi Dadri,Poor,245,"PM
+2.5",1,2023-04-13
+Charkhi Dadri,Poor,270,"PM
+2.5",1,2023-04-14
+Charkhi Dadri,Poor,268,"PM
+2.5",1,2023-04-15
+Charkhi Dadri,Poor,259,"PM
+2.5",1,2023-04-16
+Charkhi Dadri,Moderate,148,"PM
+2.5",1,2023-04-17
+Charkhi Dadri,Poor,276,"PM
+2.5",1,2023-04-18
+Charkhi Dadri,Poor,288,"PM
+2.5",1,2023-04-19
+Charkhi Dadri,Poor,253,"PM
+2.5",1,2023-04-20
+Charkhi Dadri,Moderate,197,"PM
+2.5",1,2023-04-21
+Charkhi Dadri,Poor,217,"PM
+2.5",1,2023-04-22
+Charkhi Dadri,Moderate,111,"PM
+2.5",1,2023-04-23
+Charkhi Dadri,Moderate,157,"PM
+2.5",1,2023-04-24
+Charkhi Dadri,Moderate,178,"PM
+2.5",1,2023-04-25
+Charkhi Dadri,Poor,263,"PM
+2.5",1,2023-04-26
+Charkhi Dadri,Poor,268,"PM
+2.5",1,2023-04-27
+Charkhi Dadri,Poor,216,"PM
+2.5",1,2023-04-28
+Charkhi Dadri,Poor,241,"PM
+2.5",1,2023-04-29
+Charkhi Dadri,Moderate,124,"PM
+2.5",1,2023-04-30
+Charkhi Dadri,Moderate,117,"PM
+2.5",1,2023-05-01
+Charkhi Dadri,Moderate,163,"PM
+2.5",1,2023-05-02
+Charkhi Dadri,Moderate,141,"PM
+2.5",1,2023-05-03
+Charkhi Dadri,Satisfactory,64,"PM
+2.5",1,2023-05-04
+Charkhi Dadri,Poor,203,"PM
+2.5",1,2023-05-05
+Charkhi Dadri,Poor,287,"PM
+2.5",1,2023-05-06
+Charkhi Dadri,Poor,265,"PM
+2.5",1,2023-05-07
+Charkhi Dadri,Very Poor,302,"PM
+2.5",1,2023-05-08
+Charkhi Dadri,Poor,251,"PM
+2.5",1,2023-05-09
+Charkhi Dadri,Poor,226,"PM
+2.5",1,2023-05-10
+Charkhi Dadri,Poor,226,"PM
+2.5",1,2023-05-11
+Charkhi Dadri,Poor,244,"PM
+2.5",1,2023-05-12
+Charkhi Dadri,Very Poor,302,"PM
+2.5",1,2023-05-13
+Charkhi Dadri,Poor,250,"PM
+2.5",1,2023-05-14
+Charkhi Dadri,Moderate,200,"PM
+2.5",1,2023-05-15
+Charkhi Dadri,Poor,247,"PM
+2.5",1,2023-05-16
+Charkhi Dadri,Very Poor,375,"PM
+2.5",1,2023-05-17
+Charkhi Dadri,Moderate,151,"PM
+2.5",1,2023-05-18
+Charkhi Dadri,Moderate,155,"PM
+2.5",1,2023-05-19
+Charkhi Dadri,Poor,230,"PM
+2.5",1,2023-05-20
+Charkhi Dadri,Poor,256,"PM
+2.5",1,2023-05-21
+Charkhi Dadri,Very Poor,332,"PM
+2.5",1,2023-05-22
+Charkhi Dadri,Poor,273,"PM
+2.5",1,2023-05-23
+Charkhi Dadri,Moderate,175,"PM
+2.5",1,2023-05-24
+Charkhi Dadri,Satisfactory,69,"PM
+2.5",1,2023-05-25
+Charkhi Dadri,Satisfactory,57,"PM
+2.5",1,2023-05-26
+Charkhi Dadri,Satisfactory,85,"PM
+2.5",1,2023-05-27
+Charkhi Dadri,Moderate,158,"PM
+2.5",1,2023-05-28
+Charkhi Dadri,Moderate,102,"PM
+2.5",1,2023-05-29
+Charkhi Dadri,Satisfactory,96,"PM
+2.5",1,2023-05-30
+Charkhi Dadri,Satisfactory,52,"PM
+2.5",1,2023-05-31
+Charkhi Dadri,Satisfactory,63,"PM
+2.5",1,2023-06-01
+Charkhi Dadri,Satisfactory,67,"PM
+2.5",1,2023-06-02
+Charkhi Dadri,Moderate,102,"PM
+2.5",1,2023-06-03
+Charkhi Dadri,Moderate,199,"PM
+2.5",1,2023-06-04
+Charkhi Dadri,Moderate,138,"PM
+2.5",1,2023-06-05
+Charkhi Dadri,Moderate,124,"PM
+2.5",1,2023-06-06
+Charkhi Dadri,Very Poor,377,"PM
+2.5",1,2023-06-07
+Charkhi Dadri,Moderate,130,"PM
+2.5",1,2023-06-08
+Charkhi Dadri,Moderate,106,"PM
+10",1,2023-06-09
+Charkhi Dadri,Moderate,125,"PM
+2.5",1,2023-06-10
+Charkhi Dadri,Moderate,106,"PM
+2.5",1,2023-06-11
+Charkhi Dadri,Poor,229,"PM
+2.5",1,2023-06-12
+Charkhi Dadri,Poor,246,"PM
+2.5",1,2023-06-13
+Charkhi Dadri,Poor,212,"PM
+2.5",1,2023-06-14
+Charkhi Dadri,Moderate,128,"PM
+2.5",1,2023-06-15
+Charkhi Dadri,Moderate,102,"PM
+10",1,2023-06-16
+Charkhi Dadri,Satisfactory,86,"PM
+10",1,2023-06-17
+Charkhi Dadri,Satisfactory,61,"PM
+10",1,2023-06-18
+Charkhi Dadri,Satisfactory,55,"PM
+10",1,2023-06-19
+Charkhi Dadri,Satisfactory,77,"PM
+10",1,2023-06-20
+Charkhi Dadri,Satisfactory,84,"PM
+10",1,2023-06-21
+Charkhi Dadri,Satisfactory,74,"PM
+10",1,2023-06-22
+Charkhi Dadri,Moderate,104,"PM
+10",1,2023-06-23
+Charkhi Dadri,Satisfactory,100,"PM
+10",1,2023-06-24
+Charkhi Dadri,Satisfactory,76,"PM
+2.5",1,2023-06-25
+Charkhi Dadri,Satisfactory,60,"PM
+10",1,2023-06-26
+Charkhi Dadri,Satisfactory,68,"PM
+10",1,2023-06-27
+Charkhi Dadri,Moderate,189,"PM
+2.5",1,2023-06-28
+Charkhi Dadri,Satisfactory,66,"PM
+10",1,2023-06-30
+Charkhi Dadri,Satisfactory,92,"PM
+2.5",1,2023-07-01
+Charkhi Dadri,Satisfactory,66,"PM
+10",1,2023-07-04
+Charkhi Dadri,Satisfactory,68,CO,1,2023-07-05
+Charkhi Dadri,Moderate,102,"PM
+2.5",1,2023-07-06
+Charkhi Dadri,Satisfactory,71,"PM
+10",1,2023-07-07
+Charkhi Dadri,Satisfactory,78,"PM
+10",1,2023-07-08
+Charkhi Dadri,Satisfactory,100,CO,1,2023-07-09
+Charkhi Dadri,Satisfactory,60,CO,1,2023-07-10
+Charkhi Dadri,Good,37,"PM
+10",1,2023-07-11
+Charkhi Dadri,Moderate,118,"PM
+2.5",1,2023-07-12
+Charkhi Dadri,Satisfactory,58,"PM
+10",1,2023-07-13
+Charkhi Dadri,Satisfactory,57,"PM
+10",1,2023-07-14
+Charkhi Dadri,Satisfactory,61,"PM
+10",1,2023-07-15
+Charkhi Dadri,Satisfactory,61,"PM
+10",1,2023-07-16
+Charkhi Dadri,Good,"50
+* AQ","PM
+10
+I is not calculated for today's bullet","1
+in for Ahmednagar, Ariyalur,",2023-07-17
+Charkhi Dadri,Satisfactory,72,"PM
+2.5",1,2023-07-18
+Charkhi Dadri,Satisfactory,79,"PM
+10",1,2023-07-19
+Charkhi Dadri,Satisfactory,81,"PM
+10",1,2023-07-20
+Charkhi Dadri,Satisfactory,87,"PM
+10",1,2023-07-21
+Charkhi Dadri,Satisfactory,91,"PM
+10",1,2023-07-22
+Charkhi Dadri,Satisfactory,72,"PM
+10",1,2023-07-23
+Charkhi Dadri,Satisfactory,72,"PM
+10",1,2023-07-24
+Charkhi Dadri,Satisfactory,75,"PM
+10",1,2023-07-25
+Charkhi Dadri,Satisfactory,53,"PM
+10",1,2023-07-26
+Charkhi Dadri,Satisfactory,69,"PM
+10",1,2023-07-27
+Charkhi Dadri,Good,36,"PM
+10",1,2023-07-28
+Charkhi Dadri,Good,32,"PM
+10",1,2023-07-29
+Charkhi Dadri,Good,33,"PM
+10",1,2023-07-30
+Charkhi Dadri,Good,48,"PM
+10",1,2023-07-31
+Charkhi Dadri,Satisfactory,83,"PM
+10",1,2023-08-01
+Charkhi Dadri,Good,46,"PM
+10",1,2023-08-02
+Charkhi Dadri,Satisfactory,63,"PM
+10",1,2023-08-03
+Charkhi Dadri,Satisfactory,67,"PM
+10",1,2023-08-04
+Charkhi Dadri,Satisfactory,55,"PM
+10",1,2023-08-05
+Charkhi Dadri,Satisfactory,68,"PM
+10",1,2023-08-06
+Charkhi Dadri,Satisfactory,67,"PM
+10",1,2023-08-07
+Charkhi Dadri,Satisfactory,77,"PM
+10",1,2023-08-08
+Charkhi Dadri,Satisfactory,77,"PM
+10",1,2023-08-09
+Charkhi Dadri,Satisfactory,89,"PM
+10",1,2023-08-10
+Charkhi Dadri,Satisfactory,92,"PM
+10",1,2023-08-11
+Charkhi Dadri,Satisfactory,89,"PM
+10",1,2023-08-12
+Charkhi Dadri,Satisfactory,69,"PM
+10",1,2023-08-13
+Charkhi Dadri,Satisfactory,59,"PM
+10",1,2023-08-14
+Charkhi Dadri,Satisfactory,75,"PM
+10",1,2023-08-15
+Charkhi Dadri,Satisfactory,80,"PM
+10",1,2023-08-16
+Charkhi Dadri,Satisfactory,85,"PM
+10",1,2023-08-17
+Charkhi Dadri,Moderate,104,"PM
+10",1,2023-08-18
+Charkhi Dadri,Moderate,156,"PM
+2.5",1,2023-08-19
+Charkhi Dadri,Moderate,149,"PM
+2.5",1,2023-08-20
+Charkhi Dadri,Moderate,106,"PM
+2.5",1,2023-08-21
+Charkhi Dadri,Moderate,106,"PM
+10",1,2023-08-22
+Charkhi Dadri,Moderate,122,"PM
+2.5",1,2023-08-23
+Charkhi Dadri,Moderate,137,"PM
+2.5",1,2023-08-24
+Charkhi Dadri,Moderate,114,"PM
+2.5",1,2023-08-25
+Charkhi Dadri,Moderate,158,"PM
+2.5",1,2023-08-26
+Charkhi Dadri,Poor,248,"PM
+2.5",1,2023-08-27
+Charkhi Dadri,Moderate,164,"PM
+2.5",1,2023-08-28
+Charkhi Dadri,Moderate,130,"PM
+2.5",1,2023-08-29
+Charkhi Dadri,Moderate,144,"PM
+2.5",1,2023-08-30
+Charkhi Dadri,Moderate,157,"PM
+2.5",1,2023-08-31
+Charkhi Dadri,Satisfactory,96,"PM
+10",1,2023-09-01
+Charkhi Dadri,Moderate,101,"PM
+2.5",1,2023-09-02
+Charkhi Dadri,Satisfactory,89,"PM
+10",1,2023-09-03
+Charkhi Dadri,Satisfactory,91,"PM
+10",1,2023-09-04
+Charkhi Dadri,Satisfactory,84,"PM
+10",1,2023-09-05
+Charkhi Dadri,Satisfactory,73,"PM
+10",1,2023-09-06
+Charkhi Dadri,Satisfactory,55,"PM
+10",1,2023-09-07
+Charkhi Dadri,Satisfactory,53,"PM
+10",1,2023-09-08
+Charkhi Dadri,Satisfactory,63,"PM
+10",1,2023-09-09
+Charkhi Dadri,Satisfactory,74,"PM
+10",1,2023-09-10
+Charkhi Dadri,Satisfactory,54,"PM
+10",1,2023-09-11
+Charkhi Dadri,Satisfactory,70,"PM
+10",1,2023-09-12
+Charkhi Dadri,Satisfactory,52,"PM
+10",1,2023-09-13
+Charkhi Dadri,Satisfactory,65,"PM
+10",1,2023-09-14
+Charkhi Dadri,Good,44,"PM
+10",1,2023-09-15
+Charkhi Dadri,Satisfactory,75,"PM
+2.5",1,2023-09-16
+Charkhi Dadri,Good,50,"PM
+2.5",1,2023-09-17
+Charkhi Dadri,Good,32,"PM
+10",1,2023-09-18
+Charkhi Dadri,Satisfactory,74,"PM
+10",1,2023-09-19
+Charkhi Dadri,Good,50,"PM
+10",1,2023-09-20
+Charkhi Dadri,Satisfactory,55,"PM
+10",1,2023-09-21
+Charkhi Dadri,Good,42,"PM
+10",1,2023-09-22
+Charkhi Dadri,Satisfactory,59,"PM
+10",1,2023-09-23
+Charkhi Dadri,Good,44,"PM
+10",1,2023-09-24
+Charkhi Dadri,Good,48,"PM
+10",1,2023-09-25
+Charkhi Dadri,Satisfactory,68,"PM
+2.5",1,2023-09-26
+Charkhi Dadri,Satisfactory,67,"PM
+10",1,2023-09-27
+Charkhi Dadri,Satisfactory,77,"PM
+10",1,2023-09-28
+Charkhi Dadri,Satisfactory,93,"PM
+10",1,2023-09-29
+Charkhi Dadri,Satisfactory,77,"PM
+10",1,2023-09-30
+Charkhi Dadri,Satisfactory,71,"PM
+10",1,2023-10-01
+Charkhi Dadri,Satisfactory,82,"PM
+10",1,2023-10-02
+Charkhi Dadri,Satisfactory,78,"PM
+10",1,2023-10-03
+Charkhi Dadri,Satisfactory,96,"PM
+10",1/1,2023-10-04
+Charkhi Dadri,Satisfactory,91,"PM
+10",1/1,2023-10-05
+Charkhi Dadri,Satisfactory,83,"PM
+10",1/1,2023-10-06
+Charkhi Dadri,Satisfactory,67,"PM
+10",1/1,2023-10-07
+Charkhi Dadri,Satisfactory,58,"PM
+10",1/1,2023-10-08
+Charkhi Dadri,Satisfactory,54,"PM
+10",1/1,2023-10-09
+Charkhi Dadri,Satisfactory,97,"PM
+2.5",1/1,2023-10-10
+Charkhi Dadri,Moderate,151,"PM
+2.5",1/1,2023-10-11
+Charkhi Dadri,Moderate,160,"PM
+2.5",1/1,2023-10-12
+Charkhi Dadri,Moderate,165,"PM
+2.5",1/1,2023-10-13
+Charkhi Dadri,Poor,210,"PM
+2.5",1/1,2023-10-14
+Charkhi Dadri,Moderate,151,"PM
+2.5",1/1,2023-10-15
+Charkhi Dadri,Moderate,161,"PM
+2.5",1/1,2023-10-16
+Charkhi Dadri,Satisfactory,55,"PM
+10",1/1,2023-10-17
+Charkhi Dadri,Moderate,104,"PM
+2.5",1/1,2023-10-18
+Charkhi Dadri,Satisfactory,91,"PM
+10",1/1,2023-10-19
+Charkhi Dadri,Moderate,113,"PM
+2.5",1/1,2023-10-20
+Charkhi Dadri,Moderate,127,"PM
+2.5",1/1,2023-10-21
+Charkhi Dadri,Moderate,106,"PM
+10",1/1,2023-10-22
+Charkhi Dadri,Moderate,112,"PM
+2.5",1/1,2023-10-23
+Charkhi Dadri,Moderate,186,"PM
+2.5",1/1,2023-10-24
+Charkhi Dadri,Moderate,177,"PM
+2.5",1/1,2023-10-25
+Charkhi Dadri,Moderate,159,"PM
+2.5",1/1,2023-10-26
+Charkhi Dadri,Moderate,166,"PM
+2.5",1/1,2023-10-27
+Charkhi Dadri,Poor,211,"PM
+2.5",1/1,2023-10-28
+Charkhi Dadri,Poor,232,"PM
+2.5",1/1,2023-10-29
+Charkhi Dadri,Poor,269,"PM
+2.5",1/1,2023-10-30
+Charkhi Dadri,Poor,279,"PM
+2.5",1/1,2023-10-31
+Charkhi Dadri,Very Poor,302,"PM
+2.5",1/1,2023-11-01
+Charkhi Dadri,Very Poor,301,"PM
+2.5",1/1,2023-11-02
+Charkhi Dadri,Poor,257,"PM
+10",1/1,2023-11-03
+Charkhi Dadri,Poor,278,"PM
+10",1/1,2023-11-05
+Charkhi Dadri,Poor,278,"PM
+2.5",1/1,2023-11-06
+Charkhi Dadri,Very Poor,315,"PM
+2.5",1/1,2023-11-07
+Charkhi Dadri,Very Poor,324,"PM
+2.5",1/1,2023-11-08
+Charkhi Dadri,Very Poor,301,"PM
+2.5",1/1,2023-11-09
+Charkhi Dadri,Moderate,139,"PM
+2.5",1/1,2023-11-10
+Charkhi Dadri,Satisfactory,94,"PM
+2.5",1/1,2023-11-11
+Charkhi Dadri,Moderate,122,"PM
+2.5",1/1,2023-11-12
+Charkhi Dadri,Moderate,102,"PM
+2.5",1/1,2023-11-13
+Charkhi Dadri,Poor,271,"PM
+2.5",1/1,2023-11-14
+Charkhi Dadri,Very Poor,321,"PM
+2.5",1/1,2023-11-15
+Charkhi Dadri,Very Poor,336,"PM
+2.5",1/1,2023-11-16
+Charkhi Dadri,Poor,248,"PM
+2.5",1/1,2023-11-17
+Charkhi Dadri,Moderate,196,"PM
+2.5",1/1,2023-11-18
+Charkhi Dadri,Poor,212,"PM
+2.5",1/1,2023-11-19
+Charkhi Dadri,Poor,259,"PM
+2.5",1/1,2023-11-20
+Charkhi Dadri,Poor,276,"PM
+2.5",1/1,2023-11-22
+Charkhi Dadri,Poor,289,"PM
+2.5",1/1,2023-11-23
+Charkhi Dadri,Poor,287,"PM
+2.5",1/1,2023-11-24
+Charkhi Dadri,Poor,255,"PM
+2.5",1/1,2023-11-25
+Charkhi Dadri,Moderate,156,"PM
+2.5",1/1,2023-11-29
+Charkhi Dadri,Poor,274,"PM
+2.5",1/1,2023-11-30
+Charkhi Dadri,Moderate,154,"PM
+2.5",1/1,2023-12-01
+Charkhi Dadri,Poor,237,"PM
+2.5",1/1,2023-12-02
+Charkhi Dadri,Moderate,199,"PM
+2.5",1/1,2023-12-03
+Charkhi Dadri,Poor,240,"PM
+2.5",1/1,2023-12-04
+Charkhi Dadri,Poor,218,"PM
+2.5",1/1,2023-12-05
+Charkhi Dadri,Moderate,114,"PM
+2.5",1/1,2023-12-06
+Charkhi Dadri,Moderate,176,"PM
+2.5",1/1,2023-12-07
+Charkhi Dadri,Poor,211,"PM
+2.5",1/1,2023-12-08
+Charkhi Dadri,Poor,242,"PM
+2.5",1/1,2023-12-09
+Charkhi Dadri,Moderate,180,"PM
+2.5",1/1,2023-12-10
+Charkhi Dadri,Moderate,183,"PM
+2.5",1/1,2023-12-11
+Charkhi Dadri,Poor,265,"PM
+2.5",1/1,2023-12-12
+Charkhi Dadri,Poor,242,"PM
+2.5",1/1,2023-12-13
+Charkhi Dadri,Poor,227,"PM
+2.5",1/1,2023-12-14
+Charkhi Dadri,Moderate,154,"PM
+2.5",1/1,2023-12-15
+Charkhi Dadri,Poor,247,"PM
+2.5",1/1,2023-12-16
+Charkhi Dadri,Moderate,173,"PM
+2.5",1/1,2023-12-17
+Charkhi Dadri,Moderate,171,"PM
+2.5",1/1,2023-12-18
+Charkhi Dadri,Moderate,158,"PM
+2.5",1/1,2023-12-19
+Charkhi Dadri,Moderate,155,"PM
+2.5",1/1,2023-12-20
+Charkhi Dadri,Moderate,192,"PM
+2.5",1/1,2023-12-21
+Charkhi Dadri,Poor,206,"PM
+2.5",1/1,2023-12-22
+Charkhi Dadri,Poor,290,"PM
+2.5",1/1,2023-12-23
+Charkhi Dadri,Poor,271,"PM
+2.5",1/1,2023-12-24
+Charkhi Dadri,Poor,216,"PM
+2.5",1/1,2023-12-25
+Charkhi Dadri,Poor,236,"PM
+2.5",1/1,2023-12-26
+Charkhi Dadri,Moderate,166,"PM
+2.5",1/1,2023-12-27
+Charkhi Dadri,Moderate,135,"PM
+2.5",1/1,2023-12-28
+Charkhi Dadri,Moderate,131,"PM
+2.5",1/1,2023-12-29
+Charkhi Dadri,Moderate,189,"PM
+2.5",1/1,2023-12-30
+Charkhi Dadri,Poor,220,"PM
+2.5",1/1,2023-12-31
+Charkhi Dadri,Moderate,189,"PM
+2.5",1/1,2024-01-01
+Charkhi Dadri,Satisfactory,99,CO,1/1,2024-01-02
+Charkhi Dadri,Moderate,168,"PM
+2.5",1/1,2024-01-03
+Charkhi Dadri,Moderate,200,"PM
+2.5",1/1,2024-01-04
+Charkhi Dadri,Moderate,154,"PM
+2.5",1/1,2024-01-05
+Charkhi Dadri,Moderate,123,"PM
+2.5",1/1,2024-01-06
+Charkhi Dadri,Moderate,143,"PM
+2.5",1/1,2024-01-07
+Charkhi Dadri,Moderate,178,"PM
+2.5",1/1,2024-01-08
+Charkhi Dadri,Moderate,148,"PM
+2.5",1/1,2024-01-09
+Charkhi Dadri,Moderate,140,"PM
+2.5",1/1,2024-01-10
+Charkhi Dadri,Poor,230,"PM
+2.5",1/1,2024-01-11
+Charkhi Dadri,Moderate,169,"PM
+2.5",1/1,2024-01-12
+Charkhi Dadri,Moderate,176,"PM
+2.5",1/1,2024-01-13
+Charkhi Dadri,Poor,208,"PM
+2.5",1/1,2024-01-14
+Charkhi Dadri,Moderate,104,"PM
+2.5",1/1,2024-01-15
+Charkhi Dadri,Moderate,155,"PM
+2.5",1/1,2024-01-16
+Charkhi Dadri,Poor,226,"PM
+2.5",1/1,2024-01-17
+Charkhi Dadri,Moderate,153,"PM
+2.5",1/1,2024-01-18
+Charkhi Dadri,Moderate,128,"PM
+2.5",1/1,2024-01-19
+Charkhi Dadri,Poor,205,"PM
+2.5",1/1,2024-01-20
+Charkhi Dadri,Moderate,176,"PM
+2.5",1/1,2024-01-21
+Charkhi Dadri,Moderate,127,"PM
+2.5",1/1,2024-01-22
+Charkhi Dadri,Moderate,135,"PM
+2.5",1/1,2024-01-23
+Charkhi Dadri,Moderate,188,CO,1/1,2024-01-24
+Charkhi Dadri,Satisfactory,100,CO,1/1,2024-01-25
+Charkhi Dadri,Moderate,130,"PM
+2.5",1/1,2024-01-26
+Charkhi Dadri,Poor,218,"PM
+2.5",1/1,2024-01-27
+Charkhi Dadri,Moderate,167,"PM
+2.5",1/1,2024-01-28
+Charkhi Dadri,Poor,254,"PM
+2.5",1/1,2024-01-29
+Charkhi Dadri,Moderate,129,"PM
+2.5",1/1,2024-01-30
+Charkhi Dadri,Moderate,121,"PM
+2.5",1/1,2024-01-31
+Charkhi Dadri,Moderate,149,"PM
+2.5",1/1,2024-02-01
+Charkhi Dadri,Satisfactory,79,"PM
+2.5",1/1,2024-02-02
+Charkhi Dadri,Moderate,119,"PM
+2.5",1/1,2024-02-03
+Charkhi Dadri,Satisfactory,87,"PM
+2.5",1/1,2024-02-04
+Charkhi Dadri,Satisfactory,76,"PM
+2.5",1/1,2024-02-05
+Charkhi Dadri,Satisfactory,68,"PM
+10",1/1,2024-02-06
+Charkhi Dadri,Moderate,138,"PM
+2.5",1/1,2024-02-07
+Charkhi Dadri,Satisfactory,91,"PM
+2.5",1/1,2024-02-08
+Charkhi Dadri,Satisfactory,69,"PM
+2.5",1/1,2024-02-09
+Charkhi Dadri,Moderate,131,"PM
+2.5",1/1,2024-02-10
+Charkhi Dadri,Moderate,191,"PM
+2.5",1/1,2024-02-11
+Charkhi Dadri,Poor,253,"PM
+2.5",1/1,2024-02-12
+Charkhi Dadri,Poor,253,"PM
+2.5",1/1,2024-02-13
+Charkhi Dadri,Poor,251,"PM
+2.5",1/1,2024-02-14
+Charkhi Dadri,Poor,231,"PM
+2.5",1/1,2024-02-15
+Charkhi Dadri,Poor,226,"PM
+2.5",1/1,2024-02-16
+Charkhi Dadri,Moderate,198,"PM
+2.5",1/1,2024-02-17
+Charkhi Dadri,Moderate,148,"PM
+2.5",1/1,2024-02-18
+Charkhi Dadri,Moderate,102,"PM
+2.5",1/1,2024-02-19
+Charkhi Dadri,Moderate,117,"PM
+2.5",1/1,2024-02-20
+Charkhi Dadri,Moderate,117,"PM
+2.5",1/1,2024-02-21
+Charkhi Dadri,Satisfactory,85,"PM
+2.5",1/1,2024-02-22
+Charkhi Dadri,Moderate,104,"PM
+2.5",1/1,2024-02-23
+Charkhi Dadri,Satisfactory,100,"PM
+2.5",1/1,2024-02-24
+Charkhi Dadri,Satisfactory,90,"PM
+2.5",1/1,2024-02-25
+Charkhi Dadri,Satisfactory,95,"PM
+2.5",1/1,2024-02-26
+Charkhi Dadri,Satisfactory,79,"PM
+2.5",1/1,2024-02-27
+Charkhi Dadri,Satisfactory,87,"PM
+2.5",1/1,2024-02-28
+Charkhi Dadri,Satisfactory,83,"PM
+2.5",1/1,2024-02-29
+Charkhi Dadri,Moderate,111,"PM
+2.5",1/1,2024-03-01
+Charkhi Dadri,Satisfactory,58,"PM
+2.5",1/1,2024-03-02
+Charkhi Dadri,Moderate,172,"PM
+2.5",1/1,2024-03-03
+Charkhi Dadri,Satisfactory,88,"PM
+2.5",1/1,2024-03-04
+Charkhi Dadri,Satisfactory,80,"PM
+2.5",1/1,2024-03-05
+Charkhi Dadri,Satisfactory,81,"PM
+2.5",1/1,2024-03-06
+Charkhi Dadri,Moderate,130,"PM
+2.5",1/1,2024-03-07
+Charkhi Dadri,Moderate,106,"PM
+2.5",1/1,2024-03-08
+Charkhi Dadri,Satisfactory,88,"PM
+2.5",1/1,2024-03-09
+Charkhi Dadri,Moderate,128,"PM
+2.5",1/1,2024-03-10
+Charkhi Dadri,Moderate,158,"PM
+2.5",1/1,2024-03-11
+Charkhi Dadri,Moderate,104,"PM
+2.5",1/1,2024-03-12
+Charkhi Dadri,Moderate,115,"PM
+2.5",1/1,2024-03-13
+Charkhi Dadri,Moderate,150,"PM
+2.5",1/1,2024-03-14
+Charkhi Dadri,Satisfactory,79,"PM
+2.5",1/1,2024-03-15
+Charkhi Dadri,Moderate,117,"PM
+2.5",1/1,2024-03-16
+Charkhi Dadri,Moderate,125,"PM
+2.5",1/1,2024-03-17
+Charkhi Dadri,Moderate,127,"PM
+2.5",1/1,2024-03-18
+Charkhi Dadri,Moderate,144,"PM
+2.5",1/1,2024-03-19
+Charkhi Dadri,Moderate,143,"PM
+2.5",1/1,2024-03-20
+Charkhi Dadri,Moderate,155,"PM
+2.5",1/1,2024-03-21
+Charkhi Dadri,Moderate,150,"PM
+2.5",1/1,2024-03-22
+Charkhi Dadri,Poor,201,"PM
+2.5",1/1,2024-03-23
+Charkhi Dadri,Moderate,137,"PM
+2.5",1/1,2024-03-24
+Charkhi Dadri,Moderate,102,"PM
+2.5",1/1,2024-03-25
+Charkhi Dadri,Moderate,118,"PM
+2.5",1/1,2024-03-26
+Charkhi Dadri,Moderate,135,"PM
+2.5",1/1,2024-03-27
+Charkhi Dadri,Satisfactory,77,"PM
+2.5",1/1,2024-03-28
+Charkhi Dadri,Moderate,110,"PM
+2.5",1/1,2024-03-29
+Charkhi Dadri,Moderate,145,"PM
+2.5",1/1,2024-03-30
+Charkhi Dadri,Moderate,134,"PM
+2.5",1/1,2024-03-31
+Charkhi Dadri,Satisfactory,84,"PM
+2.5",1/1,2024-04-01
+Charkhi Dadri,Moderate,137,"PM
+2.5",1/1,2024-04-02
+Charkhi Dadri,Moderate,160,"PM
+2.5",1/1,2024-04-03
+Charkhi Dadri,Moderate,112,"PM
+2.5",1/1,2024-04-04
+Charkhi Dadri,Moderate,141,"PM
+2.5",1/1,2024-04-05
+Charkhi Dadri,Moderate,121,"PM
+2.5",1/1,2024-04-06
+Charkhi Dadri,Moderate,177,"PM
+2.5",1/1,2024-04-07
+Charkhi Dadri,Moderate,134,"PM
+2.5",1/1,2024-04-08
+Charkhi Dadri,Moderate,154,"PM
+2.5",1/1,2024-04-09
+Charkhi Dadri,Moderate,197,"PM
+2.5",1/1,2024-04-10
+Charkhi Dadri,Moderate,188,"PM
+2.5",1/1,2024-04-11
+Charkhi Dadri,Poor,240,"PM
+2.5",1/1,2024-04-12
+Charkhi Dadri,Moderate,184,"PM
+2.5",1/1,2024-04-13
+Charkhi Dadri,Moderate,159,"PM
+2.5",1/1,2024-04-14
+Charkhi Dadri,Moderate,170,"PM
+2.5",1/1,2024-04-15
+Charkhi Dadri,Moderate,128,"PM
+2.5",1/1,2024-04-16
+Charkhi Dadri,Satisfactory,77,"PM
+2.5",1/1,2024-04-17
+Charkhi Dadri,Moderate,180,"PM
+2.5",1/1,2024-04-18
+Charkhi Dadri,Moderate,155,"PM
+2.5",1/1,2024-04-19
+Charkhi Dadri,Poor,231,"PM
+2.5",1/1,2024-04-20
+Charkhi Dadri,Moderate,130,"PM
+2.5",1/1,2024-04-21
+Charkhi Dadri,Satisfactory,66,"PM
+2.5",1/1,2024-04-22
+Charkhi Dadri,Moderate,134,"PM
+2.5",1/1,2024-04-23
+Charkhi Dadri,Moderate,148,"PM
+2.5",1/1,2024-04-24
+Charkhi Dadri,Moderate,183,"PM
+2.5",1/1,2024-04-25
+Charkhi Dadri,Moderate,155,"PM
+2.5",1/1,2024-04-26
+Charkhi Dadri,Moderate,183,"PM
+2.5",1/1,2024-04-27
+Charkhi Dadri,Moderate,166,"PM
+2.5",1/1,2024-04-28
+Charkhi Dadri,Moderate,192,"PM
+2.5",1/1,2024-04-29
+Charkhi Dadri,Moderate,147,"PM
+2.5",1/1,2024-04-30
+Charkhi Dadri,Poor,223,"PM
+2.5",1/1,2024-05-01
+Charkhi Dadri,Poor,233,"PM
+2.5",1/1,2024-05-02
+Charkhi Dadri,Moderate,179,"PM
+2.5",1/1,2024-05-03
+Charkhi Dadri,Poor,256,"PM
+2.5",1/1,2024-05-04
+Charkhi Dadri,Moderate,182,"PM
+2.5",1/1,2024-05-05
+Charkhi Dadri,Moderate,181,"PM
+2.5",1/1,2024-05-06
+Charkhi Dadri,Poor,212,"PM
+2.5",1/1,2024-05-07
+Charkhi Dadri,Poor,256,"PM
+2.5",1/1,2024-05-08
+Charkhi Dadri,Moderate,179,"PM
+2.5",1/1,2024-05-10
+Charkhi Dadri,Poor,250,"PM
+2.5",1/1,2024-05-11
+Charkhi Dadri,Moderate,142,"PM
+2.5",1/1,2024-05-12
+Charkhi Dadri,Poor,207,"PM
+2.5",1/1,2024-05-13
+Charkhi Dadri,Moderate,177,"PM
+2.5",1/1,2024-05-14
+Charkhi Dadri,Poor,220,"PM
+2.5",1/1,2024-05-15
+Charkhi Dadri,Moderate,166,"PM
+2.5",1/1,2024-05-16
+Charkhi Dadri,Moderate,130,"PM
+2.5",1/1,2024-05-17
+Charkhi Dadri,Moderate,111,"PM
+2.5",1/1,2024-05-18
+Charkhi Dadri,Satisfactory,94,"PM
+2.5",1/1,2024-05-19
+Charkhi Dadri,Satisfactory,96,"PM
+2.5",1/1,2024-05-20
+Charkhi Dadri,Moderate,146,"PM
+2.5",1/1,2024-05-21
+Charkhi Dadri,Moderate,157,"PM
+2.5",1/1,2024-05-22
+Charkhi Dadri,Moderate,111,CO,1/1,2024-05-23
+Charkhi Dadri,Moderate,109,CO,1/1,2024-05-24
+Charkhi Dadri,Moderate,110,CO,1/1,2024-05-25
+Charkhi Dadri,Moderate,112,"PM
+2.5",1/1,2024-05-26
+Charkhi Dadri,Satisfactory,99,"PM
+2.5",1/1,2024-05-27
+Charkhi Dadri,Moderate,102,"PM
+2.5",1/1,2024-05-28
+Charkhi Dadri,Moderate,116,"PM
+2.5",1/1,2024-05-29
+Charkhi Dadri,Moderate,135,"PM
+2.5",1/1,2024-05-30
+Charkhi Dadri,Moderate,195,"PM
+2.5",1/1,2024-05-31
+Charkhi Dadri,Moderate,146,"PM
+2.5",1/1,2024-06-01
+Charkhi Dadri,Satisfactory,95,"PM
+2.5",1/1,2024-06-02
+Charkhi Dadri,Moderate,112,"PM
+2.5",1/1,2024-06-03
+Charkhi Dadri,Poor,221,"PM
+2.5",1/1,2024-06-04
+Charkhi Dadri,Poor,253,"PM
+2.5",1/1,2024-06-05
+Charkhi Dadri,Very Poor,322,"PM
+2.5",1/1,2024-06-06
+Charkhi Dadri,Poor,248,"PM
+2.5",1/1,2024-06-11
+Charkhi Dadri,Poor,275,"PM
+2.5",1/1,2024-06-12
+Charkhi Dadri,Poor,278,"PM
+2.5",1/1,2024-06-13
+Charkhi Dadri,Poor,254,"PM
+2.5",1/1,2024-06-14
+Charkhi Dadri,Moderate,149,"PM
+2.5",1/1,2024-06-15
+Charkhi Dadri,Moderate,115,"PM
+2.5",1/1,2024-06-16
+Charkhi Dadri,Satisfactory,78,"PM
+2.5",1/1,2024-06-17
+Charkhi Dadri,Satisfactory,85,"PM
+2.5",1/1,2024-06-18
+Charkhi Dadri,Moderate,120,"PM
+2.5",1/1,2024-06-19
+Charkhi Dadri,Poor,250,"PM
+2.5",1/1,2024-06-20
+Charkhi Dadri,Poor,216,"PM
+2.5",1/1,2024-06-21
+Charkhi Dadri,Moderate,128,"PM
+2.5",1/1,2024-06-22
+Charkhi Dadri,Moderate,159,"PM
+2.5",1/1,2024-06-23
+Charkhi Dadri,Moderate,105,"PM
+2.5",1/1,2024-06-24
+Charkhi Dadri,Moderate,165,"PM
+2.5",1/1,2024-06-25
+Charkhi Dadri,Moderate,119,"PM
+2.5",1/1,2024-06-26
+Charkhi Dadri,Moderate,168,"PM
+2.5",1/1,2024-06-27
+Charkhi Dadri,Moderate,156,"PM
+2.5",1/1,2024-06-28
+Charkhi Dadri,Moderate,137,"PM
+2.5",1/1,2024-06-29
+Charkhi Dadri,Moderate,172,"PM
+2.5",1/1,2024-06-30
+Charkhi Dadri,Moderate,196,"PM
+2.5",1/1,2024-07-01
+Charkhi Dadri,Moderate,185,"PM
+2.5",1/1,2024-07-02
+Charkhi Dadri,Moderate,153,"PM
+2.5",1/1,2024-07-05
+Charkhi Dadri,Satisfactory,76,"PM
+2.5",1/1,2024-07-07
+Charkhi Dadri,Satisfactory,85,CO,1/1,2024-07-08
+Charkhi Dadri,Satisfactory,79,"PM
+2.5",1/1,2024-07-09
+Charkhi Dadri,Satisfactory,67,"PM
+2.5",1/1,2024-07-10
+Charkhi Dadri,Satisfactory,51,"PM
+2.5",1/1,2024-07-11
+Charkhi Dadri,Satisfactory,77,"PM
+2.5",1/1,2024-07-12
+Charkhi Dadri,Good,48,"PM
+2.5",1/1,2024-07-13
+Charkhi Dadri,Satisfactory,72,"PM
+2.5",1/1,2024-07-14
+Charkhi Dadri,Satisfactory,99,"PM
+2.5",1/1,2024-07-15
+Charkhi Dadri,Satisfactory,88,"PM
+2.5",1/1,2024-07-16
+Charkhi Dadri,Satisfactory,85,"PM
+2.5",1/1,2024-07-17
+Charkhi Dadri,Satisfactory,92,"PM
+2.5",1/1,2024-07-18
+Charkhi Dadri,Satisfactory,70,"PM
+2.5",1/1,2024-07-19
+Charkhi Dadri,Satisfactory,96,"PM
+2.5",1/1,2024-07-20
+Charkhi Dadri,Satisfactory,80,"PM
+2.5",1/1,2024-07-21
+Charkhi Dadri,Satisfactory,76,"PM
+2.5",1/1,2024-07-22
+Charkhi Dadri,Satisfactory,69,"PM
+2.5",1/1,2024-07-24
+Charkhi Dadri,Satisfactory,65,"PM
+2.5",1/1,2024-07-25
+Charkhi Dadri,Satisfactory,55,"PM
+2.5",1/1,2024-07-26
+Charkhi Dadri,Satisfactory,67,"PM
+2.5",1/1,2024-07-27
+Charkhi Dadri,Satisfactory,54,"PM
+2.5",1/1,2024-07-28
+Charkhi Dadri,Good,47,"PM
+2.5",1/1,2024-07-29
+Charkhi Dadri,Satisfactory,61,"PM
+2.5",1/1,2024-07-30
+Charkhi Dadri,Satisfactory,59,"PM
+2.5",1/1,2024-07-31
+Charkhi Dadri,Good,26,CO,1/1,2024-08-01
+Charkhi Dadri,Good,28,CO,1/1,2024-08-02
+Charkhi Dadri,Good,34,"PM
+2.5",1/1,2024-08-03
+Charkhi Dadri,Good,35,"PM
+2.5",1/1,2024-08-04
+Charkhi Dadri,Good,34,"PM
+2.5",1/1,2024-08-05
+Charkhi Dadri,Good,26,"PM
+2.5",1/1,2024-08-06
+Charkhi Dadri,Good,18,"NO
+2",1/1,2024-08-07
+Charkhi Dadri,Good,18,"NO
+2",1/1,2024-08-08
+Charkhi Dadri,Satisfactory,54,"PM
+2.5",1/1,2024-08-09
+Charkhi Dadri,Satisfactory,60,"PM
+2.5",1/1,2024-08-10
+Charkhi Dadri,Satisfactory,74,"PM
+2.5",1/1,2024-08-11
+Charkhi Dadri,Satisfactory,58,"PM
+2.5",1/1,2024-08-12
+Charkhi Dadri,Good,48,"PM
+2.5",1/1,2024-08-13
+Charkhi Dadri,Satisfactory,60,"PM
+2.5",1/1,2024-08-14
+Charkhi Dadri,Satisfactory,62,"PM
+2.5",1/1,2024-08-15
+Charkhi Dadri,Good,49,"PM
+2.5",1/1,2024-08-16
+Charkhi Dadri,Good,44,"PM
+2.5",1/1,2024-08-17
+Charkhi Dadri,Satisfactory,75,"PM
+2.5",1/1,2024-08-18
+Charkhi Dadri,Satisfactory,87,"PM
+2.5",1/1,2024-08-19
+Charkhi Dadri,Satisfactory,54,"PM
+2.5",1/1,2024-08-20
+Charkhi Dadri,Satisfactory,51,"PM
+2.5",1/1,2024-08-21
+Charkhi Dadri,Satisfactory,60,"PM
+2.5",1/1,2024-08-22
+Charkhi Dadri,Good,26,"PM
+2.5",1/1,2024-08-23
+Charkhi Dadri,Satisfactory,53,"PM
+2.5",1/1,2024-08-24
+Charkhi Dadri,Satisfactory,57,"PM
+2.5",1/1,2024-08-25
+Charkhi Dadri,Good,40,"PM
+2.5",1/1,2024-08-26
+Charkhi Dadri,Good,28,"PM
+2.5",1/1,2024-08-27
+Charkhi Dadri,Good,22,"PM
+2.5",1/1,2024-08-28
+Charkhi Dadri,Good,33,"PM
+2.5",1/1,2024-08-29
+Charkhi Dadri,Good,50,"PM
+2.5",1/1,2024-08-30
+Charkhi Dadri,Good,46,"PM
+2.5",1/1,2024-08-31
+Charkhi Dadri,Satisfactory,73,"PM
+2.5",1/1,2024-09-01
+Charkhi Dadri,Satisfactory,68,"PM
+2.5",1/1,2024-09-02
+Charkhi Dadri,Satisfactory,65,"PM
+2.5",1/1,2024-09-03
+Charkhi Dadri,Good,27,"PM
+2.5",1/1,2024-09-04
+Charkhi Dadri,Good,22,"PM
+2.5",1/1,2024-09-05
+Charkhi Dadri,Good,42,"PM
+2.5",1/1,2024-09-06
+Charkhi Dadri,Good,26,"PM
+2.5",1/1,2024-09-07
+Charkhi Dadri,Good,24,"PM
+2.5",1/1,2024-09-08
+Charkhi Dadri,Satisfactory,81,"PM
+2.5",1/1,2024-09-09
+Charkhi Dadri,Moderate,103,"PM
+2.5",1/1,2024-09-10
+Charkhi Dadri,Good,44,"PM
+2.5",1/1,2024-09-11
+Charkhi Dadri,Good,43,"PM
+2.5",1/1,2024-09-12
+Charkhi Dadri,Good,32,"PM
+2.5",1/1,2024-09-13
+Charkhi Dadri,Good,44,"PM
+2.5",1/1,2024-09-14
+Charkhi Dadri,Satisfactory,73,"PM
+2.5",1/1,2024-09-15
+Charkhi Dadri,Moderate,136,"PM
+2.5",1/1,2024-09-16
+Charkhi Dadri,Moderate,138,"PM
+2.5",1/1,2024-09-17
+Charkhi Dadri,Moderate,164,"PM
+2.5",1/1,2024-09-18
+Charkhi Dadri,Good,18,"PM
+2.5",1/1,2024-09-19
+Charkhi Dadri,Satisfactory,60,"PM
+2.5",1/1,2024-09-20
+Charkhi Dadri,Poor,236,"PM
+2.5",1/1,2024-09-22
+Charkhi Dadri,Moderate,188,"PM
+2.5",1/1,2024-09-23
+Charkhi Dadri,Poor,202,"PM
+2.5",1/1,2024-09-24
+Charkhi Dadri,Moderate,171,"PM
+2.5",1/1,2024-09-25
+Charkhi Dadri,Satisfactory,80,"PM
+2.5",1/1,2024-09-26
+Charkhi Dadri,Good,48,"PM
+2.5",1/1,2024-09-27
+Charkhi Dadri,Good,32,"PM
+2.5",1/1,2024-09-28
+Charkhi Dadri,Satisfactory,52,"PM
+2.5",1/1,2024-09-29
+Charkhi Dadri,Satisfactory,83,"PM
+2.5",1/1,2024-09-30
+Charkhi Dadri,Moderate,140,"PM
+2.5",1/1,2024-10-01
+Charkhi Dadri,Moderate,140,"PM
+2.5",1/1,2024-10-02
+Charkhi Dadri,Moderate,125,"PM
+2.5",1/1,2024-10-03
+Charkhi Dadri,Moderate,112,"PM
+2.5",1/1,2024-10-04
+Charkhi Dadri,Satisfactory,63,"PM
+2.5",1/1,2024-10-05
+Charkhi Dadri,Satisfactory,78,"PM
+2.5",1/1,2024-10-06
+Charkhi Dadri,Satisfactory,84,"PM
+2.5",1/1,2024-10-07
+Charkhi Dadri,Moderate,113,"PM
+2.5",1/1,2024-10-08
+Charkhi Dadri,Moderate,157,"PM
+2.5",1/1,2024-10-09
+Charkhi Dadri,Moderate,157,"PM
+2.5",1/1,2024-10-10
+Charkhi Dadri,Moderate,126,"PM
+2.5",1/1,2024-10-11
+Charkhi Dadri,Moderate,126,"PM
+2.5",1/1,2024-10-12
+Charkhi Dadri,Moderate,189,"PM
+2.5",1/1,2024-10-13
+Charkhi Dadri,Moderate,157,"PM
+2.5",1/1,2024-10-14
+Charkhi Dadri,Poor,244,"PM
+2.5",1/1,2024-10-15
+Charkhi Dadri,Poor,256,"PM
+2.5",1/1,2024-10-16
+Charkhi Dadri,Moderate,179,"PM
+2.5",1/1,2024-10-17
+Charkhi Dadri,Moderate,186,"PM
+2.5",1/1,2024-10-18
+Charkhi Dadri,Moderate,171,"PM
+2.5",1/1,2024-10-19
+Charkhi Dadri,Poor,211,"PM
+2.5",1/1,2024-10-20
+Charkhi Dadri,Poor,235,"PM
+2.5",1/1,2024-10-21
+Charkhi Dadri,Poor,232,"PM
+2.5",1/1,2024-10-22
+Charkhi Dadri,Poor,259,"PM
+2.5",1/1,2024-10-23
+Charkhi Dadri,Poor,260,"PM
+2.5",1/1,2024-10-24
+Charkhi Dadri,Moderate,192,"PM
+2.5",1/1,2024-10-25
+Charkhi Dadri,Moderate,158,"PM
+2.5",1/1,2024-10-26
+Charkhi Dadri,Moderate,176,"PM
+2.5",1/1,2024-10-27
+Charkhi Dadri,Poor,216,"PM
+2.5",1/1,2024-10-28
+Charkhi Dadri,Moderate,186,"PM
+2.5",1/1,2024-10-29
+Charkhi Dadri,Poor,257,"PM
+2.5",1/1,2024-10-30
+Charkhi Dadri,Very Poor,327,"PM
+2.5",1/1,2024-10-31
+Charkhi Dadri,Moderate,174,"PM
+2.5",1/1,2024-11-01
+Charkhi Dadri,Poor,255,"PM
+2.5",1/1,2024-11-02
+Charkhi Dadri,Poor,280,"PM
+2.5",1/1,2024-11-03
+Charkhi Dadri,Very Poor,308,"PM
+2.5",1/1,2024-11-04
+Charkhi Dadri,Poor,210,"PM
+2.5",1/1,2024-11-06
+Charkhi Dadri,Moderate,160,"PM
+10",1/1,2024-11-07
+Charkhi Dadri,Moderate,151,"PM
+10",1/1,2024-11-08
+Charkhi Dadri,Poor,292,"PM
+2.5",1/1,2024-11-09
+Charkhi Dadri,Poor,296,"PM
+2.5",1/1,2024-11-10
+Charkhi Dadri,Poor,283,"PM
+2.5",1/1,2024-11-11
+Charkhi Dadri,Poor,226,"PM
+2.5",1/1,2024-11-12
+Charkhi Dadri,Very Poor,307,"PM
+2.5",1/1,2024-11-13
+Charkhi Dadri,Moderate,170,"PM
+2.5",1/1,2024-11-14
+Charkhi Dadri,Poor,299,"PM
+2.5",1/1,2024-11-15
+Charkhi Dadri,Poor,253,"PM
+2.5",1/1,2024-11-16
+Charkhi Dadri,Poor,259,"PM
+2.5",1/1,2024-11-17
+Charkhi Dadri,Poor,233,"PM
+2.5",1/1,2024-11-18
+Charkhi Dadri,Very Poor,351,"PM
+2.5",1/1,2024-11-19
+Charkhi Dadri,Very Poor,354,"PM
+2.5",1/1,2024-11-20
+Charkhi Dadri,Very Poor,337,"PM
+2.5",1/1,2024-11-21
+Charkhi Dadri,Very Poor,363,"PM
+2.5",1/1,2024-11-22
+Charkhi Dadri,Poor,289,"PM
+2.5",1/1,2024-11-23
+Charkhi Dadri,Poor,233,"PM
+2.5",1/1,2024-11-24
+Charkhi Dadri,Poor,283,"PM
+2.5",1/1,2024-11-25
+Charkhi Dadri,Moderate,189,"PM
+2.5",1/1,2024-11-26
+Charkhi Dadri,Moderate,188,"PM
+2.5",1/1,2024-11-27
+Charkhi Dadri,Poor,225,"PM
+2.5",1/1,2024-11-28
+Charkhi Dadri,Poor,233,"PM
+2.5",1/1,2024-11-29
+Charkhi Dadri,Poor,217,"PM
+2.5",1/1,2024-11-30
+Charkhi Dadri,Moderate,184,"PM
+2.5",1/1,2024-12-01
+Charkhi Dadri,Moderate,122,"PM
+2.5",1/1,2024-12-02
+Charkhi Dadri,Moderate,147,"PM
+2.5",1/1,2024-12-03
+Charkhi Dadri,Moderate,115,"PM
+2.5",1/1,2024-12-04
+Charkhi Dadri,Satisfactory,88,"PM
+2.5",1/1,2024-12-05
+Charkhi Dadri,Satisfactory,99,"PM
+2.5",1/1,2024-12-06
+Charkhi Dadri,Moderate,134,"PM
+2.5",1/1,2024-12-07
+Charkhi Dadri,Moderate,154,"PM
+2.5",1/1,2024-12-08
+Charkhi Dadri,Moderate,172,"PM
+2.5",1/1,2024-12-09
+Charkhi Dadri,Moderate,171,"PM
+2.5",1/1,2024-12-10
+Charkhi Dadri,Moderate,149,"PM
+2.5",1/1,2024-12-11
+Charkhi Dadri,Moderate,170,"PM
+2.5",1/1,2024-12-12
+Charkhi Dadri,Moderate,101,"PM
+2.5",1/1,2024-12-13
+Charkhi Dadri,Satisfactory,59,"PM
+10",1/1,2024-12-14
+Charkhi Dadri,Satisfactory,69,"PM
+10",1/1,2024-12-15
+Charkhi Dadri,Moderate,120,"PM
+2.5",1/1,2024-12-16
+Charkhi Dadri,Moderate,180,"PM
+2.5",1/1,2024-12-17
+Charkhi Dadri,Poor,237,"PM
+2.5",1/1,2024-12-18
+Charkhi Dadri,Very Poor,363,"PM
+2.5",1/1,2024-12-19
+Charkhi Dadri,Very Poor,351,"PM
+2.5",1/1,2024-12-20
+Charkhi Dadri,Very Poor,320,"PM
+2.5",1/1,2024-12-21
+Charkhi Dadri,Very Poor,366,"PM
+2.5",1/1,2024-12-22
+Charkhi Dadri,Very Poor,335,"PM
+2.5",1/1,2024-12-23
+Charkhi Dadri,Poor,287,"PM
+2.5",1/1,2024-12-24
+Charkhi Dadri,Poor,267,"PM
+2.5",1/1,2024-12-25
+Charkhi Dadri,Poor,256,"PM
+2.5",1/1,2024-12-26
+Charkhi Dadri,Poor,222,"PM
+2.5",1/1,2024-12-27
+Charkhi Dadri,Satisfactory,82,"PM
+2.5",1/1,2024-12-28
+Charkhi Dadri,Moderate,116,"PM
+2.5",1/1,2024-12-29
+Charkhi Dadri,Poor,232,"PM
+2.5",1/1,2024-12-31
+Charkhi Dadri,Moderate,183,"PM
+2.5",1/1,2025-01-02
+Charkhi Dadri,Poor,215,"PM
+2.5",1/1,2025-01-03
+Charkhi Dadri,Moderate,200,"PM
+2.5",1/1,2025-01-04
+Charkhi Dadri,Poor,277,"PM
+2.5",1/1,2025-01-05
+Charkhi Dadri,Poor,257,"PM
+2.5",1/1,2025-01-06
+Charkhi Dadri,Moderate,184,"PM
+2.5",1/1,2025-01-07
+Charkhi Dadri,Moderate,160,"PM
+2.5",1/1,2025-01-08
+Charkhi Dadri,Poor,227,"PM
+2.5",1/1,2025-01-09
+Charkhi Dadri,Poor,229,"PM
+2.5",1/1,2025-01-10
+Charkhi Dadri,Satisfactory,95,"PM
+2.5",1/1,2025-01-12
+Charkhi Dadri,Satisfactory,72,"PM
+2.5",1/1,2025-01-13
+Charkhi Dadri,Moderate,134,"PM
+2.5",1/1,2025-01-14
+Charkhi Dadri,Poor,227,"PM
+2.5",1/1,2025-01-15
+Charkhi Dadri,Poor,232,"PM
+2.5",1/1,2025-01-16
+Charkhi Dadri,Moderate,171,"PM
+2.5",1/1,2025-01-17
+Charkhi Dadri,Moderate,110,"PM
+2.5",1/1,2025-01-18
+Charkhi Dadri,Poor,208,"PM
+2.5",1/1,2025-01-19
+Charkhi Dadri,Moderate,197,"PM
+2.5",1/1,2025-01-20
+Charkhi Dadri,Poor,230,"PM
+2.5",1/1,2025-01-21
+Charkhi Dadri,Poor,226,"PM
+2.5",1/1,2025-01-22
+Charkhi Dadri,Good,43,"PM
+2.5",1/1,2025-01-23
+Charkhi Dadri,Moderate,187,"PM
+2.5",1/1,2025-01-24
+Charkhi Dadri,Moderate,118,"PM
+2.5",1/1,2025-01-25
+Charkhi Dadri,Poor,216,"PM
+2.5",1/1,2025-01-27
+Charkhi Dadri,Poor,253,"PM
+2.5",1/1,2025-01-28
+Charkhi Dadri,Poor,247,"PM
+2.5",1/1,2025-01-29
+Charkhi Dadri,Moderate,121,"PM
+10",1/1,2025-01-30
+Charkhi Dadri,Poor,287,"PM
+2.5",1/1,2025-01-31
+Charkhi Dadri,Poor,206,"PM
+2.5",1/1,2025-02-01
+Charkhi Dadri,Very Poor,307,"PM
+2.5",1/1,2025-02-02
+Charkhi Dadri,Poor,211,"PM
+2.5",1/1,2025-02-03
+Charkhi Dadri,Moderate,146,"PM
+2.5",1/1,2025-02-04
+Charkhi Dadri,Poor,222,"PM
+2.5",1/1,2025-02-05
+Charkhi Dadri,Poor,267,"PM
+2.5",1/1,2025-02-06
+Charkhi Dadri,Poor,233,"PM
+2.5",1/1,2025-02-07
+Charkhi Dadri,Moderate,188,"PM
+2.5",1/1,2025-02-08
+Charkhi Dadri,Poor,218,"PM
+2.5",1/1,2025-02-09
+Charkhi Dadri,Poor,205,"PM
+2.5",1/1,2025-02-10
+Charkhi Dadri,Poor,225,"PM
+2.5",1/1,2025-02-11
+Charkhi Dadri,Moderate,124,"PM
+2.5",1/1,2025-02-12
+Charkhi Dadri,Satisfactory,84,"PM
+2.5",1/1,2025-02-13
+Charkhi Dadri,Moderate,102,"PM
+2.5",1/1,2025-02-14
+Charkhi Dadri,Moderate,157,"PM
+2.5",1/1,2025-02-15
+Charkhi Dadri,Poor,201,"PM
+2.5",1/1,2025-02-16
+Charkhi Dadri,Moderate,137,"PM
+2.5",1/1,2025-02-17
+Charkhi Dadri,Moderate,123,"PM
+2.5",1/1,2025-02-18
+Charkhi Dadri,Moderate,145,"PM
+2.5",1/1,2025-02-19
+Charkhi Dadri,Satisfactory,87,"PM
+2.5",1/1,2025-02-20
+Charkhi Dadri,Moderate,129,"PM
+2.5",1/1,2025-02-22
+Charkhi Dadri,Moderate,188,"PM
+2.5",1/1,2025-02-24
+Charkhi Dadri,Poor,219,"PM
+2.5",1/1,2025-02-25
+Charkhi Dadri,Moderate,188,"PM
+2.5",1/1,2025-02-26
+Charkhi Dadri,Moderate,169,"PM
+2.5",1/1,2025-02-27
+Charkhi Dadri,Satisfactory,86,"PM
+2.5",1/1,2025-02-28
+Charkhi Dadri,Moderate,143,"PM
+2.5",1/1,2025-03-01
+Charkhi Dadri,Satisfactory,64,"PM
+2.5",1/1,2025-03-02
+Charkhi Dadri,Moderate,116,"PM
+2.5",1/1,2025-03-03
+Charkhi Dadri,Moderate,164,"PM
+2.5",1/1,2025-03-04
+Charkhi Dadri,Satisfactory,91,"PM
+2.5",1/1,2025-03-05
+Charkhi Dadri,Moderate,112,"PM
+2.5",1/1,2025-03-06
+Charkhi Dadri,Poor,220,"PM
+2.5",1/1,2025-03-07
+Charkhi Dadri,Poor,205,"PM
+2.5",1/1,2025-03-08
+Charkhi Dadri,Poor,224,"PM
+2.5",1/1,2025-03-09
+Charkhi Dadri,Moderate,187,"PM
+2.5",1/1,2025-03-10
+Charkhi Dadri,Poor,234,"PM
+2.5",1/1,2025-03-11
+Charkhi Dadri,Poor,249,"PM
+2.5",1/1,2025-03-12
+Charkhi Dadri,Moderate,200,"PM
+2.5",1/1,2025-03-13
+Charkhi Dadri,Moderate,143,"PM
+2.5",1/1,2025-03-14
+Charkhi Dadri,Satisfactory,71,"PM
+2.5",1/1,2025-03-15
+Charkhi Dadri,Satisfactory,65,"PM
+2.5",1/1,2025-03-16
+Charkhi Dadri,Moderate,101,"PM
+2.5",1/1,2025-03-17
+Charkhi Dadri,Moderate,128,"PM
+2.5",1/1,2025-03-18
+Charkhi Dadri,Moderate,169,"PM
+2.5",1/1,2025-03-19
+Charkhi Dadri,Moderate,160,"PM
+2.5",1/1,2025-03-20
+Charkhi Dadri,Moderate,157,"PM
+2.5",1/1,2025-03-21
+Charkhi Dadri,Moderate,161,"PM
+2.5",1/1,2025-03-22
+Charkhi Dadri,Moderate,199,"PM
+2.5",1/1,2025-03-23
+Charkhi Dadri,Moderate,187,"PM
+2.5",1/1,2025-03-24
+Charkhi Dadri,Poor,226,"PM
+2.5",1/1,2025-03-25
+Charkhi Dadri,Poor,259,"PM
+2.5",1/1,2025-03-26
+Charkhi Dadri,Poor,267,"PM
+2.5",1/1,2025-03-29
+Charkhi Dadri,Poor,216,"PM
+2.5",1/1,2025-03-30
+Charkhi Dadri,Satisfactory,87,"PM
+2.5",1/1,2025-03-31
+Charkhi Dadri,Good,28,"PM
+2.5",1/1,2025-04-01
+Charkhi Dadri,Satisfactory,79,"PM
+10",1/1,2025-10-04
+Charkhi Dadri,Satisfactory,94,"PM
+10",1/1,2025-10-05
+Charkhi Dadri,Satisfactory,64,"PM
+10",1/1,2025-10-06
+Charkhi Dadri,Good,29,"PM
+10",1/1,2025-10-07
+Charkhi Dadri,Good,32,"PM
+10",1/1,2025-10-08
+Charkhi Dadri,Satisfactory,76,"PM
+10",1/1,2025-10-09
+Charkhi Dadri,Moderate,122,"PM
+10",1/1,2025-10-10
+Charkhi Dadri,Good,34,"PM
+10",1/1,2025-10-11
+Charkhi Dadri,Good,20,"PM
+10",1/1,2025-10-12
+Charkhi Dadri,Good,15,"O
+3",1/1,2025-10-13
+Charkhi Dadri,Good,16,"O
+3",1/1,2025-10-14
+Charkhi Dadri,Good,15,"O
+3",1/1,2025-10-15
+Charkhi Dadri,Good,15,"O
+3",1/1,2025-10-16
+Charkhi Dadri,Satisfactory,78,"PM
+2.5",1/1,2025-10-19
+Charkhi Dadri,Poor,290,"PM
+2.5",1/1,2025-10-20
+Charkhi Dadri,Very Poor,353,"PM
+2.5",1/1,2025-10-21
+Charkhi Dadri,Very Poor,331,"PM
+2.5",1/1,2025-10-22
+Charkhi Dadri,Poor,268,"PM
+2.5",1/1,2025-10-23
+Charkhi Dadri,Poor,268,"PM
+2.5",1/1,2025-10-24
+Charkhi Dadri,Poor,292,"PM
+2.5",1/1,2025-10-25
+Charkhi Dadri,Poor,269,"PM
+2.5",1/1,2025-10-26
+Charkhi Dadri,Poor,274,"PM
+2.5",1/1,2025-10-27
+Charkhi Dadri,Poor,279,"PM
+2.5",1/1,2025-10-28
+Charkhi Dadri,Very Poor,323,"PM
+2.5",1/1,2025-10-29
+Charkhi Dadri,Very Poor,392,"PM
+2.5",1/1,2025-10-30
+Charkhi Dadri,Poor,209,"PM
+2.5",1/1,2025-10-31
+Charkhi_Dadri,Very Poor,375,"PM
+2.5",1/1,2025-11-01
+Charkhi_Dadri,Poor,288,"PM
+2.5",1/1,2025-11-02
+Charkhi_Dadri,Poor,215,"PM
+2.5",1/1,2025-11-03
+Charkhi_Dadri,Poor,252,"PM
+2.5",1/1,2025-11-04
+Charkhi_Dadri,Moderate,177,"PM
+2.5",1/1,2025-11-05
+Charkhi_Dadri,Very Poor,337,"PM
+2.5",1/1,2025-11-06
+Charkhi_Dadri,Poor,286,"PM
+2.5",1/1,2025-11-07
+Charkhi_Dadri,Very Poor,302,"PM
+2.5",1/1,2025-11-08
+Charkhi_Dadri,Very Poor,338,"PM
+2.5",1/1,2025-11-09
+Charkhi_Dadri,Very Poor,371,"PM
+2.5",1/1,2025-11-10
+Charkhi_Dadri,Very Poor,355,"PM
+2.5",1/1,2025-11-11
+Charkhi_Dadri,Very Poor,337,"PM
+2.5",1/1,2025-11-12
+Charkhi_Dadri,Very Poor,349,"PM
+2.5",1/1,2025-11-13
+Charkhi_Dadri,Very Poor,329,"PM
+2.5",1/1,2025-11-14
+Charkhi_Dadri,Poor,295,"PM
+2.5",1/1,2025-11-15
+Charkhi_Dadri,Poor,282,"PM
+2.5",1/1,2025-11-16
+Charkhi_Dadri,Poor,259,"PM
+2.5",1/1,2025-11-17
+Charkhi_Dadri,Very Poor,313,"PM
+2.5",1/1,2025-11-18
+Charkhi_Dadri,Very Poor,309,"PM
+2.5",1/1,2025-11-19
+Charkhi_Dadri,Poor,236,"PM
+10",1/1,2025-11-20
+Charkhi_Dadri,Poor,232,"PM
+10",1/1,2025-11-21
+Charkhi_Dadri,Poor,214,"PM
+10",1/1,2025-11-22
+Charkhi_Dadri,Very Poor,396,"PM
+2.5",1/1,2025-11-23
+Charkhi_Dadri,Very Poor,366,"PM
+2.5",1/1,2025-11-24
+Charkhi_Dadri,Very Poor,320,"PM
+2.5",1/1,2025-11-25
+Charkhi_Dadri,Poor,279,"PM
+2.5",1/1,2025-11-26
+Charkhi_Dadri,Very Poor,317,"PM
+2.5",1/1,2025-11-27
+Charkhi_Dadri,Very Poor,348,"PM
+2.5",1/1,2025-11-28
+Charkhi_Dadri,Very Poor,304,"PM
+2.5",1/1,2025-11-29
+Charkhi_Dadri,Poor,229,"PM
+2.5",1/1,2025-11-30
+Charkhi_Dadri,Poor,224,"PM
+2.5",1/1,2025-12-01
+Charkhi_Dadri,Very Poor,305,"PM
+2.5",1/1,2025-12-02
+Charkhi_Dadri,Very Poor,303,"PM
+2.5",1/1,2025-12-03
+Charkhi_Dadri,Poor,290,"PM
+2.5",1/1,2025-12-04
+Charkhi_Dadri,Poor,252,"PM
+2.5",1/1,2025-12-05
+Charkhi_Dadri,Poor,258,"PM
+2.5",1/1,2025-12-06
+Charkhi_Dadri,Poor,226,"PM
+2.5",1/1,2025-12-07
+Charkhi_Dadri,Poor,252,"PM
+2.5",1/1,2025-12-08
+Charkhi_Dadri,Poor,230,"PM
+2.5",1/1,2025-12-09
+Charkhi_Dadri,Moderate,169,"PM
+2.5",1/1,2025-12-10
+Charkhi_Dadri,Poor,256,"PM
+2.5",1/1,2025-12-11
+Charkhi_Dadri,Poor,217,"PM
+2.5",1/1,2025-12-12
+Charkhi_Dadri,Poor,264,"PM
+2.5",1/1,2025-12-13
+Charkhi_Dadri,Poor,287,"PM
+2.5",1/1,2025-12-14

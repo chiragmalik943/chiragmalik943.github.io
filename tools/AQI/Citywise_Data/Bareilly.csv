@@ -1,0 +1,2471 @@
+City,Air Quality,Index Value,Prominent Pollutant,No. of Stations Participated / Total Stations (Based on Number of Monitoring Stations),Date
+Bareilly,Poor,208,"PM
+10",1,2022-06-03
+Bareilly,Moderate,153,"PM
+10",1,2022-06-04
+Bareilly,Moderate,158,"PM
+10",1,2022-06-05
+Bareilly,Moderate,180,"PM
+10",1,2022-06-06
+Bareilly,Moderate,181,"PM
+10",1,2022-06-07
+Bareilly,Poor,242,"PM
+10",1,2022-06-08
+Bareilly,Moderate,185,"PM
+10",1,2022-06-09
+Bareilly,Satisfactory,100,"PM
+2.5",1,2022-06-10
+Bareilly,Satisfactory,96,"PM
+2.5",1,2022-06-11
+Bareilly,Satisfactory,74,"PM
+10",1,2022-06-12
+Bareilly,Moderate,120,"PM
+2.5",1,2022-06-13
+Bareilly,Moderate,146,"PM
+10",1,2022-06-15
+Bareilly,Moderate,118,"PM
+10",1,2022-06-17
+Bareilly,Moderate,104,"PM
+10",1,2022-06-18
+Bareilly,Satisfactory,90,"PM
+10",1,2022-06-19
+Bareilly,Moderate,149,"PM
+2.5",1,2022-06-20
+Bareilly,Moderate,113,"PM
+10",1,2022-06-21
+Bareilly,Moderate,103,"PM
+10",1,2022-06-22
+Bareilly,Moderate,165,"PM
+2.5",1,2022-06-23
+Bareilly,Moderate,160,"PM
+10",1,2022-06-25
+Bareilly,Satisfactory,89,"PM
+10",1,2022-06-26
+Bareilly,Satisfactory,92,"PM
+10",1,2022-06-27
+Bareilly,Satisfactory,91,"PM
+10",1,2022-06-28
+Bareilly,Satisfactory,94,"PM
+10",1,2022-06-29
+Bareilly,Good,29,"PM
+2.5",1,2022-07-01
+Bareilly,Satisfactory,73,"PM
+10",1,2022-07-02
+Bareilly,Good,50,"PM
+2.5",1,2022-07-03
+Bareilly,Moderate,106,"PM
+2.5",1,2022-07-04
+Bareilly,Satisfactory,65,"PM
+10",1,2022-07-05
+Bareilly,Satisfactory,59,"PM
+10",1,2022-07-06
+Bareilly,Satisfactory,69,"PM
+10",1,2022-07-08
+Bareilly,Good,40,"PM
+10",1,2022-07-09
+Bareilly,Good,33,"PM
+10",1,2022-07-10
+Bareilly,Satisfactory,57,"PM
+10",1,2022-07-11
+Bareilly,Satisfactory,63,"PM
+10",1,2022-07-12
+Bareilly,Satisfactory,63,"PM
+10",1,2022-07-14
+Bareilly,Satisfactory,51,"PM
+10",1,2022-07-15
+Bareilly,Good,45,"PM
+10",1,2022-07-16
+Bareilly,Good,44,"PM
+10",1,2022-07-17
+Bareilly,Satisfactory,54,"PM
+10",1,2022-07-18
+Bareilly,Satisfactory,55,"PM
+10",1,2022-07-19
+Bareilly,Good,44,"PM
+10",1,2022-07-20
+Bareilly,Good,33,"PM
+10",1,2022-07-22
+Bareilly,Good,34,"PM
+10",1,2022-07-23
+Bareilly,Good,20,"O
+3",1,2022-07-24
+Bareilly,Good,24,"O
+3",1,2022-07-25
+Bareilly,Good,30,"PM
+10",1,2022-07-26
+Bareilly,Good,37,"PM
+10",1,2022-07-27
+Bareilly,Good,42,"PM
+10",1,2022-07-28
+Bareilly,Good,45,"PM
+10",1,2022-07-29
+Bareilly,Good,40,"PM
+10",1,2022-07-30
+Bareilly,Good,31,"PM
+10",1,2022-07-31
+Bareilly,Satisfactory,61,"PM
+10",1,2022-08-01
+Bareilly,Satisfactory,64,"PM
+10",1,2022-08-02
+Bareilly,Good,39,"PM
+10",1,2022-08-03
+Bareilly,Good,28,"PM
+10",1,2022-08-04
+Bareilly,Good,32,"PM
+10",1,2022-08-05
+Bareilly,Good,50,"PM
+10",1,2022-08-06
+Bareilly,Good,36,"PM
+10",1,2022-08-07
+Bareilly,Good,43,"PM
+10",1,2022-08-08
+Bareilly,Good,44,"PM
+10",1,2022-08-09
+Bareilly,Good,42,"PM
+10",1,2022-08-10
+Bareilly,Good,40,"PM
+10",2,2022-08-11
+Bareilly,Good,45,"PM
+10",2,2022-08-12
+Bareilly,Good,50,"PM , PM
+2.5 10",2,2022-08-13
+Bareilly,Satisfactory,59,"PM , PM
+2.5 10",2,2022-08-14
+Bareilly,Good,31,CO,1,2022-08-15
+Bareilly,Satisfactory,54,"PM
+10",2,2022-08-16
+Bareilly,Good,50,"PM , PM
+2.5 10",2,2022-08-17
+Bareilly,Good,48,"PM , PM
+2.5 10",2,2022-08-18
+Bareilly,Satisfactory,56,"PM , PM
+2.5 10",2,2022-08-19
+Bareilly,Good,36,"PM
+10",1,2022-08-20
+Bareilly,Satisfactory,54,"PM , PM
+2.5 10",2,2022-08-21
+Bareilly,Satisfactory,54,"PM
+10",2,2022-08-22
+Bareilly,Satisfactory,64,"PM , PM
+2.5 10",2,2022-08-23
+Bareilly,Good,48,"PM , PM
+2.5 10",2,2022-08-25
+Bareilly,Satisfactory,84,"PM , PM
+2.5 10",2,2022-08-26
+Bareilly,Moderate,103,"PM
+2.5",1,2022-08-27
+Bareilly,Moderate,105,"PM
+10",1,2022-08-28
+Bareilly,Satisfactory,92,"PM
+10",1,2022-08-29
+Bareilly,Satisfactory,86,"PM
+10",2,2022-08-30
+Bareilly,Moderate,108,"PM
+10",2,2022-08-31
+Bareilly,Moderate,126,"PM , PM
+2.5 10",2,2022-09-01
+Bareilly,Satisfactory,74,"PM , PM
+2.5 10",2,2022-09-02
+Bareilly,Satisfactory,84,"PM , PM
+2.5 10",2,2022-09-03
+Bareilly,Satisfactory,92,"PM
+10",2,2022-09-04
+Bareilly,Satisfactory,84,"PM
+10",2,2022-09-05
+Bareilly,Satisfactory,98,"PM
+10",2,2022-09-06
+Bareilly,Moderate,124,"PM , PM
+2.5 10",2,2022-09-07
+Bareilly,Moderate,110,"PM , PM
+10 2.5",2,2022-09-08
+Bareilly,Satisfactory,77,"PM , PM
+2.5 10",2,2022-09-09
+Bareilly,Satisfactory,64,"PM , PM
+2.5 10",2,2022-09-10
+Bareilly,Good,50,"PM , PM
+2.5 10",2,2022-09-11
+Bareilly,Satisfactory,54,"PM , PM
+2.5 10",2,2022-09-12
+Bareilly,Satisfactory,55,"PM
+10",2,2022-09-13
+Bareilly,Satisfactory,51,"PM
+10",2,2022-09-14
+Bareilly,Good,35,CO,1,2022-09-15
+Bareilly,Good,34,"CO, PM
+10",2,2022-09-16
+Bareilly,Good,50,"PM , PM
+10 2.5",2,2022-09-18
+Bareilly,Satisfactory,55,"PM
+10",2,2022-09-19
+Bareilly,Satisfactory,66,"PM
+10",2,2022-09-20
+Bareilly,Satisfactory,66,"PM
+10",1,2022-09-21
+Bareilly,Satisfactory,66,"PM
+10",2,2022-09-22
+Bareilly,Satisfactory,64,"PM
+10",2,2022-09-23
+Bareilly,Satisfactory,52,"PM , PM
+10 2.5",2,2022-09-24
+Bareilly,Satisfactory,54,"PM , PM
+2.5 10",2,2022-09-25
+Bareilly,Good,46,"PM , PM
+2.5 10",2,2022-09-26
+Bareilly,Satisfactory,86,"PM , PM
+10 2.5",2,2022-09-27
+Bareilly,Moderate,104,"PM , PM
+10 2.5",2,2022-09-28
+Bareilly,Moderate,128,"PM , PM
+2.5 10",2,2022-09-29
+Bareilly,Moderate,176,"PM
+2.5",2,2022-09-30
+Bareilly,Moderate,162,"PM
+2.5",2,2022-10-01
+Bareilly,Moderate,194,"PM
+2.5",2,2022-10-02
+Bareilly,Moderate,142,"PM , PM
+2.5 10",2,2022-10-03
+Bareilly,Moderate,116,"PM
+10",2,2022-10-04
+Bareilly,Good,44,"PM
+10",2,2022-10-05
+Bareilly,Good,29,"CO, PM
+10",2,2022-10-06
+Bareilly,Good,34,CO,2,2022-10-07
+Bareilly,Good,32,CO,2,2022-10-08
+Bareilly,Good,18,CO,1,2022-10-09
+Bareilly,Good,22,CO,1,2022-10-10
+Bareilly,Good,33,CO,2,2022-10-11
+Bareilly,Satisfactory,54,"PM
+10",2,2022-10-12
+Bareilly,Satisfactory,85,"PM
+10",2,2022-10-13
+Bareilly,Moderate,122,"PM
+10",2,2022-10-14
+Bareilly,Moderate,158,"PM
+10",2,2022-10-15
+Bareilly,Moderate,125,"PM
+10",1,2022-10-16
+Bareilly,Moderate,162,"PM
+2.5",2,2022-10-17
+Bareilly,Moderate,182,"PM
+2.5",2,2022-10-18
+Bareilly,Moderate,152,"PM , PM
+10 2.5",2,2022-10-19
+Bareilly,Moderate,186,"PM , PM
+10 2.5",2,2022-10-20
+Bareilly,Moderate,118,"PM
+10",2,2022-10-21
+Bareilly,Moderate,166,"PM
+10",2,2022-10-22
+Bareilly,Moderate,194,"PM
+2.5",2,2022-10-23
+Bareilly,Moderate,186,"PM
+2.5",2,2022-10-24
+Bareilly,Poor,266,"PM
+2.5",2,2022-10-25
+Bareilly,Poor,238,"PM
+2.5",2,2022-10-26
+Bareilly,Moderate,155,"PM
+2.5",2,2022-10-27
+Bareilly,Moderate,116,"PM
+2.5",2,2022-10-28
+Bareilly,Poor,222,"PM
+2.5",2,2022-10-29
+Bareilly,Moderate,142,"PM
+10",2,2022-10-30
+Bareilly,Moderate,158,"PM
+10",2,2022-10-31
+Bareilly,Moderate,164,"PM , PM
+2.5 10",2,2022-11-01
+Bareilly,Moderate,128,"PM
+10",2,2022-11-02
+Bareilly,Poor,219,"PM
+10",2,2022-11-03
+Bareilly,Moderate,112,"PM , PM
+10 2.5",2,2022-11-04
+Bareilly,Moderate,102,"PM
+10",2,2022-11-05
+Bareilly,Moderate,140,"PM
+2.5",2,2022-11-06
+Bareilly,Moderate,178,"PM
+2.5",2,2022-11-07
+Bareilly,Moderate,113,"PM
+10",2,2022-11-08
+Bareilly,Moderate,184,"PM
+2.5",2,2022-11-09
+Bareilly,Moderate,199,"PM
+2.5",2,2022-11-10
+Bareilly,Moderate,190,"PM
+2.5",2,2022-11-11
+Bareilly,Satisfactory,88,"PM
+10",2,2022-11-12
+Bareilly,Satisfactory,88,"PM
+10",2,2022-11-13
+Bareilly,Moderate,104,"PM
+10",1,2022-11-14
+Bareilly,Moderate,104,"PM
+10",2,2022-11-15
+Bareilly,Satisfactory,96,"PM
+10",2,2022-11-16
+Bareilly,Satisfactory,84,"PM
+10",2,2022-11-17
+Bareilly,Moderate,119,"PM
+10",2,2022-11-18
+Bareilly,Moderate,152,"PM
+10",2,2022-11-19
+Bareilly,Moderate,165,"PM
+10",2,2022-11-20
+Bareilly,Moderate,132,"PM
+10",2,2022-11-21
+Bareilly,Moderate,170,"PM
+10",2,2022-11-22
+Bareilly,Moderate,124,"PM
+10",2,2022-11-23
+Bareilly,Moderate,133,"PM
+10",2,2022-11-24
+Bareilly,Moderate,196,"PM
+10",2,2022-11-25
+Bareilly,Moderate,132,"PM
+10",2,2022-11-26
+Bareilly,Moderate,143,"PM
+10",2,2022-11-27
+Bareilly,Moderate,162,"PM
+10",2,2022-11-28
+Bareilly,Moderate,140,"PM
+10",2,2022-11-29
+Bareilly,Moderate,152,"PM
+2.5",2,2022-11-30
+Bareilly,Moderate,165,"PM
+2.5",2,2022-12-01
+Bareilly,Moderate,174,"PM
+10",2,2022-12-02
+Bareilly,Moderate,181,"PM
+2.5",2,2022-12-03
+Bareilly,Moderate,186,"PM
+10",2,2022-12-04
+Bareilly,Poor,208,"PM
+2.5",2,2022-12-05
+Bareilly,Moderate,132,"PM
+10",2,2022-12-06
+Bareilly,Moderate,137,"PM
+10",2,2022-12-07
+Bareilly,Moderate,156,"PM
+10",2,2022-12-08
+Bareilly,Moderate,174,"PM
+2.5",2,2022-12-09
+Bareilly,Moderate,184,"PM , PM
+2.5 10",2,2022-12-10
+Bareilly,Moderate,179,"PM
+2.5",2,2022-12-11
+Bareilly,Moderate,114,"PM
+10",2,2022-12-12
+Bareilly,Moderate,103,"PM
+10",2,2022-12-13
+Bareilly,Moderate,108,"PM
+10",2,2022-12-14
+Bareilly,Satisfactory,94,"PM
+10",2,2022-12-15
+Bareilly,Moderate,128,"PM
+10",2,2022-12-16
+Bareilly,Poor,261,"PM
+2.5",2,2022-12-17
+Bareilly,Poor,225,"PM , PM
+2.5 10",2,2022-12-18
+Bareilly,Moderate,183,"PM
+2.5",2,2022-12-19
+Bareilly,Moderate,154,"PM
+2.5",2,2022-12-20
+Bareilly,Moderate,122,"PM
+10",2,2022-12-21
+Bareilly,Moderate,113,"PM
+10",2,2022-12-22
+Bareilly,Moderate,128,"PM
+10",2,2022-12-23
+Bareilly,Moderate,136,"PM
+10",2,2022-12-24
+Bareilly,Moderate,138,"PM
+10",2,2022-12-25
+Bareilly,Moderate,136,"PM
+10",2,2022-12-26
+Bareilly,Moderate,118,"PM
+10",2,2022-12-27
+Bareilly,Moderate,160,"PM , PM
+2.5 10",2,2022-12-28
+Bareilly,Moderate,133,"PM , PM
+2.5 10",2,2022-12-29
+Bareilly,Moderate,188,"PM
+2.5",2,2022-12-30
+Bareilly,Moderate,156,"PM
+2.5",2,2022-12-31
+Bareilly,Moderate,118,"PM
+2.5",2,2023-01-01
+Bareilly,Satisfactory,90,"PM
+10",2,2023-01-02
+Bareilly,Satisfactory,92,"PM
+2.5",2,2023-01-03
+Bareilly,Moderate,104,"PM
+10",2,2023-01-04
+Bareilly,Moderate,106,"PM
+10",2,2023-01-05
+Bareilly,Moderate,106,"PM , PM
+2.5 10",2,2023-01-06
+Bareilly,Moderate,112,"PM , PM
+2.5 10",2,2023-01-07
+Bareilly,Moderate,110,"PM
+10",2,2023-01-08
+Bareilly,Moderate,133,"PM
+2.5",2,2023-01-09
+Bareilly,Moderate,119,"PM
+2.5",2,2023-01-10
+Bareilly,Moderate,105,"PM
+10",2,2023-01-12
+Bareilly,Moderate,105,"PM
+2.5",1,2023-01-13
+Bareilly,Moderate,142,"PM
+2.5",1,2023-01-14
+Bareilly,Moderate,102,"PM
+10",2,2023-01-15
+Bareilly,Satisfactory,94,"PM
+10",2,2023-01-16
+Bareilly,Moderate,133,"PM
+2.5",2,2023-01-17
+Bareilly,Moderate,126,"PM
+10",2,2023-01-18
+Bareilly,Moderate,128,"PM , PM
+2.5 10",2,2023-01-19
+Bareilly,Moderate,180,"PM
+2.5",2,2023-01-20
+Bareilly,Moderate,131,"PM
+10",2,2023-01-21
+Bareilly,Moderate,138,"PM , PM
+2.5 10",2,2023-01-22
+Bareilly,Moderate,116,"PM , PM
+2.5 10",2,2023-01-23
+Bareilly,Satisfactory,66,"PM
+10",2,2023-01-24
+Bareilly,Satisfactory,54,"PM
+10",2,2023-01-26
+Bareilly,Satisfactory,73,"PM
+10",2,2023-01-27
+Bareilly,Satisfactory,88,"PM
+10",2,2023-01-28
+Bareilly,Satisfactory,82,"PM
+10",2,2023-01-29
+Bareilly,Satisfactory,78,"PM , PM
+2.5 10",2,2023-01-30
+Bareilly,Satisfactory,53,"PM
+10",2,2023-01-31
+Bareilly,Satisfactory,52,"PM
+10",2,2023-02-01
+Bareilly,Satisfactory,77,"PM
+10",2,2023-02-02
+Bareilly,Satisfactory,93,"PM
+10",2,2023-02-03
+Bareilly,Moderate,116,"PM
+10",2,2023-02-04
+Bareilly,Satisfactory,89,"PM
+10",2,2023-02-05
+Bareilly,Moderate,102,"PM , PM
+2.5 10",2,2023-02-06
+Bareilly,Moderate,136,"PM , PM
+2.5 10",2,2023-02-07
+Bareilly,Satisfactory,68,"PM
+10",2,2023-02-08
+Bareilly,Satisfactory,73,"PM
+10",2,2023-02-09
+Bareilly,Moderate,102,"PM
+10",2,2023-02-10
+Bareilly,Satisfactory,92,"PM
+10",2,2023-02-11
+Bareilly,Satisfactory,55,"PM
+10",2,2023-02-12
+Bareilly,Satisfactory,56,"PM
+10",1,2023-02-13
+Bareilly,Satisfactory,74,"PM
+10",2,2023-02-14
+Bareilly,Moderate,108,"PM
+10",2,2023-02-15
+Bareilly,Moderate,102,"PM
+10",2,2023-02-16
+Bareilly,Moderate,114,"PM
+10",2,2023-02-17
+Bareilly,Moderate,119,"PM
+10",2,2023-02-18
+Bareilly,Moderate,122,"PM
+10",2,2023-02-19
+Bareilly,Moderate,128,"PM
+10",2,2023-02-20
+Bareilly,Satisfactory,100,"PM
+10",2,2023-02-21
+Bareilly,Satisfactory,93,"PM
+10",2,2023-02-22
+Bareilly,Satisfactory,78,"PM
+10",1,2023-02-23
+Bareilly,Satisfactory,72,"PM
+10",2,2023-02-24
+Bareilly,Satisfactory,81,"PM
+10",2,2023-02-25
+Bareilly,Moderate,116,"PM
+10",2,2023-02-26
+Bareilly,Moderate,130,"PM
+10",2,2023-02-27
+Bareilly,Moderate,108,"PM
+10",2,2023-02-28
+Bareilly,Satisfactory,91,"PM
+10",2,2023-03-01
+Bareilly,Satisfactory,68,"PM
+10",2,2023-03-02
+Bareilly,Satisfactory,63,"PM
+10",2,2023-03-03
+Bareilly,Satisfactory,62,"PM
+10",2,2023-03-04
+Bareilly,Satisfactory,65,"PM
+10",2,2023-03-05
+Bareilly,Satisfactory,67,"PM
+10",2,2023-03-06
+Bareilly,Satisfactory,62,"PM
+10",2,2023-03-07
+Bareilly,Moderate,104,"PM
+10",2,2023-03-08
+Bareilly,Satisfactory,57,"PM
+10",1,2023-03-09
+Bareilly,Satisfactory,74,"PM
+10",2,2023-03-10
+Bareilly,Satisfactory,84,"PM
+10",2,2023-03-11
+Bareilly,Satisfactory,89,"PM
+10",2,2023-03-12
+Bareilly,Moderate,108,"PM
+10",2,2023-03-13
+Bareilly,Satisfactory,94,"PM
+10",2,2023-03-14
+Bareilly,Satisfactory,73,"PM
+10",2,2023-03-15
+Bareilly,Satisfactory,98,"PM
+10",2,2023-03-16
+Bareilly,Satisfactory,67,"PM
+10",2,2023-03-17
+Bareilly,Satisfactory,80,"PM
+10",2,2023-03-18
+Bareilly,Satisfactory,68,"PM
+10",2,2023-03-19
+Bareilly,Satisfactory,66,"PM
+10",2,2023-03-20
+Bareilly,Satisfactory,58,"PM
+10",2,2023-03-22
+Bareilly,Satisfactory,54,"PM
+10",2,2023-03-23
+Bareilly,Satisfactory,87,"PM , PM
+2.5 10",2,2023-03-24
+Bareilly,Satisfactory,52,"PM
+10",2,2023-03-25
+Bareilly,Satisfactory,70,"PM
+10",2,2023-03-26
+Bareilly,Satisfactory,76,"PM
+10",2,2023-03-27
+Bareilly,Satisfactory,70,"PM
+2.5",2,2023-03-28
+Bareilly,Moderate,106,"PM , PM
+2.5 10",2,2023-03-29
+Bareilly,Satisfactory,99,"PM
+10",2,2023-03-30
+Bareilly,Good,35,CO,1,2023-04-02
+Bareilly,Satisfactory,59,"PM
+10",1,2023-04-03
+Bareilly,Satisfactory,66,"PM
+10",2,2023-04-05
+Bareilly,Moderate,118,"PM
+10",2,2023-04-06
+Bareilly,Satisfactory,54,"PM
+10",2,2023-04-07
+Bareilly,Satisfactory,87,"PM
+10",2,2023-04-08
+Bareilly,Satisfactory,90,"PM
+10",2,2023-04-09
+Bareilly,Satisfactory,83,"PM
+10",2,2023-04-10
+Bareilly,Satisfactory,89,"PM
+10",1,2023-04-11
+Bareilly,Satisfactory,91,"PM
+10",1,2023-04-12
+Bareilly,Moderate,120,"PM
+10",2,2023-04-13
+Bareilly,Moderate,125,"PM
+10",2,2023-04-14
+Bareilly,Moderate,127,"PM
+10",2,2023-04-15
+Bareilly,Moderate,110,"PM
+10",2,2023-04-16
+Bareilly,Moderate,140,"PM
+10",2,2023-04-17
+Bareilly,Moderate,111,"PM
+10",2,2023-04-18
+Bareilly,Moderate,124,"PM
+10",2,2023-04-19
+Bareilly,Moderate,135,"PM
+10",2,2023-04-20
+Bareilly,Good,49,"PM
+10",2,2023-04-21
+Bareilly,Satisfactory,67,"PM
+10",2,2023-04-22
+Bareilly,Satisfactory,96,"PM
+10",2,2023-04-23
+Bareilly,Satisfactory,78,"PM
+10",2,2023-04-24
+Bareilly,Satisfactory,63,"PM
+10",1,2023-04-25
+Bareilly,Satisfactory,89,"PM
+10",2,2023-04-26
+Bareilly,Moderate,114,"PM
+10",2,2023-04-27
+Bareilly,Satisfactory,68,"PM
+10",2,2023-04-28
+Bareilly,Satisfactory,94,"PM
+10",2,2023-04-29
+Bareilly,Good,42,"PM , CO
+10",2,2023-05-01
+Bareilly,Good,30,CO,2,2023-05-03
+Bareilly,Good,38,"PM , CO
+10",2,2023-05-04
+Bareilly,Satisfactory,64,"PM
+10",2,2023-05-05
+Bareilly,Satisfactory,78,"PM
+10",2,2023-05-06
+Bareilly,Satisfactory,67,"PM
+10",2,2023-05-07
+Bareilly,Satisfactory,76,"PM
+10",2,2023-05-08
+Bareilly,Satisfactory,55,"PM
+10",2,2023-05-09
+Bareilly,Satisfactory,76,"PM
+10",2,2023-05-10
+Bareilly,Satisfactory,78,"PM
+10",2,2023-05-11
+Bareilly,Moderate,112,"PM
+10",2,2023-05-12
+Bareilly,Satisfactory,89,"PM
+10",2,2023-05-13
+Bareilly,Moderate,106,"PM
+10",2,2023-05-14
+Bareilly,Moderate,102,"PM
+10",2,2023-05-15
+Bareilly,Moderate,145,"PM
+10",2,2023-05-16
+Bareilly,Moderate,104,"PM , PM
+10 2.5",2,2023-05-17
+Bareilly,Satisfactory,53,"PM
+10",2,2023-05-19
+Bareilly,Satisfactory,66,"PM
+10",2,2023-05-20
+Bareilly,Moderate,118,"O
+3",2,2023-05-21
+Bareilly,Satisfactory,84,"PM
+10",2,2023-05-22
+Bareilly,Moderate,104,"PM
+10",2,2023-05-23
+Bareilly,Good,42,"PM
+10",2,2023-05-27
+Bareilly,Good,50,"PM
+10",2,2023-05-28
+Bareilly,Satisfactory,61,"PM
+10",2,2023-05-29
+Bareilly,Satisfactory,58,"PM
+10",2,2023-05-30
+Bareilly,Satisfactory,60,"PM
+10",2,2023-05-31
+Bareilly,Satisfactory,56,"PM
+10",2,2023-06-01
+Bareilly,Satisfactory,58,"PM
+10",2,2023-06-02
+Bareilly,Satisfactory,52,"PM
+10",2,2023-06-03
+Bareilly,Satisfactory,76,"PM
+10",2,2023-06-04
+Bareilly,Satisfactory,76,"PM
+10",2,2023-06-05
+Bareilly,Satisfactory,72,"PM
+10",2,2023-06-06
+Bareilly,Satisfactory,70,"PM
+10",2,2023-06-07
+Bareilly,Satisfactory,79,"PM
+10",2,2023-06-08
+Bareilly,Satisfactory,81,"PM
+10",2,2023-06-09
+Bareilly,Satisfactory,80,"PM
+10",2,2023-06-10
+Bareilly,Satisfactory,84,"PM
+10",2,2023-06-11
+Bareilly,Satisfactory,94,"PM
+10",2,2023-06-12
+Bareilly,Satisfactory,91,"PM
+10",2,2023-06-13
+Bareilly,Moderate,111,"PM
+10",2,2023-06-14
+Bareilly,Satisfactory,83,"PM
+10",1,2023-06-15
+Bareilly,Satisfactory,56,"PM
+10",2,2023-06-16
+Bareilly,Satisfactory,80,"PM
+10",2,2023-06-17
+Bareilly,Satisfactory,58,"PM
+10",2,2023-06-18
+Bareilly,Satisfactory,57,"PM
+10",2,2023-06-19
+Bareilly,Satisfactory,54,"PM
+10",2,2023-06-20
+Bareilly,Good,36,"O
+3",2,2023-06-21
+Bareilly,Good,40,"O
+3",1,2023-06-22
+Bareilly,Good,39,"O
+3",1,2023-06-24
+Bareilly,Good,"36
+* AQ","O
+3
+I is not calculated for today's bullet","1
+in for Ahmednagar, Akola,",2023-06-26
+Bareilly,Good,37,"O
+3",1,2023-06-27
+Bareilly,Good,32,"O
+3",2,2023-06-28
+Bareilly,Good,25,"SO
+2",2,2023-06-29
+Bareilly,Good,28,"O
+3",2,2023-06-30
+Bareilly,Good,25,"SO
+2",2,2023-07-01
+Bareilly,Good,37,"PM , SO
+10 2",2,2023-07-02
+Bareilly,Good,38,"PM , O
+2.5 3",2,2023-07-03
+Bareilly,Good,49,"PM , O
+10 3",2,2023-07-04
+Bareilly,Good,42,"PM , O
+2.5 3",2,2023-07-05
+Bareilly,Good,42,"PM , CO
+2.5",2,2023-07-06
+Bareilly,Good,35,"PM , SO
+2.5 2",2,2023-07-07
+Bareilly,Good,25,"SO
+2",2,2023-07-08
+Bareilly,Satisfactory,82,"PM
+10",2,2023-07-09
+Bareilly,Good,42,"PM , O
+2.5 3",2,2023-07-10
+Bareilly,Good,25,"SO
+2",2,2023-07-11
+Bareilly,Good,38,"PM , SO
+2.5 2",2,2023-07-12
+Bareilly,Good,27,CO,2,2023-07-13
+Bareilly,Good,26,CO,1,2023-07-14
+Bareilly,Good,44,"PM , CO
+2.5",2,2023-07-15
+Bareilly,Good,45,"PM , SO
+2.5 2",2,2023-07-16
+Bareilly,Good,50,"PM , PM
+2.5 10",2,2023-07-17
+Bareilly,Good,47,"PM , SO
+10 2",2,2023-07-18
+Bareilly,Good,36,"PM , SO
+2.5 2",2,2023-07-19
+Bareilly,Satisfactory,52,"PM , O
+10 3",2,2023-07-20
+Bareilly,Satisfactory,52,"PM
+10",2,2023-07-21
+Bareilly,Good,27,"PM
+10",2,2023-07-22
+Bareilly,Good,26,"SO
+2",1,2023-07-23
+Bareilly,Good,26,"SO
+2",1,2023-07-24
+Bareilly,Good,26,"SO
+2",1,2023-07-25
+Bareilly,Good,38,"PM , CO
+10",2,2023-07-26
+Bareilly,Good,46,"PM , CO
+2.5",2,2023-07-27
+Bareilly,Good,29,CO,2,2023-07-28
+Bareilly,Good,38,CO,1,2023-07-29
+Bareilly,Good,26,"SO
+2",1,2023-07-30
+Bareilly,Good,44,"PM
+10",2,2023-07-31
+Bareilly,Satisfactory,56,"PM
+10",2,2023-08-01
+Bareilly,Satisfactory,58,"PM , CO
+10",2,2023-08-02
+Bareilly,Good,42,"PM , CO
+10",2,2023-08-03
+Bareilly,Good,32,"PM
+10",2,2023-08-04
+Bareilly,Good,32,"PM
+10",2,2023-08-05
+Bareilly,Good,35,"SO
+2",1,2023-08-06
+Bareilly,Good,42,"PM , SO
+10 2",2,2023-08-07
+Bareilly,Satisfactory,64,"PM
+10",2,2023-08-08
+Bareilly,Satisfactory,68,"PM
+10",2,2023-08-09
+Bareilly,Satisfactory,70,"PM
+10",2,2023-08-10
+Bareilly,Satisfactory,54,"PM
+10",2,2023-08-11
+Bareilly,Satisfactory,76,"PM
+10",2,2023-08-12
+Bareilly,Satisfactory,55,"PM
+10",2,2023-08-13
+Bareilly,Good,42,"PM
+10",2,2023-08-14
+Bareilly,Good,38,"PM
+10",1,2023-08-15
+Bareilly,Satisfactory,54,"PM
+10",2,2023-08-16
+Bareilly,Satisfactory,63,"PM
+10",2,2023-08-17
+Bareilly,Satisfactory,54,"PM
+10",2,2023-08-18
+Bareilly,Good,48,"PM
+10",2,2023-08-19
+Bareilly,Good,30,"SO
+2",1,2023-08-20
+Bareilly,Good,34,"PM , CO
+2.5",2,2023-08-21
+Bareilly,Good,42,"PM , CO
+10",2,2023-08-22
+Bareilly,Good,31,CO,1,2023-08-23
+Bareilly,Good,31,CO,2,2023-08-24
+Bareilly,Satisfactory,53,"PM
+10",2,2023-08-25
+Bareilly,Satisfactory,61,"PM
+10",1,2023-08-26
+Bareilly,Satisfactory,86,"PM
+10",2,2023-08-27
+Bareilly,Satisfactory,80,"PM
+10",2,2023-08-28
+Bareilly,Satisfactory,62,"PM
+10",1,2023-08-29
+Bareilly,Satisfactory,70,"PM
+10",2,2023-08-30
+Bareilly,Satisfactory,80,"PM
+10",2,2023-08-31
+Bareilly,Satisfactory,74,"PM
+10",1,2023-09-01
+Bareilly,Satisfactory,72,"PM
+10",2,2023-09-02
+Bareilly,Satisfactory,77,"PM
+10",2,2023-09-03
+Bareilly,Satisfactory,74,"PM
+10",2,2023-09-04
+Bareilly,Good,48,"PM
+10",2,2023-09-05
+Bareilly,Good,38,CO,2,2023-09-06
+Bareilly,Good,40,"PM
+10",2,2023-09-07
+Bareilly,Good,36,CO,2,2023-09-08
+Bareilly,Good,33,"CO, SO
+2",2,2023-09-09
+Bareilly,Good,33,"CO, SO
+2",2,2023-09-10
+Bareilly,Good,31,"SO
+2",1,2023-09-11
+Bareilly,Good,40,CO,2,2023-09-12
+Bareilly,Good,48,"PM
+10",2,2023-09-13
+Bareilly,Satisfactory,62,"PM
+10",2,2023-09-14
+Bareilly,Good,44,"PM , SO
+10 2",2,2023-09-15
+Bareilly,Good,31,"SO
+2",1,2023-09-16
+Bareilly,Good,33,"O , SO
+3 2",2,2023-09-18
+Bareilly,Good,39,"PM , CO
+10",2,2023-09-19
+Bareilly,Good,38,"PM
+10",1,2023-09-20
+Bareilly,Good,33,"PM
+10",1,2023-09-21
+Bareilly,Satisfactory,54,"PM
+10",1,2023-09-22
+Bareilly,Satisfactory,52,"PM , SO
+10 2",2,2023-09-23
+Bareilly,Good,33,CO,1,2023-09-24
+Bareilly,Good,33,"PM
+10",1,2023-09-25
+Bareilly,Good,38,"PM
+10",1,2023-09-26
+Bareilly,Satisfactory,70,"PM
+10",2,2023-09-27
+Bareilly,Satisfactory,78,"PM
+10",2,2023-09-28
+Bareilly,Satisfactory,86,"PM
+10",2,2023-09-29
+Bareilly,Satisfactory,88,"PM
+10",2,2023-09-30
+Bareilly,Satisfactory,56,"PM
+10",1,2023-10-01
+Bareilly,Satisfactory,86,"PM
+10",2,2023-10-02
+Bareilly,Satisfactory,76,"PM
+10",2,2023-10-03
+Bareilly,Good,48,"PM
+10",1/2,2023-10-04
+Bareilly,Satisfactory,95,"PM
+10",2/2,2023-10-05
+Bareilly,Moderate,110,"PM
+10",2/2,2023-10-06
+Bareilly,Moderate,120,"PM
+10",2/2,2023-10-07
+Bareilly,Moderate,123,"PM
+10",2/2,2023-10-08
+Bareilly,Moderate,108,"PM
+10",2/2,2023-10-09
+Bareilly,Moderate,117,"PM
+10",2/2,2023-10-10
+Bareilly,Satisfactory,98,"PM
+10",2/2,2023-10-11
+Bareilly,Satisfactory,82,"PM
+10",2/2,2023-10-12
+Bareilly,Moderate,120,"PM
+10",2/2,2023-10-13
+Bareilly,Moderate,122,"PM
+10",2/2,2023-10-14
+Bareilly,Moderate,132,"PM
+10",2/2,2023-10-15
+Bareilly,Moderate,118,"PM
+10",2/2,2023-10-16
+Bareilly,Good,38,CO,2/2,2023-10-17
+Bareilly,Good,44,"PM
+10",1/2,2023-10-18
+Bareilly,Satisfactory,53,"PM
+10",1/2,2023-10-19
+Bareilly,Satisfactory,84,"PM
+10",2/2,2023-10-20
+Bareilly,Moderate,118,"PM
+10",2/2,2023-10-21
+Bareilly,Moderate,108,"PM
+10",2/2,2023-10-22
+Bareilly,Satisfactory,100,"PM
+10",2/2,2023-10-23
+Bareilly,Satisfactory,84,"PM
+10",1/2,2023-10-24
+Bareilly,Satisfactory,96,"PM
+10",1/2,2023-10-25
+Bareilly,Satisfactory,98,"PM , PM
+2.5 10",2/2,2023-10-26
+Bareilly,Moderate,108,"PM
+10",2/2,2023-10-27
+Bareilly,Moderate,121,"PM
+10",2/2,2023-10-28
+Bareilly,Moderate,102,"PM
+10",1/2,2023-10-29
+Bareilly,Moderate,111,"PM
+10",1/2,2023-10-30
+Bareilly,Moderate,113,"PM
+10",1/2,2023-10-31
+Bareilly,Satisfactory,85,"PM
+10",1/2,2023-11-01
+Bareilly,Moderate,178,"PM
+10",2/2,2023-11-02
+Bareilly,Moderate,125,"PM , PM
+2.5 10",2/2,2023-11-03
+Bareilly,Moderate,124,"PM
+10",2/2,2023-11-04
+Bareilly,Moderate,170,"PM
+2.5",2/2,2023-11-05
+Bareilly,Moderate,136,"PM
+10",2/2,2023-11-06
+Bareilly,Moderate,162,"PM , PM
+2.5 10",2/2,2023-11-07
+Bareilly,Poor,204,"PM
+2.5",2/2,2023-11-08
+Bareilly,Moderate,172,"PM
+2.5",2/2,2023-11-09
+Bareilly,Moderate,186,"PM
+2.5",2/2,2023-11-10
+Bareilly,Satisfactory,83,"PM
+10",2/2,2023-11-11
+Bareilly,Satisfactory,91,"PM
+10",2/2,2023-11-12
+Bareilly,Poor,212,"PM
+2.5",1/2,2023-11-13
+Bareilly,Moderate,173,"PM
+2.5",2/2,2023-11-14
+Bareilly,Moderate,152,"PM
+2.5",2/2,2023-11-15
+Bareilly,Moderate,156,"PM
+2.5",2/2,2023-11-16
+Bareilly,Satisfactory,90,"PM , PM
+2.5 10",2/2,2023-11-17
+Bareilly,Moderate,112,"PM , PM
+2.5 10",2/2,2023-11-18
+Bareilly,Moderate,112,"PM , PM
+2.5 10",2/2,2023-11-19
+Bareilly,Moderate,114,"PM , PM
+2.5 10",2/2,2023-11-20
+Bareilly,Moderate,146,"PM
+2.5",2/2,2023-11-21
+Bareilly,Moderate,186,"PM
+2.5",2/2,2023-11-22
+Bareilly,Poor,214,"PM
+2.5",1/2,2023-11-23
+Bareilly,Moderate,166,"PM
+2.5",2/2,2023-11-24
+Bareilly,Moderate,168,"PM
+10",2/2,2023-11-25
+Bareilly,Moderate,162,"PM
+2.5",1/2,2023-11-26
+Bareilly,Moderate,116,"PM
+10",2/2,2023-11-27
+Bareilly,Moderate,115,"PM
+10",1/2,2023-11-28
+Bareilly,Moderate,114,"PM , PM
+10 2.5",2/2,2023-11-29
+Bareilly,Moderate,160,"PM
+2.5",1/2,2023-11-30
+Bareilly,Poor,208,"PM
+2.5",2/2,2023-12-01
+Bareilly,Moderate,132,"PM
+2.5",2/2,2023-12-02
+Bareilly,Satisfactory,92,"PM , PM
+2.5 10",2/2,2023-12-03
+Bareilly,Satisfactory,67,"PM
+10",2/2,2023-12-04
+Bareilly,Satisfactory,73,"PM
+10",2/2,2023-12-05
+Bareilly,Satisfactory,91,"PM , PM
+2.5 10",2/2,2023-12-06
+Bareilly,Moderate,105,"PM
+10",1/2,2023-12-07
+Bareilly,Moderate,124,"PM
+2.5",2/2,2023-12-08
+Bareilly,Moderate,137,"PM
+2.5",1/2,2023-12-09
+Bareilly,Moderate,117,"PM , PM
+10 2.5",2/2,2023-12-10
+Bareilly,Moderate,168,"PM
+2.5",2/2,2023-12-11
+Bareilly,Poor,210,"PM , PM
+10 2.5",2/2,2023-12-12
+Bareilly,Moderate,102,"PM , PM
+2.5 10",2/2,2023-12-13
+Bareilly,Satisfactory,92,"PM , PM
+2.5 10",2/2,2023-12-14
+Bareilly,Satisfactory,86,"PM , PM
+2.5 10",2/2,2023-12-15
+Bareilly,Moderate,106,"PM , PM
+2.5 10",2/2,2023-12-16
+Bareilly,Satisfactory,88,"PM
+10",2/2,2023-12-17
+Bareilly,Satisfactory,88,"PM , PM
+2.5 10",2/2,2023-12-18
+Bareilly,Satisfactory,74,"PM , PM
+2.5 10",2/2,2023-12-19
+Bareilly,Moderate,146,"PM , PM
+10 2.5",2/2,2023-12-20
+Bareilly,Moderate,137,"PM
+2.5",2/2,2023-12-21
+Bareilly,Satisfactory,94,"PM , PM
+2.5 10",2/2,2023-12-22
+Bareilly,Satisfactory,79,"PM , PM
+2.5 10",2/2,2023-12-23
+Bareilly,Satisfactory,60,"PM
+10",2/2,2023-12-24
+Bareilly,Satisfactory,73,"PM
+2.5",1/2,2023-12-25
+Bareilly,Moderate,110,"PM , PM
+2.5 10",2/2,2023-12-26
+Bareilly,Moderate,104,"PM , PM
+2.5 10",2/2,2023-12-27
+Bareilly,Moderate,101,"PM
+10",1/2,2023-12-28
+Bareilly,Satisfactory,63,"PM , PM
+2.5 10",2/2,2023-12-29
+Bareilly,Good,43,"SO , PM
+2 10",2/2,2023-12-30
+Bareilly,Satisfactory,54,"PM , PM
+2.5 10",2/2,2023-12-31
+Bareilly,Satisfactory,51,"PM , PM
+2.5 10",2/2,2024-01-01
+Bareilly,Satisfactory,57,"PM , PM
+2.5 10",2/2,2024-01-02
+Bareilly,Satisfactory,58,"PM , PM
+2.5 10",2/2,2024-01-03
+Bareilly,Satisfactory,76,"PM
+10",1/2,2024-01-04
+Bareilly,Satisfactory,98,"PM , PM
+2.5 10",2/2,2024-01-05
+Bareilly,Satisfactory,89,"PM , PM
+10 2.5",2/2,2024-01-06
+Bareilly,Satisfactory,85,"PM , PM
+2.5 10",2/2,2024-01-07
+Bareilly,Satisfactory,80,"PM
+10",1/2,2024-01-08
+Bareilly,Good,48,"PM
+10",2/2,2024-01-09
+Bareilly,Satisfactory,58,"PM , PM
+10 2.5",2/2,2024-01-10
+Bareilly,Satisfactory,79,"PM
+10",2/2,2024-01-11
+Bareilly,Satisfactory,94,"PM
+10",2/2,2024-01-12
+Bareilly,Satisfactory,100,"PM
+10",1/2,2024-01-13
+Bareilly,Moderate,101,"PM , PM
+10 2.5",2/2,2024-01-14
+Bareilly,Satisfactory,72,CO,2/2,2024-01-15
+Bareilly,Satisfactory,74,"PM , PM
+10 2.5",2/2,2024-01-16
+Bareilly,Satisfactory,67,"PM , CO
+10",2/2,2024-01-17
+Bareilly,Satisfactory,73,"PM
+10",1/2,2024-01-18
+Bareilly,Good,48,"CO, SO
+2",2/2,2024-01-19
+Bareilly,Satisfactory,51,"PM , SO
+10 2",2/2,2024-01-20
+Bareilly,Satisfactory,76,"PM , PM
+10 2.5",2/2,2024-01-21
+Bareilly,Satisfactory,98,"PM , PM
+10 2.5",2/2,2024-01-22
+Bareilly,Satisfactory,82,"PM , PM
+10 2.5",2/2,2024-01-23
+Bareilly,Satisfactory,78,"PM , PM
+10 2.5",2/2,2024-01-24
+Bareilly,Moderate,130,"PM , PM
+10 2.5",2/2,2024-01-25
+Bareilly,Satisfactory,74,"PM , CO
+10",2/2,2024-01-26
+Bareilly,Satisfactory,80,"PM
+10",1/2,2024-01-27
+Bareilly,Satisfactory,94,"PM
+10",1/2,2024-01-28
+Bareilly,Satisfactory,72,"PM
+10",1/2,2024-01-29
+Bareilly,Moderate,125,"PM
+10",1/2,2024-01-30
+Bareilly,Moderate,126,"PM
+10",2/2,2024-01-31
+Bareilly,Good,42,"NO
+2",1/2,2024-02-02
+Bareilly,Satisfactory,66,"PM , CO
+10",2/2,2024-02-03
+Bareilly,Satisfactory,52,"PM
+10",1/2,2024-02-04
+Bareilly,Satisfactory,64,"PM , CO
+10",2/2,2024-02-05
+Bareilly,Satisfactory,62,"PM , CO
+10",2/2,2024-02-06
+Bareilly,Satisfactory,65,"PM , CO
+10",2/2,2024-02-07
+Bareilly,Satisfactory,66,"PM , CO
+10",2/2,2024-02-08
+Bareilly,Satisfactory,64,"PM
+10",1/2,2024-02-09
+Bareilly,Satisfactory,99,"PM
+10",1/2,2024-02-10
+Bareilly,Satisfactory,92,"PM
+10",1/2,2024-02-11
+Bareilly,Moderate,106,"PM
+10",2/2,2024-02-12
+Bareilly,Satisfactory,88,"PM
+10",2/2,2024-02-13
+Bareilly,Satisfactory,87,"PM
+10",2/2,2024-02-14
+Bareilly,Satisfactory,93,"PM
+10",2/2,2024-02-15
+Bareilly,Moderate,110,"PM
+10",2/2,2024-02-16
+Bareilly,Satisfactory,89,"PM
+10",2/2,2024-02-17
+Bareilly,Satisfactory,94,"PM
+10",2/2,2024-02-18
+Bareilly,Moderate,102,"PM
+10",2/2,2024-02-19
+Bareilly,Satisfactory,78,"PM
+10",2/2,2024-02-20
+Bareilly,Satisfactory,88,"PM
+10",2/2,2024-02-21
+Bareilly,Satisfactory,80,"PM
+10",2/2,2024-02-22
+Bareilly,Satisfactory,58,"PM , PM
+10 2.5",2/2,2024-02-23
+Bareilly,Satisfactory,60,"PM
+10",2/2,2024-02-24
+Bareilly,Satisfactory,76,"PM
+10",2/2,2024-02-25
+Bareilly,Satisfactory,62,"PM
+10",2/2,2024-02-26
+Bareilly,Satisfactory,76,"PM
+10",2/2,2024-02-27
+Bareilly,Satisfactory,68,"PM
+10",2/2,2024-02-28
+Bareilly,Satisfactory,62,"PM
+10",2/2,2024-02-29
+Bareilly,Satisfactory,76,"PM
+10",2/2,2024-03-01
+Bareilly,Satisfactory,58,"PM
+10",2/2,2024-03-02
+Bareilly,Good,42,"SO
+2",2/2,2024-03-03
+Bareilly,Good,42,"SO
+2",2/2,2024-03-04
+Bareilly,Good,43,"PM , SO
+10 2",2/2,2024-03-05
+Bareilly,Satisfactory,54,"PM
+10",2/2,2024-03-06
+Bareilly,Satisfactory,55,"PM
+10",2/2,2024-03-07
+Bareilly,Satisfactory,62,"PM
+10",2/2,2024-03-08
+Bareilly,Good,48,"PM
+10",2/2,2024-03-09
+Bareilly,Satisfactory,54,"PM
+10",2/2,2024-03-10
+Bareilly,Satisfactory,84,"PM
+10",2/2,2024-03-11
+Bareilly,Satisfactory,80,"PM
+10",2/2,2024-03-12
+Bareilly,Satisfactory,62,"PM
+10",1/2,2024-03-13
+Bareilly,Satisfactory,56,"PM
+10",2/2,2024-03-14
+Bareilly,Satisfactory,62,"PM
+10",2/2,2024-03-15
+Bareilly,Satisfactory,66,"PM
+10",2/2,2024-03-16
+Bareilly,Satisfactory,80,"PM
+10",2/2,2024-03-17
+Bareilly,Satisfactory,70,"PM
+10",1/2,2024-03-18
+Bareilly,Satisfactory,85,"PM
+10",2/2,2024-03-19
+Bareilly,Satisfactory,92,"PM
+10",2/2,2024-03-20
+Bareilly,Satisfactory,66,"PM
+10",2/2,2024-03-21
+Bareilly,Satisfactory,64,"PM
+10",2/2,2024-03-22
+Bareilly,Satisfactory,76,"PM
+10",2/2,2024-03-23
+Bareilly,Satisfactory,65,"PM
+10",2/2,2024-03-24
+Bareilly,Satisfactory,84,"PM
+10",2/2,2024-03-25
+Bareilly,Good,45,"PM
+10",1/2,2024-03-26
+Bareilly,Moderate,175,"O
+3",1/2,2024-03-27
+Bareilly,Moderate,108,"PM , O
+10 3",2/2,2024-03-28
+Bareilly,Moderate,173,"O , PM
+3 10",2/2,2024-03-29
+Bareilly,Satisfactory,93,"PM
+10",2/2,2024-03-30
+Bareilly,Moderate,184,"O , PM
+3 10",2/2,2024-03-31
+Bareilly,Satisfactory,58,"PM
+10",2/2,2024-04-01
+Bareilly,Satisfactory,54,"PM
+10",2/2,2024-04-02
+Bareilly,Satisfactory,59,"PM
+10",2/2,2024-04-03
+Bareilly,Satisfactory,65,"PM , O
+10 3",2/2,2024-04-04
+Bareilly,Satisfactory,71,"PM
+10",2/2,2024-04-05
+Bareilly,Satisfactory,66,"PM
+10",2/2,2024-04-06
+Bareilly,Satisfactory,72,"PM
+10",2/2,2024-04-07
+Bareilly,Satisfactory,74,"PM
+10",2/2,2024-04-08
+Bareilly,Satisfactory,64,"PM
+10",2/2,2024-04-09
+Bareilly,Satisfactory,74,"PM
+10",2/2,2024-04-10
+Bareilly,Satisfactory,80,"PM
+10",2/2,2024-04-11
+Bareilly,Satisfactory,64,"PM
+10",2/2,2024-04-12
+Bareilly,Satisfactory,57,"PM
+10",1/2,2024-04-13
+Bareilly,Satisfactory,90,"PM
+10",2/2,2024-04-14
+Bareilly,Satisfactory,80,"PM
+10",2/2,2024-04-15
+Bareilly,Satisfactory,74,"PM
+10",2/2,2024-04-16
+Bareilly,Satisfactory,56,"PM
+10",1/2,2024-04-17
+Bareilly,Satisfactory,82,"PM
+10",2/2,2024-04-18
+Bareilly,Satisfactory,84,"PM
+10",2/2,2024-04-19
+Bareilly,Moderate,106,"PM
+10",2/2,2024-04-20
+Bareilly,Satisfactory,90,"PM
+10",2/2,2024-04-21
+Bareilly,Satisfactory,91,"PM
+10",2/2,2024-04-22
+Bareilly,Satisfactory,68,"PM
+10",2/2,2024-04-23
+Bareilly,Good,49,"SO
+2",1/2,2024-04-24
+Bareilly,Satisfactory,66,"PM , SO
+10 2",2/2,2024-04-25
+Bareilly,Satisfactory,59,"PM , SO
+10 2",2/2,2024-04-26
+Bareilly,Satisfactory,62,"PM , SO
+10 2",2/2,2024-04-27
+Bareilly,Satisfactory,70,"PM , SO
+10 2",2/2,2024-04-28
+Bareilly,Satisfactory,62,"PM , SO
+10 2",2/2,2024-04-29
+Bareilly,Satisfactory,62,"PM , SO
+10 2",2/2,2024-04-30
+Bareilly,Satisfactory,70,"PM , SO
+10 2",2/2,2024-05-01
+Bareilly,Satisfactory,60,"PM , SO
+10 2",2/2,2024-05-02
+Bareilly,Satisfactory,68,"PM , SO
+10 2",2/2,2024-05-03
+Bareilly,Satisfactory,76,"PM , SO
+10 2",2/2,2024-05-04
+Bareilly,Satisfactory,71,"PM , SO
+10 2",2/2,2024-05-05
+Bareilly,Satisfactory,91,"PM
+10",1/2,2024-05-06
+Bareilly,Satisfactory,84,"PM
+10",1/2,2024-05-07
+Bareilly,Satisfactory,64,"PM
+10",1/2,2024-05-08
+Bareilly,Good,48,"SO
+2",2/2,2024-05-09
+Bareilly,Good,49,"PM , SO
+10 2",2/2,2024-05-10
+Bareilly,Good,50,"PM , SO
+10 2",2/2,2024-05-11
+Bareilly,Good,48,"SO
+2",2/2,2024-05-12
+Bareilly,Good,47,"SO
+2",2/2,2024-05-13
+Bareilly,Good,40,"SO
+2",2/2,2024-05-14
+Bareilly,Satisfactory,54,"PM , CO
+10",2/2,2024-05-15
+Bareilly,Good,38,"SO
+2",2/2,2024-05-16
+Bareilly,Satisfactory,74,"PM
+10",1/2,2024-05-17
+Bareilly,Satisfactory,62,"PM , CO
+10",2/2,2024-05-18
+Bareilly,Satisfactory,90,"PM
+10",1/2,2024-05-19
+Bareilly,Good,42,"PM , CO
+10",2/2,2024-05-20
+Bareilly,Good,36,"SO
+2",2/2,2024-05-21
+Bareilly,Good,36,"SO
+2",2/2,2024-05-22
+Bareilly,Good,36,"SO
+2",2/2,2024-05-23
+Bareilly,Good,36,"SO
+2",2/2,2024-05-24
+Bareilly,Good,40,"PM , SO
+10 2",2/2,2024-05-25
+Bareilly,Good,40,"PM , SO
+10 2",2/2,2024-05-26
+Bareilly,Satisfactory,52,"PM
+10",1/2,2024-05-27
+Bareilly,Satisfactory,53,"PM
+10",1/2,2024-05-28
+Bareilly,Good,46,"PM , SO
+10 2",2/2,2024-05-29
+Bareilly,Satisfactory,58,"PM
+10",1/2,2024-05-30
+Bareilly,Good,41,"PM , SO
+10 2",2/2,2024-05-31
+Bareilly,Good,44,"PM , SO
+10 2",2/2,2024-06-01
+Bareilly,Moderate,103,"PM
+10",1/2,2024-06-02
+Bareilly,Satisfactory,59,"PM
+10",2/2,2024-06-03
+Bareilly,Good,38,"PM
+10",2/2,2024-06-04
+Bareilly,Good,34,"PM , SO
+10 2",2/2,2024-06-05
+Bareilly,Good,32,"PM
+10",2/2,2024-06-06
+Bareilly,Good,48,"PM
+10",2/2,2024-06-07
+Bareilly,Satisfactory,58,"PM
+10",2/2,2024-06-08
+Bareilly,Good,44,"PM
+10",2/2,2024-06-09
+Bareilly,Good,42,"PM , SO
+10 2",2/2,2024-06-10
+Bareilly,Good,43,"PM , SO
+10 2",2/2,2024-06-11
+Bareilly,Good,48,"PM
+10",2/2,2024-06-12
+Bareilly,Satisfactory,52,"PM
+10",2/2,2024-06-13
+Bareilly,Good,50,"PM
+10",2/2,2024-06-14
+Bareilly,Satisfactory,54,"PM
+10",2/2,2024-06-15
+Bareilly,Satisfactory,55,"PM
+10",2/2,2024-06-16
+Bareilly,Good,50,"PM
+10",2/2,2024-06-17
+Bareilly,Good,24,"PM
+10",1/2,2024-06-18
+Bareilly,Good,44,"PM
+10",2/2,2024-06-19
+Bareilly,Good,23,"PM
+10",1/2,2024-06-20
+Bareilly,Good,30,"PM , SO
+10 2",2/2,2024-06-21
+Bareilly,Good,40,"PM
+10",1/2,2024-06-22
+Bareilly,Good,26,"PM , SO
+10 2",2/2,2024-06-23
+Bareilly,Good,28,"PM , SO
+10 2",2/2,2024-06-24
+Bareilly,Good,27,"SO , PM
+2 10",2/2,2024-06-25
+Bareilly,Good,21,"SO
+2",1/2,2024-06-26
+Bareilly,Good,21,"SO
+2",1/2,2024-06-27
+Bareilly,Good,20,"SO
+2",2/2,2024-06-28
+Bareilly,Good,22,"PM , SO
+10 2",2/2,2024-06-29
+Bareilly,Good,20,"SO
+2",2/2,2024-06-30
+Bareilly,Good,20,"PM , SO
+10 2",2/2,2024-07-01
+Bareilly,Good,20,"SO
+2",2/2,2024-07-02
+Bareilly,Good,22,"SO
+2",1/2,2024-07-03
+Bareilly,Good,21,"SO
+2",2/2,2024-07-04
+Bareilly,Good,19,"SO
+2",1/2,2024-07-05
+Bareilly,Good,20,"SO
+2",2/2,2024-07-06
+Bareilly,Good,20,"SO
+2",2/2,2024-07-07
+Bareilly,Good,23,"SO
+2",1/2,2024-07-08
+Bareilly,Good,20,"SO
+2",2/2,2024-07-09
+Bareilly,Good,22,"CO, PM
+10",2/2,2024-07-10
+Bareilly,Good,22,"SO , PM
+2 10",2/2,2024-07-11
+Bareilly,Good,23,"SO
+2",2/2,2024-07-12
+Bareilly,Good,23,"SO
+2",1/2,2024-07-13
+Bareilly,Good,23,"SO
+2",1/2,2024-07-14
+Bareilly,Good,22,"SO
+2",2/2,2024-07-15
+Bareilly,Good,22,"SO
+2",2/2,2024-07-16
+Bareilly,Good,21,"SO
+2",2/2,2024-07-17
+Bareilly,Good,22,"SO
+2",2/2,2024-07-18
+Bareilly,Good,22,"SO
+2",2/2,2024-07-19
+Bareilly,Good,22,"SO
+2",2/2,2024-07-20
+Bareilly,Good,24,"PM , SO
+10 2",2/2,2024-07-21
+Bareilly,Good,22,"SO
+2",2/2,2024-07-22
+Bareilly,Good,22,"SO
+2",2/2,2024-07-23
+Bareilly,Moderate,101,"SO , O
+2 3",2/2,2024-07-24
+Bareilly,Good,21,"SO
+2",2/2,2024-07-25
+Bareilly,Good,21,"SO
+2",2/2,2024-07-26
+Bareilly,Good,22,"SO
+2",2/2,2024-07-27
+Bareilly,Good,19,"SO
+2",1/2,2024-07-28
+Bareilly,Good,22,"SO
+2",2/2,2024-07-29
+Bareilly,Good,22,"SO
+2",2/2,2024-07-30
+Bareilly,Good,26,"PM , SO
+10 2",2/2,2024-07-31
+Bareilly,Good,28,"SO
+2",2/2,2024-08-01
+Bareilly,Good,26,"SO
+2",2/2,2024-08-02
+Bareilly,Good,26,"SO
+2",2/2,2024-08-03
+Bareilly,Good,26,"SO
+2",2/2,2024-08-04
+Bareilly,Good,20,"SO
+2",1/2,2024-08-05
+Bareilly,Good,25,"SO
+2",2/2,2024-08-06
+Bareilly,Good,28,"SO
+2",1/2,2024-08-07
+Bareilly,Good,32,"SO , PM
+2 2.5",2/2,2024-08-08
+Bareilly,Good,34,"PM , SO
+2.5 2",2/2,2024-08-09
+Bareilly,Good,38,"PM , SO
+2.5 2",2/2,2024-08-10
+Bareilly,Good,40,"SO , PM
+2 10",2/2,2024-08-11
+Bareilly,Good,34,"PM , SO
+2.5 2",2/2,2024-08-12
+Bareilly,Good,36,"PM , SO
+2.5 2",2/2,2024-08-13
+Bareilly,Good,35,"PM , SO
+10 2",2/2,2024-08-14
+Bareilly,Good,38,"PM , SO
+10 2",2/2,2024-08-15
+Bareilly,Good,44,"SO , PM
+2 10",2/2,2024-08-16
+Bareilly,Good,40,"SO , PM
+2 2.5",2/2,2024-08-17
+Bareilly,Good,46,"SO , PM
+2 10",2/2,2024-08-18
+Bareilly,Good,36,"PM , SO
+2.5 2",2/2,2024-08-19
+Bareilly,Good,38,"SO , PM
+2 2.5",2/2,2024-08-20
+Bareilly,Good,38,"PM , SO
+2.5 2",2/2,2024-08-21
+Bareilly,Good,41,"SO , PM
+2 2.5",2/2,2024-08-22
+Bareilly,Good,39,"PM , SO
+10 2",2/2,2024-08-23
+Bareilly,Good,42,"PM , SO
+2.5 2",2/2,2024-08-24
+Bareilly,Good,45,"PM
+2.5",1/2,2024-08-26
+Bareilly,Good,39,"PM
+10",1/2,2024-08-27
+Bareilly,Good,32,"SO , PM
+2 10",2/2,2024-08-28
+Bareilly,Good,32,"SO , PM
+2 2.5",2/2,2024-08-29
+Bareilly,Good,45,"PM , SO
+10 2",2/2,2024-08-30
+Bareilly,Satisfactory,52,"PM , SO
+10 2",2/2,2024-08-31
+Bareilly,Moderate,127,"PM
+10",2/2,2024-09-01
+Bareilly,Good,34,"PM , SO
+10 2",2/2,2024-09-02
+Bareilly,Good,49,"PM
+10",1/2,2024-09-03
+Bareilly,Good,42,"PM , SO
+10 2",2/2,2024-09-04
+Bareilly,Good,28,"SO
+2",1/2,2024-09-05
+Bareilly,Satisfactory,53,"PM , SO
+10 2",2/2,2024-09-06
+Bareilly,Good,41,"PM , SO
+10 2",2/2,2024-09-07
+Bareilly,Good,46,"PM , SO
+10 2",2/2,2024-09-08
+Bareilly,Good,48,"SO , PM
+2 10",2/2,2024-09-09
+Bareilly,Good,44,"PM , PM
+2.5 10",2/2,2024-09-10
+Bareilly,Good,44,"PM , SO
+10 2",2/2,2024-09-11
+Bareilly,Good,30,"O
+3",1/2,2024-09-12
+Bareilly,Good,39,"PM
+2.5",1/2,2024-09-14
+Bareilly,Satisfactory,52,"SO , PM
+2 10",2/2,2024-09-15
+Bareilly,Satisfactory,68,"PM
+10",2/2,2024-09-16
+Bareilly,Satisfactory,70,"PM
+10",2/2,2024-09-17
+Bareilly,Good,44,"SO , PM
+2 10",2/2,2024-09-18
+Bareilly,Good,50,"SO , PM
+2 10",2/2,2024-09-19
+Bareilly,Satisfactory,66,"PM
+10",1/2,2024-09-20
+Bareilly,Good,50,"PM , SO
+10 2",2/2,2024-09-21
+Bareilly,Satisfactory,58,"PM
+10",2/2,2024-09-22
+Bareilly,Moderate,139,"PM
+2.5",1/2,2024-09-23
+Bareilly,Moderate,137,"PM
+2.5",1/2,2024-09-24
+Bareilly,Satisfactory,63,"PM , PM
+2.5 10",2/2,2024-09-25
+Bareilly,Good,35,"PM , SO
+10 2",2/2,2024-09-26
+Bareilly,Good,33,"PM , SO
+10 2",2/2,2024-09-27
+Bareilly,Good,26,"SO , PM
+2 10",2/2,2024-09-28
+Bareilly,Good,30,"PM , SO
+2.5 2",2/2,2024-09-29
+Bareilly,Good,50,"PM , SO
+10 2",2/2,2024-09-30
+Bareilly,Good,44,"PM
+10",1/2,2024-10-01
+Bareilly,Satisfactory,99,"PM , PM
+10 2.5",2/2,2024-10-02
+Bareilly,Satisfactory,100,"PM
+10",2/2,2024-10-03
+Bareilly,Moderate,110,"PM , PM
+2.5 10",2/2,2024-10-04
+Bareilly,Good,46,"PM
+10",2/2,2024-10-05
+Bareilly,Good,41,"PM
+10",2/2,2024-10-06
+Bareilly,Good,37,"PM
+10",2/2,2024-10-07
+Bareilly,Good,32,"PM
+10",2/2,2024-10-08
+Bareilly,Good,42,"PM
+10",1/2,2024-10-09
+Bareilly,Good,50,"PM
+10",2/2,2024-10-10
+Bareilly,Good,42,"PM
+10",1/2,2024-10-11
+Bareilly,Good,44,"PM
+10",2/2,2024-10-12
+Bareilly,Satisfactory,54,"PM
+10",2/2,2024-10-13
+Bareilly,Good,48,"PM
+10",1/2,2024-10-14
+Bareilly,Satisfactory,58,"PM
+10",2/2,2024-10-15
+Bareilly,Satisfactory,66,"PM
+10",2/2,2024-10-16
+Bareilly,Satisfactory,61,"PM
+10",2/2,2024-10-17
+Bareilly,Good,49,"PM
+10",2/2,2024-10-18
+Bareilly,Satisfactory,54,"PM
+10",2/2,2024-10-19
+Bareilly,Satisfactory,53,"PM
+10",2/2,2024-10-20
+Bareilly,Good,38,"PM , PM
+2.5 10",2/2,2024-10-21
+Bareilly,Satisfactory,51,"PM
+10",2/2,2024-10-22
+Bareilly,Satisfactory,65,"PM
+10",2/2,2024-10-23
+Bareilly,Satisfactory,54,"PM
+10",2/2,2024-10-24
+Bareilly,Satisfactory,53,"PM
+10",2/2,2024-10-25
+Bareilly,Satisfactory,58,"PM
+10",2/2,2024-10-26
+Bareilly,Good,48,"PM
+10",2/2,2024-10-27
+Bareilly,Satisfactory,58,"PM
+10",2/2,2024-10-28
+Bareilly,Satisfactory,62,"PM
+10",2/2,2024-10-29
+Bareilly,Satisfactory,90,"PM , PM
+10 2.5",2/2,2024-10-30
+Bareilly,Satisfactory,90,"PM , PM
+2.5 10",2/2,2024-10-31
+Bareilly,Moderate,196,"PM , PM
+2.5 10",2/2,2024-11-01
+Bareilly,Moderate,180,"PM , PM
+10 2.5",2/2,2024-11-02
+Bareilly,Moderate,123,"PM , PM
+10 2.5",2/2,2024-11-03
+Bareilly,Moderate,128,"PM , PM
+2.5 10",2/2,2024-11-04
+Bareilly,Satisfactory,92,"PM , PM
+10 2.5",2/2,2024-11-05
+Bareilly,Moderate,115,"PM , PM
+10 2.5",2/2,2024-11-06
+Bareilly,Moderate,122,"PM , PM
+2.5 10",2/2,2024-11-07
+Bareilly,Moderate,111,"PM , PM
+2.5 10",2/2,2024-11-08
+Bareilly,Moderate,124,"PM , PM
+10 2.5",2/2,2024-11-09
+Bareilly,Moderate,117,"PM , PM
+2.5 10",2/2,2024-11-10
+Bareilly,Moderate,104,"PM , PM
+2.5 10",2/2,2024-11-11
+Bareilly,Moderate,107,"PM , PM
+10 2.5",2/2,2024-11-12
+Bareilly,Moderate,128,"PM , PM
+2.5 10",2/2,2024-11-13
+Bareilly,Moderate,148,"PM , PM
+2.5 10",2/2,2024-11-14
+Bareilly,Satisfactory,78,"PM
+10",2/2,2024-11-15
+Bareilly,Satisfactory,79,"PM
+10",2/2,2024-11-16
+Bareilly,Satisfactory,86,"PM
+10",2/2,2024-11-17
+Bareilly,Satisfactory,74,"PM
+10",2/2,2024-11-18
+Bareilly,Satisfactory,74,"PM
+10",2/2,2024-11-19
+Bareilly,Satisfactory,61,"PM
+10",2/2,2024-11-20
+Bareilly,Satisfactory,65,"PM
+10",1/2,2024-11-21
+Bareilly,Satisfactory,65,"PM
+10",2/2,2024-11-22
+Bareilly,Satisfactory,70,"PM
+10",2/2,2024-11-23
+Bareilly,Satisfactory,74,"PM
+10",2/2,2024-11-24
+Bareilly,Satisfactory,81,"O , PM
+3 10",2/2,2024-11-25
+Bareilly,Moderate,101,"PM
+10",1/2,2024-11-26
+Bareilly,Satisfactory,62,"PM
+10",2/2,2024-11-27
+Bareilly,Satisfactory,74,"PM
+10",2/2,2024-11-28
+Bareilly,Satisfactory,70,"PM
+10",2/2,2024-11-29
+Bareilly,Satisfactory,57,"PM
+10",2/2,2024-11-30
+Bareilly,Satisfactory,66,"PM
+10",2/2,2024-12-01
+Bareilly,Satisfactory,86,"PM
+10",2/2,2024-12-02
+Bareilly,Satisfactory,74,"PM
+10",2/2,2024-12-03
+Bareilly,Good,48,"PM
+10",2/2,2024-12-04
+Bareilly,Good,42,"PM
+10",2/2,2024-12-05
+Bareilly,Good,48,"PM
+10",2/2,2024-12-06
+Bareilly,Satisfactory,61,"PM
+10",2/2,2024-12-07
+Bareilly,Satisfactory,74,"PM
+10",2/2,2024-12-08
+Bareilly,Good,47,"PM
+10",2/2,2024-12-09
+Bareilly,Good,48,"PM
+10",2/2,2024-12-10
+Bareilly,Good,48,"PM
+10",2/2,2024-12-11
+Bareilly,Satisfactory,78,"PM
+10",2/2,2024-12-12
+Bareilly,Satisfactory,54,"PM
+10",2/2,2024-12-13
+Bareilly,Satisfactory,55,"PM
+10",1/2,2024-12-14
+Bareilly,Satisfactory,99,"PM
+2.5",1/2,2024-12-15
+Bareilly,Satisfactory,88,"PM
+2.5",1/2,2024-12-16
+Bareilly,Satisfactory,74,"PM
+10",1/2,2024-12-17
+Bareilly,Satisfactory,56,"PM , SO
+10 2",2/2,2024-12-18
+Bareilly,Satisfactory,60,"CO, PM
+10",2/2,2024-12-19
+Bareilly,Good,48,"SO , PM
+2 2.5",2/2,2024-12-20
+Bareilly,Satisfactory,52,"PM , CO
+10",2/2,2024-12-21
+Bareilly,Satisfactory,56,"CO, PM
+2.5",2/2,2024-12-22
+Bareilly,Satisfactory,56,"CO, PM
+10",2/2,2024-12-23
+Bareilly,Satisfactory,58,"PM
+2.5",1/2,2024-12-24
+Bareilly,Satisfactory,59,CO,1/2,2024-12-25
+Bareilly,Satisfactory,51,"SO , PM
+2 10",2/2,2024-12-26
+Bareilly,Good,50,"PM , SO
+10 2",2/2,2024-12-27
+Bareilly,Good,36,"SO
+2",1/2,2024-12-28
+Bareilly,Good,30,"SO
+2",2/2,2024-12-29
+Bareilly,Good,34,"PM , SO
+10 2",2/2,2024-12-30
+Bareilly,Good,46,"PM , O
+10 3",2/2,2024-12-31
+Bareilly,Good,43,"SO , PM
+2 10",2/2,2025-01-02
+Bareilly,Good,46,"PM , SO
+10 2",2/2,2025-01-03
+Bareilly,Satisfactory,51,CO,2/2,2025-01-04
+Bareilly,Good,36,CO,1/2,2025-01-05
+Bareilly,Satisfactory,52,"PM
+2.5",1/2,2025-01-06
+Bareilly,Good,48,"SO , PM
+2 10",2/2,2025-01-07
+Bareilly,Good,40,"PM , SO
+2.5 2",2/2,2025-01-08
+Bareilly,Satisfactory,90,"O , SO
+3 2",2/2,2025-01-09
+Bareilly,Good,47,"CO, PM
+10",2/2,2025-01-10
+Bareilly,Satisfactory,58,"PM
+2.5",1/2,2025-01-11
+Bareilly,Good,42,"SO , PM
+2 2.5",2/2,2025-01-12
+Bareilly,Good,29,"PM
+2.5",1/2,2025-01-13
+Bareilly,Good,42,"PM , SO
+2.5 2",2/2,2025-01-14
+Bareilly,Good,41,"PM , SO
+2.5 2",2/2,2025-01-15
+Bareilly,Good,42,"PM , SO
+2.5 2",2/2,2025-01-16
+Bareilly,Good,34,"PM , SO
+2.5 2",2/2,2025-01-17
+Bareilly,Good,40,"PM , SO
+10 2",2/2,2025-01-18
+Bareilly,Good,48,"PM , SO
+10 2",2/2,2025-01-19
+Bareilly,Good,45,"SO , PM
+2 10",2/2,2025-01-20
+Bareilly,Good,48,"PM , SO
+2.5 2",2/2,2025-01-21
+Bareilly,Satisfactory,60,"PM
+2.5",1/2,2025-01-22
+Bareilly,Satisfactory,56,CO,2/2,2025-01-23
+Bareilly,Good,44,"PM , SO
+2.5 2",2/2,2025-01-24
+Bareilly,Good,42,"PM , SO
+10 2",2/2,2025-01-25
+Bareilly,Satisfactory,51,"PM
+10",1/2,2025-01-26
+Bareilly,Satisfactory,64,"PM , CO
+2.5",2/2,2025-01-27
+Bareilly,Satisfactory,55,"PM , SO
+10 2",2/2,2025-01-28
+Bareilly,Satisfactory,62,"CO, PM
+2.5",2/2,2025-01-29
+Bareilly,Satisfactory,65,"PM , CO
+2.5",2/2,2025-01-30
+Bareilly,Satisfactory,66,"CO, PM
+2.5",2/2,2025-01-31
+Bareilly,Satisfactory,62,"PM , SO
+2.5 2",2/2,2025-02-01
+Bareilly,Satisfactory,54,"SO , PM
+2 2.5",2/2,2025-02-02
+Bareilly,Good,50,"SO , PM
+2 10",2/2,2025-02-03
+Bareilly,Good,48,"PM , SO
+10 2",2/2,2025-02-04
+Bareilly,Satisfactory,53,"SO , PM
+2 2.5",2/2,2025-02-05
+Bareilly,Satisfactory,51,"SO
+2",1/2,2025-02-06
+Bareilly,Good,42,"PM , SO
+10 2",2/2,2025-02-07
+Bareilly,Good,42,"SO , PM
+2 10",2/2,2025-02-08
+Bareilly,Satisfactory,56,"PM
+10",1/2,2025-02-09
+Bareilly,Satisfactory,51,"PM
+10",1/2,2025-02-10
+Bareilly,Satisfactory,53,"PM , SO
+10 2",2/2,2025-02-11
+Bareilly,Satisfactory,52,"SO , PM
+2 10",2/2,2025-02-12
+Bareilly,Good,42,"PM , SO
+10 2",2/2,2025-02-13
+Bareilly,Good,35,"PM
+10",1/2,2025-02-14
+Bareilly,Good,46,"PM , SO
+10 2",2/2,2025-02-15
+Bareilly,Satisfactory,52,"SO , PM
+2 10",2/2,2025-02-16
+Bareilly,Satisfactory,56,"PM , SO
+10 2",2/2,2025-02-17
+Bareilly,Satisfactory,53,"PM , SO
+10 2",2/2,2025-02-18
+Bareilly,Good,48,"PM , SO
+10 2",2/2,2025-02-19
+Bareilly,Good,50,"SO , PM
+2 10",2/2,2025-02-20
+Bareilly,Good,40,"PM
+2.5",1/2,2025-02-21
+Bareilly,Good,44,"PM , SO
+10 2",2/2,2025-02-22
+Bareilly,Good,48,"SO , PM
+2 10",2/2,2025-02-23
+Bareilly,Satisfactory,52,"SO , PM
+2 10",2/2,2025-02-24
+Bareilly,Satisfactory,54,"PM , SO
+10 2",2/2,2025-02-25
+Bareilly,Satisfactory,58,"SO , PM
+2 10",2/2,2025-02-26
+Bareilly,Satisfactory,59,"SO , PM
+2 10",2/2,2025-02-27
+Bareilly,Good,24,"SO
+2",1/2,2025-02-28
+Bareilly,Good,42,"SO
+2",2/2,2025-03-01
+Bareilly,Good,44,"PM , SO
+10 2",2/2,2025-03-02
+Bareilly,Good,45,"SO , PM
+2 10",2/2,2025-03-03
+Bareilly,Good,34,"PM
+10",1/2,2025-03-04
+Bareilly,Good,41,"PM , SO
+10 2",2/2,2025-03-05
+Bareilly,Satisfactory,58,"SO
+2",1/2,2025-03-06
+Bareilly,Satisfactory,58,"SO , PM
+2 10",2/2,2025-03-07
+Bareilly,Satisfactory,53,"SO , PM
+2 10",2/2,2025-03-08
+Bareilly,Satisfactory,64,"PM , SO
+10 2",2/2,2025-03-09
+Bareilly,Good,39,"PM
+10",1/2,2025-03-10
+Bareilly,Satisfactory,55,"PM
+10",1/2,2025-03-11
+Bareilly,Satisfactory,64,"SO , PM
+2 10",2/2,2025-03-12
+Bareilly,Satisfactory,54,"SO , PM
+2 10",2/2,2025-03-13
+Bareilly,Satisfactory,58,CO,1/2,2025-03-14
+Bareilly,Good,24,"SO
+2",1/2,2025-03-15
+Bareilly,Good,50,"PM , SO
+10 2",2/2,2025-03-16
+Bareilly,Satisfactory,56,"PM , SO
+10 2",2/2,2025-03-17
+Bareilly,Satisfactory,72,"PM , SO
+10 2",2/2,2025-03-18
+Bareilly,Satisfactory,80,"PM , SO
+10 2",2/2,2025-03-19
+Bareilly,Satisfactory,87,"PM , SO
+10 2",2/2,2025-03-20
+Bareilly,Satisfactory,82,"PM , SO
+10 2",2/2,2025-03-21
+Bareilly,Satisfactory,78,"PM
+10",1/2,2025-03-22
+Bareilly,Satisfactory,70,"SO , PM
+2 10",2/2,2025-03-23
+Bareilly,Satisfactory,92,"SO , PM
+2 10",2/2,2025-03-24
+Bareilly,Satisfactory,95,"PM , SO
+10 2",2/2,2025-03-25
+Bareilly,Moderate,103,"SO , PM
+2 10",2/2,2025-03-26
+Bareilly,Moderate,102,"SO , PM
+2 10",2/2,2025-03-27
+Bareilly,Moderate,106,"PM , SO
+10 2",2/2,2025-03-28
+Bareilly,Satisfactory,84,"SO , PM
+2 10",2/2,2025-03-29
+Bareilly,Satisfactory,82,"SO , PM
+2 10",2/2,2025-03-30
+Bareilly,Satisfactory,95,"PM
+10",1/2,2025-03-31
+Bareilly,Satisfactory,82,"PM
+10",1/2,2025-04-01
+Bareilly,Satisfactory,94,"SO , PM
+2 10",2/2,2025-04-02
+Bareilly,Satisfactory,90,"SO , PM
+2 10",2/2,2025-04-03
+Bareilly,Satisfactory,86,"SO , PM
+2 10",2/2,2025-04-04
+Bareilly,Satisfactory,89,"PM
+10",1/2,2025-04-05
+Bareilly,Satisfactory,93,"PM
+10",1/2,2025-04-06
+Bareilly,Moderate,117,"PM
+10",1/2,2025-04-07
+Bareilly,Moderate,107,"PM
+10",1/2,2025-04-08
+Bareilly,Moderate,112,"PM
+10",1/2,2025-04-09
+Bareilly,Satisfactory,56,"SO
+2",1/2,2025-04-10
+Bareilly,Good,36,"PM
+10",1/2,2025-04-11
+Bareilly,Satisfactory,55,"PM
+10",1/2,2025-04-13
+Bareilly,Satisfactory,60,"PM , SO
+10 2",2/2,2025-04-14
+Bareilly,Satisfactory,65,"SO , PM
+2 10",2/2,2025-04-15
+Bareilly,Satisfactory,76,"PM , SO
+10 2",2/2,2025-04-16
+Bareilly,Satisfactory,57,"SO
+2",1/2,2025-04-17
+Bareilly,Satisfactory,68,"PM , SO
+10 2",2/2,2025-04-18
+Bareilly,Good,47,"PM
+10",1/2,2025-04-20
+Bareilly,Satisfactory,72,"SO , PM
+2 10",2/2,2025-04-21
+Bareilly,Satisfactory,87,"PM , SO
+10 2",2/2,2025-04-22
+Bareilly,Moderate,119,"PM
+10",1/2,2025-04-23
+Bareilly,Satisfactory,94,"SO , PM
+2 10",2/2,2025-04-24
+Bareilly,Satisfactory,88,"PM , SO
+10 2",2/2,2025-04-25
+Bareilly,Satisfactory,79,"PM , SO
+10 2",2/2,2025-04-26
+Bareilly,Moderate,101,"PM , SO
+10 2",2/2,2025-04-27
+Bareilly,Satisfactory,96,"SO , PM
+2 10",2/2,2025-04-28
+Bareilly,Satisfactory,70,"PM , SO
+10 2",2/2,2025-04-29
+Bareilly,Satisfactory,70,"SO , PM
+2 10",2/2,2025-04-30
+Bareilly,Satisfactory,72,"PM , SO
+10 2",2/2,2025-05-01
+Bareilly,Satisfactory,72,"SO , PM
+2 10",2/2,2025-05-02
+Bareilly,Satisfactory,74,"PM , SO
+10 2",2/2,2025-05-03
+Bareilly,Satisfactory,70,"SO , PM
+2 10",2/2,2025-05-04
+Bareilly,Good,29,"PM
+10",1/2,2025-05-05
+Bareilly,Satisfactory,58,"SO , PM
+2 10",2/2,2025-05-06
+Bareilly,Satisfactory,56,"SO , PM
+2 10",2/2,2025-05-07
+Bareilly,Satisfactory,64,"SO , PM
+2 10",2/2,2025-05-08
+Bareilly,Satisfactory,66,"SO , PM
+2 10",2/2,2025-05-09
+Bareilly,Satisfactory,72,"PM
+10",1/2,2025-05-10
+Bareilly,Satisfactory,59,"PM
+10",1/2,2025-05-11
+Bareilly,Satisfactory,66,"PM
+10",1/2,2025-05-12
+Bareilly,Satisfactory,77,"PM , SO
+10 2",2/2,2025-05-13
+Bareilly,Satisfactory,81,"SO , PM
+2 10",2/2,2025-05-14
+Bareilly,Moderate,104,"SO , PM
+2 10",2/2,2025-05-15
+Bareilly,Moderate,102,"PM , SO
+10 2",2/2,2025-05-16
+Bareilly,Satisfactory,92,"PM , SO
+10 2",2/2,2025-05-17
+Bareilly,Satisfactory,80,"SO , PM
+2 10",2/2,2025-05-18
+Bareilly,Satisfactory,68,"PM , SO
+10 2",2/2,2025-05-19
+Bareilly,Satisfactory,65,"PM , SO
+10 2",2/2,2025-05-20
+Bareilly,Satisfactory,68,"PM , SO
+10 2",2/2,2025-05-21
+Bareilly,Satisfactory,56,"SO , PM
+2 10",2/2,2025-05-23
+Bareilly,Satisfactory,58,"PM
+10",1/2,2025-05-24
+Bareilly,Satisfactory,71,"SO
+2",1/2,2025-05-25
+Bareilly,Satisfactory,52,"PM , SO
+2.5 2",2/2,2025-05-27
+Bareilly,Satisfactory,56,"SO , PM
+2 10",2/2,2025-05-28
+Bareilly,Satisfactory,62,"SO , PM
+2 10",2/2,2025-05-29
+Bareilly,Satisfactory,64,"PM , SO
+10 2",2/2,2025-05-30
+Bareilly,Satisfactory,88,"SO , PM
+2 10",2/2,2025-05-31
+Bareilly,Satisfactory,92,"PM , SO
+10 2",2/2,2025-06-01
+Bareilly,Satisfactory,83,"PM , SO
+10 2",2/2,2025-06-02
+Bareilly,Satisfactory,70,"PM , SO
+10 2",2/2,2025-06-03
+Bareilly,Satisfactory,53,"SO , PM
+2 10",2/2,2025-06-04
+Bareilly,Satisfactory,69,"PM , SO
+10 2",2/2,2025-06-05
+Bareilly,Satisfactory,70,"SO
+2",2/2,2025-06-06
+Bareilly,Satisfactory,87,"SO , PM
+2 10",2/2,2025-06-07
+Bareilly,Satisfactory,97,"PM
+10",1/2,2025-06-08
+Bareilly,Satisfactory,94,"PM
+10",1/2,2025-06-09
+Bareilly,Satisfactory,89,"PM
+10",1/2,2025-06-10
+Bareilly,Satisfactory,82,"SO , PM
+2 10",2/2,2025-06-11
+Bareilly,Satisfactory,66,"SO
+2",1/2,2025-06-12
+Bareilly,Satisfactory,76,"SO
+2",2/2,2025-06-13
+Bareilly,Satisfactory,66,"SO
+2",1/2,2025-06-14
+Bareilly,Moderate,146,"O
+3",1/2,2025-06-15
+Bareilly,Satisfactory,87,"SO
+2",1/2,2025-06-17
+Bareilly,Satisfactory,66,"SO
+2",1/2,2025-06-18
+Bareilly,Satisfactory,78,"SO
+2",2/2,2025-06-19
+Bareilly,Satisfactory,78,"SO
+2",2/2,2025-06-20
+Bareilly,Satisfactory,66,"SO
+2",1/2,2025-06-21
+Bareilly,Satisfactory,66,"SO
+2",1/2,2025-06-22
+Bareilly,Satisfactory,78,"SO
+2",2/2,2025-06-23
+Bareilly,Satisfactory,91,"SO
+2",1/2,2025-06-24
+Bareilly,Satisfactory,80,"SO
+2",2/2,2025-06-25
+Bareilly,Satisfactory,80,"SO
+2",2/2,2025-06-26
+Bareilly,Satisfactory,80,"SO
+2",2/2,2025-06-27
+Bareilly,Satisfactory,70,"SO , PM
+2 10",2/2,2025-06-28
+Bareilly,Satisfactory,66,"SO
+2",2/2,2025-07-01
+Bareilly,Satisfactory,68,"SO
+2",2/2,2025-07-02
+Bareilly,Satisfactory,68,"SO
+2",2/2,2025-07-03
+Bareilly,Satisfactory,70,"PM , SO
+10 2",2/2,2025-07-04
+Bareilly,Good,48,"PM
+10",1/2,2025-07-05
+Bareilly,Satisfactory,94,"SO
+2",1/2,2025-07-06
+Bareilly,Satisfactory,84,"O
+3",1/2,2025-07-07
+Bareilly,Satisfactory,96,"SO
+2",1/2,2025-07-08
+Bareilly,Satisfactory,96,"SO
+2",1/2,2025-07-09
+Bareilly,Satisfactory,66,"SO
+2",2/2,2025-07-10
+Bareilly,Satisfactory,58,CO,1/2,2025-07-11
+Bareilly,Satisfactory,100,"SO
+2",1/2,2025-07-12
+Bareilly,Satisfactory,98,"SO
+2",1/2,2025-07-13
+Bareilly,Satisfactory,95,"SO
+2",1/2,2025-07-15
+Bareilly,Satisfactory,72,"SO , PM
+2 10",2/2,2025-07-16
+Bareilly,Satisfactory,72,"CO, SO
+2",2/2,2025-07-17
+Bareilly,Satisfactory,95,"SO
+2",1/2,2025-07-19
+Bareilly,Satisfactory,76,"PM
+10",1/2,2025-07-20
+Bareilly,Satisfactory,72,"SO , PM
+2 10",2/2,2025-07-21
+Bareilly,Satisfactory,91,"PM , SO
+10 2",2/2,2025-07-22
+Bareilly,Satisfactory,88,"PM , SO
+10 2",2/2,2025-07-23
+Bareilly,Satisfactory,100,"SO
+2",1/2,2025-07-24
+Bareilly,Satisfactory,100,"SO
+2",1/2,2025-07-25
+Bareilly,Satisfactory,79,"CO, SO
+2",2/2,2025-07-26
+Bareilly,Satisfactory,81,"CO, SO
+2",2/2,2025-07-28
+Bareilly,Satisfactory,64,CO,1/2,2025-07-29
+Bareilly,Satisfactory,100,"SO
+2",1/2,2025-07-30
+Bareilly,Satisfactory,81,"SO , CO
+2",2/2,2025-07-31
+Bareilly,Satisfactory,65,CO,1/2,2025-08-01
+Bareilly,Satisfactory,99,"SO
+2",1/2,2025-08-02
+Bareilly,Moderate,101,"SO
+2",1/2,2025-08-03
+Bareilly,Satisfactory,63,CO,1/2,2025-08-04
+Bareilly,Good,50,CO,1/2,2025-08-05
+Bareilly,Good,44,"SO
+2",1/2,2025-08-06
+Bareilly,Moderate,101,"SO
+2",1/2,2025-08-07
+Bareilly,Moderate,102,"SO
+2",1/2,2025-08-08
+Bareilly,Satisfactory,73,"CO, SO
+2",2/2,2025-08-09
+Bareilly,Satisfactory,100,"SO
+2",1/2,2025-08-10
+Bareilly,Moderate,101,"SO
+2",1/2,2025-08-11
+Bareilly,Satisfactory,80,"CO, SO
+2",2/2,2025-08-12
+Bareilly,Moderate,103,"SO
+2",1/2,2025-08-13
+Bareilly,Moderate,101,"SO
+2",1/2,2025-08-14
+Bareilly,Satisfactory,100,"SO
+2",1/2,2025-08-15
+Bareilly,Satisfactory,79,"CO, SO
+2",2/2,2025-08-16
+Bareilly,Satisfactory,82,"CO, SO
+2",2/2,2025-08-17
+Bareilly,Satisfactory,86,"SO , CO
+2",2/2,2025-08-18
+Bareilly,Satisfactory,92,"CO, SO
+2",2/2,2025-08-19
+Bareilly,Moderate,104,"SO
+2",1/2,2025-08-20
+Bareilly,Satisfactory,76,"CO, SO
+2",2/2,2025-08-21
+Bareilly,Satisfactory,80,"CO, SO
+2",2/2,2025-08-22
+Bareilly,Moderate,103,"SO
+2",1/2,2025-08-23
+Bareilly,Satisfactory,76,"SO , CO
+2",2/2,2025-08-24
+Bareilly,Moderate,103,"SO
+2",1/2,2025-08-25
+Bareilly,Satisfactory,73,"SO
+2",2/2,2025-08-26
+Bareilly,Satisfactory,77,"SO , PM
+2 10",2/2,2025-08-27
+Bareilly,Moderate,104,"SO
+2",1/2,2025-08-28
+Bareilly,Satisfactory,74,"PM , SO
+10 2",2/2,2025-08-29
+Bareilly,Satisfactory,73,"SO
+2",2/2,2025-08-30
+Bareilly,Satisfactory,76,"SO , PM
+2 10",2/2,2025-08-31
+Bareilly,Satisfactory,74,"SO
+2",2/2,2025-09-01
+Bareilly,Good,36,"SO , O
+2 3",2/2,2025-09-02
+Bareilly,Good,35,"SO , O
+2 3",2/2,2025-09-03
+Bareilly,Good,37,"PM , O
+10 3",2/2,2025-09-04
+Bareilly,Good,35,"SO
+2",2/2,2025-09-05
+Bareilly,Good,35,"SO , O
+2 3",2/2,2025-09-06
+Bareilly,Good,36,"PM , O
+10 3",2/2,2025-09-07
+Bareilly,Good,44,"SO , PM
+2 10",2/2,2025-09-08
+Bareilly,Good,50,"PM , O
+10 3",2/2,2025-09-09
+Bareilly,Satisfactory,60,"SO , PM
+2 10",2/2,2025-09-10
+Bareilly,Satisfactory,76,"PM , SO
+10 2",2/2,2025-09-11
+Bareilly,Satisfactory,71,"SO , PM
+2 10",2/2,2025-09-12
+Bareilly,Satisfactory,68,"PM , SO
+10 2",2/2,2025-09-13
+Bareilly,Satisfactory,69,"PM , SO
+10 2",2/2,2025-09-14
+Bareilly,Satisfactory,64,"SO , PM
+2 10",2/2,2025-09-15
+Bareilly,Good,43,"SO , CO
+2",2/2,2025-09-16
+Bareilly,Good,40,"O , CO
+3",2/2,2025-09-17
+Bareilly,Good,40,"SO , CO
+2",2/2,2025-09-18
+Bareilly,Good,45,"SO , CO
+2",2/2,2025-09-19
+Bareilly,Satisfactory,68,"PM , SO
+10 2",2/2,2025-09-20
+Bareilly,Satisfactory,79,"SO , PM
+2 10",2/2,2025-09-21
+Bareilly,Satisfactory,88,"PM , SO
+10 2",2/2,2025-09-22
+Bareilly,Satisfactory,94,"O , PM
+3 10",2/2,2025-09-23
+Bareilly,Satisfactory,90,"PM , SO
+10 2",2/2,2025-09-24
+Bareilly,Moderate,178,"PM , O
+10 3",2/2,2025-09-25
+Bareilly,Satisfactory,96,"PM , SO
+10 2",2/2,2025-09-26
+Bareilly,Satisfactory,86,"PM , SO
+10 2",2/2,2025-09-27
+Bareilly,Satisfactory,59,"PM , SO
+10 2",2/2,2025-09-30
+Bareilly,Good,32,"SO
+2",1/2,2025-10-01
+Bareilly,Satisfactory,54,"PM , SO
+10 2",2/2,2025-10-02
+Bareilly,Satisfactory,84,"SO , PM
+2 10",2/2,2025-10-05
+Bareilly,Satisfactory,98,"PM , SO
+10 2",2/2,2025-10-06
+Bareilly,Good,39,"PM , SO
+10 2",2/2,2025-10-07
+Bareilly,Good,44,"PM , SO
+10 2",2/2,2025-10-08
+Bareilly,Satisfactory,76,"PM , SO
+10 2",2/2,2025-10-09
+Bareilly,Satisfactory,80,"SO , PM
+2 10",2/2,2025-10-10
+Bareilly,Satisfactory,99,"PM , CO
+10",2/2,2025-10-11
+Bareilly,Satisfactory,100,"PM , CO
+10",2/2,2025-10-12
+Bareilly,Satisfactory,100,"CO, PM
+10",2/2,2025-10-13
+Bareilly,Moderate,103,"CO, PM
+10",2/2,2025-10-14
+Bareilly,Moderate,119,"PM , CO
+2.5",2/2,2025-10-15
+Bareilly,Moderate,116,"PM , CO
+2.5",2/2,2025-10-16
+Bareilly,Satisfactory,72,"PM , CO
+10",2/2,2025-10-17
+Bareilly,Satisfactory,68,"PM
+10",2/2,2025-10-18
+Bareilly,Satisfactory,87,"PM
+10",2/2,2025-10-19
+Bareilly,Satisfactory,89,"PM , PM
+2.5 10",2/2,2025-10-20
+Bareilly,Moderate,124,"PM
+2.5",2/2,2025-10-21
+Bareilly,Moderate,106,"PM , PM
+2.5 10",2/2,2025-10-22
+Bareilly,Satisfactory,93,"PM , PM
+2.5 10",2/2,2025-10-23
+Bareilly,Satisfactory,86,"CO, PM
+10",2/2,2025-10-24
+Bareilly,Satisfactory,86,"PM , CO
+2.5",2/2,2025-10-25
+Bareilly,Satisfactory,84,"PM
+10",2/2,2025-10-26
+Bareilly,Satisfactory,86,"PM
+10",2/2,2025-10-27
+Bareilly,Moderate,107,"PM
+10",1/2,2025-10-28
+Bareilly,Satisfactory,60,"CO, PM
+10",2/2,2025-10-29
+Bareilly,Satisfactory,68,"CO, PM
+10",2/2,2025-10-30
+Bareilly,Good,42,"PM , CO
+10",2/2,2025-10-31
+Bareilly,Satisfactory,74,"PM , CO
+10",2/2,2025-11-01
+Bareilly,Moderate,140,"PM , CO
+2.5",2/2,2025-11-02
+Bareilly,Moderate,114,"CO, PM
+10",2/2,2025-11-03
+Bareilly,Moderate,114,"PM
+10",2/2,2025-11-04
+Bareilly,Moderate,104,"PM
+10",2/2,2025-11-05
+Bareilly,Satisfactory,89,"PM
+10",1/2,2025-11-06
+Bareilly,Satisfactory,84,"PM
+10",2/2,2025-11-07
+Bareilly,Satisfactory,92,"CO, PM
+10",2/2,2025-11-08
+Bareilly,Satisfactory,92,"PM
+10",2/2,2025-11-09
+Bareilly,Satisfactory,82,"PM
+10",2/2,2025-11-10
+Bareilly,Satisfactory,78,"PM
+10",2/2,2025-11-11
+Bareilly,Satisfactory,82,"PM
+10",2/2,2025-11-12
+Bareilly,Satisfactory,90,"PM
+10",2/2,2025-11-13
+Bareilly,Moderate,101,"PM
+10",2/2,2025-11-14
+Bareilly,Satisfactory,92,"PM
+10",2/2,2025-11-15
+Bareilly,Satisfactory,80,"PM
+10",2/2,2025-11-16
+Bareilly,Satisfactory,84,"PM , CO
+10",2/2,2025-11-17
+Bareilly,Satisfactory,75,"PM
+10",2/2,2025-11-18
+Bareilly,Satisfactory,94,"PM
+10",1/2,2025-11-19
+Bareilly,Satisfactory,77,"CO, PM
+10",2/2,2025-11-20
+Bareilly,Poor,225,"O , PM
+3 10",2/2,2025-11-21
+Bareilly,Moderate,108,"CO, PM
+10",2/2,2025-11-22
+Bareilly,Moderate,118,"CO, PM
+10",2/2,2025-11-23
+Bareilly,Moderate,119,"CO, PM
+10",2/2,2025-11-24
+Bareilly,Moderate,108,"PM , CO
+10",2/2,2025-11-25
+Bareilly,Satisfactory,100,"PM , CO
+10",2/2,2025-11-26
+Bareilly,Satisfactory,82,"PM
+10",2/2,2025-11-27
+Bareilly,Satisfactory,76,"PM
+10",2/2,2025-11-28
+Bareilly,Satisfactory,79,"PM , CO
+10",2/2,2025-11-29
+Bareilly,Satisfactory,97,"O , PM
+3 10",2/2,2025-11-30
+Bareilly,Satisfactory,88,"PM
+10",2/2,2025-12-01
+Bareilly,Satisfactory,94,"PM , CO
+10",2/2,2025-12-02
+Bareilly,Satisfactory,92,"PM
+10",2/2,2025-12-03
+Bareilly,Satisfactory,89,"PM
+10",2/2,2025-12-04
+Bareilly,Satisfactory,94,"CO, PM
+10",2/2,2025-12-05
+Bareilly,Moderate,104,"PM
+10",2/2,2025-12-06
+Bareilly,Moderate,118,"PM
+10",2/2,2025-12-07
+Bareilly,Moderate,124,"PM
+10",2/2,2025-12-08
+Bareilly,Moderate,133,"O , PM
+3 10",2/2,2025-12-09
+Bareilly,Moderate,104,"PM
+10",2/2,2025-12-10
+Bareilly,Moderate,135,"PM
+10",2/2,2025-12-11
+Bareilly,Moderate,130,"PM , CO
+10",2/2,2025-12-12
+Bareilly,Moderate,113,"PM , CO
+10",2/2,2025-12-13
+Bareilly,Satisfactory,91,"PM
+10",2/2,2025-12-14
