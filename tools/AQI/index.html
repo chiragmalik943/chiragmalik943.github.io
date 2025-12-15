@@ -28,6 +28,9 @@
             --orange-500: #f97316;
             --red-500: #ef4444;
             --red-900: #7f1d1d;
+            
+            --day-box-size: 11px;
+            --day-box-gap: 3px;
         }
 
         * {
@@ -220,63 +223,24 @@
             color: var(--zinc-400);
         }
 
-        .info-box {
-            background-color: var(--zinc-900);
-            border-left: 4px solid var(--blue-600);
-            border-radius: 4px;
-            padding: 20px;
-            margin: 20px auto;
-            max-width: 700px;
+        .error-section ul {
             text-align: left;
+            max-width: 500px;
+            margin: 20px auto;
+            padding-left: 20px;
         }
 
-        .info-box h3 {
-            font-size: 14px;
-            font-weight: 600;
-            color: var(--blue-600);
-            margin-bottom: 12px;
+        .error-section li {
+            margin: 8px 0;
+            color: var(--zinc-300);
         }
 
-        .info-box p {
-            font-size: 13px;
-            color: var(--zinc-400);
-            margin-bottom: 10px;
-        }
-
-        .info-box code {
+        .error-section code {
             background: #0a0a0a;
             padding: 2px 6px;
             border-radius: 3px;
             color: var(--yellow-400);
             font-size: 12px;
-        }
-
-        .info-box pre {
-            background: #0a0a0a;
-            padding: 15px;
-            border-radius: 4px;
-            overflow-x: auto;
-            font-size: 12px;
-            margin: 10px 0;
-            border: 1px solid var(--zinc-800);
-        }
-
-        .city-selector {
-            background-color: var(--zinc-900);
-            border: 1px solid var(--zinc-800);
-            border-radius: 4px;
-            padding: 24px;
-            margin-bottom: 24px;
-        }
-
-        .city-selector label {
-            display: block;
-            font-size: 13px;
-            font-weight: 500;
-            color: var(--zinc-400);
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            margin-bottom: 12px;
         }
 
         .legend {
@@ -372,21 +336,6 @@
             animation: fadeIn 0.2s ease-out;
         }
 
-        .expanded-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 20px;
-            padding-bottom: 16px;
-            border-bottom: 1px solid var(--zinc-800);
-        }
-
-        .expanded-title {
-            font-size: 16px;
-            font-weight: 600;
-            color: var(--zinc-100);
-        }
-
         @keyframes fadeIn {
             from { opacity: 0; transform: translateY(-10px); }
             to { opacity: 1; transform: translateY(0); }
@@ -398,6 +347,7 @@
             background: var(--zinc-900);
             border-radius: 4px;
             border: 1px solid var(--zinc-800);
+            padding: 12px;
         }
 
         .github-calendar::-webkit-scrollbar {
@@ -406,7 +356,14 @@
 
         .calendar-wrapper {
             overflow-x: auto;
-            overflow-y: visible;
+            overflow-y: hidden;
+            width: 100%;
+        }
+
+        .calendar-header,
+        .calendar-body {
+            display: flex;
+            min-width: max-content;
         }
 
         .calendar-header {
@@ -426,20 +383,20 @@
 
         .calendar-body {
             display: flex;
-            gap: 3px;
+            gap: var(--day-box-gap);
         }
 
         .week-labels {
             display: flex;
             flex-direction: column;
-            gap: 3px;
+            gap: var(--day-box-gap);
             padding-right: 8px;
         }
 
         .week-label {
             font-size: 10px;
             color: var(--zinc-500);
-            height: 11px;
+            height: var(--day-box-size);
             display: flex;
             align-items: center;
             line-height: 1;
@@ -447,20 +404,21 @@
 
         .weeks-container {
             display: flex;
-            gap: 3px;
+            gap: var(--day-box-gap);
         }
 
         .week-column {
             display: flex;
+            flex: 0 0 var(--day-box-size);
             flex-direction: column;
-            gap: 3px;
-            width: 11px;
+            gap: var(--day-box-gap);
+            width: var(--day-box-size);
             flex-shrink: 0;
         }
 
         .day-box {
-            width: 11px;
-            height: 11px;
+            width: var(--day-box-size);
+            height: var(--day-box-size);
             border-radius: 2px;
             cursor: pointer;
             transition: all 0.15s;
@@ -473,7 +431,7 @@
             border-color: rgba(0, 0, 0, 0.2);
         }
 
-        .day-box:hover {
+        .day-box:hover, .day-box:focus {
             transform: scale(1.5);
             z-index: 10;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
@@ -606,9 +564,9 @@
             }
         }
 
-        /* Scrollbar styles */
         ::-webkit-scrollbar {
             width: 8px;
+            height: 8px;
         }
 
         ::-webkit-scrollbar-track {
@@ -636,19 +594,24 @@
         <div id="loadingSection" class="loading-section">
             <div class="loading-icon">⏳</div>
             <h3>Loading City Data</h3>
-            <p>Attempting to fetch data from Citywise_Data folder</p>
+            <p>Loaded 0 cities</p>
         </div>
 
         <div id="errorSection" class="error-section" style="display: none;">
             <div class="error-icon">⚠️</div>
             <h3>No Data Found</h3>
-            <p>Unable to load any city data.</p>
-
+            <p>Unable to load city data. Please ensure:</p>
+            <ul>
+                <li>CSV files are in the <code>Citywise_Data/</code> folder</li>
+                <li>Files are named correctly (e.g., <code>Delhi.csv</code>)</li>
+                <li>You're running this on a web server (not <code>file://</code>)</li>
+                <li>The CSV files have the required columns: <code>Date</code>, <code>Index Value</code>, <code>Air Quality</code></li>
+            </ul>
         </div>
 
        <div id="citySelector" class="hero-section" style="display: none;">
             <div class="hero-header">
-                <div class="city-name-display" id="cityNameDisplay">Delhi</div>
+                <div class="city-name-display" id="cityNameDisplay">Select a City</div>
                 <div class="city-selector-inline">
                     <label for="cityDropdown">City</label>
                     <select id="cityDropdown" class="city-dropdown-inline">
@@ -695,162 +658,50 @@
     </div>
 
     <script type="module">
-        let cityData = {};
-        let currentCity = '';
-        let expandedYear = null;
+        // ==========================================
+        // STATE MANAGEMENT
+        // ==========================================
+        const appState = {
+            cityData: {},
+            currentCity: null,
+            expandedYear: null,
+            eventListeners: new Map()
+        };
 
-        const cities = [
-            'Agra', 'Ahmedabad', 'Ambala', 'Amritsar', 'Baddi', 'Bengaluru', 'Bhopal', 'Bhubaneswar', 'Bikaner', 'Bikaner', 'Chandigarh', 'Chennai', 'Chhapra', 'Coimbtore', 'Dehradun', 'Delhi', 'Faridabad', 'Guwahati', 'Gwalior', 'Hisar', 'Hyderabad', 'Indore', 'Jaipur', 'Jodhpur', 'Kaithal', 'Kanpur', 'Karnal', 'Kolkata', 'Kota', 'Kurushketra', 'Lucknow', 'Ludhiana', 'Manglore', 'Madurai', 'Mumbai', 'Nagpur', 'Noida', 'Panipat', 'Panchkula', 'Patna', 'Pune', 'Rohtak', 'Sikar', 'Sirsa', 'Sonipat', 'Surat', 'Thane', 'Udupi', 'Vapi', 'Varanasi', 'Visakhapatnam', 'Yamunanagar'
-        ];
+        // ==========================================
+        // CONFIGURATION
+        // ==========================================
+        const CONFIG = {
+            cities: [
+                'Agra', 'Ahmedabad', 'Ambala', 'Amritsar', 'Baddi', 'Bengaluru', 
+                'Bhopal', 'Bhubaneswar', 'Bikaner', 'Chandigarh', 'Chennai', 
+                'Chhapra', 'Coimbtore', 'Dehradun', 'Delhi', 'Faridabad', 
+                'Guwahati', 'Gwalior', 'Hisar', 'Hyderabad', 'Indore', 'Jaipur', 
+                'Jodhpur', 'Kaithal', 'Kanpur', 'Karnal', 'Kolkata', 'Kota', 
+                'Kurushketra', 'Lucknow', 'Ludhiana', 'Manglore', 'Madurai', 
+                'Mumbai', 'Nagpur', 'Noida', 'Panipat', 'Panchkula', 'Patna', 
+                'Pune', 'Rohtak', 'Sikar', 'Sirsa', 'Sonipat', 'Surat', 'Thane', 
+                'Udupi', 'Vapi', 'Varanasi', 'Visakhapatnam', 'Yamunanagar'
+            ],
+            dataFolder: 'Citywise_Data'
+        };
 
-        window.addEventListener('load', function() {
-            loadCityData();
-        });
+        // ==========================================
+        // UTILITY FUNCTIONS
+        // ==========================================
 
-        function loadCityCSV(city, onProgress) {
-            return fetch(`Citywise_Data/${city}.csv`)
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error(`File not found: ${city}`);
-                    }
-                    return response.text();
-                })
-                .then(csvText => {
-                    return new Promise((resolve) => {
-                        Papa.parse(csvText, {
-                            header: true,
-                            dynamicTyping: true,
-                            skipEmptyLines: true,
-                            complete: (results) => {
-                                const parsedData = results.data
-                                    .map(row => ({
-                                        date: row.Date || row.date,
-                                        aqi: row['Index Value'] || row['index value'] || row.aqi,
-                                        quality: row['Air Quality'] || row['air quality'] || row.quality
-                                    }))
-                                    .filter(entry => entry.date && entry.aqi !== null && entry.aqi !== undefined);
-
-                                onProgress(city, parsedData.length > 0);
-                                resolve(parsedData.length > 0 ? parsedData : null);
-                            }
-                        });
-                    });
-                })
-                .catch(() => {
-                    onProgress(city, false);
-                    return null;
-                });
+        function sanitizeId(str) {
+            return String(str).replace(/[^a-zA-Z0-9-_]/g, '');
         }
 
-
-        async function loadCityData() {
-            const loadingSection = document.getElementById('loadingSection');
-            const errorSection = document.getElementById('errorSection');
-
-            // ✅ Force correct initial UI state
-            loadingSection.style.display = 'block';
-            errorSection.style.display = 'none';
-
-            const loadingTitle = loadingSection.querySelector('h3');
-            const loadingText = loadingSection.querySelector('p');
-
-            let loadedCount = 0;
-            let processedCount = 0;
-            const totalCities = cities.length;
-
-            loadingTitle.textContent = 'Loading City Data';
-            loadingText.textContent = `Loaded 0 / ${totalCities} cities`;
-
-            const onProgress = (city, success) => {
-                processedCount++;
-                if (success) loadedCount++;
-
-                loadingText.textContent = `Loaded ${loadedCount} / ${totalCities} cities — Processing ${city}`;
-            };
-
-            const promises = cities.map(city =>
-                loadCityCSV(city, onProgress)
-            );
-
-            const results = await Promise.all(promises);
-
-            results.forEach((data, index) => {
-                if (data) {
-                    cityData[cities[index]] = data;
-                }
-            });
-
+        function getAQIColor(aqi) {
+            if (aqi <= 50) return 'var(--green-500)';
+            if (aqi <= 100) return 'var(--lime-500)';
+            if (aqi <= 200) return 'var(--yellow-400)';
+            if (aqi <= 300) return 'var(--orange-500)';
+            if (aqi <= 400) return 'var(--red-500)';
+            return 'var(--red-900)';
         }
-
-        // Final UI state
-        document.getElementById('loadingSection').style.display = 'none';
-
-        const errorSection = document.getElementById('errorSection');
-
-        if (Object.keys(cityData).length > 0) {
-            errorSection.style.display = 'none'; // ✅ hide error on success
-            setupCitySelector();
-            console.log(`✅ Loaded ${Object.keys(cityData).length} cities`, Object.keys(cityData));
-        } else {
-            errorSection.style.display = 'block';
-        }
-
-
-            let successCount = 0;
-            let loadedCities = [];
-
-            for (const city of cities) {
-                try {
-                    const response = await fetch(`Citywise_Data/${city}.csv`);
-                    
-                    if (response.ok) {
-                        const csvText = await response.text();
-                        
-                        Papa.parse(csvText, {
-                            header: true,
-                            dynamicTyping: true,
-                            skipEmptyLines: true,
-                            complete: function(results) {
-                                if (results.data && results.data.length > 0) {
-                                    cityData[city] = results.data.map(row => ({
-                                        date: row.Date || row.date,
-                                        aqi: row['Index Value'] || row['index value'] || row.aqi,
-                                        quality: row['Air Quality'] || row['air quality'] || row.quality
-                                    })).filter(entry => entry.date && entry.aqi);
-                                    
-                                    if (cityData[city].length > 0) {
-                                        successCount++;
-                                        loadedCities.push(city);
-                                    }
-                                }
-                            }
-                        });
-                    }
-                } catch (error) {
-                    // Skip silently
-                }
-            }
-
-            setTimeout(() => {
-                if (successCount > 0) {
-                    document.getElementById('loadingSection').style.display = 'none';
-                    setupCitySelector();
-                    console.log(`✅ Successfully loaded ${successCount} cities:`, loadedCities);
-                } else {
-                    document.getElementById('loadingSection').style.display = 'none';
-                    document.getElementById('errorSection').style.display = 'block';
-                }
-            }, 1000);
-        
-
-            function getAQIColor(aqi) {
-                if (aqi <= 50) return 'var(--green-500)';
-                if (aqi <= 100) return 'var(--lime-500)';
-                if (aqi <= 200) return 'var(--yellow-400)';
-                if (aqi <= 300) return 'var(--orange-500)';
-                if (aqi <= 400) return 'var(--red-500)';
-                return 'var(--red-900)';
-            }
 
         function getAQICategory(aqi) {
             if (aqi <= 50) return 'Good';
@@ -861,12 +712,160 @@
             return 'Severe';
         }
 
+        function formatDate(dateStr) {
+            try {
+                const date = new Date(dateStr);
+                if (isNaN(date.getTime())) return 'Invalid Date';
+                return date.toLocaleDateString('en-US', { 
+                    month: 'short', 
+                    day: 'numeric', 
+                    year: 'numeric' 
+                });
+            } catch (e) {
+                console.error('Date formatting error:', e);
+                return 'Invalid Date';
+            }
+        }
+
+        function parseDataRow(row) {
+            try {
+                const date = (row.Date || row.date || '').trim();
+                const aqiRaw = row['Index Value'] ?? row['index value'] ?? row.aqi;
+                const quality = (row['Air Quality'] || row['air quality'] || row.quality || '').trim();
+
+                if (!date) return null;
+                const dateObj = new Date(date);
+                if (isNaN(dateObj.getTime())) return null;
+
+                if (aqiRaw == null || aqiRaw === '') return null;
+                const aqi = Number(aqiRaw);
+                if (isNaN(aqi) || aqi < 0) return null;
+
+                return {
+                    date,
+                    aqi,
+                    quality: quality || getAQICategory(aqi)
+                };
+            } catch (e) {
+                return null;
+            }
+        }
+
+        function calculateStats(data) {
+            const stats = {
+                '0-50': 0,
+                '51-100': 0,
+                '101-200': 0,
+                '201-300': 0,
+                '301-400': 0,
+                '401+': 0
+            };
+
+            data.forEach(entry => {
+                const aqi = entry.aqi;
+                if (aqi <= 50) stats['0-50']++;
+                else if (aqi <= 100) stats['51-100']++;
+                else if (aqi <= 200) stats['101-200']++;
+                else if (aqi <= 300) stats['201-300']++;
+                else if (aqi <= 400) stats['301-400']++;
+                else stats['401+']++;
+            });
+
+            return stats;
+        }
+
+        // ==========================================
+        // DATA LOADING
+        // ==========================================
+
+        function loadCityCSV(city, onProgress) {
+            return fetch(`${CONFIG.dataFolder}/${city}.csv`)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP ${response.status}`);
+                    }
+                    return response.text();
+                })
+                .then(csvText => {
+                    return new Promise((resolve) => {
+                        Papa.parse(csvText, {
+                            header: true,
+                            dynamicTyping: false,
+                            skipEmptyLines: true,
+                            complete: (results) => {
+                                const parsedData = results.data
+                                    .map(parseDataRow)
+                                    .filter(Boolean);
+
+                                const success = parsedData.length > 0;
+                                onProgress(city, success);
+                                resolve(success ? parsedData : null);
+                            },
+                            error: (error) => {
+                                onProgress(city, false);
+                                resolve(null);
+                            }
+                        });
+                    });
+                })
+                .catch(error => {
+                    onProgress(city, false);
+                    return null;
+                });
+        }
+
+        async function loadCityData() {
+            const loadingSection = document.getElementById('loadingSection');
+            const errorSection = document.getElementById('errorSection');
+            const loadingText = loadingSection.querySelector('p');
+
+            loadingSection.style.display = 'block';
+            errorSection.style.display = 'none';
+
+            let loadedCount = 0;
+            const totalCities = CONFIG.cities.length;
+
+            const onProgress = (city, success) => {
+                if (success) {
+                    loadedCount++;
+                    loadingText.textContent = `Loaded ${loadedCount} / ${totalCities} cities`;
+                }
+            };
+
+            try {
+                const promises = CONFIG.cities.map(city => loadCityCSV(city, onProgress));
+                const results = await Promise.all(promises);
+
+                results.forEach((data, index) => {
+                    if (data) {
+                        appState.cityData[CONFIG.cities[index]] = data;
+                    }
+                });
+
+                loadingSection.style.display = 'none';
+
+                if (Object.keys(appState.cityData).length > 0) {
+                    setupCitySelector();
+                } else {
+                    errorSection.style.display = 'block';
+                }
+            } catch (error) {
+                console.error('Error loading city data:', error);
+                loadingSection.style.display = 'none';
+                errorSection.style.display = 'block';
+            }
+        }
+
+        // ==========================================
+        // UI SETUP
+        // ==========================================
+
         function setupCitySelector() {
             const selector = document.getElementById('citySelector');
             const dropdown = document.getElementById('cityDropdown');
             
             dropdown.innerHTML = '<option value="">Choose a city...</option>';
-            Object.keys(cityData).sort().forEach(city => {
+            Object.keys(appState.cityData).sort().forEach(city => {
                 const option = document.createElement('option');
                 option.value = city;
                 option.textContent = city;
@@ -878,16 +877,16 @@
 
             dropdown.addEventListener('change', function() {
                 if (this.value) {
-                    currentCity = this.value;
-                    updateHeroSection(currentCity);
-                    visualizeCity(currentCity);
+                    appState.currentCity = this.value;
+                    updateHeroSection(this.value);
+                    visualizeCity(this.value);
                 }
             });
 
-            if (Object.keys(cityData).length > 0) {
-                const firstCity = Object.keys(cityData).sort()[0];
+            if (Object.keys(appState.cityData).length > 0) {
+                const firstCity = Object.keys(appState.cityData).sort()[0];
                 dropdown.value = firstCity;
-                currentCity = firstCity;
+                appState.currentCity = firstCity;
                 updateHeroSection(firstCity);
                 visualizeCity(firstCity);
             }
@@ -896,43 +895,44 @@
         function updateHeroSection(cityName) {
             document.getElementById('cityNameDisplay').textContent = cityName;
             
-            const data = cityData[cityName];
-            if (!data || data.length === 0) return;
+            const data = appState.cityData[cityName];
+            if (!data || data.length === 0) {
+                document.getElementById('heroStats').innerHTML = '<p style="color: var(--zinc-400)">No data available for this city</p>';
+                return;
+            }
             
-            // Sort data by date to find the most recent date in the dataset
             const sortedData = [...data].sort((a, b) => new Date(b.date) - new Date(a.date));
             const mostRecentDate = new Date(sortedData[0].date);
             
-            // Get past 365 days from the most recent date in the dataset
-            const oneYearAgo = new Date(mostRecentDate.getTime() - 365 * 24 * 60 * 60 * 1000);
+            const oneYearAgo = new Date(mostRecentDate);
+            oneYearAgo.setFullYear(oneYearAgo.getFullYear() - 1);
+            
             const past365Days = data.filter(entry => {
                 const entryDate = new Date(entry.date);
                 return entryDate >= oneYearAgo && entryDate <= mostRecentDate;
             });
             
-            // Calculate stats for past 365 days
             let totalAQI = 0;
             let goodDays = 0;
             let badDays = 0;
-            let highestAQI = { aqi: -Infinity, date: '' };
-            let lowestAQI = { aqi: Infinity, date: '' };
+            let highestAQI = null;
+            let lowestAQI = null;
             
             past365Days.forEach(entry => {
                 totalAQI += entry.aqi;
                 if (entry.aqi <= 100) goodDays++;
                 if (entry.aqi > 200) badDays++;
                 
-                if (entry.aqi > highestAQI.aqi) {
+                if (!highestAQI || entry.aqi > highestAQI.aqi) {
                     highestAQI = { aqi: entry.aqi, date: entry.date };
                 }
-                if (entry.aqi < lowestAQI.aqi) {
+                if (!lowestAQI || entry.aqi < lowestAQI.aqi) {
                     lowestAQI = { aqi: entry.aqi, date: entry.date };
                 }
             });
             
             const avgAQI = past365Days.length > 0 ? Math.round(totalAQI / past365Days.length) : 0;
             
-            // Find best year (lowest average AQI)
             const yearlyAverages = {};
             data.forEach(entry => {
                 const year = entry.date.split('-')[0];
@@ -949,19 +949,11 @@
                 }
             });
             
-            // Format dates
-            const formatDate = (dateStr) => {
-                const date = new Date(dateStr);
-                return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
-            };
+            const highestAQIDisplay = highestAQI ? highestAQI.aqi : 'N/A';
+            const lowestAQIDisplay = lowestAQI ? lowestAQI.aqi : 'N/A';
+            const highestDateDisplay = highestAQI ? formatDate(highestAQI.date) : 'No data';
+            const lowestDateDisplay = lowestAQI ? formatDate(lowestAQI.date) : 'No data';
             
-            // Handle cases where we don't have enough data
-            const highestAQIDisplay = highestAQI.aqi === -Infinity ? 'N/A' : highestAQI.aqi;
-            const lowestAQIDisplay = lowestAQI.aqi === Infinity ? 'N/A' : lowestAQI.aqi;
-            const highestDateDisplay = highestAQI.date ? formatDate(highestAQI.date) : 'No data';
-            const lowestDateDisplay = lowestAQI.date ? formatDate(lowestAQI.date) : 'No data';
-            
-            // Update hero stats
             const heroStats = document.getElementById('heroStats');
             heroStats.innerHTML = `
                 <div class="hero-stat-card">
@@ -990,13 +982,13 @@
                 
                 <div class="hero-stat-card">
                     <div class="hero-stat-label">Highest AQI (365d)</div>
-                    <div class="hero-stat-value" style="color: ${highestAQI.aqi !== -Infinity ? getAQIColor(highestAQI.aqi) : 'var(--zinc-500)'}">${highestAQIDisplay}</div>
+                    <div class="hero-stat-value" style="color: ${highestAQI ? getAQIColor(highestAQI.aqi) : 'var(--zinc-500)'}">${highestAQIDisplay}</div>
                     <div class="hero-stat-detail">${highestDateDisplay}</div>
                 </div>
                 
                 <div class="hero-stat-card">
                     <div class="hero-stat-label">Best AQI (365d)</div>
-                    <div class="hero-stat-value" style="color: ${lowestAQI.aqi !== Infinity ? getAQIColor(lowestAQI.aqi) : 'var(--zinc-500)'}">${lowestAQIDisplay}</div>
+                    <div class="hero-stat-value" style="color: ${lowestAQI ? getAQIColor(lowestAQI.aqi) : 'var(--zinc-500)'}">${lowestAQIDisplay}</div>
                     <div class="hero-stat-detail">${lowestDateDisplay}</div>
                 </div>
             `;
@@ -1006,9 +998,9 @@
             const viz = document.getElementById('visualization');
             viz.style.display = 'block';
             viz.innerHTML = '';
-            expandedYear = null;
+            appState.expandedYear = null;
 
-            const data = cityData[cityName];
+            const data = appState.cityData[cityName];
             const yearlyData = {};
 
             data.forEach(entry => {
@@ -1022,29 +1014,32 @@
             years.forEach(year => {
                 const yearDiv = document.createElement('div');
                 yearDiv.className = 'year-row';
-                yearDiv.innerHTML = `
-                    <div class="year-label">${year}</div>
-                    <div class="year-bar" id="year-${year}"></div>
-                `;
+                
+                const yearLabel = document.createElement('div');
+                yearLabel.className = 'year-label';
+                yearLabel.textContent = year;
+                
+                const yearBar = document.createElement('div');
+                yearBar.className = 'year-bar';
+                yearBar.id = `year-${sanitizeId(year)}`;
+                
+                yearDiv.appendChild(yearLabel);
+                yearDiv.appendChild(yearBar);
                 viz.appendChild(yearDiv);
 
-                const yearBar = yearDiv.querySelector('.year-bar');
                 const yearData = yearlyData[year].sort((a, b) => 
                     new Date(a.date) - new Date(b.date)
                 );
 
-                // Create a complete year with all dates
                 const yearStart = new Date(`${year}-01-01`);
                 const yearEnd = new Date(`${year}-12-31`);
                 const totalDays = Math.ceil((yearEnd - yearStart) / (24 * 60 * 60 * 1000)) + 1;
 
-                // Create a map for quick lookup
                 const dataMap = {};
                 yearData.forEach(day => {
                     dataMap[day.date] = day;
                 });
 
-                // Generate all days of the year
                 for (let i = 0; i < totalDays; i++) {
                     const currentDate = new Date(yearStart);
                     currentDate.setDate(currentDate.getDate() + i);
@@ -1063,52 +1058,53 @@
                     yearBar.appendChild(cell);
                 }
 
-                yearDiv.addEventListener('click', () => expandYear(year, yearData));
+                yearDiv.addEventListener('click', () => expandYear(year, yearData, yearDiv));
             });
         }
 
-        function expandYear(year, data) {
-            if (expandedYear === year) {
-                const expandedView = document.getElementById(`expanded-${year}`);
-                if (expandedView) expandedView.remove();
-                expandedYear = null;
+        function expandYear(year, data, yearRow) {
+            const sanitizedYear = sanitizeId(year);
+            const expandedId = `expanded-${sanitizedYear}`;
+            
+            if (appState.expandedYear === year) {
+                const expandedView = document.getElementById(expandedId);
+                if (expandedView) {
+                    expandedView.remove();
+                }
+                appState.expandedYear = null;
                 return;
             }
 
-            if (expandedYear) {
-                const prevExpanded = document.getElementById(`expanded-${expandedYear}`);
-                if (prevExpanded) prevExpanded.remove();
+            if (appState.expandedYear) {
+                const prevExpandedId = `expanded-${sanitizeId(appState.expandedYear)}`;
+                const prevExpanded = document.getElementById(prevExpandedId);
+                if (prevExpanded) {
+                    prevExpanded.remove();
+                }
             }
 
-            expandedYear = year;
+            appState.expandedYear = year;
 
-            const yearRow = document.getElementById(`year-${year}`).parentElement;
             const expandedDiv = document.createElement('div');
-            expandedDiv.id = `expanded-${year}`;
+            expandedDiv.id = expandedId;
             expandedDiv.className = 'expanded-view';
 
-            // Create a map of all dates in the year
             const dateMap = {};
             data.forEach(entry => {
                 dateMap[entry.date] = entry;
             });
 
-            // Build GitHub-style calendar
             const startDate = new Date(`${year}-01-01`);
             const endDate = new Date(`${year}-12-31`);
             
-            // Find the first Sunday on or before Jan 1
             const firstDay = new Date(startDate);
             firstDay.setDate(firstDay.getDate() - firstDay.getDay());
 
-            // Build calendar structure
-            let calendarHTML = '<div class="github-calendar">';
+            let calendarHTML = '<div class="github-calendar"><div class="calendar-wrapper">';
             
-            // Month headers
             calendarHTML += '<div class="calendar-header">';
             const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
             let currentMonth = -1;
-            let currentDate = new Date(firstDay);
             const weekCount = Math.ceil((endDate - firstDay) / (7 * 24 * 60 * 60 * 1000));
             
             for (let week = 0; week < weekCount; week++) {
@@ -1125,10 +1121,8 @@
             }
             calendarHTML += '</div>';
 
-            // Calendar body
             calendarHTML += '<div class="calendar-body">';
             
-            // Week day labels
             calendarHTML += '<div class="week-labels">';
             calendarHTML += '<div class="week-label"></div>';
             calendarHTML += '<div class="week-label">Mon</div>';
@@ -1139,10 +1133,9 @@
             calendarHTML += '<div class="week-label"></div>';
             calendarHTML += '</div>';
 
-            // Weeks
             calendarHTML += '<div class="weeks-container">';
             
-            currentDate = new Date(firstDay);
+            let currentDate = new Date(firstDay);
             while (currentDate <= endDate || currentDate.getDay() !== 0) {
                 calendarHTML += '<div class="week-column">';
                 
@@ -1154,13 +1147,14 @@
                         if (entry) {
                             const color = getAQIColor(entry.aqi);
                             calendarHTML += `
-                                <div class="day-box has-data" 
-                                     style="background-color: ${color}"
-                                     data-date="${dateStr}"
-                                     data-aqi="${entry.aqi}"
-                                     data-quality="${entry.quality}"
-                                     onmouseenter="showTooltip(event, this)"
-                                     onmouseleave="hideTooltip()">
+                                <div class="day-box has-data"
+                                    style="background-color: ${color}"
+                                    data-date="${dateStr}"
+                                    data-aqi="${entry.aqi}"
+                                    data-quality="${entry.quality}"
+                                    tabindex="0"
+                                    role="button"
+                                    aria-label="AQI ${entry.aqi} on ${dateStr}">
                                 </div>
                             `;
                         } else {
@@ -1178,9 +1172,7 @@
                 if (currentDate > endDate && currentDate.getDay() === 0) break;
             }
             
-            calendarHTML += '</div>'; // weeks-container
-            calendarHTML += '</div>'; // calendar-body
-            calendarHTML += '</div>'; // github-calendar
+            calendarHTML += '</div></div></div></div>';
 
             const stats = calculateStats(data);
             calendarHTML += `
@@ -1210,60 +1202,124 @@
                         <div class="stat-value" style="color: var(--red-900);">${stats['401+']}</div>
                     </div>
                 </div>
-                <button class="close-btn" onclick="document.getElementById('expanded-${year}').remove(); expandedYear = null;">Close Expanded View</button>
             `;
 
             expandedDiv.innerHTML = calendarHTML;
-            yearRow.parentNode.insertBefore(expandedDiv, yearRow.nextSibling);
-        }
-
-        function calculateStats(data) {
-            const stats = {
-                '0-50': 0,
-                '51-100': 0,
-                '101-200': 0,
-                '201-300': 0,
-                '301-400': 0,
-                '401+': 0
-            };
-
-            data.forEach(entry => {
-                const aqi = entry.aqi;
-                if (aqi <= 50) stats['0-50']++;
-                else if (aqi <= 100) stats['51-100']++;
-                else if (aqi <= 200) stats['101-200']++;
-                else if (aqi <= 300) stats['201-300']++;
-                else if (aqi <= 400) stats['301-400']++;
-                else stats['401+']++;
+            
+            const closeBtn = document.createElement('button');
+            closeBtn.className = 'close-btn';
+            closeBtn.textContent = 'Close Expanded View';
+            closeBtn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                expandedDiv.remove();
+                appState.expandedYear = null;
             });
-
-            return stats;
+            expandedDiv.appendChild(closeBtn);
+            
+            yearRow.parentNode.insertBefore(expandedDiv, yearRow.nextSibling);
+            
+            attachDayBoxListeners(expandedDiv);
         }
 
         function showTooltip(event, element) {
             const tooltip = document.getElementById('tooltip');
+
             const date = element.dataset.date;
             const aqi = element.dataset.aqi;
             const quality = element.dataset.quality;
 
             tooltip.innerHTML = `
-                <div class="tooltip-date">${new Date(date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</div>
+                <div class="tooltip-date">${formatDate(date)}</div>
                 <div class="tooltip-aqi">AQI: <strong>${aqi}</strong></div>
-                <div class="tooltip-quality" style="color: ${getAQIColor(parseInt(aqi))};">${quality}</div>
+                <div class="tooltip-quality" style="color: ${getAQIColor(+aqi)};">
+                    ${quality}
+                </div>
             `;
 
-            // Use clientX/clientY instead of pageX/pageY for fixed positioning
-            tooltip.style.left = (event.clientX + 15) + 'px';
-            tooltip.style.top = (event.clientY + 15) + 'px';
             tooltip.classList.add('show');
+
+            const padding = 12;
+            const tooltipRect = tooltip.getBoundingClientRect();
+            let x = event.clientX + 15;
+            let y = event.clientY + 15;
+
+            if (x + tooltipRect.width > window.innerWidth) {
+                x = event.clientX - tooltipRect.width - padding;
+            }
+            if (y + tooltipRect.height > window.innerHeight) {
+                y = event.clientY - tooltipRect.height - padding;
+            }
+
+            tooltip.style.left = `${x}px`;
+            tooltip.style.top = `${y}px`;
         }
 
         function hideTooltip() {
             document.getElementById('tooltip').classList.remove('show');
         }
 
-        window.showTooltip = showTooltip;
-        window.hideTooltip = hideTooltip;
+        function attachDayBoxListeners(container) {
+            container.querySelectorAll('.day-box.has-data').forEach(box => {
+                box.addEventListener('mouseenter', e => showTooltip(e, box));
+                box.addEventListener('mouseleave', hideTooltip);
+                box.addEventListener('mousemove', e => {
+                    const tooltip = document.getElementById('tooltip');
+                    if (tooltip.classList.contains('show')) {
+                        const padding = 12;
+                        const tooltipRect = tooltip.getBoundingClientRect();
+                        let x = e.clientX + 15;
+                        let y = e.clientY + 15;
+
+                        if (x + tooltipRect.width > window.innerWidth) {
+                            x = e.clientX - tooltipRect.width - padding;
+                        }
+                        if (y + tooltipRect.height > window.innerHeight) {
+                            y = e.clientY - tooltipRect.height - padding;
+                        }
+
+                        tooltip.style.left = `${x}px`;
+                        tooltip.style.top = `${y}px`;
+                    }
+                });
+
+                box.addEventListener('focus', e => {
+                    const rect = box.getBoundingClientRect();
+                    showTooltip(
+                        { clientX: rect.left + rect.width / 2, clientY: rect.top },
+                        box
+                    );
+                });
+
+                box.addEventListener('blur', hideTooltip);
+
+                box.addEventListener('keydown', e => {
+                    if (e.key === 'Enter' || e.key === ' ') {
+                        e.preventDefault();
+                        const rect = box.getBoundingClientRect();
+                        showTooltip(
+                            { clientX: rect.left + rect.width / 2, clientY: rect.top },
+                            box
+                        );
+                    }
+                });
+
+                box.addEventListener('touchstart', e => {
+                    e.preventDefault();
+                    const touch = e.touches[0];
+                    showTooltip(
+                        { clientX: touch.clientX, clientY: touch.clientY },
+                        box
+                    );
+                });
+
+                box.addEventListener('touchend', hideTooltip);
+            });
+        }
+
+        // ==========================================
+        // INITIALIZATION
+        // ==========================================
+        window.addEventListener('load', loadCityData);
     </script>
 </body>
 </html>
