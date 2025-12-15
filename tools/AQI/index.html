@@ -379,6 +379,7 @@
             text-align: left;
             width: 14px;
             flex-shrink: 0;
+            overflow: hidden;
         }
 
         .calendar-body {
@@ -532,8 +533,14 @@
             }
 
             .month-label {
-                font-size: 10px;
-                min-width: 40px;
+                font-size: 9px;
+                width: calc(var(--day-box-size) + var(--day-box-gap));
+                min-width: unset;
+            }
+            
+            :root {
+                --day-box-size: 10px;
+                --day-box-gap: 2px;
             }
 
             .day-box {
@@ -1105,7 +1112,7 @@
             calendarHTML += '<div class="calendar-header">';
             const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
             let currentMonth = -1;
-            const weekCount = Math.ceil((endDate - firstDay) / (7 * 24 * 60 * 60 * 1000));
+            const weekCount = Math.ceil((endDate - firstDay) / (7 * 24 * 60 * 60 * 1000)) + 1;
             
             for (let week = 0; week < weekCount; week++) {
                 const weekDate = new Date(firstDay);
@@ -1116,7 +1123,7 @@
                     currentMonth = month;
                     calendarHTML += `<div class="month-label">${months[month]}</div>`;
                 } else {
-                    calendarHTML += '<div class="month-label"></div>';
+                    calendarHTML += '<div class="month-label" style="visibility: hidden;">-</div>';
                 }
             }
             calendarHTML += '</div>';
