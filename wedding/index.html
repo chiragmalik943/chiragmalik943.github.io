@@ -60,13 +60,12 @@
         background-image: url("images/building4.png");
         background-size: auto;
         background-repeat: no-repeat;
-        background-position: bottom center;
+        background-position: center 62%;
         z-index: 1;
       }
 
       .lantern {
         position: fixed;
-        background-image: url("https://framerusercontent.com/images/DdFrH1xuj9wKnCb1V2cCwhyUujQ.png?width=240&height=382");
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
@@ -550,6 +549,14 @@
         opacity: 1 !important;
         transform: translateY(0) !important;
       }
+
+      @media (max-width: 500px) {
+        .bg-building {
+          background-position-x: 30%;
+          background-size: 450%;
+          background-position-y: 56%;
+        }
+      }
     </style>
   </head>
   <body>
@@ -573,7 +580,7 @@
 
       <div class="ganesha-container animate-on-scroll">
         <img
-          src="images/ganesh.svg"
+          src="images/ganesh.svg  "
           alt="Ganesha"
           class="ganesha"
         />
